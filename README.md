@@ -5,10 +5,17 @@ Each folder contains three files:
 - meta.json: associated information
 - meta.yaml: associated information in human-friendly format
 
+
+
 ## GitHub API
-**folders** https://api.github.com/repos/OpenDataCollection/AdminAreas/contents/data/
-**files** https://raw.githubusercontent.com/OpenDataCollection/AdminAreas/master/data/DE/BY/geo.json
+
+### Folders
+https://api.github.com/repos/OpenDataCollection/AdminAreas/contents/data/
+
+### Files 
+https://raw.githubusercontent.com/OpenDataCollection/AdminAreas/master/data/DE/BY/geo.json
 
 
 
-
+## Data Source
+https://www.naturalearthdata.com/features/
