@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5314
+DISS_ME: 5314
+ISO_3166_2: FR-41
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Loir-et-Cher
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.LC
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre
+REGION_COD: FR-F
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 12
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA3
+FIPS_ALT: null
+WOE_ID: 12597147
+WOE_LABEL: null
+WOE_NAME: Loir-et-Cher
+LATITUDE: 47.5484
+LONGITUDE: 1.59234
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2997856
+GN_NAME: Departement du Loir-et-Cher
+GNS_ID: -1447551
+GNS_NAME: Loir-et-Cher, Departement de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA3
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12564
+NAME_AR: لوار وشير
+NAME_BN: লয়ের-এত-চের
+NAME_DE: Département Loir-et-Cher
+NAME_EN: Loir-et-Cher
+NAME_ES: Loir y Cher
+NAME_FR: Loir-et-Cher
+NAME_EL: Λουάρ-ε-Σερ
+NAME_HI: लोइर-एट-चेर
+NAME_HU: Loir-et-Cher
+NAME_ID: Loir-et-Cher
+NAME_IT: Loir-et-Cher
+NAME_JA: ロワール＝エ＝シェール県
+NAME_KO: 루아르에셰르 주
+NAME_NL: Loir-et-Cher
+NAME_PL: Loir-et-Cher
+NAME_PT: Loir-et-Cher
+NAME_RU: Луар и Шер
+NAME_SV: Loir-et-Cher
+NAME_TR: Loir-et-Cher
+NAME_VI: Loir-et-Cher
+NAME_ZH: 卢瓦尔-谢尔省
+NE_ID: 1159313561

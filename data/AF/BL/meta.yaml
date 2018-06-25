@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1766
+DISS_ME: 1766
+ISO_3166_2: AF-BGL
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Baghlan
+NAME_ALT: Baglan|Bughlan
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF03
+FIPS_ALT: null
+WOE_ID: 2344551
+WOE_LABEL: Baghlan, AF, Afghanistan
+WOE_NAME: Baghlan
+LATITUDE: 35.8588
+LONGITUDE: 68.9831
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1147537
+GN_NAME: Wilayat-e Baghlan
+GNS_ID: -3369771
+GNS_NAME: Baghlan, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF03
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q170309
+NAME_AR: ولاية بغلان
+NAME_BN: বাগলন প্রদেশ
+NAME_DE: Baglan
+NAME_EN: Baghlan
+NAME_ES: Provincia de Baghlan
+NAME_FR: Baghlân
+NAME_EL: Μπαγκλάν
+NAME_HI: बग़लान प्रान्त
+NAME_HU: Baglán tartomány
+NAME_ID: Provinsi Baghlan
+NAME_IT: Baghlan
+NAME_JA: バグラーン州
+NAME_KO: 바글란 주
+NAME_NL: Baghlan
+NAME_PL: Baghlan
+NAME_PT: Baghlan
+NAME_RU: Баглан
+NAME_SV: Baghlan
+NAME_TR: Baglan Vilayeti
+NAME_VI: Baghlan
+NAME_ZH: 巴格兰省
+NE_ID: 1159312089

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-2649
+DISS_ME: 2649
+ISO_3166_2: BW-SO
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: Southern
+NAME_ALT: Borwa|Ngwakets|Ngwaketse
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC10
+CODE_HASC: BW.SN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.SO
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC10
+FIPS_ALT: null
+WOE_ID: 2344750
+WOE_LABEL: Southern, BW, Botswana
+WOE_NAME: Southern
+LATITUDE: -25.0004
+LONGITUDE: 24.3683
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933043
+GN_NAME: Southern District
+GNS_ID: -1398119
+GNS_NAME: Southern
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.10
+REGION_SUB: Southern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC10
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57609
+NAME_AR: المقاطعة الجنوبية
+NAME_BN: সাউদার্ন জেলা
+NAME_DE: Southern District
+NAME_EN: Southern District
+NAME_ES: Distrito Sur
+NAME_FR: District du Sud
+NAME_EL: Νότια Περιφέρεια
+NAME_HI: दक्षिणी जिला
+NAME_HU: null
+NAME_ID: Distrik Selatan
+NAME_IT: distretto Meridionale
+NAME_JA: サザン地区
+NAME_KO: 남부 구
+NAME_NL: Southern
+NAME_PL: Dystrykt Południowy
+NAME_PT: Distrito do Sul
+NAME_RU: Южный округ
+NAME_SV: Southern
+NAME_TR: Güney Bölgesi
+NAME_VI: Quận Miền Nam
+NAME_ZH: 南部區
+NE_ID: 1159313291

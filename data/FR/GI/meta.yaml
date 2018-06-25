@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5295
+DISS_ME: 5295
+ISO_3166_2: FR-33
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Gironde
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.GI
+NOTE: null
+HASC_MAYBE: null
+REGION: Aquitaine
+REGION_COD: FR-B
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FR97
+FIPS_ALT: null
+WOE_ID: 12597132
+WOE_LABEL: null
+WOE_NAME: Gironde
+LATITUDE: 44.7339
+LONGITUDE: -0.515546
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3015948
+GN_NAME: Departement de la Gironde
+GNS_ID: -1429422
+GNS_NAME: Gironde, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.33
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FR97
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12526
+NAME_AR: جيروند
+NAME_BN: গিরন্ড
+NAME_DE: Département Gironde
+NAME_EN: Gironde
+NAME_ES: Gironda
+NAME_FR: Gironde
+NAME_EL: Ζιρόντ
+NAME_HI: गिरोंदे
+NAME_HU: Gironde
+NAME_ID: Gironde
+NAME_IT: Gironda
+NAME_JA: ジロンド県
+NAME_KO: 지롱드 주
+NAME_NL: Gironde
+NAME_PL: Żyronda
+NAME_PT: Gironda
+NAME_RU: Жиронда
+NAME_SV: Gironde
+NAME_TR: Gironde
+NAME_VI: Gironde
+NAME_ZH: 吉倫特省
+NE_ID: 1159316895

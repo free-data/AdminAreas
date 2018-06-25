@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5111
+DISS_ME: 5111
+ISO_3166_2: KN-13
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Thomas Middle Island
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.TM
+NOTE: null
+HASC_MAYBE: null
+REGION: Saint Kitts
+REGION_COD: KN-K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: TMI
+POSTAL: TM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 26
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC13
+FIPS_ALT: null
+WOE_ID: 2346976
+WOE_LABEL: Saint Thomas Middle Island, KN, Saint Kitts and Nevis
+WOE_NAME: Saint Thomas Middle Island
+LATITUDE: 17.3279
+LONGITUDE: -62.7943
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575164
+GN_NAME: Saint Thomas Middle Island
+GNS_ID: -1359330
+GNS_NAME: Saint Thomas Middle Island
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC13
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1752101
+NAME_AR: أبرشية جزيرة القديس توماس الوسطى
+NAME_BN: সেন্ট থমাস মিডল দ্বীপ প্যারিশ
+NAME_DE: Saint Thomas Middle Island
+NAME_EN: Saint Thomas Middle Island Parish
+NAME_ES: Parroquia de Saint Thomas Middle Island
+NAME_FR: Saint-Thomas Middle Island
+NAME_EL: Σεντ Τόμας Μίντλ Άϊλαντ
+NAME_HI: सेंट थॉमस मिडल आइलैंड पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Thomas Middle Island
+NAME_IT: parrocchia di Saint Thomas Middle Island
+NAME_JA: セント・トーマス・ミドル・アイランド教区
+NAME_KO: 세인트토머스미들아일랜드 교구
+NAME_NL: Saint Thomas Middle Island
+NAME_PL: Saint Thomas Middle Island
+NAME_PT: Saint Thomas Middle Island
+NAME_RU: Сент-Томас-Мидл-Айленд
+NAME_SV: Saint Thomas Middle Island
+NAME_TR: Saint Thomas Middle Island
+NAME_VI: Giáo xứ Saint Thomas Middle Island
+NAME_ZH: 聖托馬斯米德艾蘭區
+NE_ID: 1159316435

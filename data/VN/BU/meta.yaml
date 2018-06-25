@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-496
+DISS_ME: 496
+ISO_3166_2: VN-40
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 5
+NAME: Bình Thuận
+NAME_ALT: Binh Thuan
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.BU
+NOTE: null
+HASC_MAYBE: null
+REGION: Đông Nam Bộ
+REGION_COD: VNM-BTN
+PROVNUM_NE: 1
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM47
+FIPS_ALT: null
+WOE_ID: 2347731
+WOE_LABEL: Binh Thuan, VN, Vietnam
+WOE_NAME: Bình Thuận
+LATITUDE: 11.1284
+LONGITUDE: 108.232
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1581882
+GN_NAME: Tinh Binh Thuan
+GNS_ID: -3714240
+GNS_NAME: Binh Thuan, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.47
+REGION_SUB: null
+SUB_CODE: VM55
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: VM47
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36869
+NAME_AR: مقاطعة بنه ثوان
+NAME_BN: হাবিহ্ন থুয়ান
+NAME_DE: Bình Thuận
+NAME_EN: Binh Thuan
+NAME_ES: Bình Thuận
+NAME_FR: Bình Thuận
+NAME_EL: Μπινχ Θουάν
+NAME_HI: बिन्ह थुआन
+NAME_HU: null
+NAME_ID: Provinsi Binh Thuan
+NAME_IT: provincia di Binh Thuan
+NAME_JA: ビントゥアン省
+NAME_KO: 빈투언 성
+NAME_NL: Bình Thuận
+NAME_PL: Prowincja Bình Thuận
+NAME_PT: Binh Thuan
+NAME_RU: Биньтхуан
+NAME_SV: Binh Thuan
+NAME_TR: Binh Thuan
+NAME_VI: Bình Thuận
+NAME_ZH: 平順省
+NE_ID: 1159308035

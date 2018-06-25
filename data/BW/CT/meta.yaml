@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-2630
+DISS_ME: 2630
+ISO_3166_2: BW-CE
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: Central
+NAME_ALT: Centre|Ngwato|Serowe-Palapye
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC01
+CODE_HASC: BW.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.CE
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC01
+FIPS_ALT: BC08
+WOE_ID: 2344741
+WOE_LABEL: Central, BW, Botswana
+WOE_NAME: Central
+LATITUDE: -21.8775
+LONGITUDE: 26.6144
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933851
+GN_NAME: Central District
+GNS_ID: -1397293
+GNS_NAME: Central
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.01
+REGION_SUB: Central
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC01
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57525
+NAME_AR: المقاطعة المركزية
+NAME_BN: সেন্ট্রাল জেলা
+NAME_DE: Central District
+NAME_EN: Central District
+NAME_ES: Distrito Central
+NAME_FR: District Central
+NAME_EL: Κεντρική Περιφέρεια
+NAME_HI: मध्य जिला
+NAME_HU: null
+NAME_ID: Distrik Central
+NAME_IT: distretto Centrale
+NAME_JA: セントラル地区
+NAME_KO: 중부 구
+NAME_NL: Central
+NAME_PL: Dystrykt Centralny
+NAME_PT: Central
+NAME_RU: Центральный округ
+NAME_SV: Central
+NAME_TR: Merkez Bölgesi
+NAME_VI: Quận Miền Trung
+NAME_ZH: 中部區
+NE_ID: 1159313281

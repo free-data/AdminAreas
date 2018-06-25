@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SLB-1262
+DISS_ME: 1262
+ISO_3166_2: SB-CE
+WIKIPEDIA: null
+ISO_A2: SB
+ADM0_SR: 4
+NAME: Central
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SB.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: GC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: BP10
+FIPS_ALT: BP06
+WOE_ID: 2344838
+WOE_LABEL: Central, SB, Solomon Islands
+WOE_NAME: Central
+LATITUDE: -9.14003
+LONGITUDE: 159.825
+SOV_A3: SLB
+ADM0_A3: SLB
+ADM0_LABEL: 5
+ADMIN: Solomon Islands
+GEONUNIT: Solomon Islands
+GU_A3: SLB
+GN_ID: 2109495
+GN_NAME: Central Province
+GNS_ID: -1545166
+GNS_NAME: Central
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SB.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BP10
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q293722
+NAME_AR: المقاطعة الوسطى
+NAME_BN: সেন্ট্রাল প্রদেশ
+NAME_DE: Central
+NAME_EN: Central Province
+NAME_ES: Provincia Central
+NAME_FR: Province centrale
+NAME_EL: Κεντρική Επαρχία
+NAME_HI: केंद्रीय प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Tengah
+NAME_IT: provincia Centrale
+NAME_JA: 中央州
+NAME_KO: 중부 주
+NAME_NL: Central
+NAME_PL: Prowincja Centralna
+NAME_PT: Província Central
+NAME_RU: Центральная провинция
+NAME_SV: Centrala provinsen
+NAME_TR: Central Province
+NAME_VI: Tỉnh Miền Trung
+NAME_ZH: 中部群島省
+NE_ID: 1159309861

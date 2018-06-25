@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5687
+DISS_ME: 5687
+ISO_3166_2: GB-SHF
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Sheffield
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.SV
+NOTE: null
+HASC_MAYBE: null
+REGION: Yorkshire and the Humber
+REGION_COD: GB.SY
+PROVNUM_NE: 20043
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: S Yorksh
+POSTAL: SY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKL9
+FIPS_ALT: null
+WOE_ID: -12602196
+WOE_LABEL: null
+WOE_NAME: South Yorkshire
+LATITUDE: 53.4087
+LONGITUDE: -1.57387
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333193
+GN_NAME: City and Borough of Sheffield
+GNS_ID: 6077635
+GNS_NAME: Sheffield, City and Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.L9
+REGION_SUB: South Yorkshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q42448
+NAME_AR: شفيلد
+NAME_BN: শেফিল্ড
+NAME_DE: Sheffield
+NAME_EN: Sheffield
+NAME_ES: Sheffield
+NAME_FR: Sheffield
+NAME_EL: Σέφιλντ
+NAME_HI: शेफ़ील्ड
+NAME_HU: Sheffield
+NAME_ID: Sheffield
+NAME_IT: Sheffield
+NAME_JA: シェフィールド
+NAME_KO: 셰필드
+NAME_NL: Sheffield
+NAME_PL: Sheffield
+NAME_PT: Sheffield
+NAME_RU: Шеффилд
+NAME_SV: Sheffield
+NAME_TR: Sheffield
+NAME_VI: Sheffield
+NAME_ZH: 谢菲尔德
+NE_ID: 1159317521

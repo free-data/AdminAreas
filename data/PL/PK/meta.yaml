@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: POL-3152
+DISS_ME: 3152
+ISO_3166_2: PL-PK
+WIKIPEDIA: null
+ISO_A2: PL
+ADM0_SR: 1
+NAME: Subcarpathian
+NAME_ALT: Podkarpackie
+NAME_LOCAL: null
+TYPE: Województwo
+TYPE_EN: Voivodeship|Province
+CODE_LOCAL: null
+CODE_HASC: PL.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: PL80
+FIPS_ALT: PL80
+WOE_ID: 12577943
+WOE_LABEL: Subcarpathia, PL, Poland
+WOE_NAME: Subcarpathian
+LATITUDE: 49.8555
+LONGITUDE: 22.4341
+SOV_A3: POL
+ADM0_A3: POL
+ADM0_LABEL: 2
+ADMIN: Poland
+GEONUNIT: Poland
+GU_A3: POL
+GN_ID: 858788
+GN_NAME: Wojewodztwo Podkarpackie
+GNS_ID: 9007886
+GNS_NAME: Podkarpackie, Wojewodztwo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PL.80
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: PL80
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q54175
+NAME_AR: محافظة بودكارباتسكي
+NAME_BN: পোডকারপ্যাকি ভয়ভোডেশিপ
+NAME_DE: Woiwodschaft Karpatenvorland
+NAME_EN: Podkarpackie Voivodeship
+NAME_ES: Voivodato de Subcarpacia
+NAME_FR: Basses-Carpates
+NAME_EL: Ποντκαρπάκιε
+NAME_HI: पॉडकारपैकी वोइवोडीशिप
+NAME_HU: Kárpátaljai vajdaság
+NAME_ID: Provinsi Podkarpacie
+NAME_IT: voivodato della Precarpazia
+NAME_JA: ポトカルパチェ県
+NAME_KO: 포드카르파츠키에 주
+NAME_NL: Woiwodschap Subkarpaten
+NAME_PL: województwo podkarpackie
+NAME_PT: Voivodia da Subcarpácia
+NAME_RU: Подкарпатское воеводство
+NAME_SV: Nedre Karpaternas vojvodskap
+NAME_TR: Alt Karpatya Voyvodalığı
+NAME_VI: Podkarpackie
+NAME_ZH: 喀尔巴阡山省
+NE_ID: 1159314703

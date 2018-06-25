@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-134
+DISS_ME: 134
+ISO_3166_2: SY-LA
+WIKIPEDIA: null
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Lattakia
+NAME_ALT: Latakia|Al Ladhiqiyah|El Ladhiqiya|Lattakia|Lattakieh|Lattikia|Lattaquie
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY02
+FIPS_ALT: null
+WOE_ID: 2347070
+WOE_LABEL: Al Ladhiqiyah, SY, Syria
+WOE_NAME: Lattakia (Al Ladhiqiyah)
+LATITUDE: 35.5494
+LONGITUDE: 36.0061
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 173578
+GN_NAME: Muhafazat al Ladhiqiyah
+GNS_ID: -2538323
+GNS_NAME: Ladhiqiyah, Muhafazat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY02
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q233236
+NAME_AR: محافظة اللاذقية
+NAME_BN: null
+NAME_DE: Gouvernement Latakia
+NAME_EN: Latakia Governorate
+NAME_ES: Gobernación de Latakia
+NAME_FR: Gouvernorat de Lattaquié
+NAME_EL: Λατάκεια
+NAME_HI: लातक़िया प्रान्त
+NAME_HU: Latakia kormányzóság
+NAME_ID: Kegubernuran Latakia
+NAME_IT: governatorato di Latakia
+NAME_JA: ラタキア県
+NAME_KO: 라타키아 주
+NAME_NL: Latakia
+NAME_PL: Latakia
+NAME_PT: Latakia
+NAME_RU: Латакия
+NAME_SV: Latakia
+NAME_TR: Lazkiye
+NAME_VI: Latakia
+NAME_ZH: 拉塔基亚省
+NE_ID: 1159308425

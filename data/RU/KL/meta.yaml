@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2390
+DISS_ME: 2390
+ISO_3166_2: RU-KL
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Kalmyk
+NAME_ALT: Kalmykiya|Khalmg Tangch|Republic of Kalmykia|Kalmytskaya A.S.S.R.|Respublika Kalmykiya
+NAME_LOCAL: Республика Калмыкия
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.KL
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20041
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS24
+FIPS_ALT: null
+WOE_ID: 2346872
+WOE_LABEL: Kalmykiya, RU, Russia
+WOE_NAME: Kalmyk
+LATITUDE: 46.5191
+LONGITUDE: 45.4681
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 553972
+GN_NAME: Respublika Kalmykiya
+GNS_ID: -2919206
+GNS_NAME: Kalmykiya, Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.24
+REGION_SUB: Volga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS24
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3953
+NAME_AR: كالميكيا
+NAME_BN: কাল্মিয়াকিয়া রিপাবলিক
+NAME_DE: Kalmückien
+NAME_EN: Republic of Kalmykia
+NAME_ES: Kalmukia
+NAME_FR: Kalmoukie
+NAME_EL: Δημοκρατία της Καλμίκια
+NAME_HI: कालमिकिया
+NAME_HU: Kalmükföld
+NAME_ID: Kalmykia
+NAME_IT: Calmucchia
+NAME_JA: カルムイク共和国
+NAME_KO: 칼미크 공화국
+NAME_NL: Kalmukkië
+NAME_PL: Kałmucja
+NAME_PT: Calmúquia
+NAME_RU: Калмыкия
+NAME_SV: Kalmuckien
+NAME_TR: Kalmukya
+NAME_VI: Kalmykia
+NAME_ZH: 卡尔梅克共和国
+NE_ID: 1159313207

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-432
+DISS_ME: 432
+ISO_3166_2: TH-22
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Chanthaburi
+NAME_ALT: Chantaburi|Muang Chan
+NAME_LOCAL: จันทบุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH48
+FIPS_ALT: null
+WOE_ID: 2347172
+WOE_LABEL: Chanthaburi, TH, Thailand
+WOE_NAME: Chanthaburi
+LATITUDE: 12.8117
+LONGITUDE: 102.139
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1611268
+GN_NAME: Changwat Chanthaburi
+GNS_ID: -3247000
+GNS_NAME: Chanthaburi, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.48
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH48
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q327730
+NAME_AR: محافظة تشانثابوري
+NAME_BN: কান্থাবুড়ি
+NAME_DE: Chanthaburi
+NAME_EN: Chanthaburi
+NAME_ES: Provincia de Chanthaburi
+NAME_FR: Chanthaburi
+NAME_EL: Τσαντάμπουρι
+NAME_HI: चन्थाबुरी प्रान्त
+NAME_HU: Csanthaburi tartomány
+NAME_ID: Chanthaburi
+NAME_IT: provincia di Chanthaburi
+NAME_JA: チャンタブリー県
+NAME_KO: 짠타부리 주
+NAME_NL: Changwat Chantaburi
+NAME_PL: Prowincja Chanthaburi
+NAME_PT: Chanthaburi
+NAME_RU: Чантхабури
+NAME_SV: Chanthaburi
+NAME_TR: Chanthaburi
+NAME_VI: Chanthaburi
+NAME_ZH: 尖竹汶府
+NE_ID: 1159308231

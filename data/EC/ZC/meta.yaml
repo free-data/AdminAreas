@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1269
+DISS_ME: 1269
+ISO_3166_2: EC-Z
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Zamora Chinchipe
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.ZC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: ZC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC20
+FIPS_ALT: null
+WOE_ID: 2345221
+WOE_LABEL: Zamora-Chinchipe, EC, Ecuador
+WOE_NAME: Zamora Chinchipe
+LATITUDE: -3.93679
+LONGITUDE: -78.8595
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3649953
+GN_NAME: Provincia de Zamora Chinchipe
+GNS_ID: -935094
+GNS_NAME: Zamora Chinchipe, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC20
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q744670
+NAME_AR: مقاطعة زامورا تشينتشيبه
+NAME_BN: জামোরা-চিঞ্চিপে প্রদেশ
+NAME_DE: Provinz Zamora Chinchipe
+NAME_EN: Zamora-Chinchipe Province
+NAME_ES: Provincia de Zamora Chinchipe
+NAME_FR: Zamora-Chinchipe
+NAME_EL: Επαρχία Σαμόρα Τσιντσίπε
+NAME_HI: ज़मोरा-चिंचिपे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Zamora-Chinchipe
+NAME_IT: provincia di Zamora-Chinchipe
+NAME_JA: サモラ・チンチペ県
+NAME_KO: 사모라친치페 주
+NAME_NL: Zamora-Chinchipe
+NAME_PL: Prowincja Zamora-Chinchipe
+NAME_PT: Zamora-Chinchipe
+NAME_RU: Самора-Чинчипе
+NAME_SV: Zamora Chinchipe
+NAME_TR: Zamora-Chinchip Province
+NAME_VI: Tỉnh Zamora-Chinchipe
+NAME_ZH: 萨莫拉-钦奇佩省
+NE_ID: 1159309977

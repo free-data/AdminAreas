@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-2625
+DISS_ME: 2625
+ISO_3166_2: BW-KG
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: Kgalagadi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC04
+CODE_HASC: BW.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.KG
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC04
+FIPS_ALT: null
+WOE_ID: 2344744
+WOE_LABEL: Kgalagadi, BW, Botswana
+WOE_NAME: Kgalagadi
+LATITUDE: -24.8361
+LONGITUDE: 22.2402
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933657
+GN_NAME: Kgalagadi District
+GNS_ID: -1397490
+GNS_NAME: Kgalagadi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.04
+REGION_SUB: Kgalagadi
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC04
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57581
+NAME_AR: مقاطعة كغالاجادي
+NAME_BN: কগালাগাডি জেলা
+NAME_DE: Kgalagadi District
+NAME_EN: Kgalagadi District
+NAME_ES: Distrito Kgalagadi
+NAME_FR: District de Kgalagadi
+NAME_EL: Περιφέρεια Κγκαλαγκάντι
+NAME_HI: कगालगाड़ी जिला
+NAME_HU: null
+NAME_ID: Distrik Kgalagadi
+NAME_IT: distretto di Kgalagadi
+NAME_JA: カラハリ地区
+NAME_KO: 크갈라가디 구
+NAME_NL: Kgalagadi
+NAME_PL: Dystrykt Kgaladi
+NAME_PT: Kgalagadi
+NAME_RU: Кгалагади
+NAME_SV: Kgalagadi
+NAME_TR: Kgalagadi Bölgesi
+NAME_VI: Quận Kgalagadi
+NAME_ZH: 卡拉哈迪區
+NE_ID: 1159313277

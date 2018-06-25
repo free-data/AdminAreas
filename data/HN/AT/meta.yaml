@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-637
+DISS_ME: 637
+ISO_3166_2: HN-AT
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Atlántida
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.AT
+NOTE: Formed from parts of Colon and Yoro department
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO01
+FIPS_ALT: null
+WOE_ID: 2345623
+WOE_LABEL: AtlÃ¡ntida, HN, Honduras
+WOE_NAME: Atlántida
+LATITUDE: 15.6343
+LONGITUDE: -87.0783
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3615027
+GN_NAME: Departamento de Atlantida
+GNS_ID: -1116052
+GNS_NAME: Atlantida
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q622619
+NAME_AR: أتلانتيدا
+NAME_BN: আটলান্টিকা বিভাগ
+NAME_DE: Atlántida
+NAME_EN: Atlántida Department
+NAME_ES: Departamento de Atlántida
+NAME_FR: département d'Atlántida
+NAME_EL: Ατλαντίδα
+NAME_HI: अटलांटिडा विभाग
+NAME_HU: Atlántida megye
+NAME_ID: Departemen Atlántida
+NAME_IT: dipartimento di Atlántida
+NAME_JA: アトランティダ県
+NAME_KO: 아틀란티다 주
+NAME_NL: Atlántida
+NAME_PL: Atlántida
+NAME_PT: Atlántida
+NAME_RU: Атлантида
+NAME_SV: Atlántida
+NAME_TR: Atlántida Departmanı
+NAME_VI: Atlántida
+NAME_ZH: 阿特蘭蒂達省
+NE_ID: 1159309093

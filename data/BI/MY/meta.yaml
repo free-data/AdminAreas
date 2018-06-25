@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2644
+DISS_ME: 2644
+ISO_3166_2: BI-MY
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Muyinga
+NAME_ALT: Muhinga
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.MY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MY
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY18
+FIPS_ALT: null
+WOE_ID: 2344911
+WOE_LABEL: null
+WOE_NAME: Muyinga
+LATITUDE: -2.89215
+LONGITUDE: 30.3161
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 431747
+GN_NAME: Muyinga Province
+GNS_ID: 6040400
+GNS_NAME: Muyinga, iProvense ya
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: run
+GNS_ADM1: BY18
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q822571
+NAME_AR: محافظة موينغا
+NAME_BN: মুইজিং প্রদেশ
+NAME_DE: Muyinga
+NAME_EN: Muyinga Province
+NAME_ES: Provincia de Muyinga
+NAME_FR: province de Muyinga
+NAME_EL: Μουγίνγκα
+NAME_HI: मयिंगा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Muyinga
+NAME_IT: provincia di Muyinga
+NAME_JA: ムインガ県
+NAME_KO: 무잉가 주
+NAME_NL: Muyinga
+NAME_PL: Prowincja Muyinga
+NAME_PT: Muyinga
+NAME_RU: Муйинга
+NAME_SV: Muyinga
+NAME_TR: Muyinga Province
+NAME_VI: Tỉnh Muyinga
+NAME_ZH: 穆因加省
+NE_ID: 1159313331

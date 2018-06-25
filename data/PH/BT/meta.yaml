@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2564
+DISS_ME: 2564
+ISO_3166_2: PH-BTG
+WIKIPEDIA: http://en.wikipedia.org/wiki/Batangas
+ISO_A2: PH
+ADM0_SR: 5
+NAME: Batangas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.BT
+NOTE: null
+HASC_MAYBE: null
+REGION: CALABARZON (Region IV-A)
+REGION_COD: PH-40
+PROVNUM_NE: 20050
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BT
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP09
+FIPS_ALT: null
+WOE_ID: 2346664
+WOE_LABEL: null
+WOE_NAME: Batangas
+LATITUDE: 13.9268
+LONGITUDE: 121.076
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1726279
+GN_NAME: Province of Batangas
+GNS_ID: -2413041
+GNS_NAME: Batangas, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.09
+REGION_SUB: Batangas
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP09
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13744
+NAME_AR: باتانغاس
+NAME_BN: বাটাঙ্গাস
+NAME_DE: Batangas
+NAME_EN: Batangas
+NAME_ES: Batangas
+NAME_FR: Batangas
+NAME_EL: Μπατάνγκας
+NAME_HI: बतांगास प्रान्त
+NAME_HU: null
+NAME_ID: Batangas
+NAME_IT: Provincia di Batangas
+NAME_JA: バタンガス
+NAME_KO: 바탕가스 주
+NAME_NL: Batangas
+NAME_PL: Batangas
+NAME_PT: Batangas
+NAME_RU: Батангас
+NAME_SV: Batangas
+NAME_TR: Batangas
+NAME_VI: Batangas
+NAME_ZH: 八打雁省
+NE_ID: 1159311539

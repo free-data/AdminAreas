@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-754
+DISS_ME: 754
+ISO_3166_2: PT-13
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Porto
+NAME_ALT: Oporto
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.PO
+NOTE: null
+HASC_MAYBE: null
+REGION: Norte
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: PO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO17
+FIPS_ALT: null
+WOE_ID: 2346575
+WOE_LABEL: Porto, PT, Portugal
+WOE_NAME: Porto
+LATITUDE: 41.2118
+LONGITUDE: -8.33114
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2735941
+GN_NAME: Distrito do Porto
+GNS_ID: -2173091
+GNS_NAME: Porto, Distrito do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q322792
+NAME_AR: محافظة بورتو
+NAME_BN: null
+NAME_DE: Distrikt Porto
+NAME_EN: Porto District
+NAME_ES: Distrito de Oporto
+NAME_FR: District de Porto
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Distrik Porto
+NAME_IT: distretto di Porto
+NAME_JA: ポルト県
+NAME_KO: 포르투 현
+NAME_NL: Porto
+NAME_PL: null
+NAME_PT: Distrito do Porto
+NAME_RU: Порту
+NAME_SV: Porto
+NAME_TR: null
+NAME_VI: Porto
+NAME_ZH: 波爾圖區
+NE_ID: 1159310587

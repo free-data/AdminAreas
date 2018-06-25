@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5033
+DISS_ME: 5033
+ISO_3166_2: BS-LI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Long_Island_(Bahamas)
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Long Island
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Second Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.LI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: LI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF15
+FIPS_ALT: null
+WOE_ID: 2344773
+WOE_LABEL: Long Island, BS, The Bahamas
+WOE_NAME: Long Island
+LATITUDE: 23.037
+LONGITUDE: -74.9132
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 3572005
+GN_NAME: Long Island District
+GNS_ID: -1543651
+GNS_NAME: Long Island District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BF15
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q890879
+NAME_AR: جزيرة لونغ
+NAME_BN: লং আইল্যান্ড
+NAME_DE: Long Island
+NAME_EN: Long Island
+NAME_ES: Isla Larga
+NAME_FR: Long Island
+NAME_EL: Λονγκ Άιλαντ
+NAME_HI: लॉन्ग आइलैंड
+NAME_HU: null
+NAME_ID: Long Island
+NAME_IT: Long Island
+NAME_JA: ロング島
+NAME_KO: 롱 섬
+NAME_NL: Long Island
+NAME_PL: Long Island
+NAME_PT: Long Island
+NAME_RU: Лонг-Айленд
+NAME_SV: Long Island
+NAME_TR: Long Island
+NAME_VI: Long Island
+NAME_ZH: 長島
+NE_ID: 1159316285

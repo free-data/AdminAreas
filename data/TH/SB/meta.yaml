@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-414
+DISS_ME: 414
+ISO_3166_2: TH-17
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Sing Buri
+NAME_ALT: null
+NAME_LOCAL: จังหวัดสิงห์บุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.SB
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 56
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH33
+FIPS_ALT: null
+WOE_ID: 2347158
+WOE_LABEL: Sing Buri, TH, Thailand
+WOE_NAME: Sing Buri
+LATITUDE: 14.9746
+LONGITUDE: 100.343
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1606269
+GN_NAME: Changwat Sing Buri
+GNS_ID: -3255138
+GNS_NAME: Sing Buri, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.33
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH33
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q334836
+NAME_AR: محافظة سنغ بوري
+NAME_BN: সিং বুরি
+NAME_DE: Singburi
+NAME_EN: Sing Buri
+NAME_ES: Provincia de Sing Buri
+NAME_FR: Sing Buri
+NAME_EL: Σίνγκμπουρι
+NAME_HI: सिंग बुरी प्रान्त
+NAME_HU: null
+NAME_ID: Sing Buri
+NAME_IT: provincia di Sing Buri
+NAME_JA: シンブリー県
+NAME_KO: 싱부리 주
+NAME_NL: Changwat Singburi
+NAME_PL: Prowincja Sing Buri
+NAME_PT: Sing Buri
+NAME_RU: Сингбури
+NAME_SV: Sing Buri
+NAME_TR: Singburi
+NAME_VI: Sing Buri
+NAME_ZH: 信武里府
+NE_ID: 1159308193

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5353
+DISS_ME: 5353
+ISO_3166_2: FR-85
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 5
+NAME: Vendée
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.VD
+NOTE: null
+HASC_MAYBE: null
+REGION: Pays de la Loire
+REGION_COD: FR-R
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA5
+FIPS_ALT: FRB5
+WOE_ID: 12597200
+WOE_LABEL: null
+WOE_NAME: Vendée
+LATITUDE: 46.6893
+LONGITUDE: -1.31827
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2970140
+GN_NAME: Departement de la Vendee
+GNS_ID: -1475350
+GNS_NAME: Vendee, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.85
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRB5
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12798
+NAME_AR: فونديه
+NAME_BN: ভেন্ডি
+NAME_DE: Département Vendée
+NAME_EN: Vendée
+NAME_ES: Vandea
+NAME_FR: Vendée
+NAME_EL: Βαντέ
+NAME_HI: वेंडी
+NAME_HU: Vendée
+NAME_ID: Vendée
+NAME_IT: Vandea
+NAME_JA: ヴァンデ県
+NAME_KO: 방데 주
+NAME_NL: Vendée
+NAME_PL: Wandea
+NAME_PT: Vendeia
+NAME_RU: Вандея
+NAME_SV: Vendée
+NAME_TR: Vendée
+NAME_VI: Vendée
+NAME_ZH: 旺代省
+NE_ID: 1159313545

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2801
+DISS_ME: 2801
+ISO_3166_2: BF-BAN
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Banwa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.BW
+NOTE: null
+HASC_MAYBE: null
+REGION: Boucle du Mouhoun
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV58
+FIPS_ALT: UV27|UV46
+WOE_ID: 55967360
+WOE_LABEL: null
+WOE_NAME: Banwa
+LATITUDE: 12.1648
+LONGITUDE: -4.10849
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2597250
+GN_NAME: Province des Banwa
+GNS_ID: 9145743
+GNS_NAME: Banwa, Province des
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV79
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q674664
+NAME_AR: مقاطعة بانوا
+NAME_BN: বানওয়া প্রদেশ
+NAME_DE: Banwa
+NAME_EN: Banwa Province
+NAME_ES: Provincia de Banwa
+NAME_FR: Banwa
+NAME_EL: Μπάνβα
+NAME_HI: बनवा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Banwa
+NAME_IT: provincia di Banwa
+NAME_JA: バンワ県
+NAME_KO: 반와 현
+NAME_NL: Banwa
+NAME_PL: Prowincja Banwa
+NAME_PT: Banwa
+NAME_RU: Банва
+NAME_SV: Province des Banwa
+NAME_TR: Banwa Province
+NAME_VI: Banwa
+NAME_ZH: 巴瓦省
+NE_ID: 1159313875

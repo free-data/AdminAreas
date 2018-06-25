@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-960
+DISS_ME: 960
+ISO_3166_2: SI-057
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Laško
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 187
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI57
+FIPS_ALT: null
+WOE_ID: 55848360
+WOE_LABEL: Lasko, SI, Slovenia
+WOE_NAME: Laško
+LATITUDE: 46.1404
+LONGITUDE: 15.248
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3196759
+GN_NAME: Obcina Lasko
+GNS_ID: -86620
+GNS_NAME: Lasko, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.57
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: SI57
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q15887
+NAME_AR: بلدية لاشكو
+NAME_BN: লাস্কো পৌরসভা
+NAME_DE: Laško
+NAME_EN: Laško Municipality
+NAME_ES: Laško
+NAME_FR: Laško
+NAME_EL: Λάσκο
+NAME_HI: लास्को नगर पालिका
+NAME_HU: Laško
+NAME_ID: Kotamadya Laško
+NAME_IT: Laško
+NAME_JA: ラーシュコ
+NAME_KO: 라슈코
+NAME_NL: Laško
+NAME_PL: Gmina Laško
+NAME_PT: Laško
+NAME_RU: Лашко
+NAME_SV: Lasko kommun
+NAME_TR: Lasko Belediyesi
+NAME_VI: Đô thị tự trị Lasko
+NAME_ZH: 拉什科
+NE_ID: 1159310715

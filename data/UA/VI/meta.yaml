@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-323
+DISS_ME: 323
+ISO_3166_2: UA-05
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Vinnytsya
+NAME_ALT: Vinnytsia|Vinnitskaya Oblast'|Vinnyts'ka Oblast|Winniza
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.VI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: VI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP23
+FIPS_ALT: UP23
+WOE_ID: 2347554
+WOE_LABEL: Vinnytsia Oblast, UA, Ukraine
+WOE_NAME: Vinnytsya
+LATITUDE: 48.9623
+LONGITUDE: 28.7233
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 689559
+GN_NAME: Vinnyts'ka Oblast'
+GNS_ID: -1058302
+GNS_NAME: Vinnyts'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP23
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q166709
+NAME_AR: فينيتسا أوبلاست
+NAME_BN: ভিনিৎসিয়া ওব্লাস্ট
+NAME_DE: Oblast Winnyzja
+NAME_EN: Vinnytsia Oblast
+NAME_ES: Óblast de Vinnytsia
+NAME_FR: Oblast de Vinnytsia
+NAME_EL: Βιννύτσια Ομπλάστ
+NAME_HI: विनित्सिया ओब्लास्ट
+NAME_HU: Vinnicjai terület
+NAME_ID: Oblast Vinnytsia
+NAME_IT: Oblast' di Vinnycja
+NAME_JA: ヴィーンヌィツャ州
+NAME_KO: 빈니차 주
+NAME_NL: Oblast Vinnytsja
+NAME_PL: Obwód winnicki
+NAME_PT: Oblast de Vinnitsa
+NAME_RU: Винницкая область
+NAME_SV: Vinnytsia oblast
+NAME_TR: Vinnitsa Oblastı
+NAME_VI: Vinnytsia
+NAME_ZH: 文尼察州
+NE_ID: 1159309619

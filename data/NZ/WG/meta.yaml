@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-5469
+DISS_ME: 5469
+ISO_3166_2: NZ-WGN
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Wellington
+NAME_ALT: Te Whanga-nui-a-Tara
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.WG
+NOTE: null
+HASC_MAYBE: null
+REGION: North Island
+REGION_COD: NZ-N
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: WGN
+POSTAL: WG
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 15021762
+WOE_LABEL: Wellington, NZ, New Zealand
+WOE_NAME: Wellington
+LATITUDE: -41.2275
+LONGITUDE: 175.2
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2179538
+GN_NAME: Wellington
+GNS_ID: 11483310
+GNS_NAME: Wellington Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.G2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q856010
+NAME_AR: إقليم ويلينغتون
+NAME_BN: ওয়েলিংটন অঞ্চল
+NAME_DE: Wellington
+NAME_EN: Wellington Region
+NAME_ES: Región de Wellington
+NAME_FR: Wellington
+NAME_EL: Περιοχή του Γουέλινγκτον
+NAME_HI: वेलिंग्टन क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Wellington
+NAME_IT: Wellington
+NAME_JA: ウェリントン地方
+NAME_KO: 웰링턴 지방
+NAME_NL: Wellington
+NAME_PL: Wellington
+NAME_PT: Wellington
+NAME_RU: Веллингтон
+NAME_SV: Wellington
+NAME_TR: Wellington Bölgesi
+NAME_VI: Khu vực Wellington
+NAME_ZH: 惠灵顿大区
+NE_ID: 1159307723

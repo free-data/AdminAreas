@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ETH-3110
+DISS_ME: 3110
+ISO_3166_2: ET-TI
+WIKIPEDIA: null
+ISO_A2: ET
+ADM0_SR: 1
+NAME: Tigray
+NAME_ALT: Tegr?|Tigrai|Tigre|Tigr?|Tigré
+NAME_LOCAL: null
+TYPE: Kilil
+TYPE_EN: Administrative State
+CODE_LOCAL: null
+CODE_HASC: ET.TI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 3
+ABBREV: null
+POSTAL: TI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 13
+FIPS: ET53
+FIPS_ALT: ET37|ET54
+WOE_ID: 2345312
+WOE_LABEL: Tigray, ET, Ethiopia
+WOE_NAME: Tigray
+LATITUDE: 14.1003
+LONGITUDE: 38.2158
+SOV_A3: ETH
+ADM0_A3: ETH
+ADM0_LABEL: 2
+ADMIN: Ethiopia
+GEONUNIT: Ethiopia
+GU_A3: ETH
+GN_ID: 444187
+GN_NAME: Tigray Region
+GNS_ID: 9087455
+GNS_NAME: Tigray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ET.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: amh
+GNS_ADM1: ET53
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q200127
+NAME_AR: تيغراي
+NAME_BN: তিগ্রে অঞ্চল
+NAME_DE: Tigray
+NAME_EN: Tigray Region
+NAME_ES: Tigray
+NAME_FR: Tigray
+NAME_EL: Τιγκράι
+NAME_HI: तिग्राय प्रदेश
+NAME_HU: Tigré
+NAME_ID: Region Tigray
+NAME_IT: regione dei Tigrè
+NAME_JA: ティグレ州
+NAME_KO: 티그레 주
+NAME_NL: Tigray
+NAME_PL: Tigraj
+NAME_PT: Região Tigré
+NAME_RU: Тыграй
+NAME_SV: Tigray
+NAME_TR: Tigray Bölgesi
+NAME_VI: Tigray
+NAME_ZH: 提格里州
+NE_ID: 1159313849

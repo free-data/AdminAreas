@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2371
+DISS_ME: 2371
+ISO_3166_2: RU-KDA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Krasnodar
+NAME_ALT: Cossacks of the Black Sea|Kuban|Kubanskaya|Yekaterinodar|Krasnodarskiy Kray
+NAME_LOCAL: Краснодарский край
+TYPE: Kray
+TYPE_EN: Territory
+CODE_LOCAL: null
+CODE_HASC: RU.KD
+NOTE: null
+HASC_MAYBE: RU.AD|RUS-KSN
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20047
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KD
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS38
+FIPS_ALT: RS01
+WOE_ID: 2346884
+WOE_LABEL: Krasnodarskiy Kray, RU, Russia
+WOE_NAME: Krasnodar
+LATITUDE: 45.8397
+LONGITUDE: 39.4688
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 542415
+GN_NAME: Krasnodarskiy Kray
+GNS_ID: -2936269
+GNS_NAME: Krasnodarskiy Kray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.38
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS38
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3680
+NAME_AR: كراسنودار كراي
+NAME_BN: কারস্নুদার কারি
+NAME_DE: Region Krasnodar
+NAME_EN: Krasnodar Krai
+NAME_ES: Krai de Krasnodar
+NAME_FR: kraï de Krasnodar
+NAME_EL: Κράι Κρασνοντάρ
+NAME_HI: क्रास्नोदार क्राय
+NAME_HU: Krasznodari határterület
+NAME_ID: Krai Krasnodar
+NAME_IT: Territorio di Krasnodar
+NAME_JA: クラスノダール地方
+NAME_KO: 크라스노다르 지방
+NAME_NL: Kraj Krasnodar
+NAME_PL: Kraj Krasnodarski
+NAME_PT: Krai de Krasnodar
+NAME_RU: Краснодарский край
+NAME_SV: Krasnodar kraj
+NAME_TR: Krasnodar Krayı
+NAME_VI: Krasnodar
+NAME_ZH: 克拉斯诺达尔边疆区
+NE_ID: 1159313179

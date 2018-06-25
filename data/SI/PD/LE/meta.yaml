@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-208
+DISS_ME: 208
+ISO_3166_2: SI-058
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Lenart
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 148
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SII3
+FIPS_ALT: null
+WOE_ID: 55848361
+WOE_LABEL: Lenart, SI, Slovenia
+WOE_NAME: Lenart
+LATITUDE: 46.5575
+LONGITUDE: 15.8548
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3196684
+GN_NAME: Obcina Lenart
+GNS_ID: -86734
+GNS_NAME: Lenart, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.I3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: SI12
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q13365883
+NAME_AR: بلدية لينارت
+NAME_BN: লিনার্ট পৌরসভা
+NAME_DE: Gemeinde Lenart
+NAME_EN: Lenart Municipality
+NAME_ES: Municipalidad del Lenart
+NAME_FR: Municipalité de Lenart
+NAME_EL: Λενάρτ
+NAME_HI: लेनार्ट नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Lenart
+NAME_IT: Comune di Lenart
+NAME_JA: レナルト
+NAME_KO: 레나르트 지방 자치제
+NAME_NL: Lenart
+NAME_PL: Gmina Lenart
+NAME_PT: Lenart
+NAME_RU: Ленарт
+NAME_SV: Lenart kommun
+NAME_TR: Lenart Belediyesi
+NAME_VI: Đô thị tự trị Lenart
+NAME_ZH: 来纳尔特
+NE_ID: 1159308565

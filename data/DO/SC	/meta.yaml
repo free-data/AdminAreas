@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1968
+DISS_ME: 1968
+ISO_3166_2: DO-19
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Hermanas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: DR19
+CODE_HASC: DO.SC	
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2345188
+WOE_LABEL: Salcedo, DO, Dominican Republic
+WOE_NAME: Hermanas
+LATITUDE: 19.403
+LONGITUDE: -70.352
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3493282
+GN_NAME: Provincia de Hermanas Mirabal
+GNS_ID: -3365868
+GNS_NAME: Salcedo, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR19
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q549386
+NAME_AR: مقاطعة هيرماناس ميرابال
+NAME_BN: হারমানাস মিরাবা প্রদেশ
+NAME_DE: Hermanas Mirabal
+NAME_EN: Hermanas Mirabal Province
+NAME_ES: Hermanas Mirabal
+NAME_FR: Hermanas Mirabal
+NAME_EL: Επαρχία Ερμάνας Μιραμπάλ
+NAME_HI: हर्मानास मिराबल प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Hermanas Mirabal
+NAME_IT: provincia di Hermanas Mirabal
+NAME_JA: エルマーナス・ミラバル州
+NAME_KO: 에르마나스미라발 주
+NAME_NL: Hermanas Mirabal
+NAME_PL: Prowincja Hermanas Mirabal
+NAME_PT: Hermanas Mirabal
+NAME_RU: Эрманас-Мирабаль
+NAME_SV: Hermanas Mirabal
+NAME_TR: Hermanas Mirabal Province
+NAME_VI: Hermanas Mirabal
+NAME_ZH: 米拉貝姐妹省
+NE_ID: 1159311707

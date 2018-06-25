@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3173
+DISS_ME: 3173
+ISO_3166_2: HU-HB
+WIKIPEDIA: http://en.wikipedia.org/wiki/Hajd%C3%BA-Bihar_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Hajdú-Bihar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.HB
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Great Plain
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU10
+FIPS_ALT: HU10
+WOE_ID: 12577919
+WOE_LABEL: HajdÃº-Bihar, HU, Hungary
+WOE_NAME: Hajdú-Bihar
+LATITUDE: 47.2906
+LONGITUDE: 21.3746
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 720293
+GN_NAME: Hajdu-Bihar megye
+GNS_ID: -855026
+GNS_NAME: Hajdu-Bihar Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.10
+REGION_SUB: Hajdú-Bihar
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU10
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q185368
+NAME_AR: مقاطعة هايدو-بيهار
+NAME_BN: হজদু-বিহার কাউন্টি
+NAME_DE: Komitat Hajdú-Bihar
+NAME_EN: Hajdú-Bihar County
+NAME_ES: Hajdú-Bihar
+NAME_FR: Hajdú-Bihar
+NAME_EL: Χάτζντου-Μπιχάρ
+NAME_HI: हजदु-बिहार काउंटी
+NAME_HU: Hajdú-Bihar megye
+NAME_ID: Hajdú-Bihar
+NAME_IT: provincia di Hajdú-Bihar
+NAME_JA: ハイドゥー・ビハール県
+NAME_KO: 허이두비허르 주
+NAME_NL: Hajdú-Bihar
+NAME_PL: Komitat Hajdú-Bihar
+NAME_PT: Hajdú-Bihar
+NAME_RU: Хайду-Бихар
+NAME_SV: Hajdú-Bihar
+NAME_TR: Hajdú-Bihar ili
+NAME_VI: Hajdu-Bihar
+NAME_ZH: 豪伊杜-比豪爾州
+NE_ID: 1159314659

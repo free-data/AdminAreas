@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LTU-1073
+DISS_ME: 1073
+ISO_3166_2: LT-TA
+WIKIPEDIA: null
+ISO_A2: LT
+ADM0_SR: 1
+NAME: Taurages
+NAME_ALT: Tauragė|Tauroggen
+NAME_LOCAL: null
+TYPE: Apskritis
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LT.TG
+NOTE: NUTS code LT007
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: LH62
+FIPS_ALT: null
+WOE_ID: 55848087
+WOE_LABEL: Taurage County, LT, Lithuania
+WOE_NAME: Taurages
+LATITUDE: 55.2657
+LONGITUDE: 22.6458
+SOV_A3: LTU
+ADM0_A3: LTU
+ADM0_LABEL: 5
+ADMIN: Lithuania
+GEONUNIT: Lithuania
+GU_A3: LTU
+GN_ID: 864482
+GN_NAME: Taurages Apskritis
+GNS_ID: 9084750
+GNS_NAME: Taurages Apskritis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LT.62
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: LH62
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q188960
+NAME_AR: مقاطعة تاوراغه
+NAME_BN: তাউরাগি কাউন্টি
+NAME_DE: Bezirk Tauragė
+NAME_EN: Tauragė County
+NAME_ES: Provincia de Tauragė
+NAME_FR: Apskritis de Tauragė
+NAME_EL: Επαρχία Ταουραγκέ
+NAME_HI: टॉरेज काउंटी
+NAME_HU: null
+NAME_ID: County Tauragė
+NAME_IT: contea di Tauragė
+NAME_JA: タウラゲ県
+NAME_KO: 타우라게 주
+NAME_NL: Tauragė
+NAME_PL: Okręg tauroski
+NAME_PT: Tauragė
+NAME_RU: Таурагский уезд
+NAME_SV: Tauragė
+NAME_TR: Taurage County
+NAME_VI: Hạt Taurage
+NAME_ZH: 陶拉格縣
+NE_ID: 1159311041

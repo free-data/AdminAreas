@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-718
+DISS_ME: 718
+ISO_3166_2: IE-WX
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Wexford
+NAME_ALT: Loch Garman
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.WX
+NOTE: null
+HASC_MAYBE: null
+REGION: South-East
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: WX
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI30
+FIPS_ALT: null
+WOE_ID: 2345273
+WOE_LABEL: Wexford, IE, Ireland
+WOE_NAME: Wexford
+LATITUDE: 52.4423
+LONGITUDE: -6.58517
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2960963
+GN_NAME: Loch Garman
+GNS_ID: -1506177
+GNS_NAME: Wexford, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.30
+REGION_SUB: Wexford
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI30
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q184599
+NAME_AR: مقاطعة وكسفورد
+NAME_BN: কাউন্টি ওয়েক্সফোর্ড
+NAME_DE: County Wexford
+NAME_EN: County Wexford
+NAME_ES: Condado de Wexford
+NAME_FR: Comté de Wexford
+NAME_EL: Κομητεία Ουέξφορντ
+NAME_HI: वेक्सफोर्ड काउंटी
+NAME_HU: Wexford megye
+NAME_ID: County Wexford
+NAME_IT: Wexford
+NAME_JA: ウェックスフォード州
+NAME_KO: 웩스퍼드 주
+NAME_NL: County Wexford
+NAME_PL: Wexford
+NAME_PT: Condado de Wexford
+NAME_RU: Уэксфорд
+NAME_SV: Wexford
+NAME_TR: Wexford Countt
+NAME_VI: Wexford
+NAME_ZH: 韦克斯福德郡
+NE_ID: 1159310999

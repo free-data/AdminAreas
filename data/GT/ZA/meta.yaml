@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1963
+DISS_ME: 1963
+ISO_3166_2: GT-ZA
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Zacapa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.ZA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ZA
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT22
+FIPS_ALT: null
+WOE_ID: 2345573
+WOE_LABEL: Zacapa, GT, Guatemala
+WOE_NAME: Zacapa
+LATITUDE: 15.0329
+LONGITUDE: -89.5127
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3587586
+GN_NAME: Departamento de Zacapa
+GNS_ID: -1143807
+GNS_NAME: Zacapa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q780784
+NAME_AR: إدارة زاكابا
+NAME_BN: জাকাপা বিভাগ
+NAME_DE: Departamento Zacapa
+NAME_EN: Zacapa Department R-19
+NAME_ES: Zacapa
+NAME_FR: département de Zacapa
+NAME_EL: Ζάκαπα
+NAME_HI: ज़ाकापा विभाग
+NAME_HU: Zacapa megye
+NAME_ID: Departemen Zacapa
+NAME_IT: dipartimento di Zacapa
+NAME_JA: サカパ県
+NAME_KO: 사카파 주
+NAME_NL: Zacapa
+NAME_PL: Zacapa
+NAME_PT: Zacapa
+NAME_RU: Сакапа
+NAME_SV: Departamento de Zacapa
+NAME_TR: Zacapa Department
+NAME_VI: Zacapa
+NAME_ZH: 薩卡帕省
+NE_ID: 1159311679

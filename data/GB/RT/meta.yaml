@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2115
+DISS_ME: 2115
+ISO_3166_2: GB-RCT
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Rhondda, Cynon, Taff
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority (wales)
+TYPE_EN: Unitary Authority (wales)
+CODE_LOCAL: null
+CODE_HASC: GB.RT
+NOTE: null
+HASC_MAYBE: null
+REGION: East Wales
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: RT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKY9
+FIPS_ALT: UKY9
+WOE_ID: 12602228
+WOE_LABEL: null
+WOE_NAME: Rhondda Cynon Taff County Borough
+LATITUDE: 51.617
+LONGITUDE: -3.40988
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Wales
+GU_A3: WLS
+GN_ID: 3333247
+GN_NAME: Rhondda Cynon Taff
+GNS_ID: 6077689
+GNS_NAME: Rhondda Cynon Taff, County Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Y9
+REGION_SUB: South Wales
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q817960
+NAME_AR: روندا كينون تاف
+NAME_BN: null
+NAME_DE: Rhondda Cynon Taf
+NAME_EN: Rhondda Cynon Taf
+NAME_ES: Rhondda Cynon Taff
+NAME_FR: Rhondda Cynon Taf
+NAME_EL: Ρόντα Σίνον Ταφ
+NAME_HI: null
+NAME_HU: Rhondda Cynon Taf
+NAME_ID: null
+NAME_IT: distretto di contea di Rhondda Cynon Taf
+NAME_JA: ロンザ・カノン・タフ
+NAME_KO: 론다커논타브
+NAME_NL: Rhondda Cynon Taf
+NAME_PL: Rhondda Cynon Taff
+NAME_PT: null
+NAME_RU: Ронта-Кинон-Тав
+NAME_SV: Rhondda Cynon Taf
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 朗达卡嫩塔夫
+NE_ID: 1159312709

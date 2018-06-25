@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-79
+DISS_ME: 79
+ISO_3166_2: IE-CN
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Cavan
+NAME_ALT: An Cabhán
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: Border
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: CN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI02
+FIPS_ALT: null
+WOE_ID: 2345250
+WOE_LABEL: Cavan, IE, Ireland
+WOE_NAME: Cavan
+LATITUDE: 53.9623
+LONGITUDE: -7.27176
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2965534
+GN_NAME: An Cabhan
+GNS_ID: -1501590
+GNS_NAME: Cavan, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.02
+REGION_SUB: Cavan
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI02
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q187402
+NAME_AR: مقاطعة كافان
+NAME_BN: কাউন্টি কভেন
+NAME_DE: County Cavan
+NAME_EN: County Cavan
+NAME_ES: Condado de Cavan
+NAME_FR: comté de Cavan
+NAME_EL: Κομητεία Κάβαν
+NAME_HI: काउंटी कैवन
+NAME_HU: Cavan megye
+NAME_ID: County Cavan
+NAME_IT: Cavan
+NAME_JA: キャバン州
+NAME_KO: 캐번 주
+NAME_NL: County Cavan
+NAME_PL: Cavan
+NAME_PT: Condado de Cavan
+NAME_RU: Каван
+NAME_SV: Cavan
+NAME_TR: Cavan County
+NAME_VI: Hạt Cavan
+NAME_ZH: 卡文郡
+NE_ID: 1159308719

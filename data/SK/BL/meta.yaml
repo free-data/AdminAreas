@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SVK-1051
+DISS_ME: 1051
+ISO_3166_2: SK-BL
+WIKIPEDIA: null
+ISO_A2: SK
+ADM0_SR: 1
+NAME: Bratislavský
+NAME_ALT: Bratislava
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SK.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LO02
+FIPS_ALT: null
+WOE_ID: 20070505
+WOE_LABEL: Bratislavsky, SK, Slovakia
+WOE_NAME: Bratislavský
+LATITUDE: 48.2935
+LONGITUDE: 17.1882
+SOV_A3: SVK
+ADM0_A3: SVK
+ADM0_LABEL: 2
+ADMIN: Slovakia
+GEONUNIT: Slovakia
+GU_A3: SVK
+GN_ID: 3343955
+GN_NAME: Bratislavsky kraj
+GNS_ID: 9101344
+GNS_NAME: Bratislavsky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SK.02
+REGION_SUB: Bratislavský
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LO02
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q183498
+NAME_AR: إقليم براتيسلافا
+NAME_BN: ব্রাতিসাবা অঞ্চল
+NAME_DE: Bratislavský kraj
+NAME_EN: Bratislava Region
+NAME_ES: Región de Bratislava
+NAME_FR: Région de Bratislava
+NAME_EL: Μπρατισλάβα
+NAME_HI: ब्रातिस्लावा प्रदेश
+NAME_HU: Pozsony megye
+NAME_ID: Region Bratislava
+NAME_IT: regione di Bratislava
+NAME_JA: ブラチスラヴァ県
+NAME_KO: 브라티슬라바 주
+NAME_NL: Bratislava
+NAME_PL: Kraj bratysławski
+NAME_PT: Bratislava
+NAME_RU: Братиславский край
+NAME_SV: Bratislava
+NAME_TR: Bratislava Bölgesi
+NAME_VI: Bratislava
+NAME_ZH: 布拉迪斯拉發州
+NE_ID: 1159310933

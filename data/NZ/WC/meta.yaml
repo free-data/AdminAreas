@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3406
+DISS_ME: 3406
+ISO_3166_2: NZ-WTC
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: West Coast
+NAME_ALT: Te Taihau ā uru
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.WC
+NOTE: null
+HASC_MAYBE: null
+REGION: South Island
+REGION_COD: NZ-S
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: WC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZG3
+FIPS_ALT: NZB3
+WOE_ID: 15021752
+WOE_LABEL: West Coast, NZ, New Zealand
+WOE_NAME: West Coast
+LATITUDE: -43.362
+LONGITUDE: 170.402
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 6612113
+GN_NAME: West Coast
+GNS_ID: 11483311
+GNS_NAME: West Coast Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.G3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q541468
+NAME_AR: إقليم الساحل الغربي
+NAME_BN: ওয়েস্ট কোস্ট অঞ্চল
+NAME_DE: West Coast
+NAME_EN: West Coast Region
+NAME_ES: West Coast
+NAME_FR: West Coast
+NAME_EL: Δυτική Ακτή
+NAME_HI: वेस्ट कोस्ट क्षेत्र
+NAME_HU: null
+NAME_ID: West Coast
+NAME_IT: West Coast
+NAME_JA: ウェスト・コースト地方
+NAME_KO: 웨스트코스트 지방
+NAME_NL: West Coast
+NAME_PL: West Coast
+NAME_PT: Costa Oeste
+NAME_RU: Уэст-Кост
+NAME_SV: West Coast
+NAME_TR: Batı Sahili Bölgesi
+NAME_VI: Khu vực West Coast
+NAME_ZH: 西岸大区
+NE_ID: 1159314917

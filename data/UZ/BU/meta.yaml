@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: UZB-354
+DISS_ME: 354
+ISO_3166_2: UZ-BU
+WIKIPEDIA: null
+ISO_A2: UZ
+ADM0_SR: 1
+NAME: Bukhoro
+NAME_ALT: Bukhara|Buxoro|Mawarranahr|Transoxania|Turan
+NAME_LOCAL: null
+TYPE: Wiloyat
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UZ.BU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: UZ02
+FIPS_ALT: null
+WOE_ID: 2347660
+WOE_LABEL: Bukhoro, UZ, Uzbekistan
+WOE_NAME: Bukhoro
+LATITUDE: 39.946
+LONGITUDE: 63.7729
+SOV_A3: UZB
+ADM0_A3: UZB
+ADM0_LABEL: 2
+ADMIN: Uzbekistan
+GEONUNIT: Uzbekistan
+GU_A3: UZB
+GN_ID: 1114929
+GN_NAME: Bukhara Province
+GNS_ID: -3431445
+GNS_NAME: Buxoro Viloyati
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UZ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: UZ02
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487372
+NAME_AR: ولاية بخارى
+NAME_BN: বুকহারা অঞ্চল
+NAME_DE: Provinz Buxoro
+NAME_EN: Bukhara Region
+NAME_ES: Provincia de Bujara
+NAME_FR: province de Boukhara
+NAME_EL: Μπουχάρα
+NAME_HI: बुख़ारा प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Buxoro
+NAME_IT: regione di Bukhara
+NAME_JA: ブハラ州
+NAME_KO: 부하라 주
+NAME_NL: Buxoro
+NAME_PL: Wilajet bucharski
+NAME_PT: Bukhara
+NAME_RU: Бухарская область
+NAME_SV: Buchara
+NAME_TR: Buhara ili
+NAME_VI: Buxoro
+NAME_ZH: 布哈拉州
+NE_ID: 1159308509

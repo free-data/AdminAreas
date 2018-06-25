@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: EST-1659
+DISS_ME: 1659
+ISO_3166_2: EE-78
+WIKIPEDIA: null
+ISO_A2: EE
+ADM0_SR: 1
+NAME: Tartu
+NAME_ALT: Tartumaa|Tartu maakond|Dorpat
+NAME_LOCAL: null
+TYPE: Maakond
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: EE.TA
+NOTE: null
+HASC_MAYBE: EE.JN
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 10
+FIPS: EN18
+FIPS_ALT: EN05
+WOE_ID: 2345287
+WOE_LABEL: Tartu County, EE, Estonia
+WOE_NAME: Tartu
+LATITUDE: 58.3727
+LONGITUDE: 26.7967
+SOV_A3: EST
+ADM0_A3: EST
+ADM0_LABEL: 2
+ADMIN: Estonia
+GEONUNIT: Estonia
+GU_A3: EST
+GN_ID: 588334
+GN_NAME: Tartumaa
+GNS_ID: -2625738
+GNS_NAME: Tartumaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EE.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: EN18
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q192370
+NAME_AR: مقاطعة تارتو
+NAME_BN: তার্তু কাউন্টি
+NAME_DE: Kreis Tartu
+NAME_EN: Tartu County
+NAME_ES: Condado de Tartu
+NAME_FR: Comté de Tartu
+NAME_EL: Επαρχία Τάρτου
+NAME_HI: टर्टू काउंटी
+NAME_HU: null
+NAME_ID: County Tartu
+NAME_IT: Tartumaa
+NAME_JA: タルトゥ県
+NAME_KO: 타르투 주
+NAME_NL: Tartumaa
+NAME_PL: Tartumaa
+NAME_PT: Tartumaa
+NAME_RU: Тартумаа
+NAME_SV: Tartumaa
+NAME_TR: Tartu ili
+NAME_VI: Hạt Tartu
+NAME_ZH: 塔爾圖縣
+NE_ID: 1159313087

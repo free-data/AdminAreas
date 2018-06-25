@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1681
+DISS_ME: 1681
+ISO_3166_2: AZ-GOR
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Goranboy
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: Ganja-Gazakh Economic Region
+REGION_COD: AZ-02
+PROVNUM_NE: 59
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ21
+FIPS_ALT: null
+WOE_ID: 20070261
+WOE_LABEL: null
+WOE_NAME: Goranboy
+LATITUDE: 40.5463
+LONGITUDE: 46.645
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 586112
+GN_NAME: Goranboy Rayon
+GNS_ID: -2706730
+GNS_NAME: Goranboy Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ21
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q330843
+NAME_AR: مقاطعة غورانبوي
+NAME_BN: গোরানবয় জেলা
+NAME_DE: Goranboy
+NAME_EN: Goranboy District
+NAME_ES: Goranboy
+NAME_FR: Goranboy
+NAME_EL: Γκορανμπόι
+NAME_HI: गोरान्बोय जिला
+NAME_HU: null
+NAME_ID: Goranboy
+NAME_IT: distretto di Goranboy
+NAME_JA: ゴランボイ県
+NAME_KO: 고란보이 구
+NAME_NL: Goranboy
+NAME_PL: Rejon Goranboy
+NAME_PT: Goranboy
+NAME_RU: Геранбойский район
+NAME_SV: Goranboj
+NAME_TR: Goranboy Rayonu
+NAME_VI: Geranboy
+NAME_ZH: 戈蘭博伊區
+NE_ID: 1159312227

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-129
+DISS_ME: 129
+ISO_3166_2: RO-CL
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Calarasi
+NAME_ALT: Călărași|Kalarasch
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.CL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO41
+FIPS_ALT: null
+WOE_ID: 2346654
+WOE_LABEL: Calarasi, RO, Romania
+WOE_NAME: Calarasi
+LATITUDE: 44.3144
+LONGITUDE: 27.1514
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 683016
+GN_NAME: Judetul Calarasi
+GNS_ID: -1154441
+GNS_NAME: Calarasi, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO41
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q188948
+NAME_AR: مقاطعة كالاراسي
+NAME_BN: কালারাসি কাউন্টি
+NAME_DE: Kreis Călărași
+NAME_EN: Călărași County
+NAME_ES: Călărași
+NAME_FR: Județ de Călărași
+NAME_EL: Καλαράσι
+NAME_HI: कालारसी काउंटी
+NAME_HU: Călărași megye
+NAME_ID: Provinsi Călărași
+NAME_IT: distretto di Călărași
+NAME_JA: カララシ県
+NAME_KO: 컬러라시 주
+NAME_NL: District Călărași
+NAME_PL: Okręg Călărași
+NAME_PT: Călărași
+NAME_RU: Кэлэраши
+NAME_SV: Călărași
+NAME_TR: Călărași ili
+NAME_VI: Hạt Calarasi
+NAME_ZH: 克勒拉希縣
+NE_ID: 1159307705

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CUB-1322
+DISS_ME: 1322
+ISO_3166_2: CU-07
+WIKIPEDIA: null
+ISO_A2: CU
+ADM0_SR: 5
+NAME: Sancti Spíritus
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CU.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: CU14
+FIPS_ALT: null
+WOE_ID: 2345118
+WOE_LABEL: Sancti Spiritus, CU, Cuba
+WOE_NAME: Sancti Spíritus
+LATITUDE: 21.9618
+LONGITUDE: -79.3804
+SOV_A3: CUB
+ADM0_A3: CUB
+ADM0_LABEL: 2
+ADMIN: Cuba
+GEONUNIT: Cuba
+GU_A3: CUB
+GN_ID: 3540665
+GN_NAME: Provincia de Sancti Spiritus
+GNS_ID: -1641596
+GNS_NAME: Sancti Spiritus
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CU.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CU14
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q115441
+NAME_AR: سانكتي سبيريتوس
+NAME_BN: সানক্তি স্পিরিতুস প্রদেশ
+NAME_DE: Provinz Sancti Spíritus
+NAME_EN: Sancti Spíritus Province
+NAME_ES: Provincia de Sancti Spíritus
+NAME_FR: province de Sancti Spíritus
+NAME_EL: Σάνκτι Σπίριτους
+NAME_HI: सैंक्टी स्पिरिटस प्रांत
+NAME_HU: Sancti Spíritus
+NAME_ID: Provinsi Sancti Spíritus
+NAME_IT: provincia di Sancti Spíritus
+NAME_JA: サンクティ・スピリトゥス州
+NAME_KO: 상크티스피리투스 주
+NAME_NL: Sancti Spíritus
+NAME_PL: Prowincja Sancti Spíritus
+NAME_PT: Sancti Spíritus
+NAME_RU: Санкти-Спиритус
+NAME_SV: Provincia de Sancti Spíritus
+NAME_TR: Sancti Spíritus ili
+NAME_VI: Sancti Spíritus
+NAME_ZH: 圣斯皮里图斯省
+NE_ID: 1159310355

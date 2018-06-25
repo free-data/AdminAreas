@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5328
+DISS_ME: 5328
+ISO_3166_2: FR-57
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Moselle
+NAME_ALT: Lorena
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.MO
+NOTE: null
+HASC_MAYBE: null
+REGION: Lorraine
+REGION_COD: FR-M
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRB2
+FIPS_ALT: null
+WOE_ID: 12597171
+WOE_LABEL: null
+WOE_NAME: Moselle
+LATITUDE: 49.0845
+LONGITUDE: 6.51862
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2991627
+GN_NAME: Departement de la Moselle
+GNS_ID: -1453799
+GNS_NAME: Moselle, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.57
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRB2
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12652
+NAME_AR: موزيل
+NAME_BN: মোসেল্যে
+NAME_DE: Département Moselle
+NAME_EN: Moselle
+NAME_ES: Mosela
+NAME_FR: Moselle
+NAME_EL: Μοζέλ
+NAME_HI: मॉसेल
+NAME_HU: Moselle
+NAME_ID: Moselle
+NAME_IT: Mosella
+NAME_JA: モゼル県
+NAME_KO: 모젤 주
+NAME_NL: Moselle
+NAME_PL: Mozela
+NAME_PT: Mosela
+NAME_RU: Мозель
+NAME_SV: Moselle
+NAME_TR: Moselle
+NAME_VI: Moselle
+NAME_ZH: 摩泽尔省
+NE_ID: 1159316809

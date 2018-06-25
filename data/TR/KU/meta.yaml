@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2276
+DISS_ME: 2276
+ISO_3166_2: TR-43
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Kütahya
+NAME_ALT: Kütanya
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.KU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20072
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KU
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU43
+FIPS_ALT: null
+WOE_ID: 2347297
+WOE_LABEL: KÃ¼tahya, TR, Turkey
+WOE_NAME: Kütahya
+LATITUDE: 39.3471
+LONGITUDE: 29.5498
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 305267
+GN_NAME: Kuetahya
+GNS_ID: -763927
+GNS_NAME: Kutahya Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.43
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU43
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q126874
+NAME_AR: كوتاهية
+NAME_BN: কুটাহিয়া প্রদেশ
+NAME_DE: Kütahya
+NAME_EN: Kütahya Province
+NAME_ES: Provincia de Kütahya
+NAME_FR: Kütahya
+NAME_EL: Επαρχία Κιουτάχειας
+NAME_HI: कुताह्या प्रांत
+NAME_HU: Kütahya
+NAME_ID: Provinsi Kütahya
+NAME_IT: provincia di Kütahya
+NAME_JA: キュタヒヤ県
+NAME_KO: 퀴타히아 주
+NAME_NL: Kütahya
+NAME_PL: Kütahya
+NAME_PT: Kütahya
+NAME_RU: Кютахья
+NAME_SV: Kütahya
+NAME_TR: Kütahya
+NAME_VI: Kütahya
+NAME_ZH: 屈塔希亚省
+NE_ID: 1159312387

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2271
+DISS_ME: 2271
+ISO_3166_2: TR-07
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Antalya
+NAME_ALT: Adalia|Anatolia
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.AL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20036
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU07
+FIPS_ALT: null
+WOE_ID: 2347264
+WOE_LABEL: Antalya, TR, Turkey
+WOE_NAME: Antalya
+LATITUDE: 37.1141
+LONGITUDE: 30.9564
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 323776
+GN_NAME: Antalya
+GNS_ID: -735348
+GNS_NAME: Antalya Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU07
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q40249
+NAME_AR: أنطاليا
+NAME_BN: আন্তালিয়া প্রদেশ
+NAME_DE: Antalya
+NAME_EN: Antalya Province
+NAME_ES: Provincia de Antalya
+NAME_FR: Antalya
+NAME_EL: Επαρχία Αττάλειας
+NAME_HI: अंताल्या प्रांत
+NAME_HU: Antalya
+NAME_ID: Provinsi Antalya
+NAME_IT: provincia di Adalia
+NAME_JA: アンタルヤ県
+NAME_KO: 안탈리아 주
+NAME_NL: Antalya
+NAME_PL: Antalya
+NAME_PT: Antália
+NAME_RU: Анталья
+NAME_SV: Antalya
+NAME_TR: Antalya
+NAME_VI: Antalya
+NAME_ZH: 安塔利亚省
+NE_ID: 1159312375

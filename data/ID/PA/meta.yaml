@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-558
+DISS_ME: 558
+ISO_3166_2: ID-PA
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 4
+NAME: Papua
+NAME_ALT: New Guinea|Yos Sudarso or Frederick Hendrik|Waigeo|Supiori Biak|Yapen|Misool|Salawati|Batanta
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID36
+FIPS_ALT: ID09
+WOE_ID: 2345718
+WOE_LABEL: Papua, ID, Indonesia
+WOE_NAME: Papua
+LATITUDE: -4.10825
+LONGITUDE: 138.689
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1643012
+GN_NAME: Provinsi Papua
+GNS_ID: -2679537
+GNS_NAME: Papua, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID36
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5095
+NAME_AR: بابوا
+NAME_BN: পাপুয়া প্রদেশ
+NAME_DE: Papua
+NAME_EN: Papua Province
+NAME_ES: Papúa
+NAME_FR: Papouasie
+NAME_EL: Παπούα
+NAME_HI: पापुआ प्रान्त
+NAME_HU: null
+NAME_ID: Papua
+NAME_IT: Papua
+NAME_JA: パプア州
+NAME_KO: 파푸아 주
+NAME_NL: Papoea
+NAME_PL: Papua
+NAME_PT: Papua
+NAME_RU: Папуа
+NAME_SV: Papua
+NAME_TR: Papua
+NAME_VI: Papua
+NAME_ZH: 巴布亚省
+NE_ID: 1159308857

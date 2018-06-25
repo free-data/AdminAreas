@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: Argentina
+SOV_A3: ARG
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Argentina
+ADM0_A3: ARG
+GEOU_DIF: 0
+GEOUNIT: Argentina
+GU_A3: ARG
+SU_DIF: 0
+SUBUNIT: Argentina
+SU_A3: ARG
+BRK_DIFF: 0
+NAME: Argentina
+NAME_LONG: Argentina
+BRK_A3: ARG
+BRK_NAME: Argentina
+BRK_GROUP: null
+ABBREV: Arg.
+POSTAL: AR
+FORMAL_EN: Argentine Republic
+FORMAL_FR: null
+NAME_CIAWF: Argentina
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Argentina
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 1
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+POP_EST: 44293293
+POP_RANK: 15
+GDP_MD_EST: 879400
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 5. Emerging region: G20
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: AR
+ISO_A2: AR
+ISO_A3: ARG
+ISO_A3_EH: ARG
+ISO_N3: 032
+UN_A3: 032
+WB_A2: AR
+WB_A3: ARG
+WOE_ID: 23424747
+WOE_ID_EH: 23424747
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ARG
+ADM0_A3_US: ARG
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: South America
+REGION_UN: Americas
+SUBREGION: South America
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 9
+LONG_LEN: 9
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 2
+MAX_LABEL: 7
+NE_ID: 1159320331
+WIKIDATAID: Q414
+NAME_AR: الأرجنتين
+NAME_BN: আর্জেন্টিনা
+NAME_DE: Argentinien
+NAME_EN: Argentina
+NAME_ES: Argentina
+NAME_FR: Argentine
+NAME_EL: Αργεντινή
+NAME_HI: अर्जेण्टीना
+NAME_HU: Argentína
+NAME_ID: Argentina
+NAME_IT: Argentina
+NAME_JA: アルゼンチン
+NAME_KO: 아르헨티나
+NAME_NL: Argentinië
+NAME_PL: Argentyna
+NAME_PT: Argentina
+NAME_RU: Аргентина
+NAME_SV: Argentina
+NAME_TR: Arjantin
+NAME_VI: Argentina
+NAME_ZH: 阿根廷

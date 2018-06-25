@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1731
+DISS_ME: 1731
+ISO_3166_2: AZ-ZAQ
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Zaqatala
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.ZQ
+NOTE: null
+HASC_MAYBE: null
+REGION: Shaki-Zaqatala Economic Region
+REGION_COD: AZ-03
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ZQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ70
+FIPS_ALT: null
+WOE_ID: 20070254
+WOE_LABEL: Zaqatala, AZ, Azerbaijan
+WOE_NAME: Zaqatala
+LATITUDE: 41.5666
+LONGITUDE: 46.654
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 584604
+GN_NAME: Zaqatala Rayon
+GNS_ID: -2709257
+GNS_NAME: Zaqatala Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.70
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ70
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q147553
+NAME_AR: مقاطعة زقاتالا
+NAME_BN: জাকাতালা জেলা
+NAME_DE: Zaqatala
+NAME_EN: Zaqatala District
+NAME_ES: Zaqatala
+NAME_FR: Zaqatala
+NAME_EL: Ζακατάλα
+NAME_HI: ज़ाकाटला जिला
+NAME_HU: Zaqatalai járás
+NAME_ID: Zaqatala
+NAME_IT: distretto di Zaqatala
+NAME_JA: ザガタラ県
+NAME_KO: 자가탈라 구
+NAME_NL: Zaqatala
+NAME_PL: Rejon Zaqatala
+NAME_PT: Zaqatala
+NAME_RU: Закатальский район
+NAME_SV: Zaqatala
+NAME_TR: Zakatala Rayonu
+NAME_VI: Zagatala
+NAME_ZH: 扎卡塔雷區
+NE_ID: 1159309439

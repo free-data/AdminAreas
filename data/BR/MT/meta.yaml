@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-602
+DISS_ME: 602
+ISO_3166_2: BR-MT
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Mato Grosso
+NAME_ALT: Matto Grosso
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: BR.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: M.Gro.
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR14
+FIPS_ALT: null
+WOE_ID: 2344855
+WOE_LABEL: Mato Grosso, BR, Brazil
+WOE_NAME: Mato Grosso
+LATITUDE: -13.3926
+LONGITUDE: -55.9235
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3457419
+GN_NAME: Estado de Mato Grosso
+GNS_ID: -654585
+GNS_NAME: Mato Grosso, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: BR14
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q42824
+NAME_AR: ماتو غروسو
+NAME_BN: মাতো গ্রসো
+NAME_DE: Mato Grosso
+NAME_EN: Mato Grosso
+NAME_ES: Mato Grosso
+NAME_FR: Mato Grosso
+NAME_EL: Μάτου Γκρόσου
+NAME_HI: मातो ग्रोसो
+NAME_HU: Mato Grosso
+NAME_ID: Mato Grosso
+NAME_IT: Mato Grosso
+NAME_JA: マットグロッソ州
+NAME_KO: 마투그로수 주
+NAME_NL: Mato Grosso
+NAME_PL: Mato Grosso
+NAME_PT: Mato Grosso
+NAME_RU: Мату-Гросу
+NAME_SV: Mato Grosso
+NAME_TR: Mato Grosso
+NAME_VI: Mato Grosso
+NAME_ZH: 马托格罗索州
+NE_ID: 1159307909

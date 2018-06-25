@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: NCL-1258
+DISS_ME: 1258
+ISO_3166_2: NC-X01~
+WIKIPEDIA: null
+ISO_A2: NC
+ADM0_SR: 3
+NAME: Îles Loyauté
+NAME_ALT: Loyalty Islands|Islas de la Lealtad
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: NC.IL
+NOTE: includes all nearby islands
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: IL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 12
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: NC01
+FIPS_ALT: null
+WOE_ID: 24549805
+WOE_LABEL: Loyaute, NC, New Caledonia
+WOE_NAME: Îles Loyauté
+LATITUDE: -21.5326
+LONGITUDE: 167.976
+SOV_A3: FR1
+ADM0_A3: NCL
+ADM0_LABEL: 2
+ADMIN: New Caledonia
+GEONUNIT: New Caledonia
+GU_A3: NCL
+GN_ID: 7521415
+GN_NAME: Province des iles Loyaute
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NC.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q18655787
+NAME_AR: مقاطعة جزر لويالتي
+NAME_BN: লয়্যাল্টি দ্বীপপুঞ্জ প্রদেশ
+NAME_DE: Provinz Loyalitätsinseln
+NAME_EN: Loyalty Islands Province
+NAME_ES: La Provincia de Loyalty Islands
+NAME_FR: province des îles Loyauté
+NAME_EL: Νησιά Λόγιαλτι
+NAME_HI: लॉयल्टी द्वीप प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Kepulauan Loyalty
+NAME_IT: Isola della Lealtà
+NAME_JA: ロイヤルティ諸島
+NAME_KO: 로열티 제도 주
+NAME_NL: Loyaliteitseilanden
+NAME_PL: Wyspy Lojalności
+NAME_PT: Província das Ilhas Loyalty
+NAME_RU: Лоялти
+NAME_SV: Loyalty Islands Provins
+NAME_TR: Loyalty Adaları Province
+NAME_VI: Quần đảo Loyalty
+NAME_ZH: null
+NE_ID: 1159308851

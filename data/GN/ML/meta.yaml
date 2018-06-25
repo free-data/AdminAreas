@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GIN-5652
+DISS_ME: 5652
+ISO_3166_2: GN-ML
+WIKIPEDIA: null
+ISO_A2: GN
+ADM0_SR: 1
+NAME: Mali
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: GN.ML
+NOTE: null
+HASC_MAYBE: null
+REGION: Labé
+REGION_COD: GN.L
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: GV22
+FIPS_ALT: null
+WOE_ID: -56059374
+WOE_LABEL: null
+WOE_NAME: Labé
+LATITUDE: 12.0218
+LONGITUDE: -12.1222
+SOV_A3: GIN
+ADM0_A3: GIN
+ADM0_LABEL: 2
+ADMIN: Guinea
+GEONUNIT: Guinea
+GU_A3: GIN
+GN_ID: 2417885
+GN_NAME: Mali Prefecture
+GNS_ID: -1182989
+GNS_NAME: Mali
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GN.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GV22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1781017
+NAME_AR: ولاية مالي
+NAME_BN: মালি প্রশাসনিক অঞ্চল
+NAME_DE: Mali
+NAME_EN: Mali Prefecture
+NAME_ES: Ayuntamiento del Mali
+NAME_FR: préfecture de Mali
+NAME_EL: Μαλί
+NAME_HI: माली प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Mali
+NAME_IT: prefettura di Mali
+NAME_JA: マリ県
+NAME_KO: 말리 지방 행정 구역
+NAME_NL: Mali Prefecture
+NAME_PL: Prefektura Mali
+NAME_PT: Prefeitura de Mali
+NAME_RU: Префектура Мали
+NAME_SV: Mali Prefecture
+NAME_TR: Mali Prefecture
+NAME_VI: Tỉnh Mali
+NAME_ZH: 馬里省
+NE_ID: 1159317425

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-650
+DISS_ME: 650
+ISO_3166_2: HN-SB
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Santa Bárbara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.SB
+NOTE: null
+HASC_MAYBE: HN.CP|HND-SBR
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO16
+FIPS_ALT: HO05
+WOE_ID: 2345638
+WOE_LABEL: Santa BÃ¡rbara, HN, Honduras
+WOE_NAME: Santa Bárbara
+LATITUDE: 15.0527
+LONGITUDE: -88.33
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3601689
+GN_NAME: Departamento de Santa Barbara
+GNS_ID: -1129532
+GNS_NAME: Santa Barbara
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q591139
+NAME_AR: إدارة سانتا باربرا
+NAME_BN: সান্তা বারবারা বিভাগ
+NAME_DE: Departamento Santa Bárbara
+NAME_EN: Santa Bárbara Department
+NAME_ES: Santa Bárbara
+NAME_FR: département de Santa Bárbara
+NAME_EL: Σάντα Μπάρμπαρα
+NAME_HI: सैंटा बारबरा विभाग
+NAME_HU: Santa Bárbara megye
+NAME_ID: Departemen Santa Bárbara
+NAME_IT: dipartimento di Santa Bárbara
+NAME_JA: サンタ・バルバラ県
+NAME_KO: 산타바르바라 주
+NAME_NL: Santa Bárbara
+NAME_PL: Santa Bárbara
+NAME_PT: Santa Bárbara
+NAME_RU: Санта-Барбара
+NAME_SV: Departamento de Santa Bárbara
+NAME_TR: Santa Bárbara
+NAME_VI: Santa Bárbara
+NAME_ZH: 聖巴巴拉省
+NE_ID: 1159309115

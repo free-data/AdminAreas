@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1272
+DISS_ME: 1272
+ISO_3166_2: AR-V
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 5
+NAME: Tierra del Fuego
+NAME_ALT: Feuerland|Terra del Fuoco|Terre de Feu|Terra do Fogo|Tierra del Fuego|Antártida e Islas del Atlántico Sur
+NAME_LOCAL: null
+TYPE: Territorio Nacional|Provincia
+TYPE_EN: National Territory
+CODE_LOCAL: null
+CODE_HASC: AR.TF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20024
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: TF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 16
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR23
+FIPS_ALT: null
+WOE_ID: 2344697
+WOE_LABEL: Tierra del Fuego, AR, Argentina
+WOE_NAME: Tierra del Fuego
+LATITUDE: -54.3887
+LONGITUDE: -67.5329
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3834450
+GN_NAME: Provincia de Tierra del Fuego, Antartida e Islas del Atlantico Sur
+GNS_ID: -1016892
+GNS_NAME: Tierra del Fuego, Antartida e Islas del Atlantico Sur, Territorio Nacional de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR23
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44832
+NAME_AR: محافظة تييرا ديل فويغو
+NAME_BN: টিয়েরা দেল ফুয়েগোঁ
+NAME_DE: Provinz Tierra del Fuego
+NAME_EN: Tierra del Fuego Province
+NAME_ES: Provincia de Tierra del Fuego
+NAME_FR: Terre de Feu
+NAME_EL: Τιέρα ντελ Φουέγκο
+NAME_HI: टिएरा डेल फ़ुएगो
+NAME_HU: null
+NAME_ID: Provinsi Tierra del Fuego
+NAME_IT: provincia di Terra del Fuoco
+NAME_JA: ティエラ・デル・フエゴ州
+NAME_KO: 티에라델푸에고 주
+NAME_NL: Vuurland
+NAME_PL: Ziemia Ognista
+NAME_PT: Terra do Fogo
+NAME_RU: Огненная Земля
+NAME_SV: Eldslandet
+NAME_TR: Tierra del Fuego
+NAME_VI: Tierra del Fuego
+NAME_ZH: 火地岛省
+NE_ID: 1159309691

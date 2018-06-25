@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNB-5500
+DISS_ME: 5500
+ISO_3166_2: GW-BM
+WIKIPEDIA: http://en.wikipedia.org/wiki/Biombo_Region
+ISO_A2: GW
+ADM0_SR: 3
+NAME: Biombo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Região
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GW.BM
+NOTE: null
+HASC_MAYBE: null
+REGION: Norte
+REGION_COD: GW-N
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: PU12
+FIPS_ALT: PU12
+WOE_ID: 2346611
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 11.8108
+LONGITUDE: -15.7839
+SOV_A3: GNB
+ADM0_A3: GNB
+ADM0_LABEL: 5
+ADMIN: Guinea Bissau
+GEONUNIT: Guinea Bissau
+GU_A3: GNB
+GN_ID: 2374820
+GN_NAME: Biombo
+GNS_ID: -1488367
+GNS_NAME: Biombo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GW.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: PU12
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q872228
+NAME_AR: إقليم بيومبو
+NAME_BN: বায়োম্বু অঞ্চল
+NAME_DE: Region Biombo
+NAME_EN: Biombo Region
+NAME_ES: Región de Biombo
+NAME_FR: Biombo
+NAME_EL: Μπιόμπο
+NAME_HI: बिओम्बो प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Biombo
+NAME_IT: regione di Biombo
+NAME_JA: ビオンボ州
+NAME_KO: 비옴부 주
+NAME_NL: Biombo
+NAME_PL: Region Biombo
+NAME_PT: Biombo
+NAME_RU: Биомбо
+NAME_SV: Biombo
+NAME_TR: Biombo Region
+NAME_VI: Khu vực Biombo
+NAME_ZH: 比翁博區
+NE_ID: 1159317147

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2309
+DISS_ME: 2309
+ISO_3166_2: TR-21
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Diyarbakir
+NAME_ALT: Diyarbakır
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.DY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20017
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DY
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU21
+FIPS_ALT: null
+WOE_ID: 2347278
+WOE_LABEL: DiyarbakÄ±r, TR, Turkey
+WOE_NAME: Diyarbakir
+LATITUDE: 38.0261
+LONGITUDE: 40.2706
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 316540
+GN_NAME: Diyarbakir
+GNS_ID: -746542
+GNS_NAME: Diyarbakir Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU21
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q83081
+NAME_AR: دياربكر
+NAME_BN: দিয়ারবাকির প্রদেশ
+NAME_DE: Diyarbakır
+NAME_EN: Diyarbakır Province
+NAME_ES: Provincia de Diyarbakır
+NAME_FR: Diyarbakır
+NAME_EL: Επαρχία Ντιγιαρμπακίρ
+NAME_HI: दियेर्बाकीर प्रांत
+NAME_HU: Diyarbakır
+NAME_ID: Provinsi Diyarbakır
+NAME_IT: provincia di Diyarbakır
+NAME_JA: ディヤルバクル県
+NAME_KO: 디야르바키르 주
+NAME_NL: Diyarbakır
+NAME_PL: Diyarbakır
+NAME_PT: Diyarbakır
+NAME_RU: Диярбакыр
+NAME_SV: Diyarbakır
+NAME_TR: Diyarbakır
+NAME_VI: Diyarbakır
+NAME_ZH: 迪亚巴克尔省
+NE_ID: 1159312421

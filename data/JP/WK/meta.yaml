@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1854
+DISS_ME: 1854
+ISO_3166_2: JP-30
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Wakayama
+NAME_ALT: null
+NAME_LOCAL: 和歌山県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.WK
+NOTE: null
+HASC_MAYBE: JP.NN
+REGION: Kinki
+REGION_COD: JPN-KIN
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: WK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA43
+FIPS_ALT: JA26
+WOE_ID: 2345892
+WOE_LABEL: Wakayama Prefecture, JP, Japan
+WOE_NAME: Wakayama
+LATITUDE: 33.93
+LONGITUDE: 135.401
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1848938
+GN_NAME: Wakayama-ken
+GNS_ID: -247826
+GNS_NAME: Wakayama-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.43
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA43
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q131314
+NAME_AR: واكاياما
+NAME_BN: ওয়াকায়ামা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Wakayama
+NAME_EN: Wakayama Prefecture
+NAME_ES: Prefectura de Wakayama
+NAME_FR: Préfecture de Wakayama
+NAME_EL: Γουακαγιάμα
+NAME_HI: वकायामा प्रान्त
+NAME_HU: Vakajama prefektúra
+NAME_ID: Prefektur Wakayama
+NAME_IT: prefettura di Wakayama
+NAME_JA: 和歌山県
+NAME_KO: 와카야마 현
+NAME_NL: Wakayama
+NAME_PL: Prefektura Wakayama
+NAME_PT: Wakayama
+NAME_RU: Вакаяма
+NAME_SV: Wakayama prefektur
+NAME_TR: Wakayama
+NAME_VI: Wakayama
+NAME_ZH: 和歌山县
+NE_ID: 1159309419

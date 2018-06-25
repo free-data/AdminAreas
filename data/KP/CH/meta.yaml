@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PRK-3310
+DISS_ME: 3310
+ISO_3166_2: KP-04
+WIKIPEDIA: null
+ISO_A2: KP
+ADM0_SR: 1
+NAME: Chagang-do
+NAME_ALT: Changang|Jagang
+NAME_LOCAL: 	자강도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KP.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: KN01
+FIPS_ALT: null
+WOE_ID: 2345950
+WOE_LABEL: Chagang-do, KP, North Korea
+WOE_NAME: Chagang-do
+LATITUDE: 40.6548
+LONGITUDE: 126.404
+SOV_A3: PRK
+ADM0_A3: PRK
+ADM0_LABEL: 2
+ADMIN: North Korea
+GEONUNIT: North Korea
+GU_A3: PRK
+GN_ID: 2045265
+GN_NAME: Chagang-do
+GNS_ID: -172144
+GNS_NAME: Chagang-do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KP.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KN01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q272406
+NAME_AR: تشاغانغ
+NAME_BN: চ্যাগাং প্রদেশ
+NAME_DE: Chagang-do
+NAME_EN: Chagang Province
+NAME_ES: Chagang
+NAME_FR: Jagang
+NAME_EL: Τσαγκάνγκ
+NAME_HI: चगांग प्रांत
+NAME_HU: Csagang tartomány
+NAME_ID: Chagang
+NAME_IT: Chagang
+NAME_JA: 慈江道
+NAME_KO: 자강도
+NAME_NL: Chagang-do
+NAME_PL: Chagang
+NAME_PT: Chagang
+NAME_RU: Чагандо
+NAME_SV: Chagang
+NAME_TR: Chagang
+NAME_VI: Chagang
+NAME_ZH: 慈江道
+NE_ID: 1159315283

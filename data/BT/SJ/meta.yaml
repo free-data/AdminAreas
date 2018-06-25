@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2492
+DISS_ME: 2492
+ISO_3166_2: BT-45
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Samdrup Jongkhar
+NAME_ALT: Samdrup|Samdrup Jongkha
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT17
+FIPS_ALT: null
+WOE_ID: 2344884
+WOE_LABEL: Samdrup, BT, Bhutan
+WOE_NAME: Samdrup Jongkhar
+LATITUDE: 26.9509
+LONGITUDE: 91.7328
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337290
+GN_NAME: Samdrup Jongkhar Dzongkhag
+GNS_ID: 220718
+GNS_NAME: Samdrup Jongkhar Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT17
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q728929
+NAME_AR: مقاطعة سامدروب جونغخار
+NAME_BN: সামড্রোপ জাংকার জেলা
+NAME_DE: Samdrup Jongkhar
+NAME_EN: Samdrup Jongkhar District
+NAME_ES: Distrito de Samdrup Jongkhar
+NAME_FR: Samdrup Jongkhar
+NAME_EL: Σαμντρούπ Τζόνγκχαρ
+NAME_HI: समद्रप जोंगखार जिला
+NAME_HU: Samdrup Jongkhar körzet
+NAME_ID: Distrik Samdrup Jongkhar
+NAME_IT: distretto di Samdrup Jongkhar
+NAME_JA: サムドゥプ・ジョンカル県
+NAME_KO: 삼드룹종카르 현
+NAME_NL: Samdrup Jongkhar
+NAME_PL: Dystrykt Samdrup Jongkhar
+NAME_PT: Samdrup Jongkhar
+NAME_RU: Самдруп-Джонгхар
+NAME_SV: Samdrup Jongkhar
+NAME_TR: Samdrup Jonkh District
+NAME_VI: Quận Samdrup Jongkhar
+NAME_ZH: 萨姆德鲁琼卡尔宗
+NE_ID: 1159311819

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2343
+DISS_ME: 2343
+ISO_3166_2: RU-SMO
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Smolensk
+NAME_ALT: Smolenskaya Oblast
+NAME_LOCAL: Смоленская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20045
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS69
+FIPS_ALT: null
+WOE_ID: 2346925
+WOE_LABEL: Smolenskaya Oblast, RU, Russia
+WOE_NAME: Smolensk
+LATITUDE: 54.6726
+LONGITUDE: 33.0803
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 491684
+GN_NAME: Smolenskaya Oblast'
+GNS_ID: -3006143
+GNS_NAME: Smolenskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.69
+REGION_SUB: Central
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS69
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2347
+NAME_AR: أوبلاست سمولينسك
+NAME_BN: সি্মো স্মোলেনস্ক ওব্লাস্ট
+NAME_DE: Oblast Smolensk
+NAME_EN: Smolensk Oblast
+NAME_ES: Óblast de Smolensk
+NAME_FR: Oblast de Smolensk
+NAME_EL: Περιφέρεια Σμολένσκ
+NAME_HI: स्मोलेंस्क ओब्लास्ट
+NAME_HU: Szmolenszki terület
+NAME_ID: Oblast Smolensk
+NAME_IT: oblast' di Smolensk
+NAME_JA: スモレンスク州
+NAME_KO: 스몰렌스크 주
+NAME_NL: Oblast Smolensk
+NAME_PL: Obwód smoleński
+NAME_PT: Oblast de Smolensk
+NAME_RU: Смоленская область
+NAME_SV: Smolensk oblast
+NAME_TR: Smolensk Oblastı
+NAME_VI: Smolensk
+NAME_ZH: 斯摩棱斯克州
+NE_ID: 1159313155

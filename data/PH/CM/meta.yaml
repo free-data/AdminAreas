@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2590
+DISS_ME: 2590
+ISO_3166_2: PH-CAM
+WIKIPEDIA: http://en.wikipedia.org/wiki/Camiguin
+ISO_A2: PH
+ADM0_SR: 3
+NAME: Camiguin
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.CM
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Mindanao (Region X)
+REGION_COD: PH-10
+PROVNUM_NE: 20062
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP17
+FIPS_ALT: null
+WOE_ID: 2346672
+WOE_LABEL: null
+WOE_NAME: Camiguin
+LATITUDE: 9.17353
+LONGITUDE: 124.722
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1719694
+GN_NAME: Province of Camiguin
+GNS_ID: -2419686
+GNS_NAME: Camiguin, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.17
+REGION_SUB: Camiguin
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13769
+NAME_AR: كاميغويين
+NAME_BN: কামিকুইন
+NAME_DE: Camiguin
+NAME_EN: Camiguin
+NAME_ES: Camiguín
+NAME_FR: province de Camiguin
+NAME_EL: Καμιγκουίν
+NAME_HI: कमिगिन
+NAME_HU: null
+NAME_ID: Camiguin
+NAME_IT: Provincia di Camiguin
+NAME_JA: カミギン州
+NAME_KO: 카미긴 주
+NAME_NL: Camiguin
+NAME_PL: Camiguin
+NAME_PT: Camiguin
+NAME_RU: Камигин
+NAME_SV: Camiguin
+NAME_TR: Camiguin
+NAME_VI: Camiguin
+NAME_ZH: 卡米金省
+NE_ID: 1159313369

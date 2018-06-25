@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5744
+DISS_ME: 5744
+ISO_3166_2: LV-044
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Karsavas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.KA
+NOTE: null
+HASC_MAYBE: null
+REGION: Latgale
+REGION_COD: LV.BL
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG78
+FIPS_ALT: null
+WOE_ID: -2346042
+WOE_LABEL: Balvu Rajons, LV, Latvia
+WOE_NAME: Balvi
+LATITUDE: 56.7645
+LONGITUDE: 27.6287
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628351
+GN_NAME: Karsavas Novads
+GNS_ID: 10981286
+GNS_NAME: Karsavas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.78
+REGION_SUB: Latgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG78
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2395952
+NAME_AR: بلدية كارسافا
+NAME_BN: কারসাভা পৌরসভা
+NAME_DE: Bezirk Kārsava
+NAME_EN: Kārsava Municipality
+NAME_ES: Municipalidad de Kārsava
+NAME_FR: Kārsava
+NAME_EL: Κοινότητα Κάρσαβα
+NAME_HI: करसावा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Kārsava
+NAME_IT: Kārsava
+NAME_JA: カールサヴァ
+NAME_KO: 카르사바 시
+NAME_NL: Kārsavas novads
+NAME_PL: Gmina Kārsava
+NAME_PT: Karsava
+NAME_RU: Карсавский край
+NAME_SV: Karsava kommun
+NAME_TR: Karsava Belediyesi
+NAME_VI: Đô thị tự trị Karsava
+NAME_ZH: null
+NE_ID: 1159317735

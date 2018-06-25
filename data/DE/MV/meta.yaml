@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: DEU-3488
+DISS_ME: 3488
+ISO_3166_2: DE-MV
+WIKIPEDIA: null
+ISO_A2: DE
+ADM0_SR: 5
+NAME: Mecklenburg-Vorpommern
+NAME_ALT: Mecklenburg-West Pomerania
+NAME_LOCAL: null
+TYPE: Land
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: DE.MV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 30001
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: MV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 22
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: GM12
+FIPS_ALT: null
+WOE_ID: 2345492
+WOE_LABEL: Mecklenburg-Vorpommern, DE, Germany
+WOE_NAME: Mecklenburg-Vorpommern
+LATITUDE: 53.7528
+LONGITUDE: 12.5647
+SOV_A3: DEU
+ADM0_A3: DEU
+ADM0_LABEL: 2
+ADMIN: Germany
+GEONUNIT: Germany
+GU_A3: DEU
+GN_ID: 2872567
+GN_NAME: Land Mecklenburg-Vorpommern
+GNS_ID: -1824278
+GNS_NAME: Mecklenburg-Vorpommern
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DE.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: GM12
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1196
+NAME_AR: مكلنبورغ فوربومرن
+NAME_BN: মেকলেনবুর্গ-ভোপোমান
+NAME_DE: Mecklenburg-Vorpommern
+NAME_EN: Mecklenburg-Western Pomerania
+NAME_ES: Mecklemburgo-Pomerania Occidental
+NAME_FR: Mecklembourg-Poméranie-Occidentale
+NAME_EL: Μεκλεμβούργο-Δυτική Πομερανία
+NAME_HI: मेक्लेनबर्ग-वोर्पोमेर्न
+NAME_HU: Mecklenburg–Elő-Pomeránia
+NAME_ID: Mecklenburg-Vorpommern
+NAME_IT: Meclemburgo-Pomerania Anteriore
+NAME_JA: メクレンブルク＝フォアポンメルン州
+NAME_KO: 메클렌부르크포어포메른 주
+NAME_NL: Mecklenburg-Voor-Pommeren
+NAME_PL: Meklemburgia-Pomorze Przednie
+NAME_PT: Mecklemburgo-Pomerânia Ocidental
+NAME_RU: Мекленбург-Передняя Померания
+NAME_SV: Mecklenburg-Vorpommern
+NAME_TR: Mecklenburg-Vorpommern
+NAME_VI: Mecklenburg-Vorpommern
+NAME_ZH: 梅克伦堡－前波美拉尼亚
+NE_ID: 1159314907

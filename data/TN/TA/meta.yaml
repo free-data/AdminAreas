@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-98
+DISS_ME: 98
+ISO_3166_2: TN-83
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Tataouine
+NAME_ALT: Foum Tataouine|Tatahouine|Tatuine|Taţāwīn
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.TA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS34
+FIPS_ALT: null
+WOE_ID: 2347254
+WOE_LABEL: Tatawin, TN, Tunisia
+WOE_NAME: Tataouine
+LATITUDE: 32.154
+LONGITUDE: 9.88514
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2464698
+GN_NAME: Gouvernorat de Tataouine
+GNS_ID: -731468
+GNS_NAME: Tataouine, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS34
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q327045
+NAME_AR: ولاية تطاوين
+NAME_BN: তাতাউইন গভর্নোরেট
+NAME_DE: Gouvernorat Tataouine
+NAME_EN: Tataouine Governorate
+NAME_ES: Gobernación de Tataouine
+NAME_FR: gouvernorat de Tataouine
+NAME_EL: Τατάουιν
+NAME_HI: टाटाउने
+NAME_HU: null
+NAME_ID: Kegubernuran Tataouine
+NAME_IT: governatorato di Tataouine
+NAME_JA: タタウイヌ県
+NAME_KO: 타타우인 주
+NAME_NL: Tataouine
+NAME_PL: Gubernatorstwo Tatawin
+NAME_PT: Tataouine
+NAME_RU: Татавин
+NAME_SV: Tataouine
+NAME_TR: Tatavin ili
+NAME_VI: Tỉnh Tataouine
+NAME_ZH: 泰塔溫省
+NE_ID: 1159309361

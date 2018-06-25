@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: NER-800
+DISS_ME: 800
+ISO_3166_2: NE-1
+WIKIPEDIA: null
+ISO_A2: NE
+ADM0_SR: 1
+NAME: Agadez
+NAME_ALT: Agadès
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NE.AG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AG
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: NG01
+FIPS_ALT: null
+WOE_ID: 2346324
+WOE_LABEL: Agadez, NE, Niger
+WOE_NAME: Agadez
+LATITUDE: 19.4523
+LONGITUDE: 10.0991
+SOV_A3: NER
+ADM0_A3: NER
+ADM0_LABEL: 2
+ADMIN: Niger
+GEONUNIT: Niger
+GU_A3: NER
+GN_ID: 2448083
+GN_NAME: Agadez
+GNS_ID: -1077351
+GNS_NAME: Agadez, Departement d'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NE.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NG01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q389944
+NAME_AR: منطقة أغاديس
+NAME_BN: আগাডেজ অঞ্চল
+NAME_DE: Agadez
+NAME_EN: Agadez Region
+NAME_ES: Región de Agadez
+NAME_FR: Agadez
+NAME_EL: Αγκαντέζ
+NAME_HI: अगाडेज़ क्षेत्र
+NAME_HU: null
+NAME_ID: Agadez
+NAME_IT: regione di Agadez
+NAME_JA: アガデス州
+NAME_KO: 아가데즈 주
+NAME_NL: Agadez
+NAME_PL: Agadez
+NAME_PT: Agadez
+NAME_RU: Агадес
+NAME_SV: Agadez
+NAME_TR: Agadez
+NAME_VI: Khu vực Agadez
+NAME_ZH: 阿加德兹大区
+NE_ID: 1159309231

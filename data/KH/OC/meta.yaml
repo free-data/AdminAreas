@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1782
+DISS_ME: 1782
+ISO_3166_2: KH-22
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Otdar Mean Chey
+NAME_ALT: Oddâr Méanchey
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.OC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: OC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB27
+FIPS_ALT: CB16
+WOE_ID: 20070092
+WOE_LABEL: Otdar Mean Cheay, KH, Cambodia
+WOE_NAME: Otdar Mean Chey
+LATITUDE: 14.1712
+LONGITUDE: 103.55
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1822210
+GN_NAME: Otar Meanchey
+GNS_ID: -1032759
+GNS_NAME: Otdar Mean Choay, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.27
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB27
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q629538
+NAME_AR: مقاطعة أودار ميانتشي
+NAME_BN: অড্ডার মিনকে প্রদেশ
+NAME_DE: Oddar Meanchey
+NAME_EN: Oddar Meanchey Province
+NAME_ES: Oddar Mean Chey
+NAME_FR: province d'Otdar Mean Cheay
+NAME_EL: Οντάρ Μίντσεϊ
+NAME_HI: ओडार मीनचे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Oddar Meanchey
+NAME_IT: provincia di Oddar Meancheay
+NAME_JA: ウドンメンチェイ州
+NAME_KO: 오다르메안체이 주
+NAME_NL: Oddar Meancheay
+NAME_PL: Prowincja Otdar Mean Cheay
+NAME_PT: Oddar Mean Cheay
+NAME_RU: Оддармеантьей
+NAME_SV: Ŏtâr Méanchey
+NAME_TR: Odday Mecanhey Province
+NAME_VI: Oddar Meancheay
+NAME_ZH: 奥多棉吉省
+NE_ID: 1159311559

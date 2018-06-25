@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3400
+DISS_ME: 3400
+ISO_3166_2: NZ-CAN
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Canterbury
+NAME_ALT: Waitaha
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: South Island
+REGION_COD: NZ-S
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZE9
+FIPS_ALT: null
+WOE_ID: 15021751
+WOE_LABEL: Canterbury, NZ, New Zealand
+WOE_NAME: Canterbury
+LATITUDE: -43.4
+LONGITUDE: 171.813
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2192628
+GN_NAME: Canterbury
+GNS_ID: 11483127
+GNS_NAME: Canterbury Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.E9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q657004
+NAME_AR: كانتربيري - نيوزلندا
+NAME_BN: ক্যান্টাবেরি অঞ্চল
+NAME_DE: Canterbury
+NAME_EN: Canterbury Region
+NAME_ES: Canterbury
+NAME_FR: Canterbury
+NAME_EL: Καντέρμπερι
+NAME_HI: कैंटरबरी
+NAME_HU: Canterbury régió
+NAME_ID: Canterbury
+NAME_IT: Canterbury
+NAME_JA: カンタベリー地方
+NAME_KO: 캔터베리 지방
+NAME_NL: Canterbury
+NAME_PL: Canterbury
+NAME_PT: Canterbury
+NAME_RU: Кентербери
+NAME_SV: Canterbury
+NAME_TR: Canterbury Region
+NAME_VI: Canterbury
+NAME_ZH: 坎特伯雷
+NE_ID: 1159314911

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Iceland
+SOV_A3: ISL
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Iceland
+ADM0_A3: ISL
+GEOU_DIF: 0
+GEOUNIT: Iceland
+GU_A3: ISL
+SU_DIF: 0
+SUBUNIT: Iceland
+SU_A3: ISL
+BRK_DIFF: 0
+NAME: Iceland
+NAME_LONG: Iceland
+BRK_A3: ISL
+BRK_NAME: Iceland
+BRK_GROUP: null
+ABBREV: Iceland
+POSTAL: IS
+FORMAL_EN: Republic of Iceland
+FORMAL_FR: null
+NAME_CIAWF: Iceland
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Iceland
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+POP_EST: 339747
+POP_RANK: 10
+GDP_MD_EST: 16150
+POP_YEAR: 2017
+LASTCENSUS: -99
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: IC
+ISO_A2: IS
+ISO_A3: ISL
+ISO_A3_EH: ISL
+ISO_N3: 352
+UN_A3: 352
+WB_A2: IS
+WB_A3: ISL
+WOE_ID: 23424845
+WOE_ID_EH: 23424845
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ISL
+ADM0_A3_US: ISL
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Northern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 7
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 2
+MAX_LABEL: 7
+NE_ID: 1159320917
+WIKIDATAID: Q189
+NAME_AR: آيسلندا
+NAME_BN: আইসল্যান্ড
+NAME_DE: Island
+NAME_EN: Iceland
+NAME_ES: Islandia
+NAME_FR: Islande
+NAME_EL: Ισλανδία
+NAME_HI: आइसलैण्ड
+NAME_HU: Izland
+NAME_ID: Islandia
+NAME_IT: Islanda
+NAME_JA: アイスランド
+NAME_KO: 아이슬란드
+NAME_NL: IJsland
+NAME_PL: Islandia
+NAME_PT: Islândia
+NAME_RU: Исландия
+NAME_SV: Island
+NAME_TR: İzlanda
+NAME_VI: Iceland
+NAME_ZH: 冰岛

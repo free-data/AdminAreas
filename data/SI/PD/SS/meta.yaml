@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-268
+DISS_ME: 268
+ISO_3166_2: SI-182
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Sveti Andraž v Slovenskih Goricah
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 132
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 33
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIM4
+WOE_ID: -55848377
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.5244
+LONGITUDE: 15.9658
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344928
+GN_NAME: Obcina Sveti Andraz v Slovenskih Goricah
+GNS_ID: 9123445
+GNS_NAME: Sveti Andraz v Slovenskih Goricah, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.M4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q925149
+NAME_AR: بلدية سفيتي أندراش في سلوفينسكيخ غوريتساخ
+NAME_BN: ভেতি আন্দ্রেজ ভ স্লোভেনস্কি গোরিকাহ পৌরসভা
+NAME_DE: Sveti Andraž v Slovenskih goricah
+NAME_EN: Sveti Andraž v Slovenskih Goricah Municipality
+NAME_ES: null
+NAME_FR: Sveti Andraž v Slovenskih goricah
+NAME_EL: Σβέτι Αντράζ
+NAME_HI: स्वेती एंड्राज़ वी स्लोवेनस्कि गोरिकाह नगरपालिका
+NAME_HU: Sveti Andraž v Slovenskih goricah
+NAME_ID: Kotamadya Sveti Andraž v Slovenskih Goricah
+NAME_IT: Sveti Andraž v Slovenskih goricah
+NAME_JA: スヴェティ・アンドラジュ・フ・スロヴェンスキフ・ゴリツァフ
+NAME_KO: ‎스베티안드라주브슬로벤스키흐고리차흐
+NAME_NL: Sveti Andraž
+NAME_PL: Gmina Sveti Andraž v Slovenskih goricah
+NAME_PT: Sveti Andraž v Slovenskih goricah
+NAME_RU: Свети-Андраж
+NAME_SV: Sveti Andraž v Slovenskih Goricah
+NAME_TR: Sveti Andraž v Slovenskih Goricah
+NAME_VI: Sveti Andraž v Slovenskih goricah
+NAME_ZH: 斯洛文尼亞丘陵內斯韋提安德拉日
+NE_ID: 1159308697

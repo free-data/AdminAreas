@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CPV-5046
+DISS_ME: 5046
+ISO_3166_2: CV-CA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Santa_Catarina_(Cape_Verde)
+ISO_A2: CV
+ADM0_SR: 3
+NAME: Santa Catarina
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: 72
+CODE_HASC: CV.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: Ilhas de Sotavento
+REGION_COD: CV-S
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: CV15
+FIPS_ALT: null
+WOE_ID: 2345128
+WOE_LABEL: Santa Catarina, CV, Cape Verde
+WOE_NAME: Santa Catarina
+LATITUDE: 15.0918
+LONGITUDE: -23.7027
+SOV_A3: CPV
+ADM0_A3: CPV
+ADM0_LABEL: 2
+ADMIN: Cape Verde
+GEONUNIT: Cape Verde
+GU_A3: CPV
+GN_ID: 3374226
+GN_NAME: Concelho de Santa Catarina
+GNS_ID: -1313575
+GNS_NAME: Santa Catarina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CV.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CV15
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q494882
+NAME_AR: سانتا كاتارينا
+NAME_BN: স্যান্টা ক্যাটারিনা
+NAME_DE: Santa Catarina
+NAME_EN: Santa Catarina
+NAME_ES: Santa Catarina
+NAME_FR: Santa Catarina
+NAME_EL: Δήμος Σάντα Καταρίνα
+NAME_HI: सैंटा कैटरीना
+NAME_HU: null
+NAME_ID: Santa Catarina
+NAME_IT: contea di Santa Catarina
+NAME_JA: サンタ・カタリナ
+NAME_KO: 산타카타리나 시
+NAME_NL: Santa Catarina
+NAME_PL: Santa Catarina
+NAME_PT: Santa Catarina
+NAME_RU: Санта-Катарина
+NAME_SV: Concelho de Santa Catarina
+NAME_TR: Santa Catarina
+NAME_VI: Santa Catarina
+NAME_ZH: 聖卡塔琳娜縣
+NE_ID: 1159316313

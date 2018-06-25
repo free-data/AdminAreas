@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1278
+DISS_ME: 1278
+ISO_3166_2: EC-F
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Cañar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: CN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC04
+FIPS_ALT: null
+WOE_ID: 2345205
+WOE_LABEL: Canar, EC, Ecuador
+WOE_NAME: Cañar
+LATITUDE: -2.54413
+LONGITUDE: -78.9978
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3659849
+GN_NAME: Provincia del Canar
+GNS_ID: -925150
+GNS_NAME: Canar, Provincia del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC04
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q335471
+NAME_AR: مقاطعة كانار
+NAME_BN: কানার প্রদেশ'
+NAME_DE: Provinz Cañar
+NAME_EN: Cañar Province
+NAME_ES: Provincia de Cañar
+NAME_FR: Cañar
+NAME_EL: Κανιάρ
+NAME_HI: कनार प्रांत
+NAME_HU: Cañar tartomány
+NAME_ID: Provinsi Cañar
+NAME_IT: provincia di Cañar
+NAME_JA: カニャール県
+NAME_KO: 카냐르 주
+NAME_NL: Cañar
+NAME_PL: Prowincja Cañar
+NAME_PT: Cañar
+NAME_RU: Каньяр
+NAME_SV: Cañar
+NAME_TR: Canar Province
+NAME_VI: Tỉnh Canar
+NAME_ZH: 卡尼亞爾省
+NE_ID: 1159309981

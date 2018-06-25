@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: NAM-3354
+DISS_ME: 3354
+ISO_3166_2: NA-OK
+WIKIPEDIA: null
+ISO_A2: NA
+ADM0_SR: 1
+NAME: Kavango
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: NA.OK
+NOTE: Was reorganized from 26 districts into 13 regions.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: NAM-KVN
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: OK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: WA07
+FIPS_ALT: WA34
+WOE_ID: 20069820
+WOE_LABEL: Okavango, NA, Namibia
+WOE_NAME: Kavango
+LATITUDE: -18.5224
+LONGITUDE: 19.4968
+SOV_A3: NAM
+ADM0_A3: NAM
+ADM0_LABEL: 2
+ADMIN: Namibia
+GEONUNIT: Namibia
+GU_A3: NAM
+GN_ID: 3371204
+GN_NAME: Okavango
+GNS_ID: 311108
+GNS_NAME: Okavango
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NA.34
+REGION_SUB: null
+SUB_CODE: WA25
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: WA34
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q13156669
+NAME_AR: إقليم أوكافانغو
+NAME_BN: কাভাঙ্গো অঞ্চল
+NAME_DE: Kavango
+NAME_EN: Kavango Region
+NAME_ES: Kavango
+NAME_FR: Kavango
+NAME_EL: Καβάνγκο
+NAME_HI: कवांगो प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Kavango
+NAME_IT: regione di Kavango
+NAME_JA: カバンゴ州
+NAME_KO: 카방고 주
+NAME_NL: Kavango
+NAME_PL: Kavango
+NAME_PT: Kavango
+NAME_RU: Окаванго
+NAME_SV: Kavango
+NAME_TR: Kavango
+NAME_VI: Khu vực Kavango
+NAME_ZH: 奧卡萬戈區
+NE_ID: 1159314963

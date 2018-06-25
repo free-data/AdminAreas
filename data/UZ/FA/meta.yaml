@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: UZB-364
+DISS_ME: 364
+ISO_3166_2: UZ-FA
+WIKIPEDIA: null
+ISO_A2: UZ
+ADM0_SR: 4
+NAME: Ferghana
+NAME_ALT: Farghona|Farg`ona|Fergana
+NAME_LOCAL: null
+TYPE: Wiloyat
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UZ.FA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: FA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: UZ03
+FIPS_ALT: null
+WOE_ID: 2347662
+WOE_LABEL: Farghona, UZ, Uzbekistan
+WOE_NAME: Ferghana
+LATITUDE: 39.9347
+LONGITUDE: 71.7275
+SOV_A3: UZB
+ADM0_A3: UZB
+ADM0_LABEL: 2
+ADMIN: Uzbekistan
+GEONUNIT: Uzbekistan
+GU_A3: UZB
+GN_ID: 1484845
+GN_NAME: Fergana
+GNS_ID: -3431446
+GNS_NAME: Farg`ona Viloyati
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UZ.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: UZ03
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487089
+NAME_AR: ولاية فرغانة
+NAME_BN: ফেরগানা অঞ্চল
+NAME_DE: Provinz Fargʻona
+NAME_EN: Fergana Region
+NAME_ES: Provincia de Fergana
+NAME_FR: province de Ferghana
+NAME_EL: Φεργκάνα
+NAME_HI: फ़रग़ना प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Fergana
+NAME_IT: regione di Fergana
+NAME_JA: フェルガナ州
+NAME_KO: 페르가나 주
+NAME_NL: Fargʻona
+NAME_PL: Wilajet fergański
+NAME_PT: Fergana
+NAME_RU: Ферганская область
+NAME_SV: Fergana
+NAME_TR: Fergana ili
+NAME_VI: Farg'ona
+NAME_ZH: 費爾干納州
+NE_ID: 1159308467

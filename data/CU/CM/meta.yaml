@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CUB-1364
+DISS_ME: 1364
+ISO_3166_2: CU-09
+WIKIPEDIA: null
+ISO_A2: CU
+ADM0_SR: 5
+NAME: Camagüey
+NAME_ALT: Puerto Principe
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CU.CM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: CU05
+FIPS_ALT: null
+WOE_ID: 2345110
+WOE_LABEL: Camaguey, CU, Cuba
+WOE_NAME: Camagüey
+LATITUDE: 21.3675
+LONGITUDE: -77.9304
+SOV_A3: CUB
+ADM0_A3: CUB
+ADM0_LABEL: 2
+ADMIN: Cuba
+GEONUNIT: Cuba
+GU_A3: CUB
+GN_ID: 3566062
+GN_NAME: Provincia de Camaguey
+GNS_ID: -1616124
+GNS_NAME: Camaguey
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CU.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CU05
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q215147
+NAME_AR: كاماغوي
+NAME_BN: কামাগুয়েই প্রদেশ
+NAME_DE: Provinz Camagüey
+NAME_EN: Camagüey Province
+NAME_ES: Provincia de Camagüey
+NAME_FR: province de Camagüey
+NAME_EL: Καμαγουέι
+NAME_HI: कैमाग्वे प्रांत
+NAME_HU: Camagüey
+NAME_ID: Provinsi Camagüey
+NAME_IT: provincia di Camagüey
+NAME_JA: カマグエイ州
+NAME_KO: 카마궤이 주
+NAME_NL: Camagüey
+NAME_PL: Prowincja Camagüey
+NAME_PT: Camagüey
+NAME_RU: Камагуэй
+NAME_SV: Provincia de Camagüey
+NAME_TR: Camagüey ili
+NAME_VI: Camagüey
+NAME_ZH: 卡马圭省
+NE_ID: 1159310333

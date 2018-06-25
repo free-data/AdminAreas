@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1185
+DISS_ME: 1185
+ISO_3166_2: ID-KI
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Kalimantan Timur
+NAME_ALT: Kaltim
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.KI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: KI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID14
+FIPS_ALT: null
+WOE_ID: 2345723
+WOE_LABEL: East Kalimantan, ID, Indonesia
+WOE_NAME: Kalimantan Timur
+LATITUDE: 1.28915
+LONGITUDE: 116.354
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1641897
+GN_NAME: Provinsi Kalimantan Timur
+GNS_ID: -2680740
+GNS_NAME: Kalimantan Timur, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID14
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q3899
+NAME_AR: كالمنتان الشرقية
+NAME_BN: কিলিমান্তান তিমুর
+NAME_DE: Ostkalimantan
+NAME_EN: East Kalimantan
+NAME_ES: Kalimantan Oriental
+NAME_FR: Kalimantan oriental
+NAME_EL: Ανατολικό Καλιμαντάν
+NAME_HI: पूर्व कालिमंतान
+NAME_HU: null
+NAME_ID: Kalimantan Timur
+NAME_IT: Kalimantan Orientale
+NAME_JA: 東カリマンタン州
+NAME_KO: 칼리만탄티무르 주
+NAME_NL: Oost-Kalimantan
+NAME_PL: Borneo Wschodnie
+NAME_PT: Kalimantan Oriental
+NAME_RU: Восточный Калимантан
+NAME_SV: Kalimantan Timur
+NAME_TR: Doğu Kalimantan
+NAME_VI: Đông Kalimantan
+NAME_ZH: 東加里曼丹省
+NE_ID: 1159310009

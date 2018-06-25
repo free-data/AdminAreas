@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3390
+DISS_ME: 3390
+ISO_3166_2: TZ-23
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Singida
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ16
+FIPS_ALT: null
+WOE_ID: 2347367
+WOE_LABEL: Singida, TZ, Tanzania
+WOE_NAME: Singida
+LATITUDE: -5.59564
+LONGITUDE: 34.4149
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 149876
+GN_NAME: Singida Region
+GNS_ID: -2573630
+GNS_NAME: Singida, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q153326
+NAME_AR: اقليم سينغيدا
+NAME_BN: সিনগিডা অঞ্চল
+NAME_DE: Singida
+NAME_EN: Singida Region
+NAME_ES: Región de Singida
+NAME_FR: Singida
+NAME_EL: Περιφέρεια Σινγκίντα
+NAME_HI: सिंगिदा क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Singida
+NAME_IT: regione di Singida
+NAME_JA: シンギダ州
+NAME_KO: 싱기다 주
+NAME_NL: Singida
+NAME_PL: Singida
+NAME_PT: Singida
+NAME_RU: Сингида
+NAME_SV: Singida
+NAME_TR: Singida Bölgesi
+NAME_VI: Singida
+NAME_ZH: 辛吉達區
+NE_ID: 1159315035

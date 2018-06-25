@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2086
+DISS_ME: 2086
+ISO_3166_2: GB-NYM
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Newry and Mourne
+NAME_ALT: Mourne
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: GB.NM
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Ireland
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK73
+FIPS_ALT: UKS9
+WOE_ID: 20078333
+WOE_LABEL: null
+WOE_NAME: Newry and Mourne
+LATITUDE: 54.1804
+LONGITUDE: -6.26952
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Northern Ireland
+GU_A3: NIR
+GN_ID: 2641580
+GN_NAME: Newry and Mourne District
+GNS_ID: -2604059
+GNS_NAME: Newry and Mourne District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.S9
+REGION_SUB: West and South of Northern Ireland
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q606825
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Newry and Mourne
+NAME_EN: Newry and Mourne District Council
+NAME_ES: null
+NAME_FR: District de Newry and Mourne
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: distretto di Newry e Mourne
+NAME_JA: ニューリー・アンド・モーン区
+NAME_KO: 뉴리 몬 구
+NAME_NL: Newry and Mourne
+NAME_PL: null
+NAME_PT: null
+NAME_RU: Ньюри и Мурн
+NAME_SV: Newry and Mourne
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 紐里-莫恩區
+NE_ID: 1159312787

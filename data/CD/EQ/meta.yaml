@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1461
+DISS_ME: 1461
+ISO_3166_2: CD-EQ
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 1
+NAME: Équateur
+NAME_ALT: Equator|Equatorial
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.EQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 3
+ABBREV: null
+POSTAL: EQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: CG02
+FIPS_ALT: null
+WOE_ID: 2344978
+WOE_LABEL: Equateur, CD, Democratic Republic of Congo
+WOE_NAME: Équateur
+LATITUDE: 1.21836
+LONGITUDE: 20.4731
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 216661
+GN_NAME: Province de l' Equateur
+GNS_ID: -2043356
+GNS_NAME: Equateur
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG02
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q988104
+NAME_AR: إكواتور
+NAME_BN: ইকুয়েটর
+NAME_DE: Équateur
+NAME_EN: Équateur
+NAME_ES: Équateur
+NAME_FR: Équateur
+NAME_EL: Εκουατόρ
+NAME_HI: इक्वेट्योर
+NAME_HU: Egyenlítői tartomány
+NAME_ID: Équateur
+NAME_IT: Provincia dell'Equatore
+NAME_JA: 赤道州
+NAME_KO: 에카퇴르 주
+NAME_NL: Équateur
+NAME_PL: Prowincja Równikowa
+NAME_PT: Équateur
+NAME_RU: Экваториальная провинция
+NAME_SV: Équateur
+NAME_TR: Equateur
+NAME_VI: Equateur
+NAME_ZH: null
+NE_ID: 1159310055

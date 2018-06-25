@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-829
+DISS_ME: 829
+ISO_3166_2: RS-17
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Moravicki
+NAME_ALT: Moravica|Morava
+NAME_LOCAL: Моравички
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: Moravički
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB00
+FIPS_ALT: null
+WOE_ID: 29389210
+WOE_LABEL: Moravica, RS, Serbia
+WOE_NAME: Moravicki
+LATITUDE: 43.7127
+LONGITUDE: 20.2653
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Serbia
+GU_A3: SRS
+GN_ID: 7581800
+GN_NAME: Moravicki Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q915380
+NAME_AR: مقاطعة مورافيكا
+NAME_BN: মোরাভিকাজেলা
+NAME_DE: Okrug Moravica
+NAME_EN: Moravica District
+NAME_ES: Distrito de Moravica
+NAME_FR: Moravica
+NAME_EL: Περιφέρεια Μοράβιτσα
+NAME_HI: मोराविका जिला
+NAME_HU: null
+NAME_ID: Distrik Moravica
+NAME_IT: Distretto di Moravica
+NAME_JA: モラヴィツァ郡
+NAME_KO: 모라비차 구
+NAME_NL: Moravica
+NAME_PL: Okręg morawicki
+NAME_PT: Distrito de Moravica
+NAME_RU: Моравичский округ
+NAME_SV: Moravica
+NAME_TR: Moravica District
+NAME_VI: Quận Moravica
+NAME_ZH: 莫拉瓦州
+NE_ID: 1159309499

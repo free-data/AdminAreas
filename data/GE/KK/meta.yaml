@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GEO-3037
+DISS_ME: 3037
+ISO_3166_2: GE-KK
+WIKIPEDIA: null
+ISO_A2: GE
+ADM0_SR: 1
+NAME: Kvemo Kartli
+NAME_ALT: Rustavi
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GE.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: KK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: GG68
+FIPS_ALT: null
+WOE_ID: -20070355
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 41.4755
+LONGITUDE: 44.5029
+SOV_A3: GEO
+ADM0_A3: GEO
+ADM0_LABEL: 2
+ADMIN: Georgia
+GEONUNIT: Georgia
+GU_A3: GEG
+GN_ID: 865536
+GN_NAME: Kvemo Kartli
+GNS_ID: 9113600
+GNS_NAME: Kvemo Kartlis Mkhare
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GE.68
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: GG68
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q200048
+NAME_AR: كفيمو كارتلي
+NAME_BN: কাভমো কার্তলি
+NAME_DE: Niederkartlien
+NAME_EN: Kvemo Kartli
+NAME_ES: Kvemo Kartli
+NAME_FR: Basse  Kartlie
+NAME_EL: Κβέμο Κάρτλι
+NAME_HI: केवोमो कार्टली
+NAME_HU: Alsó-Kartli
+NAME_ID: Kvemo Kartli
+NAME_IT: Kvemo Kartli
+NAME_JA: クヴェモ・カルトリ州
+NAME_KO: 크베모카르틀리 주
+NAME_NL: Kvemo Kartli
+NAME_PL: Dolna Kartlia
+NAME_PT: Kvemo Kartli
+NAME_RU: Квемо-Картли
+NAME_SV: Nedre Kartlien
+NAME_TR: Kvemo Kartli
+NAME_VI: Kvemo Kartli
+NAME_ZH: 克維莫-卡特利州
+NE_ID: 1159314595

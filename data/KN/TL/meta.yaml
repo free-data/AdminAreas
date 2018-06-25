@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5110
+DISS_ME: 5110
+ISO_3166_2: KN-12
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Thomas Lowland
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.TL
+NOTE: null
+HASC_MAYBE: null
+REGION: Nevis
+REGION_COD: KN-N
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: TLO
+POSTAL: TL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 20
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC12
+FIPS_ALT: null
+WOE_ID: 2346975
+WOE_LABEL: Saint Thomas Lowland, KN, Saint Kitts and Nevis
+WOE_NAME: Saint Thomas Lowland
+LATITUDE: 17.1597
+LONGITUDE: -62.6064
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575165
+GN_NAME: Saint Thomas Lowland
+GNS_ID: -1359329
+GNS_NAME: Saint Thomas Lowland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC12
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1752122
+NAME_AR: أبرشية القديس توماس لولاند
+NAME_BN: সেন্ট থমাস লোল্যান্ড প্যারিশ
+NAME_DE: Saint Thomas Lowland
+NAME_EN: Saint Thomas Lowland Parish
+NAME_ES: Parroquia de Saint Thomas Lowland
+NAME_FR: Saint-Thomas Lowland
+NAME_EL: Σεντ Τόμας Λόουλαντ
+NAME_HI: सेंट थॉमस लोलैंड पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Thomas Lowland
+NAME_IT: parrocchia di Saint Thomas Lowland
+NAME_JA: セント・トーマス・ロウランド教区
+NAME_KO: 세인트토머스롤런드 교구
+NAME_NL: Saint Thomas Lowland
+NAME_PL: Saint Thomas Lowland
+NAME_PT: Saint Thomas Lowland
+NAME_RU: Сент-Томас-Лоуленд
+NAME_SV: Saint Thomas Lowland
+NAME_TR: Saint Thomas Lowland
+NAME_VI: Giáo xứ Saint Thomas Lowland
+NAME_ZH: 聖托馬斯低地區
+NE_ID: 1159316427

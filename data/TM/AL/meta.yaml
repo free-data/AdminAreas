@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TKM-352
+DISS_ME: 352
+ISO_3166_2: TM-A
+WIKIPEDIA: null
+ISO_A2: TM
+ADM0_SR: 1
+NAME: Ahal
+NAME_ALT: Akhal|Ashkhabad|Ashkhabadskaya Oblast
+NAME_LOCAL: null
+TYPE: Welayat|Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TM.AL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: TKM-ASH
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: TX01
+FIPS_ALT: null
+WOE_ID: 2347347
+WOE_LABEL: Ashkhabad, TM, Turkmenistan
+WOE_NAME: Ahal
+LATITUDE: 38.8103
+LONGITUDE: 59.0838
+SOV_A3: TKM
+ADM0_A3: TKM
+ADM0_LABEL: 2
+ADMIN: Turkmenistan
+GEONUNIT: Turkmenistan
+GU_A3: TKM
+GN_ID: 162181
+GN_NAME: Ahal
+GNS_ID: -2557816
+GNS_NAME: Ahal Welayaty
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TM.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TX01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q399899
+NAME_AR: اقليم أهال
+NAME_BN: আহাল প্রদেশ
+NAME_DE: Ahal welaýaty
+NAME_EN: Ahal Region
+NAME_ES: Provincia de Ahal
+NAME_FR: Ahal
+NAME_EL: Αχάλ
+NAME_HI: आख़ाल प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Ahal
+NAME_IT: provincia di Ahal
+NAME_JA: アハル州
+NAME_KO: 아할 주
+NAME_NL: Ahal
+NAME_PL: Wilajet achalski
+NAME_PT: Ahal
+NAME_RU: Ахалский велаят
+NAME_SV: Achal
+NAME_TR: Ahal vilayeti
+NAME_VI: Ahal
+NAME_ZH: 阿哈爾州
+NE_ID: 1159308483

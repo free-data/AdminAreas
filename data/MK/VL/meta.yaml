@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2995
+DISS_ME: 2995
+ISO_3166_2: MK-11
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Vasilevo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.VL
+NOTE: null
+HASC_MAYBE: null
+REGION: Southeastern
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: VL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MKA9
+FIPS_ALT: null
+WOE_ID: 24550814
+WOE_LABEL: null
+WOE_NAME: Vasilevo Municipality
+LATITUDE: 41.5436
+LONGITUDE: 22.6159
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 862947
+GN_NAME: Opstina Vasilevo
+GNS_ID: 9043529
+GNS_NAME: Vasilevo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.A9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK11
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2018980
+NAME_AR: فاسيليفو
+NAME_BN: ভাসিলেভো পৌরসভা
+NAME_DE: Opština Vasilevo
+NAME_EN: Vasilevo Municipality
+NAME_ES: Municipalidad de Vasilevo
+NAME_FR: Vasilevo
+NAME_EL: Δήμος Βασιλέβου
+NAME_HI: वसिलेवो नगरपालिका
+NAME_HU: Vaszilevói járás
+NAME_ID: Kotamadya Vasilevo
+NAME_IT: Vasilevo
+NAME_JA: ­ヴァシレヴォ
+NAME_KO: 바실레보 시
+NAME_NL: Vasilevo
+NAME_PL: Gmina Vasilevo
+NAME_PT: Vasilevo
+NAME_RU: Василево
+NAME_SV: Vasilevo
+NAME_TR: Vasilev Municipality
+NAME_VI: Đô thị tự trị Vasilevo
+NAME_ZH: 瓦西列沃區
+NE_ID: 1159314553

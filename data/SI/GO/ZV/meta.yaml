@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-259
+DISS_ME: 259
+ISO_3166_2: SI-192
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Žirovnica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.GO.ZV
+NOTE: null
+HASC_MAYBE: null
+REGION: Gorenjska
+REGION_COD: null
+PROVNUM_NE: 84
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: ZV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIN7
+WOE_ID: -55848354
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.4111
+LONGITUDE: 14.1816
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344893
+GN_NAME: Obcina Zirovnica
+GNS_ID: 9123299
+GNS_NAME: Zirovnica, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.N7
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q394103
+NAME_AR: بلدية جيروفنيتسا
+NAME_BN: জিরোভনিকা পৌরসভা
+NAME_DE: Žirovnica
+NAME_EN: Žirovnica Municipality
+NAME_ES: Žirovnica
+NAME_FR: Žirovnica
+NAME_EL: Ζιροβνίκα
+NAME_HI: ज़िरोवनिका नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Žirovnica
+NAME_IT: Žirovnica
+NAME_JA: ジロヴニツァ
+NAME_KO: 지로브니차
+NAME_NL: Žirovnica
+NAME_PL: Gmina Žirovnica
+NAME_PT: Žirovnica
+NAME_RU: Жировница
+NAME_SV: Zirovnica kommun
+NAME_TR: Zirovnica Belediyesi
+NAME_VI: Žirovnica
+NAME_ZH: null
+NE_ID: 1159308679

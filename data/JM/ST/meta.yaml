@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1383
+DISS_ME: 1383
+ISO_3166_2: JM-03
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Saint Thomas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM14
+FIPS_ALT: null
+WOE_ID: 2345922
+WOE_LABEL: Saint Thomas, JM, Jamaica
+WOE_NAME: Saint Thomas
+LATITUDE: 17.951
+LONGITUDE: -76.4226
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3488688
+GN_NAME: Parish of Saint Thomas
+GNS_ID: -3753605
+GNS_NAME: Saint Thomas, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM14
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1422332
+NAME_AR: أبرشية سانت توماس
+NAME_BN: সেন্ট থমাস পারিশ
+NAME_DE: Saint Thomas Parish
+NAME_EN: Saint Thomas Parish
+NAME_ES: Parroquia de Saint Thomas
+NAME_FR: Paroisse de Saint-Thomas
+NAME_EL: Άγιος Θωμάς
+NAME_HI: सेंट थॉमस पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Thomas
+NAME_IT: parrocchia di Saint Thomas
+NAME_JA: セント・トーマス教区
+NAME_KO: 세인트토머스 교구
+NAME_NL: Saint Thomas
+NAME_PL: Saint Thomas
+NAME_PT: Saint Thomas
+NAME_RU: Сейнт Томас
+NAME_SV: Parish of Saint Thomas
+NAME_TR: Saint Thomas Parish
+NAME_VI: Giáo xứ Saint Thomas
+NAME_ZH: 聖托馬斯區
+NE_ID: 1159310293

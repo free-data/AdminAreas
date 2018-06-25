@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: UZB-363
+DISS_ME: 363
+ISO_3166_2: UZ-AN
+WIKIPEDIA: null
+ISO_A2: UZ
+ADM0_SR: 1
+NAME: Andijon
+NAME_ALT: Andijan|Andizhan
+NAME_LOCAL: null
+TYPE: Wiloyat
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UZ.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: UZ01
+FIPS_ALT: null
+WOE_ID: 2347659
+WOE_LABEL: Andijon, UZ, Uzbekistan
+WOE_NAME: Andijon
+LATITUDE: 40.4491
+LONGITUDE: 72.3651
+SOV_A3: UZB
+ADM0_A3: UZB
+ADM0_LABEL: 2
+ADMIN: Uzbekistan
+GEONUNIT: Uzbekistan
+GU_A3: UZB
+GN_ID: 1484846
+GN_NAME: Andijan
+GNS_ID: -3431444
+GNS_NAME: Andijon Viloyati
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UZ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: UZ01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487384
+NAME_AR: ولاية أنديجان
+NAME_BN: আন্ডিজান অঞ্চল
+NAME_DE: Provinz Andijon
+NAME_EN: Andijan Region
+NAME_ES: Provincia de Andillán
+NAME_FR: province d'Andijan
+NAME_EL: Αντιτζάν
+NAME_HI: अन्दीझ़ान प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Andijan
+NAME_IT: regione di Andijan
+NAME_JA: アンディジャン州
+NAME_KO: 안디잔 주
+NAME_NL: Andizan
+NAME_PL: Wilajet andiżański
+NAME_PT: Andijan
+NAME_RU: Андижанская область
+NAME_SV: Andizjan
+NAME_TR: Andican ili
+NAME_VI: Andijon
+NAME_ZH: 安集延州
+NE_ID: 1159308525

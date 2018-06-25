@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2940
+DISS_ME: 2940
+ISO_3166_2: MK-43
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Kratovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.KY
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 20049
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: KY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK51
+FIPS_ALT: null
+WOE_ID: 24550780
+WOE_LABEL: Kratovo Municipality, MK, Macedonia
+WOE_NAME: Kratovo
+LATITUDE: 42.0592
+LONGITUDE: 22.138
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 789090
+GN_NAME: Opstina Kratovo
+GNS_ID: -85717
+GNS_NAME: Kratovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.51
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: MK51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1992716
+NAME_AR: بلدية كراتوفو
+NAME_BN: ক্রাটোভো পৌরসভা
+NAME_DE: Opština Kratovo
+NAME_EN: Kratovo Municipality
+NAME_ES: Kratovo
+NAME_FR: Kratovo
+NAME_EL: Δήμος Κρατόβου
+NAME_HI: क्रतोवो नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Kratovo
+NAME_IT: Kratovo
+NAME_JA: クラトヴォ
+NAME_KO: 크라토보 시
+NAME_NL: Kratovo
+NAME_PL: Gmina Kratowo
+NAME_PT: Kratovo
+NAME_RU: Кратово
+NAME_SV: Kratovo Opština
+NAME_TR: Kratova Belediyesi
+NAME_VI: Đô thị tự trị Kratovo
+NAME_ZH: 克拉托沃區
+NE_ID: 1159314497

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-717
+DISS_ME: 717
+ISO_3166_2: IE-WH
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Westmeath
+NAME_ALT: An Iarmhí
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.WH
+NOTE: null
+HASC_MAYBE: null
+REGION: Midlands
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: WH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI29
+FIPS_ALT: null
+WOE_ID: 2345272
+WOE_LABEL: Westmeath, IE, Ireland
+WOE_NAME: Westmeath
+LATITUDE: 53.5252
+LONGITUDE: -7.4553
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2960972
+GN_NAME: An Iarmhi
+GNS_ID: -1506168
+GNS_NAME: Westmeath, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.29
+REGION_SUB: Westmeath
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI29
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q182633
+NAME_AR: مقاطعة وستميث
+NAME_BN: কাউন্টি ওয়েস্টমিদ
+NAME_DE: County Westmeath
+NAME_EN: County Westmeath
+NAME_ES: Condado de Westmeath
+NAME_FR: Comté de Westmeath
+NAME_EL: Κομητεία Ουέστμιθ
+NAME_HI: काउंटी वेस्टमेथ
+NAME_HU: null
+NAME_ID: County Westmeath
+NAME_IT: Westmeath
+NAME_JA: ウェストミース州
+NAME_KO: 웨스트미스 주
+NAME_NL: County Westmeath
+NAME_PL: Westmeath
+NAME_PT: Condado de Westmeath
+NAME_RU: Уэстмит
+NAME_SV: Westmeath
+NAME_TR: County Westmeath
+NAME_VI: Hạt Westmeath
+NAME_ZH: 韋斯特米斯郡
+NE_ID: 1159310995

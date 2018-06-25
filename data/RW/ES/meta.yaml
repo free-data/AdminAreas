@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: RWA-3493
+DISS_ME: 3493
+ISO_3166_2: RW-02
+WIKIPEDIA: null
+ISO_A2: RW
+ADM0_SR: 1
+NAME: Eastern
+NAME_ALT: Province de l'Est
+NAME_LOCAL: Est
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: RW.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 9
+ABBREV: East
+POSTAL: E
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 10
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 55864749
+WOE_LABEL: Province de l'Est, RW, Rwanda
+WOE_NAME: Eastern
+LATITUDE: -1.69059
+LONGITUDE: 30.4223
+SOV_A3: RWA
+ADM0_A3: RWA
+ADM0_LABEL: 2
+ADMIN: Rwanda
+GEONUNIT: Rwanda
+GU_A3: RWA
+GN_ID: 6413337
+GN_NAME: Eastern Province
+GNS_ID: 9244459
+GNS_NAME: Est, Province de l'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RW.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RW11
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q853152
+NAME_AR: المحافظة الشرقية، رواندا
+NAME_BN: ইস্টার্ন প্রদেশ
+NAME_DE: Ostprovinz
+NAME_EN: Eastern Province
+NAME_ES: Provincia del Este
+NAME_FR: province de l'Est
+NAME_EL: Ανατολική Ρουάντα
+NAME_HI: पूर्वी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Timur
+NAME_IT: provincia Orientale
+NAME_JA: 東部州
+NAME_KO: 동부 주
+NAME_NL: Est
+NAME_PL: Prowincja Wschodnia
+NAME_PT: Província Oriental
+NAME_RU: Восточная провинция
+NAME_SV: Väst provins
+NAME_TR: Doğu Eyaleti
+NAME_VI: Tỉnh Miền Đông
+NAME_ZH: 东部省
+NE_ID: 1159314997

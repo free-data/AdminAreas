@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: CHL-2705
+DISS_ME: 2705
+ISO_3166_2: CL-ML
+WIKIPEDIA: null
+ISO_A2: CL
+ADM0_SR: 1
+NAME: Maule
+NAME_ALT: VII
+NAME_LOCAL: null
+TYPE: Región
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CL.ML
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: ML
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: CI06
+FIPS_ALT: CI11
+WOE_ID: 2345028
+WOE_LABEL: Maule Region, CL, Chile
+WOE_NAME: Maule
+LATITUDE: -35.6067
+LONGITUDE: -71.5811
+SOV_A3: CHL
+ADM0_A3: CHL
+ADM0_LABEL: 2
+ADMIN: Chile
+GEONUNIT: Chile
+GU_A3: CHL
+GN_ID: 3880306
+GN_NAME: Region del Maule
+GNS_ID: -891994
+GNS_NAME: Maule, Region del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CL.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CI11
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q2166
+NAME_AR: إقليم مولي
+NAME_BN: মউলে অঞ্চল
+NAME_DE: Región del Maule
+NAME_EN: Maule Region
+NAME_ES: Región del Maule
+NAME_FR: Région du Maule
+NAME_EL: Μόλε
+NAME_HI: मौल क्षेत्र
+NAME_HU: Maule régió
+NAME_ID: Wilayah Maule
+NAME_IT: regione del Maule
+NAME_JA: マウレ州
+NAME_KO: 마울레 주
+NAME_NL: Maule
+NAME_PL: Maule
+NAME_PT: Região de Maule
+NAME_RU: Мауле
+NAME_SV: Región del Maule
+NAME_TR: Maule bölgesi
+NAME_VI: Khu vực Maule
+NAME_ZH: 马乌莱大区
+NE_ID: 1159313641

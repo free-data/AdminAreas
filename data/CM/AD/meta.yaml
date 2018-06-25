@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CMR-1482
+DISS_ME: 1482
+ISO_3166_2: CM-AD
+WIKIPEDIA: null
+ISO_A2: CM
+ADM0_SR: 1
+NAME: Adamaoua
+NAME_ALT: Adamoua|Adamaua|Adamawa
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CM.AD
+NOTE: Formerly Nord
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 3
+FIPS: CM10
+FIPS_ALT: null
+WOE_ID: 2345038
+WOE_LABEL: Adamaoua, CM, Cameroon
+WOE_NAME: Adamaoua
+LATITUDE: 6.80472
+LONGITUDE: 13.217
+SOV_A3: CMR
+ADM0_A3: CMR
+ADM0_LABEL: 2
+ADMIN: Cameroon
+GEONUNIT: Cameroon
+GU_A3: CMR
+GN_ID: 2236015
+GN_NAME: Adamaoua Region
+GNS_ID: -3144910
+GNS_NAME: Adamaoua, Region de l'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CM.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CM10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q351514
+NAME_AR: محافظة آداماوا
+NAME_BN: আদামাওয়া
+NAME_DE: Adamaoua
+NAME_EN: Adamawa
+NAME_ES: Región Adamawa
+NAME_FR: région de l'Adamaoua
+NAME_EL: Ανταμάουα
+NAME_HI: अदामावा
+NAME_HU: null
+NAME_ID: Region Adamawa
+NAME_IT: regione di Adamaoua
+NAME_JA: アダマワ州
+NAME_KO: 아다마와 주
+NAME_NL: Adamaoua
+NAME_PL: Adamawa
+NAME_PT: Adamawa
+NAME_RU: Адамава
+NAME_SV: Adamaouaregionen
+NAME_TR: Adamawa Bölgesi
+NAME_VI: Adamawa
+NAME_ZH: 阿达马瓦区
+NE_ID: 1159311507

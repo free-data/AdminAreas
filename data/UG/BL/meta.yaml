@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3082
+DISS_ME: 3082
+ISO_3166_2: UG-419
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Buliisa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-NIL
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGC5
+FIPS_ALT: null
+WOE_ID: -20070432
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 1.95839
+LONGITUDE: 31.4315
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056281
+GN_NAME: Bulisa District
+GNS_ID: 10540243
+GNS_NAME: Bulisa District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.C5
+REGION_SUB: null
+SUB_CODE: UG21
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1229793
+NAME_AR: مقاطعة بوليسا
+NAME_BN: বুলিসা জেলা
+NAME_DE: Distrikt Buliisa
+NAME_EN: Buliisa District
+NAME_ES: Distrito de Buliisa
+NAME_FR: Buliisa
+NAME_EL: Μπουλιίσα
+NAME_HI: बुलीसा जिला
+NAME_HU: null
+NAME_ID: Distrik Buliisa
+NAME_IT: Buliisa
+NAME_JA: ブリサ県
+NAME_KO: 불리사 구
+NAME_NL: Bulisa
+NAME_PL: Dystrykt Buliisa
+NAME_PT: Buliisa
+NAME_RU: Булиса
+NAME_SV: Buliisadistriktet
+NAME_TR: Buliisa District
+NAME_VI: Quận Buliisa
+NAME_ZH: 布利薩區
+NE_ID: 1159313665

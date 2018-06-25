@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-304
+DISS_ME: 304
+ISO_3166_2: RO-VL
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Vâlcea
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.VL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO39
+FIPS_ALT: null
+WOE_ID: 2346652
+WOE_LABEL: Valcea, RO, Romania
+WOE_NAME: Vâlcea
+LATITUDE: 45.0142
+LONGITUDE: 24.0601
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 662892
+GN_NAME: Judetul Valcea
+GNS_ID: -1174611
+GNS_NAME: Valcea, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO39
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q186838
+NAME_AR: مقاطعة فالسيا
+NAME_BN: ভ্যালসিয়া
+NAME_DE: Kreis Vâlcea
+NAME_EN: Vâlcea County
+NAME_ES: Vâlcea
+NAME_FR: Județ de Vâlcea
+NAME_EL: Βάλτσεα
+NAME_HI: वैल्सिया काउंटी
+NAME_HU: Vâlcea megye
+NAME_ID: Provinsi Vâlcea
+NAME_IT: distretto di Vâlcea
+NAME_JA: ヴルチャ県
+NAME_KO: 블체아 주
+NAME_NL: District Vâlcea
+NAME_PL: Okręg Vâlcea
+NAME_PT: Vâlcea
+NAME_RU: Вылча
+NAME_SV: Vâlcea
+NAME_TR: Vâlcea ili
+NAME_VI: Hạt Vâlcea
+NAME_ZH: 沃爾恰縣
+NE_ID: 1159308821

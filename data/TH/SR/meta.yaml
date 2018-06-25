@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-415
+DISS_ME: 415
+ISO_3166_2: TH-19
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Saraburi
+NAME_ALT: Sara Buri
+NAME_LOCAL: จังหวัดสระบุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.SR
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 53
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH37
+FIPS_ALT: null
+WOE_ID: 2347162
+WOE_LABEL: Sara Buri, TH, Thailand
+WOE_NAME: Saraburi
+LATITUDE: 14.4914
+LONGITUDE: 100.909
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1606417
+GN_NAME: Changwat Sara Buri
+GNS_ID: -3254928
+GNS_NAME: Sara Buri, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH37
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q337627
+NAME_AR: محافظة سارابوري
+NAME_BN: সারাবুরি
+NAME_DE: Saraburi
+NAME_EN: Saraburi
+NAME_ES: Provincia de Saraburi
+NAME_FR: Saraburi
+NAME_EL: Σαραμπούρι
+NAME_HI: सराबुरी प्रान्त
+NAME_HU: null
+NAME_ID: Saraburi
+NAME_IT: provincia di Saraburi
+NAME_JA: サラブリー県
+NAME_KO: 사라부리 주
+NAME_NL: Changwat Saraburi
+NAME_PL: Prowincja Saraburi
+NAME_PT: Saraburi
+NAME_RU: Сарабури
+NAME_SV: Saraburi
+NAME_TR: Saraburi
+NAME_VI: Saraburi
+NAME_ZH: 北標府
+NE_ID: 1159308195

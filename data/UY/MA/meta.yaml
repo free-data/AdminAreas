@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-20
+DISS_ME: 20
+ISO_3166_2: UY-MA
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Maldonado
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY09
+FIPS_ALT: null
+WOE_ID: 2347648
+WOE_LABEL: Maldonado, UY, Uruguay
+WOE_NAME: Maldonado
+LATITUDE: -34.6885
+LONGITUDE: -54.9671
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3441890
+GN_NAME: Departamento de Maldonado
+GNS_ID: -907447
+GNS_NAME: Maldonado, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY09
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q331196
+NAME_AR: إدارة مالدونادو
+NAME_BN: মালদোনাদো ডিপার্টমেন্ট
+NAME_DE: Departamento Maldonado
+NAME_EN: Maldonado Department
+NAME_ES: Departamento de Maldonado
+NAME_FR: Maldonado
+NAME_EL: Μαλντονάντο
+NAME_HI: माल्दोनाडो विभाग
+NAME_HU: Maldonado megye
+NAME_ID: Departemen Maldonado
+NAME_IT: dipartimento di Maldonado
+NAME_JA: マルドナド県
+NAME_KO: 말도나도 주
+NAME_NL: Maldonado
+NAME_PL: Maldonado
+NAME_PT: Maldonado
+NAME_RU: Мальдонадо
+NAME_SV: Maldonado
+NAME_TR: Maldonado Departmanı
+NAME_VI: Maldonado
+NAME_ZH: 马尔多纳多省
+NE_ID: 1159307761

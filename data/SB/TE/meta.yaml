@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SLB-1934
+DISS_ME: 1934
+ISO_3166_2: SB-TE
+WIKIPEDIA: null
+ISO_A2: SB
+ADM0_SR: 5
+NAME: Temotu
+NAME_ALT: Eastern Islands
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SB.TE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: TE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: BP09
+FIPS_ALT: null
+WOE_ID: 20069919
+WOE_LABEL: Temotu, SB, Solomon Islands
+WOE_NAME: Temotu
+LATITUDE: -12.277
+LONGITUDE: 168.812
+SOV_A3: SLB
+ADM0_A3: SLB
+ADM0_LABEL: 5
+ADMIN: Solomon Islands
+GEONUNIT: Solomon Islands
+GU_A3: SLB
+GN_ID: 2178472
+GN_NAME: Temotu Province
+GNS_ID: -1552384
+GNS_NAME: Temotu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SB.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BP09
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q936088
+NAME_AR: محافظة تيموتو
+NAME_BN: টেমোটু প্রদেশ
+NAME_DE: Temotu
+NAME_EN: Temotu Province
+NAME_ES: Temotu
+NAME_FR: province de Temotu
+NAME_EL: Τεμοτού
+NAME_HI: टेमोटू प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Temotu
+NAME_IT: provincia di Temotu
+NAME_JA: テモツ州
+NAME_KO: 테모투 주
+NAME_NL: Temotu
+NAME_PL: Prowincja Temotu
+NAME_PT: Província de Temotu
+NAME_RU: Темоту
+NAME_SV: Temotu provinsen
+NAME_TR: Temotu Province
+NAME_VI: Temotu
+NAME_ZH: 泰莫圖省
+NE_ID: 1159311165

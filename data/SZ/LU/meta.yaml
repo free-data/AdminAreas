@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SWZ-535
+DISS_ME: 535
+ISO_3166_2: SZ-LU
+WIKIPEDIA: null
+ISO_A2: SZ
+ADM0_SR: 1
+NAME: Lubombo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: SZ.LU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: WZ02
+FIPS_ALT: null
+WOE_ID: 20069891
+WOE_LABEL: Lubombo, SZ, Swaziland
+WOE_NAME: Lubombo
+LATITUDE: -26.5247
+LONGITUDE: 31.8026
+SOV_A3: SWZ
+ADM0_A3: SWZ
+ADM0_LABEL: 2
+ADMIN: Swaziland
+GEONUNIT: Swaziland
+GU_A3: SWZ
+GN_ID: 935042
+GN_NAME: Lubombo District
+GNS_ID: -1331607
+GNS_NAME: Lubombo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SZ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: WZ02
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q856657
+NAME_AR: مقاطعة لوبومبو
+NAME_BN: লুবোম্বু জেলা
+NAME_DE: Lubombo
+NAME_EN: Lubombo District
+NAME_ES: Lubombo
+NAME_FR: Lubombo
+NAME_EL: Λουμπόμπο
+NAME_HI: लुबोम्बो जिला
+NAME_HU: null
+NAME_ID: Distrik Lubombo
+NAME_IT: distretto di Lubombo
+NAME_JA: ルボンボ
+NAME_KO: 루봄보 구
+NAME_NL: Lubombo
+NAME_PL: Dystrykt Lubombo
+NAME_PT: Lubombo
+NAME_RU: Лубомбо
+NAME_SV: Lubombo
+NAME_TR: Lubombo District
+NAME_VI: Quận Lubombo
+NAME_ZH: 卢邦博
+NE_ID: 1159307769

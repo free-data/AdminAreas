@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1695
+DISS_ME: 1695
+ISO_3166_2: AZ-AST
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Astara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.AA
+NOTE: null
+HASC_MAYBE: null
+REGION: Lankaran Economic Region
+REGION_COD: AZ-04
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ08
+FIPS_ALT: AJ|
+WOE_ID: 20070217
+WOE_LABEL: Astara, AZ, Azerbaijan
+WOE_NAME: Astara
+LATITUDE: 38.4938
+LONGITUDE: 48.7049
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 148442
+GN_NAME: Astara Rayon
+GNS_ID: -2705084
+GNS_NAME: Astara Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ08
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q269680
+NAME_AR: مقاطعة آستارا
+NAME_BN: আস্তারা জেলা
+NAME_DE: Astara
+NAME_EN: Astara District
+NAME_ES: Astara
+NAME_FR: Astara
+NAME_EL: Ασταρά
+NAME_HI: अस्तारा जिला
+NAME_HU: null
+NAME_ID: Astara
+NAME_IT: distretto di Astara
+NAME_JA: アスタラ県
+NAME_KO: 아스타라 구
+NAME_NL: Astara
+NAME_PL: Rejon Astara
+NAME_PT: Astara
+NAME_RU: Астаринский район
+NAME_SV: Astara
+NAME_TR: Astara Rayonu
+NAME_VI: Astara
+NAME_ZH: 阿斯塔拉區
+NE_ID: 1159312251

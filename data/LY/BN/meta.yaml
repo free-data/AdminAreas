@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2987
+DISS_ME: 2987
+ISO_3166_2: LY-BU
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Al Butnan
+NAME_ALT: Tobruk|Tubruq
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.BN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20018
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY79
+FIPS_ALT: null
+WOE_ID: 2346128
+WOE_LABEL: Tsubruq, LY, Libya
+WOE_NAME: Al Butnan
+LATITUDE: 30.069
+LONGITUDE: 24.0559
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 7602688
+GN_NAME: Sha`biyat al Butnan
+GNS_ID: 10878018
+GNS_NAME: Butnan, Sha`biyat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.79
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY79
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q25931
+NAME_AR: شعبية البطنان
+NAME_BN: বুটনান জেলা
+NAME_DE: Munizip al-Butnan
+NAME_EN: Butnan District
+NAME_ES: Al Butnan
+NAME_FR: Al Boutnan
+NAME_EL: Μπουτνάν
+NAME_HI: बटनान प्रांत
+NAME_HU: Butnán tartomány
+NAME_ID: Al Butnan
+NAME_IT: distretto di al-Butnan
+NAME_JA: ブトナーン県
+NAME_KO: 알부트난 주
+NAME_NL: Al Butnan
+NAME_PL: Al-Butnan
+NAME_PT: Al Butnan
+NAME_RU: Эль-Бутнан
+NAME_SV: Al Butnan
+NAME_TR: El Butnan ili
+NAME_VI: Quận Butnan
+NAME_ZH: 布特南省
+NE_ID: 1159314153

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2266
+DISS_ME: 2266
+ISO_3166_2: TR-41
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Kocaeli
+NAME_ALT: İzmit
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.KC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20028
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU41
+FIPS_ALT: null
+WOE_ID: 2347296
+WOE_LABEL: Kocaeli, TR, Turkey
+WOE_NAME: Kocaeli
+LATITUDE: 40.9008
+LONGITUDE: 29.9396
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 742865
+GN_NAME: Kocaeli
+GNS_ID: -761355
+GNS_NAME: Kocaeli Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU41
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q83965
+NAME_AR: قوجه ايلي
+NAME_BN: কোকাইলি প্রদেশ
+NAME_DE: Kocaeli
+NAME_EN: Kocaeli Province
+NAME_ES: Provincia de Kocaeli
+NAME_FR: Kocaeli
+NAME_EL: Επαρχία Κοτζαελί
+NAME_HI: कोकाएली
+NAME_HU: Kocaeli
+NAME_ID: Provinsi Kocaeli
+NAME_IT: provincia di Kocaeli
+NAME_JA: コジャエリ県
+NAME_KO: 코자엘리 주
+NAME_NL: Kocaeli
+NAME_PL: Kocaeli
+NAME_PT: Kocaeli
+NAME_RU: Коджаэли
+NAME_SV: Kocaeli
+NAME_TR: Kocaeli
+NAME_VI: Kocaeli
+NAME_ZH: 科贾埃利省
+NE_ID: 1159312363

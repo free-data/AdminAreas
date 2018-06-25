@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 6
+SOVEREIGNT: United Kingdom
+SOV_A3: GB1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Country
+ADMIN: Isle of Man
+ADM0_A3: IMN
+GEOU_DIF: 0
+GEOUNIT: Isle of Man
+GU_A3: IMN
+SU_DIF: 0
+SUBUNIT: Isle of Man
+SU_A3: IMN
+BRK_DIFF: 0
+NAME: Isle of Man
+NAME_LONG: Isle of Man
+BRK_A3: IMN
+BRK_NAME: Isle of Man
+BRK_GROUP: null
+ABBREV: IoMan
+POSTAL: IM
+FORMAL_EN: null
+FORMAL_FR: null
+NAME_CIAWF: Isle of Man
+NOTE_ADM0: U.K. crown dependency
+NOTE_BRK: null
+NAME_SORT: Isle of Man
+NAME_ALT: null
+MAPCOLOR7: 6
+MAPCOLOR8: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+POP_EST: 88815
+POP_RANK: 8
+GDP_MD_EST: 7428
+POP_YEAR: 2017
+LASTCENSUS: 2006
+GDP_YEAR: 2014
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: IM
+ISO_A2: IM
+ISO_A3: IMN
+ISO_A3_EH: IMN
+ISO_N3: 833
+UN_A3: 833
+WB_A2: IM
+WB_A3: IMY
+WOE_ID: 23424847
+WOE_ID_EH: 23424847
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: IMN
+ADM0_A3_US: IMN
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Northern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 11
+LONG_LEN: 11
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159320721
+WIKIDATAID: Q9676
+NAME_AR: جزيرة مان
+NAME_BN: আইল অব ম্যান
+NAME_DE: Isle of Man
+NAME_EN: Isle of Man
+NAME_ES: Isla de Man
+NAME_FR: île de Man
+NAME_EL: Νήσος του Μαν
+NAME_HI: मनुष्य का टापू
+NAME_HU: Man
+NAME_ID: Pulau Man
+NAME_IT: Isola di Man
+NAME_JA: マン島
+NAME_KO: 맨 섬
+NAME_NL: Man
+NAME_PL: Wyspa Man
+NAME_PT: Ilha de Man
+NAME_RU: остров Мэн
+NAME_SV: Isle of Man
+NAME_TR: Man Adası
+NAME_VI: Đảo Man
+NAME_ZH: 马恩岛

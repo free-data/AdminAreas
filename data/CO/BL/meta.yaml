@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1413
+DISS_ME: 1413
+ISO_3166_2: CO-BOL
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 6
+NAME: Bolívar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: CO.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO35
+FIPS_ALT: null
+WOE_ID: 2345051
+WOE_LABEL: Bolivar, CO, Colombia
+WOE_NAME: Bolívar
+LATITUDE: 8.57823
+LONGITUDE: -74.1807
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3688650
+GN_NAME: Departamento de Bolivar
+GNS_ID: -578514
+GNS_NAME: Bolivar, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO35
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q230597
+NAME_AR: إدارة بوليفار
+NAME_BN: বলিভার বিভাগ
+NAME_DE: Departamento de Bolívar
+NAME_EN: Bolívar Department
+NAME_ES: Bolívar
+NAME_FR: Bolívar
+NAME_EL: Διαμέρισμα Μπολίβαρ
+NAME_HI: बोलिवार विभाग
+NAME_HU: Bolívar megye
+NAME_ID: Departemen Bolívar
+NAME_IT: dipartimento di Bolívar
+NAME_JA: ボリーバル県
+NAME_KO: 볼리바르 주
+NAME_NL: Bolívar
+NAME_PL: Bolívar
+NAME_PT: Bolívar
+NAME_RU: Боливар
+NAME_SV: Bolívar
+NAME_TR: Bolívar
+NAME_VI: Bolívar
+NAME_ZH: 玻利瓦尔省
+NE_ID: 1159308025

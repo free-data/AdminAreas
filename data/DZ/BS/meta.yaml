@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2211
+DISS_ME: 2211
+ISO_3166_2: DZ-07
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Biskra
+NAME_ALT: Beskra
+NAME_LOCAL: ولاية بسكرة
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.BS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 26
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG19
+FIPS_ALT: null
+WOE_ID: 2344591
+WOE_LABEL: Biskra, DZ, Algeria
+WOE_NAME: Biskra
+LATITUDE: 34.7569
+LONGITUDE: 5.46698
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2503822
+GN_NAME: Wilaya de Biskra
+GNS_ID: -462039
+GNS_NAME: Biskra
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG19
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q458402
+NAME_AR: ولاية بسكرة
+NAME_BN: বিস্ক্রা
+NAME_DE: Biskra
+NAME_EN: Biskra
+NAME_ES: Provincia de Biskra
+NAME_FR: wilaya de Biskra
+NAME_EL: Μπίσκρα
+NAME_HI: बिस्क्रा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Biskirah
+NAME_IT: provincia di Biskra
+NAME_JA: ビスクラ県
+NAME_KO: 비스크라 주
+NAME_NL: Biskra
+NAME_PL: Prowincja Biskira
+NAME_PT: Biskra
+NAME_RU: Бискра
+NAME_SV: Biskra
+NAME_TR: Biskra Vilayeti
+NAME_VI: Biskra
+NAME_ZH: 比斯克拉省
+NE_ID: 1159311967

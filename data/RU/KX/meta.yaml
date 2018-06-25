@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2603
+DISS_ME: 2603
+ISO_3166_2: RU-KYA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Krasnoyarsk
+NAME_ALT: Krasnoyarskiy Kray|Yeniseisk|Yeniseyskaya G.
+NAME_LOCAL: Красноярский край
+TYPE: Kray
+TYPE_EN: Territory
+CODE_LOCAL: null
+CODE_HASC: RU.KX
+NOTE: expected merging of Taymyr, Evenk with Krasnoyarsk - 20070101
+HASC_MAYBE: RU.KX|RUS-KRA
+REGION: Siberian
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KY
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 11
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS91
+FIPS_ALT: null
+WOE_ID: 20070524
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 65.5602
+LONGITUDE: 95.2029
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1502020
+GN_NAME: Krasnoyarskiy Kray
+GNS_ID: -2936683
+GNS_NAME: Krasnoyarskiy Kray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.91
+REGION_SUB: East Siberian
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS91
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q6563
+NAME_AR: كراسنويارسك كراي
+NAME_BN: ক্রাস্নোয়ারস্ক ক্রা
+NAME_DE: Region Krasnojarsk
+NAME_EN: Krasnoyarsk Krai
+NAME_ES: Krasnoyarsk
+NAME_FR: Kraï de Krasnoïarsk
+NAME_EL: Κράι Κρασνογιάρσκ
+NAME_HI: क्रस्नोयार्स्क क्राय
+NAME_HU: Krasznojarszki határterület
+NAME_ID: Krai Krasnoyarsk
+NAME_IT: Territorio di Krasnojarsk
+NAME_JA: クラスノヤルスク地方
+NAME_KO: 크라스노야르스크 지방
+NAME_NL: Kraj Krasnojarsk
+NAME_PL: Kraj Krasnojarski
+NAME_PT: Krai de Krasnoiarsk
+NAME_RU: Красноярский край
+NAME_SV: Krasnojarsk kraj
+NAME_TR: Krasnoyarsk Krayı
+NAME_VI: Krasnoyarsk
+NAME_ZH: 克拉斯諾亞爾斯克邊疆區
+NE_ID: 1159313611

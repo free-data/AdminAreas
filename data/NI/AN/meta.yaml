@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-657
+DISS_ME: 657
+ISO_3166_2: NI-AN
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 3
+NAME: Atlántico Norte
+NAME_ALT: Región Autónoma del Atlántico Norte
+NAME_LOCAL: null
+TYPE: Región Autónoma
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: NI.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 15
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU17
+FIPS_ALT: NU07
+WOE_ID: 20069833
+WOE_LABEL: RegiÃ³n AutÃ³noma del AtlÃ¡ntico Norte, NI, Nicaragua
+WOE_NAME: Atlántico Norte
+LATITUDE: 13.997
+LONGITUDE: -84.1501
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3830307
+GN_NAME: Region Autonoma Atlantico Norte
+GNS_ID: 9126143
+GNS_NAME: Atlantico Norte
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q498452
+NAME_AR: ريجيون أوتونوما ديل أتلانتيكو نورت
+NAME_BN: উত্তর আটলান্টিক স্বায়ত্বশাসিত অঞ্চল
+NAME_DE: Región Autónoma del Atlántico Norte
+NAME_EN: Región Autónoma del Atlántico Norte
+NAME_ES: Región Autónoma del Atlántico Norte
+NAME_FR: Atlántico Norte
+NAME_EL: Βόρεια Ατλαντική Αυτόνομη Περιοχή
+NAME_HI: रीजन ऑटोनोमा डेल अटलांटिको नोर्टे
+NAME_HU: Región Autónoma del Atlántico Norte
+NAME_ID: Región Autónoma del Atlántico Norte
+NAME_IT: regione Autonoma Atlantico Nord
+NAME_JA: 北アトランティコ自治地域
+NAME_KO: 북아틀란티코 자치구
+NAME_NL: Región Autónoma del Atlántico Norte
+NAME_PL: Region Autonomiczny Atlántico Norte
+NAME_PT: Región Autónoma del Atlántico Norte
+NAME_RU: Атлантический Северный
+NAME_SV: Región Autónoma del Atlántico Norte
+NAME_TR: Özerk Bölge
+NAME_VI: Región Autónoma del Atlántico Norte
+NAME_ZH: 北大西洋自治區
+NE_ID: 1159309037

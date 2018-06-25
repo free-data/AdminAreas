@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1793
+DISS_ME: 1793
+ISO_3166_2: KH-10
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Krâchéh
+NAME_ALT: Kratie|Kratié|Kratiê|Krâ Chéh|Krachen
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.KH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB09
+FIPS_ALT: null
+WOE_ID: 2344935
+WOE_LABEL: Krachen, KH, Cambodia
+WOE_NAME: Krâchéh
+LATITUDE: 12.66
+LONGITUDE: 106.184
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1830563
+GN_NAME: Khett Kracheh
+GNS_ID: -1024378
+GNS_NAME: Kracheh, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB09
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q785896
+NAME_AR: محافظة كراتي
+NAME_BN: ক্রাটি প্রদেশ
+NAME_DE: Kratie
+NAME_EN: Kratié Province
+NAME_ES: Kratié
+NAME_FR: province de Kratie
+NAME_EL: Κρατιέ
+NAME_HI: कराती प्रांत
+NAME_HU: null
+NAME_ID: Kratié
+NAME_IT: provincia di Kratié
+NAME_JA: クラチエ州
+NAME_KO: 크라티에 주
+NAME_NL: Khett Kracheh
+NAME_PL: Prowincja Krachen
+NAME_PT: Kratié
+NAME_RU: Кратьэх
+NAME_SV: Kratie
+NAME_TR: Kratie District
+NAME_VI: Kratié
+NAME_ZH: 桔井省
+NE_ID: 1159311583

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: VCT-5067
+DISS_ME: 5067
+ISO_3166_2: VC-04
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_George_Parish_(Saint_Vincent_and_the_Grenadines)
+ISO_A2: VC
+ADM0_SR: 8
+NAME: Saint George
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: VC.GE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: GE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: VC04
+FIPS_ALT: null
+WOE_ID: 2347674
+WOE_LABEL: Saint George, VC, Saint Vincent and the Grenadines
+WOE_NAME: Saint George
+LATITUDE: 13.1695
+LONGITUDE: -61.1899
+SOV_A3: VCT
+ADM0_A3: VCT
+ADM0_LABEL: 8
+ADMIN: Saint Vincent and the Grenadines
+GEONUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+GN_ID: 3577819
+GN_NAME: Parish of Saint George
+GNS_ID: -1204545
+GNS_NAME: Saint George, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VC.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: VC04
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2300294
+NAME_AR: أبرشية سانت جورج
+NAME_BN: সেন্ট জর্জ প্যারিশ
+NAME_DE: Parish of Saint George
+NAME_EN: Saint George Parish
+NAME_ES: San Jorge
+NAME_FR: Saint-George
+NAME_EL: Άγιος Γεώργιος
+NAME_HI: सेंट जॉर्ज पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint George
+NAME_IT: parrocchia di Saint George
+NAME_JA: セントジョージ
+NAME_KO: 세인트조지 교구
+NAME_NL: Saint George
+NAME_PL: Saint George
+NAME_PT: São Jorge Parish
+NAME_RU: Сент-Джордж
+NAME_SV: Saint George Parish
+NAME_TR: Saint George Parish
+NAME_VI: Saint George
+NAME_ZH: 聖喬治區
+NE_ID: 1159316351

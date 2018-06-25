@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2812
+DISS_ME: 2812
+ISO_3166_2: BF-BLK
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Boulkiemdé
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre-Ouest
+REGION_COD: null
+PROVNUM_NE: 20035
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV19
+FIPS_ALT: null
+WOE_ID: 2347614
+WOE_LABEL: Boulkiemde, BF, Burkina Faso
+WOE_NAME: Boulkiemdé
+LATITUDE: 12.3143
+LONGITUDE: -2.13572
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2361988
+GN_NAME: Province du Boulkiemde
+GNS_ID: -1716780
+GNS_NAME: Bulkiemde
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV84
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q895102
+NAME_AR: محافظة بولكييمدي
+NAME_BN: বুল্কিমডি প্রদেশ
+NAME_DE: Boulkiemdé
+NAME_EN: Boulkiemdé Province
+NAME_ES: Provincia de Boulkiemdé
+NAME_FR: Boulkiemdé
+NAME_EL: Μπουλκιεμντέ
+NAME_HI: बोलकिएम्डे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Boulkiemdé
+NAME_IT: provincia di Boulkiemdé
+NAME_JA: ブルキアンデ県
+NAME_KO: 불키엠데 현
+NAME_NL: Boulkiemdé
+NAME_PL: Prowincja Boulkiemdé
+NAME_PT: Boulkiemdé
+NAME_RU: Булькиемде
+NAME_SV: Boulkiemdé
+NAME_TR: Boulkiemde Provience
+NAME_VI: Boulkiemdé
+NAME_ZH: 布爾基恩德省
+NE_ID: 1159313897

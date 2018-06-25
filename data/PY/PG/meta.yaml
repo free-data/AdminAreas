@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-611
+DISS_ME: 611
+ISO_3166_2: PY-9
+WIKIPEDIA: http://en.wikipedia.org/wiki/Paraguar%C3%AD_Department
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Paraguarí
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.PG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: PG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA15
+FIPS_ALT: null
+WOE_ID: 2346460
+WOE_LABEL: ParaguarÃ­, PY, Paraguay
+WOE_NAME: Paraguarí
+LATITUDE: -25.9805
+LONGITUDE: -57.146
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3437599
+GN_NAME: Departamento de Paraguari
+GNS_ID: -912058
+GNS_NAME: Paraguari, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA15
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q240014
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Departamento Paraguarí
+NAME_EN: Paraguarí Department
+NAME_ES: Paraguarí
+NAME_FR: Paraguarí
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Paraguarí megye
+NAME_ID: Departemen Paraguarí
+NAME_IT: Paraguarí
+NAME_JA: パラグアリー県
+NAME_KO: 파라과리 주
+NAME_NL: Paraguarí
+NAME_PL: Paraguarí
+NAME_PT: Paraguarí
+NAME_RU: Парагуари
+NAME_SV: Paraguarí
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 巴拉瓜里省
+NE_ID: 1159307797

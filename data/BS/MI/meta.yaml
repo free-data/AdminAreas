@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5017
+DISS_ME: 5017
+ISO_3166_2: BS-MI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Moore%27s_Island
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Moore's Island
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.MI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: MI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF45
+FIPS_ALT: null
+WOE_ID: 24551248
+WOE_LABEL: Moore's Island, BS, The Bahamas
+WOE_NAME: Moore's Island
+LATITUDE: 26.2973
+LONGITUDE: -77.5526
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030550
+GN_NAME: Moore's Island District
+GNS_ID: 11057038
+GNS_NAME: Moore's Island District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.45
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF45
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2702345
+NAME_AR: جزيرة مور
+NAME_BN: মুর'স আইল্যান্ড
+NAME_DE: Moore’s Island
+NAME_EN: Moore's Island
+NAME_ES: Isla de Moore
+NAME_FR: Moore's Island
+NAME_EL: Νησί Μουρς
+NAME_HI: मूर द्वीप
+NAME_HU: null
+NAME_ID: Pulau Moore's
+NAME_IT: Moore's Island
+NAME_JA: モーレイズ島
+NAME_KO: 무어스아일랜드
+NAME_NL: Moore's Island
+NAME_PL: Moore's Island
+NAME_PT: Moore's Island
+NAME_RU: Остров Мура
+NAME_SV: Moore's Island
+NAME_TR: Moore's Adası
+NAME_VI: Đảo Moore's
+NAME_ZH: null
+NE_ID: 1159316249

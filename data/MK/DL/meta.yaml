@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-3005
+DISS_ME: 3005
+ISO_3166_2: MK-23
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Delčevo
+NAME_ALT: Delcevo
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.DL
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: DL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK22
+FIPS_ALT: null
+WOE_ID: 24550838
+WOE_LABEL: Delcevo Municipality, MK, Macedonia
+WOE_NAME: Delcevo
+LATITUDE: 41.9187
+LONGITUDE: 22.7429
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863844
+GN_NAME: Opstina Delcevo
+GNS_ID: 9075606
+GNS_NAME: Delcevo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK22
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1323322
+NAME_AR: بلدية ديلتشيفو
+NAME_BN: ডেলচেভো পৌরসভা
+NAME_DE: Opština Delčevo
+NAME_EN: Delčevo Municipality
+NAME_ES: Municipalidad de Delčevo
+NAME_FR: Municipalité de Deltchevo
+NAME_EL: Δήμος Ντελτσέβου
+NAME_HI: डेल्केवो नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Delčevo
+NAME_IT: Delčevo
+NAME_JA: デルチェヴォ
+NAME_KO: 델체보 시
+NAME_NL: Delčevo
+NAME_PL: Gmina Dełczewo
+NAME_PT: Município de Delcevo
+NAME_RU: Делчево
+NAME_SV: Delčevo
+NAME_TR: Delcevo Belediyesi
+NAME_VI: Đô thị tự trị Delcevo
+NAME_ZH: 德尔塞沃区
+NE_ID: 1159314571

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1167
+DISS_ME: 1167
+ISO_3166_2: TW-TPQ
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 1
+NAME: New Taipei City
+NAME_ALT: Xinbei Shi
+NAME_LOCAL: null
+TYPE: Zhixiashi
+TYPE_EN: Special Municipality
+CODE_LOCAL: null
+CODE_HASC: TW.TW.TP
+NOTE: Incorrectly labeled as Taipei City in previous versions; established on 2010-12-25 by upgrading from Taipei County
+HASC_MAYBE: null
+REGION: Special Municipalities
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TP
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 9
+NAME_LEN: 15
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: TW03
+FIPS_ALT: null
+WOE_ID: 20070569
+WOE_LABEL: null
+WOE_NAME: Taipei County
+LATITUDE: 24.911
+LONGITUDE: 121.646
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1665148
+GN_NAME: Taipei
+GNS_ID: -2641168
+GNS_NAME: Xinbei Shi
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.TPQ
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW23
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q244898
+NAME_AR: تايبيه الجديدة
+NAME_BN: নিউ তাইপে সিটি
+NAME_DE: Neu-Taipeh
+NAME_EN: New Taipei City
+NAME_ES: Nuevo Taipéi
+NAME_FR: Nouveau Taipei
+NAME_EL: Νιού Ταϊπέι Σίτι
+NAME_HI: न्यू ताइपे शहर
+NAME_HU: Hszinpej
+NAME_ID: Kabupaten Taipei
+NAME_IT: Nuova Taipei
+NAME_JA: 新北市
+NAME_KO: 신베이 시
+NAME_NL: Nieuw Taipei
+NAME_PL: Nowe Tajpej
+NAME_PT: Novo Taipé
+NAME_RU: Синьбэй
+NAME_SV: Ny Taipei City
+NAME_TR: New Taipei
+NAME_VI: Tân Bắc
+NAME_ZH: 新北市
+NE_ID: 1159310407

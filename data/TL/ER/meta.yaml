@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-549
+DISS_ME: 549
+ISO_3166_2: TL-ER
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Ermera
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.ER
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: ER
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT07
+FIPS_ALT: CG02
+WOE_ID: 24549895
+WOE_LABEL: Ermera, TL, East Timor
+WOE_NAME: Ermera
+LATITUDE: -8.84722
+LONGITUDE: 125.344
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1644865
+GN_NAME: Distrito Ermera
+GNS_ID: -2677481
+GNS_NAME: Ermera, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.ER
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT07
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q668171
+NAME_AR: مقاطعة إرميرا
+NAME_BN: এরমেরা জেলা
+NAME_DE: Ermera
+NAME_EN: Ermera District
+NAME_ES: Ermera
+NAME_FR: Ermera
+NAME_EL: Ερμέρα
+NAME_HI: एरमेरा जिला
+NAME_HU: null
+NAME_ID: Ermera
+NAME_IT: Ermera
+NAME_JA: エルメラ県
+NAME_KO: 에르메라 현
+NAME_NL: Ermera
+NAME_PL: Dystrykt Ermera
+NAME_PT: Ermera
+NAME_RU: Эрмера
+NAME_SV: Ermera
+NAME_TR: Ermera District
+NAME_VI: Ermera
+NAME_ZH: 埃爾梅拉縣
+NE_ID: 1159307863

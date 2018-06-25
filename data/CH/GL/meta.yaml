@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-169
+DISS_ME: 169
+ISO_3166_2: CH-GL
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Glarus
+NAME_ALT: Glaris|Glarona|Glaruna
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.GL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 36
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: GL
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ08
+FIPS_ALT: null
+WOE_ID: 2347090
+WOE_LABEL: Canton of Glarus, CH, Switzerland
+WOE_NAME: Glarus
+LATITUDE: 47.0096
+LONGITUDE: 9.05651
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2660593
+GN_NAME: Kanton Glarus
+GNS_ID: -2552204
+GNS_NAME: Glarus, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.GL
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ08
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11922
+NAME_AR: كانتون غلاروس
+NAME_BN: ক্যান্টন অব গ্লারুস
+NAME_DE: Kanton Glarus
+NAME_EN: Canton of Glarus
+NAME_ES: Cantón de Glaris
+NAME_FR: canton de Glaris
+NAME_EL: Κάντον οφ Γκλάρους
+NAME_HI: ग्लारुस कैन्टन
+NAME_HU: Glarus kanton
+NAME_ID: Kanton Glarus
+NAME_IT: Canton Glarona
+NAME_JA: グラールス州
+NAME_KO: 글라루스 주
+NAME_NL: Glarus
+NAME_PL: Glarus
+NAME_PT: Glarus
+NAME_RU: Гларус
+NAME_SV: Glarus
+NAME_TR: Glarus
+NAME_VI: Glarus
+NAME_ZH: 格拉魯斯州
+NE_ID: 1159307673

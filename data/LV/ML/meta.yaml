@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5770
+DISS_ME: 5770
+ISO_3166_2: LV-061
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Malpils
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.ML
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG94
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.0017
+LONGITUDE: 24.9581
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628364
+GN_NAME: Malpils Novads
+GNS_ID: 10984656
+GNS_NAME: Malpils Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.94
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG94
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2304902
+NAME_AR: بلدية مالبيلس
+NAME_BN: মাল্পিলস পৌরসভা
+NAME_DE: Bezirk Mālpils
+NAME_EN: Mālpils Municipality
+NAME_ES: Municipalidad de Mālpils
+NAME_FR: Mālpils
+NAME_EL: Μάλπιλς
+NAME_HI: माल्पिल्स नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Mālpils
+NAME_IT: Mālpils
+NAME_JA: マールピルス
+NAME_KO: 말필스 시
+NAME_NL: Mālpils novads
+NAME_PL: Gmina Mālpils
+NAME_PT: Município de Malpis
+NAME_RU: Малпилсский край
+NAME_SV: Mālpils novads
+NAME_TR: Malpils Belediyesi
+NAME_VI: Đô thị tự trị Malpils
+NAME_ZH: null
+NE_ID: 1159317677

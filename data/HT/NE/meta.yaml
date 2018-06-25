@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HTI-1386
+DISS_ME: 1386
+ISO_3166_2: HT-NE
+WIKIPEDIA: null
+ISO_A2: HT
+ADM0_SR: 1
+NAME: Nord-Est
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HT.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: HA10
+FIPS_ALT: null
+WOE_ID: 2345619
+WOE_LABEL: Nord-Est, HT, Haiti
+WOE_NAME: Nord-Est
+LATITUDE: 19.4929
+LONGITUDE: -71.9088
+SOV_A3: HTI
+ADM0_A3: HTI
+ADM0_LABEL: 5
+ADMIN: Haiti
+GEONUNIT: Haiti
+GU_A3: HTI
+GN_ID: 3719540
+GN_NAME: Departement du Nord-Est
+GNS_ID: -69193
+GNS_NAME: Nord-Est, Departement du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HT.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: HA10
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q928694
+NAME_AR: الإدارة الشمال شرقية
+NAME_BN: নর্ড-এস্ট
+NAME_DE: Département Nord-Est
+NAME_EN: Nord-Est
+NAME_ES: Noreste
+NAME_FR: Nord-Est
+NAME_EL: Βορειοανατολικό Διαμέρισμα
+NAME_HI: नोर्ड-एस्ट
+NAME_HU: null
+NAME_ID: Nord-Est
+NAME_IT: dipartimento del Nordest
+NAME_JA: 北東県
+NAME_KO: 북동부 주
+NAME_NL: Nord-Est
+NAME_PL: Departament Północno-Wschodni
+NAME_PT: Nordeste
+NAME_RU: Северо-Восточный департамент
+NAME_SV: Nord-Est
+NAME_TR: Nord-Est
+NAME_VI: Nord-Est
+NAME_ZH: 东北省
+NE_ID: 1159310321

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 aggregation
+SCALERANK: 10
+ADM1_CODE: MLT-5974
+DISS_ME: 5974
+ISO_3166_2: MT-50
+WIKIPEDIA: null
+ISO_A2: MT
+ADM0_SR: 8
+NAME: San Lawrenz
+NAME_ALT: Saint Lawrence
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: MT.GO.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: Gozo
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 11
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: MT50
+FIPS_ALT: null
+WOE_ID: 24551361
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 36.0471
+LONGITUDE: 14.1971
+SOV_A3: MLT
+ADM0_A3: MLT
+ADM0_LABEL: 5
+ADMIN: Malta
+GEONUNIT: Malta
+GU_A3: MLT
+GN_ID: 8299749
+GN_NAME: Saint Lawrence
+GNS_ID: 11535793
+GNS_NAME: Saint Lawrence
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MT.50
+REGION_SUB: Gozo and Comino
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MT50
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q537308
+NAME_AR: سانت لورانس
+NAME_BN: সেন্ট লরেন্স
+NAME_DE: San Lawrenz
+NAME_EN: Saint Lawrence
+NAME_ES: San Lawrenz
+NAME_FR: San Lawrenz
+NAME_EL: Σεντ Λόρενς
+NAME_HI: सेंट लॉरेंस
+NAME_HU: San Lawrenz
+NAME_ID: Saint Lawrence
+NAME_IT: San Lorenzo
+NAME_JA: サン・ローレンツ
+NAME_KO: 산라우렌츠
+NAME_NL: San Lawrenz
+NAME_PL: San Lawrenz
+NAME_PT: Saint Lawrence
+NAME_RU: Сан-Лоренц
+NAME_SV: San Lawrenz
+NAME_TR: Saint Lawrence
+NAME_VI: Saint Lawrence
+NAME_ZH: 圣劳伦斯
+NE_ID: 1159317949

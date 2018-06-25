@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LBR-788
+DISS_ME: 788
+ISO_3166_2: LR-MO
+WIKIPEDIA: null
+ISO_A2: LR
+ADM0_SR: 1
+NAME: Montserrado
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LR.MO
+NOTE: null
+HASC_MAYBE: LR.BM|LBR-MNT
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LI14
+FIPS_ALT: LI08|LI15
+WOE_ID: 2346108
+WOE_LABEL: Montserrado, LR, Liberia
+WOE_NAME: Montserrado
+LATITUDE: 6.43188
+LONGITUDE: -10.5806
+SOV_A3: LBR
+ADM0_A3: LBR
+ADM0_LABEL: 2
+ADMIN: Liberia
+GEONUNIT: Liberia
+GU_A3: LBR
+GN_ID: 2274890
+GN_NAME: Montserrado County
+GNS_ID: -2134017
+GNS_NAME: Montserrado County
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LR.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: LI14
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q862608
+NAME_AR: مقاطعة مونتسرادو
+NAME_BN: মন্টসেররাডো কাউন্টি
+NAME_DE: Montserrado County
+NAME_EN: Montserrado County
+NAME_ES: Condado de Montserrado
+NAME_FR: Comté de Montserrado
+NAME_EL: Μοντσεράντο
+NAME_HI: मोंटसेरैडो काउंटी
+NAME_HU: null
+NAME_ID: Montserrado County
+NAME_IT: contea di Montserrado
+NAME_JA: モンセラード郡
+NAME_KO: 몽세라도 주
+NAME_NL: Montserrado
+NAME_PL: Hrabstwo Montserrado
+NAME_PT: Montserrado
+NAME_RU: Монтсеррадо
+NAME_SV: Montserrado County
+NAME_TR: Montserrado County
+NAME_VI: Montserrado
+NAME_ZH: 蒙特塞拉多县
+NE_ID: 1159308929

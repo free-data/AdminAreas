@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDN-883
+DISS_ME: 883
+ISO_3166_2: SD-KN
+WIKIPEDIA: null
+ISO_A2: SD
+ADM0_SR: 1
+NAME: North Kordufan
+NAME_ALT: Kordofan septentrional| Kurdufān ash Shamālīyah| Shamāl Kurdufān| North Kordofan
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SD.NK
+NOTE: null
+HASC_MAYBE: null
+REGION: Kordofan
+REGION_COD: SDN-KRD
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: N. Kord.
+POSTAL: KN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 14
+MAPCOLOR9: 4
+MAPCOLOR13: 1
+FIPS: SU56
+FIPS_ALT: SU09
+WOE_ID: 20069912
+WOE_LABEL: Shamal Kurdufan, SD, Sudan
+WOE_NAME: North Kordufan
+LATITUDE: 14.5295
+LONGITUDE: 29.6122
+SOV_A3: SDN
+ADM0_A3: SDN
+ADM0_LABEL: 2
+ADMIN: Sudan
+GEONUNIT: Sudan
+GU_A3: SDN
+GN_ID: 408667
+GN_NAME: Northern Kordofan State
+GNS_ID: 315444
+GNS_NAME: Northern Kordofan State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SD.56
+REGION_SUB: null
+SUB_CODE: SU34
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SU56
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q864093
+NAME_AR: ولاية شمال كردفان
+NAME_BN: উত্তর কুর্দফান
+NAME_DE: Schamal Kurdufan
+NAME_EN: North Kurdufan
+NAME_ES: Kordofán del Norte
+NAME_FR: Kordofan du Nord
+NAME_EL: Βόρειο Κορντοφάν
+NAME_HI: उत्तर कुर्दुफान
+NAME_HU: null
+NAME_ID: Kurdufan Utara
+NAME_IT: Kordofan Settentrionale
+NAME_JA: 北コルドファン州
+NAME_KO: 북쿠르두판 주
+NAME_NL: Shamal-Kordofan
+NAME_PL: Kordofan Północny
+NAME_PT: Cordofão do Norte
+NAME_RU: Северный Кордофан
+NAME_SV: Shamal Kurdufan
+NAME_TR: Kuzey Kordofan Eyaleti
+NAME_VI: Bắc Kurdufan
+NAME_ZH: 北科尔多凡省
+NE_ID: 1159309221

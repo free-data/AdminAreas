@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5700
+DISS_ME: 5700
+ISO_3166_2: GB-WBK
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: West Berkshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.WB
+NOTE: non-metropolitan county with no county council
+HASC_MAYBE: null
+REGION: South East
+REGION_COD: GB.BK
+PROVNUM_NE: 20022
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKP4
+FIPS_ALT: null
+WOE_ID: -26821262
+WOE_LABEL: null
+WOE_NAME: Berkshire
+LATITUDE: 51.4529
+LONGITUDE: -1.2949
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333217
+GN_NAME: West Berkshire
+GNS_ID: 6077659
+GNS_NAME: West Berkshire, District of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.P4
+REGION_SUB: Berkshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1473780
+NAME_AR: null
+NAME_BN: ওয়েস্ট বার্কশায়ার
+NAME_DE: West Berkshire
+NAME_EN: West Berkshire
+NAME_ES: West Berkshire
+NAME_FR: West Berkshire
+NAME_EL: Δυτικό Μπέρκσαϊρ
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: West Berkshire
+NAME_JA: ウェスト・バークシャー
+NAME_KO: 웨스트버크셔
+NAME_NL: West Berkshire
+NAME_PL: West Berkshire
+NAME_PT: West Berkshire
+NAME_RU: Западный Беркшир
+NAME_SV: West Berkshire
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 西伯克郡
+NE_ID: 1159317541

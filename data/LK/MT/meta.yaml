@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2449
+DISS_ME: 2449
+ISO_3166_2: LK-22
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Mātale
+NAME_ALT: Matale
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: Madhyama paḷāta
+REGION_COD: LK-2
+PROVNUM_NE: 20022
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE14
+FIPS_ALT: null
+WOE_ID: 23706512
+WOE_LABEL: null
+WOE_NAME: Matale
+LATITUDE: 7.60919
+LONGITUDE: 80.7391
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1235854
+GN_NAME: Matale District
+GNS_ID: -2228025
+GNS_NAME: Matale District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1235854
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE29
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q787421
+NAME_AR: مديرية ماتال
+NAME_BN: মাতালে জেলা
+NAME_DE: Matale
+NAME_EN: Matale District
+NAME_ES: Distrito de Matale
+NAME_FR: Matale
+NAME_EL: Ματάλε
+NAME_HI: मातले जिला
+NAME_HU: null
+NAME_ID: Distrik Matale
+NAME_IT: Distretto di Matale
+NAME_JA: マータレー県
+NAME_KO: 마탈레 구
+NAME_NL: Matale
+NAME_PL: Matale
+NAME_PT: Distrito Matale
+NAME_RU: Матале
+NAME_SV: Matale
+NAME_TR: Matale District
+NAME_VI: Quận Matale
+NAME_ZH: 馬特萊區
+NE_ID: 1159311399

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2335
+DISS_ME: 2335
+ISO_3166_2: RU-PSK
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Pskov
+NAME_ALT: Pskovskaya Oblast
+NAME_LOCAL: Псковская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.PS
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwestern
+REGION_COD: null
+PROVNUM_NE: 20043
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: PS
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS60
+FIPS_ALT: null
+WOE_ID: 2346920
+WOE_LABEL: Pskovskaya Oblast, RU, Russia
+WOE_NAME: Pskov
+LATITUDE: 57.2449
+LONGITUDE: 29.1229
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 504338
+GN_NAME: Pskovskaya Oblast'
+GNS_ID: -2989172
+GNS_NAME: Pskovskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.60
+REGION_SUB: Northwestern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS60
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2218
+NAME_AR: بسكوف أوبلاست
+NAME_BN: পেস্কোভ ওব্লাস্ট
+NAME_DE: Oblast Pskow
+NAME_EN: Pskov Oblast
+NAME_ES: Óblast de Pskov
+NAME_FR: Oblast de Pskov
+NAME_EL: Περιφέρεια Πσκοβ
+NAME_HI: प्सकोव ओब्लास्ट
+NAME_HU: Pszkovi terület
+NAME_ID: Oblast Pskov
+NAME_IT: oblast' di Pskov
+NAME_JA: プスコフ州
+NAME_KO: 프스코프 주
+NAME_NL: Oblast Pskov
+NAME_PL: Obwód pskowski
+NAME_PT: Oblast de Pskov
+NAME_RU: Псковская область
+NAME_SV: Pskov oblast
+NAME_TR: Pskov Oblastı
+NAME_VI: Pskov
+NAME_ZH: 普斯科夫州
+NE_ID: 1159313151

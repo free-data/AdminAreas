@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: UMI-5176
+DISS_ME: 5176
+ISO_3166_2: UM-71
+WIKIPEDIA: null
+ISO_A2: UM
+ADM0_SR: 8
+NAME: Midway Islands
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: UM.MQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 11
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: MQ300
+FIPS_ALT: null
+WOE_ID: 23424895
+WOE_LABEL: null
+WOE_NAME: Midway Islands
+LATITUDE: 28.206
+LONGITUDE: -177.376
+SOV_A3: US1
+ADM0_A3: UMI
+ADM0_LABEL: 6
+ADMIN: United States Minor Outlying Islands
+GEONUNIT: Midway Islands
+GU_A3: MQI
+GN_ID: 5854943
+GN_NAME: Midway Islands
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UM.300
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q47863
+NAME_AR: جزر الميدواي
+NAME_BN: মিডওয়ে
+NAME_DE: Midwayinseln
+NAME_EN: Midway Atoll
+NAME_ES: Islas Midway
+NAME_FR: îles Midway
+NAME_EL: Ατόλλη Μίντγουαιη
+NAME_HI: मिडवे
+NAME_HU: Midway-atoll
+NAME_ID: Atol Midway
+NAME_IT: Atollo di Midway
+NAME_JA: ミッドウェー島
+NAME_KO: 미드웨이 환초
+NAME_NL: Midway
+NAME_PL: Midway
+NAME_PT: Atol Midway
+NAME_RU: Мидуэй
+NAME_SV: Midwayöarna
+NAME_TR: Midway Adası
+NAME_VI: Đảo san hô vòng Midway
+NAME_ZH: 中途島
+NE_ID: 1159316567

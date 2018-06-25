@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NPL-1132
+DISS_ME: 1132
+ISO_3166_2: NP-NA
+WIKIPEDIA: null
+ISO_A2: NP
+ADM0_SR: 1
+NAME: Narayani
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Anchal
+TYPE_EN: Administrative Zone
+CODE_LOCAL: null
+CODE_HASC: NP.MM
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: NPL-NRY
+PROVNUM_NE: 1
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 12
+FIPS: NP11
+FIPS_ALT: null
+WOE_ID: 23706809
+WOE_LABEL: null
+WOE_NAME: Narayani
+LATITUDE: 27.3731
+LONGITUDE: 84.7202
+SOV_A3: NPL
+ADM0_A3: NPL
+ADM0_LABEL: 2
+ADMIN: Nepal
+GEONUNIT: Nepal
+GU_A3: NPL
+GN_ID: 1283000
+GN_NAME: Narayani Zone
+GNS_ID: -1022384
+GNS_NAME: Narayani Zone
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: NP.11
+REGION_SUB: Madhyamanchal
+SUB_CODE: NP11
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: NP11
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q9183
+NAME_AR: مديرية ناراياني
+NAME_BN: নারায়ণী অঞ্চল
+NAME_DE: Narayani
+NAME_EN: Narayani Zone
+NAME_ES: Zona de Narayani
+NAME_FR: Narayani
+NAME_EL: Ναραγιάνι
+NAME_HI: नारायणी जोन
+NAME_HU: null
+NAME_ID: Narayani Zone
+NAME_IT: Narayani
+NAME_JA: ナラヤニ県
+NAME_KO: 나라야니 구
+NAME_NL: Narayani
+NAME_PL: Narajani
+NAME_PT: Narayani
+NAME_RU: Нараяни
+NAME_SV: Narayani Zone
+NAME_TR: Narayani Zon
+NAME_VI: Vùng Narayani
+NAME_ZH: 納拉亞尼專區
+NE_ID: 1159309285

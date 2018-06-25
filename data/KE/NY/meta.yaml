@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KEN-1197
+DISS_ME: 1197
+ISO_3166_2: KE-600
+WIKIPEDIA: null
+ISO_A2: KE
+ADM0_SR: 1
+NAME: Nyanza
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KE.NY
+NOTE: Expired as of 2013-03-27
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: KE07
+FIPS_ALT: null
+WOE_ID: 2345942
+WOE_LABEL: Nyanza, KE, Kenya
+WOE_NAME: Nyanza
+LATITUDE: -0.511452
+LONGITUDE: 34.4239
+SOV_A3: KEN
+ADM0_A3: KEN
+ADM0_LABEL: 2
+ADMIN: Kenya
+GEONUNIT: Kenya
+GU_A3: KEN
+GN_ID: 182763
+GN_NAME: Nyanza Province
+GNS_ID: -2260069
+GNS_NAME: Nyanza
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KE.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: KE07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q38589
+NAME_AR: نيانزا
+NAME_BN: নায়ানজা প্রদেশ
+NAME_DE: Nyanza
+NAME_EN: Nyanza Province
+NAME_ES: Nyanza
+NAME_FR: Nyanza
+NAME_EL: Νυάνζα
+NAME_HI: नियांज़ा प्रांत
+NAME_HU: Nyanza tartomány
+NAME_ID: Provinsi Nyanza
+NAME_IT: provincia di Nyanza
+NAME_JA: ニャンザ州
+NAME_KO: 니안자 주
+NAME_NL: Nyanza
+NAME_PL: Prowincja Nyanza
+NAME_PT: Nyanza
+NAME_RU: Ньянза
+NAME_SV: Nyanzaprovinsen
+NAME_TR: Nyanza Province
+NAME_VI: Nyanza
+NAME_ZH: 尼扬扎省
+NE_ID: 1159310041

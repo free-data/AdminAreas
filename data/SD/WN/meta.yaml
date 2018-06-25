@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDN-879
+DISS_ME: 879
+ISO_3166_2: SD-NW
+WIKIPEDIA: null
+ISO_A2: SD
+ADM0_SR: 1
+NAME: White Nile
+NAME_ALT: An Baḥr al Abyad|An Nīl al-Abyad|Nil Blanc|Nilo Branco
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SD.WN
+NOTE: null
+HASC_MAYBE: null
+REGION: Blue Nile
+REGION_COD: SDN-AWU
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: W. Nile
+POSTAL: WN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 1
+FIPS: SU41
+FIPS_ALT: SU04
+WOE_ID: 20069914
+WOE_LABEL: An Nil al Abyad, SD, Sudan
+WOE_NAME: White Nile
+LATITUDE: 13.5951
+LONGITUDE: 32.3633
+SOV_A3: SDN
+ADM0_A3: SDN
+ADM0_LABEL: 2
+ADMIN: Sudan
+GEONUNIT: Sudan
+GU_A3: SDN
+GN_ID: 408653
+GN_NAME: White Nile State
+GNS_ID: 315382
+GNS_NAME: White Nile State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SD.41
+REGION_SUB: null
+SUB_CODE: SU27
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SU41
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q311371
+NAME_AR: النيل الأبيض
+NAME_BN: হোয়াইট নিল
+NAME_DE: An-Nil al-abyad
+NAME_EN: White Nile
+NAME_ES: Nilo Blanco
+NAME_FR: Nil Blanc
+NAME_EL: Λευκός Νείλος
+NAME_HI: सफ़ेद नील
+NAME_HU: null
+NAME_ID: Nil Putih
+NAME_IT: Nilo Bianco
+NAME_JA: 白ナイル州
+NAME_KO: 백나일 주
+NAME_NL: An-Nil-al-Abyad
+NAME_PL: Nil Biały
+NAME_PT: Nilo Branco
+NAME_RU: Белый Нил
+NAME_SV: An-Nil al-Abyad
+NAME_TR: Beyaz Nil Eyaleti
+NAME_VI: Nin Trắng
+NAME_ZH: 白尼罗省
+NE_ID: 1159309211

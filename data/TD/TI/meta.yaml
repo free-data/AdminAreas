@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-5578
+DISS_ME: 5578
+ISO_3166_2: TD-TI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tibesti_Region
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Tibesti
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Préfecture
+CODE_LOCAL: null
+CODE_HASC: TD.TI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: TI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD26
+FIPS_ALT: null
+WOE_ID: -2344947
+WOE_LABEL: Borkou-Ennedi-Tibesti, TD, Chad
+WOE_NAME: Bet
+LATITUDE: 21.4716
+LONGITUDE: 16.6178
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 7603258
+GN_NAME: Tibesti Region
+GNS_ID: 10739356
+GNS_NAME: Tibesti, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD26
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q737711
+NAME_AR: منطقة تبستي
+NAME_BN: তিবেস্টি অঞ্চল
+NAME_DE: Region Tibesti
+NAME_EN: Tibesti Region
+NAME_ES: Región de Tibesti
+NAME_FR: Tibesti
+NAME_EL: Τιμπέστι
+NAME_HI: तिबेस्टी क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Tibesti
+NAME_IT: regione di Tibesti
+NAME_JA: ティベスティ州
+NAME_KO: 티베스티 주
+NAME_NL: Tibesti Region
+NAME_PL: Region Tibesti
+NAME_PT: Região de Tibesti
+NAME_RU: Тибести
+NAME_SV: Tibesti
+NAME_TR: Tibesti Bölgesi
+NAME_VI: Khu vựcTibesti
+NAME_ZH: 提貝斯提區
+NE_ID: 1159317311

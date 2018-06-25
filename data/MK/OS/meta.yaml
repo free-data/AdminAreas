@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2956
+DISS_ME: 2956
+ISO_3166_2: MK-57
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Oslomej
+NAME_ALT: Oslomej
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.OS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20081
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: OS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK77
+FIPS_ALT: null
+WOE_ID: 24550795
+WOE_LABEL: null
+WOE_NAME: Oslomej Municipality
+LATITUDE: 41.5771
+LONGITUDE: 21.0347
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863885
+GN_NAME: Opstina Oslomej
+GNS_ID: 9075719
+GNS_NAME: Oslomej, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK77
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2001785
+NAME_AR: بلدية أوسلومي
+NAME_BN: ওস্লোমেজ পৌরসভা
+NAME_DE: Opština Oslomej
+NAME_EN: Oslomej Municipality
+NAME_ES: Municipalidad de Oslomej
+NAME_FR: Oslomeï
+NAME_EL: Δήμος Οσλόμεϊ
+NAME_HI: ओस्लोमेज नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Oslomej
+NAME_IT: Oslomej
+NAME_JA: オスロメイ
+NAME_KO: 오슬로메이 시
+NAME_NL: Oslomej
+NAME_PL: Gmina Osłomej
+NAME_PT: Município de Oslomej
+NAME_RU: Осломей
+NAME_SV: Opsjtina Oslomej
+NAME_TR: Oslomey Belediyesi
+NAME_VI: Đô thị tự trị Oslomej
+NAME_ZH: 奧斯洛梅區
+NE_ID: 1159314531

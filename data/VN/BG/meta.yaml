@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-470
+DISS_ME: 470
+ISO_3166_2: VN-54
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Bắc Giang
+NAME_ALT: Bac Giang
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.BG
+NOTE: null
+HASC_MAYBE: null
+REGION: Đông Bắc
+REGION_COD: VNM-HBA
+PROVNUM_NE: 38
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM71
+FIPS_ALT: null
+WOE_ID: 20070087
+WOE_LABEL: Bac Giang, VN, Vietnam
+WOE_NAME: Bắc Giang
+LATITUDE: 21.3512
+LONGITUDE: 106.493
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1905419
+GN_NAME: Tinh Bac Giang
+GNS_ID: 409693
+GNS_NAME: Bac Giang, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.71
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: VM71
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36367
+NAME_AR: محافظة باك زانغ
+NAME_BN: বাক গিয়াং
+NAME_DE: Bắc Giang
+NAME_EN: Bac Giang
+NAME_ES: Bắc Giang
+NAME_FR: Province de Bắc Giang
+NAME_EL: Μπακ Γκιάνγκ
+NAME_HI: बीक गियांग
+NAME_HU: null
+NAME_ID: Provinsi Bac Giang
+NAME_IT: provincia di Bac Giang
+NAME_JA: バクザン省
+NAME_KO: 박장 성
+NAME_NL: Bắc Giang
+NAME_PL: Prowincja Bắc Giang
+NAME_PT: Bac Giang
+NAME_RU: Бакзянг
+NAME_SV: Bac Giang
+NAME_TR: Bắc Giang
+NAME_VI: Bắc Giang
+NAME_ZH: 北江省
+NE_ID: 1159308363

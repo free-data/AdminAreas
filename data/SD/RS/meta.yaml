@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDN-149
+DISS_ME: 149
+ISO_3166_2: SD-RS
+WIKIPEDIA: null
+ISO_A2: SD
+ADM0_SR: 1
+NAME: Red Sea
+NAME_ALT: Ba?r al A?mar|Mar Rojo|Mar Rosso|Mar Vermelho|Mer Rouge|Röda havet|Rødehavet|Rotes Meer
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SD.RS
+NOTE: null
+HASC_MAYBE: null
+REGION: Kassala
+REGION_COD: SDN-ASR
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: R. Sea
+POSTAL: RS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 1
+FIPS: SU36
+FIPS_ALT: SU08
+WOE_ID: 20069904
+WOE_LABEL: Al Bahr al Ahmar, SD, Sudan
+WOE_NAME: Red Sea
+LATITUDE: 19.5289
+LONGITUDE: 35.8873
+SOV_A3: SDN
+ADM0_A3: SDN
+ADM0_LABEL: 2
+ADMIN: Sudan
+GEONUNIT: Sudan
+GU_A3: SDN
+GN_ID: 408646
+GN_NAME: Red Sea State
+GNS_ID: 315324
+GNS_NAME: Bahr al Ahmar, Wilayat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SD.36
+REGION_SUB: Ash Sharqī| Ash Sharqīyah| Eastern
+SUB_CODE: SU31
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SU36
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q310120
+NAME_AR: البحر الأحمر
+NAME_BN: লোহিত সাগর
+NAME_DE: Al-Bahr al-ahmar
+NAME_EN: Red Sea
+NAME_ES: Mar Rojo
+NAME_FR: Mer Rouge
+NAME_EL: Ερυθρά Θάλασσα
+NAME_HI: लाल सागर
+NAME_HU: null
+NAME_ID: Laut Merah
+NAME_IT: Mar Rosso
+NAME_JA: 紅海州
+NAME_KO: 홍해 주
+NAME_NL: Al-Bahr-al-Ahmar
+NAME_PL: Prowincja Morza Czerwonego
+NAME_PT: Mar Vermelho
+NAME_RU: Красное море
+NAME_SV: Al-Bahr al-Ahmar
+NAME_TR: Kızıl Deniz Eyaleti
+NAME_VI: Biển Đỏ
+NAME_ZH: 紅海省
+NE_ID: 1159308281

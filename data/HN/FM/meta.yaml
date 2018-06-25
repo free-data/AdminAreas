@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-639
+DISS_ME: 639
+ISO_3166_2: HN-FM
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Francisco Morazán
+NAME_ALT: Tegucigalpa
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.FM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: FM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 17
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO08
+FIPS_ALT: null
+WOE_ID: 2345630
+WOE_LABEL: Francisco MorazÃ¡n, HN, Honduras
+WOE_NAME: Francisco Morazán
+LATITUDE: 14.3474
+LONGITUDE: -87.1815
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3609672
+GN_NAME: Departamento de Francisco Morazan
+GNS_ID: -1121472
+GNS_NAME: Francisco Morazan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO08
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q867126
+NAME_AR: إدارة فرانسيسكو مورازان
+NAME_BN: ফ্রান্সিসকো মরাজান বিভাগ
+NAME_DE: Departamento Francisco Morazán
+NAME_EN: Francisco Morazán Department
+NAME_ES: Francisco Morazán
+NAME_FR: département de Francisco Morazán
+NAME_EL: Φρανκίσκο Μοραζάν
+NAME_HI: फ्रेंसिस्को मोराज़न विभाग
+NAME_HU: Francisco Morazán megye
+NAME_ID: Departemen Francisco Morazán
+NAME_IT: dipartimento di Francisco Morazán
+NAME_JA: フランシスコ・モラサン県
+NAME_KO: 프란시스코모라산 주
+NAME_NL: Francisco Morazán
+NAME_PL: Francisco Morazán
+NAME_PT: Francisco Morazán
+NAME_RU: Франсиско Морасан
+NAME_SV: Departamento de Francisco Morazán
+NAME_TR: Francisco Moraz
+NAME_VI: Francisco Morazán
+NAME_ZH: 弗朗西斯科-莫拉桑省
+NE_ID: 1159309097

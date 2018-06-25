@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SGP-4874
+DISS_ME: 4874
+ISO_3166_2: SG-02
+WIKIPEDIA: http://en.wikipedia.org/wiki/North_East_Community_Development_Council
+ISO_A2: SG
+ADM0_SR: 3
+NAME: North East
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SG.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24703042
+WOE_LABEL: North East, SG, Singapore
+WOE_NAME: North East
+LATITUDE: 1.38379
+LONGITUDE: 103.925
+SOV_A3: SGP
+ADM0_A3: SGP
+ADM0_LABEL: 3
+ADMIN: Singapore
+GEONUNIT: Singapore
+GU_A3: SGP
+GN_ID: 7535955
+GN_NAME: North East Community Development Region
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SG.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q3710534
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: North East Community Development Council
+NAME_ES: Consejo del Noreste
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Distretto Nordorientale
+NAME_JA: 北東地区
+NAME_KO: 북동부 지구 사회 발전 이사회
+NAME_NL: North East Community Development Council
+NAME_PL: null
+NAME_PT: null
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159315973

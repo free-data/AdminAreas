@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1986
+DISS_ME: 1986
+ISO_3166_2: DO-08
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: El Seybo
+NAME_ALT: El Seibo
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 30
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR28
+FIPS_ALT: null
+WOE_ID: 2345196
+WOE_LABEL: El Seibo, DO, Dominican Republic
+WOE_NAME: El Seybo
+LATITUDE: 18.7649
+LONGITUDE: -69.0568
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3506189
+GN_NAME: Provincia de El Seibo
+GNS_ID: -3352954
+GNS_NAME: El Seibo, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR28
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1774831
+NAME_AR: مقاطعة إلسيبو
+NAME_BN: এল সিবো প্রদেশ
+NAME_DE: El Seibo
+NAME_EN: El Seibo Province
+NAME_ES: El Seibo
+NAME_FR: El Seibo
+NAME_EL: Ελ Σέιμπο
+NAME_HI: एल सीबो प्रांत
+NAME_HU: null
+NAME_ID: Provinsi El Seibo
+NAME_IT: provincia di El Seibo
+NAME_JA: エル・セイボ州
+NAME_KO: 엘세이보 주
+NAME_NL: El Seibo
+NAME_PL: Prowincja El Seibo
+NAME_PT: El Seibo
+NAME_RU: Эль-Сейбо
+NAME_SV: El Seibo
+NAME_TR: El Seibo Province
+NAME_VI: El Seibo
+NAME_ZH: 賽堡省
+NE_ID: 1159311747

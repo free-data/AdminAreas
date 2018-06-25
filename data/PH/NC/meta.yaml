@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2579
+DISS_ME: 2579
+ISO_3166_2: PH-NCO
+WIKIPEDIA: http://en.wikipedia.org/wiki/Cotabato
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Cotabato
+NAME_ALT: North Cotabato
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.NC
+NOTE: null
+HASC_MAYBE: null
+REGION: SOCCSKSARGEN (Region XII)
+REGION_COD: PH-12
+PROVNUM_NE: 20055
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP57
+FIPS_ALT: null
+WOE_ID: 2346710
+WOE_LABEL: null
+WOE_NAME: Cotabato
+LATITUDE: 7.27167
+LONGITUDE: 124.82
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1697559
+GN_NAME: Province of North Cotabato
+GNS_ID: -2442045
+GNS_NAME: Cotabato, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.57
+REGION_SUB: Cotabato
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP57
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13791
+NAME_AR: كوتاباتو
+NAME_BN: কিোতাবাতো
+NAME_DE: Cotabato
+NAME_EN: Cotabato
+NAME_ES: Cotabato
+NAME_FR: Cotabato
+NAME_EL: Κοταμπάτο
+NAME_HI: कोताबातो प्रान्त
+NAME_HU: null
+NAME_ID: Cotabato
+NAME_IT: Provincia di Cotabato
+NAME_JA: コタバト州
+NAME_KO: 코타바토 주
+NAME_NL: Cotabato
+NAME_PL: Cotabato
+NAME_PT: Cotabato
+NAME_RU: Котабато
+NAME_SV: Cotabato
+NAME_TR: Cotabato
+NAME_VI: Cotabato
+NAME_ZH: 哥打巴托省
+NE_ID: 1159313393

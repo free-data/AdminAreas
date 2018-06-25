@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2927
+DISS_ME: 2927
+ISO_3166_2: MK-24
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Demir Kapija
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.DK
+NOTE: null
+HASC_MAYBE: null
+REGION: Southeastern
+REGION_COD: null
+PROVNUM_NE: 20028
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: DK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK25
+FIPS_ALT: null
+WOE_ID: 24550760
+WOE_LABEL: Demir Kapija Municipality, MK, Macedonia
+WOE_NAME: Demir Kapija
+LATITUDE: 41.3739
+LONGITUDE: 22.2161
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 862961
+GN_NAME: Opstina Demir Kapija
+GNS_ID: 9043570
+GNS_NAME: Demir Kapija, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK25
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2370973
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Opština Demir Kapija
+NAME_EN: Demir Kapija Municipality
+NAME_ES: Municipalidad de Demir Kapija
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: デミル・カピヤ
+NAME_KO: 데미르카피야 시
+NAME_NL: null
+NAME_PL: Gmina Demir Kapija
+NAME_PT: null
+NAME_RU: Демир-Капия
+NAME_SV: Demir Kapija
+NAME_TR: Demir Kapı Belediyesi
+NAME_VI: null
+NAME_ZH: 德米尔卡皮雅区
+NE_ID: 1159314467

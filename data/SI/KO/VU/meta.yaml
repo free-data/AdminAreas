@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1005
+DISS_ME: 1005
+ISO_3166_2: SI-141
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Vuzenica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.KO.VU
+NOTE: null
+HASC_MAYBE: null
+REGION: Koroška
+REGION_COD: null
+PROVNUM_NE: 159
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: VU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIE6
+FIPS_ALT: null
+WOE_ID: -55848378
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.5669
+LONGITUDE: 15.1575
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239180
+GN_NAME: Obcina Vuzenica
+GNS_ID: 243848
+GNS_NAME: Vuzenica, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.E6
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI81
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q370390
+NAME_AR: بلدية فوزينيكا
+NAME_BN: ভুজেনিকা পৌরসভা
+NAME_DE: Vuzenica
+NAME_EN: Vuzenica Municipality
+NAME_ES: Vuzenica
+NAME_FR: Vuzenica
+NAME_EL: Βουζενίκα
+NAME_HI: वुज़ेनिका नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Vuzenica
+NAME_IT: Vuzenica
+NAME_JA: ヴゼニツァ
+NAME_KO: 부제니차
+NAME_NL: Vuzenica
+NAME_PL: Gmina Vuzenica
+NAME_PT: Vuzenica
+NAME_RU: Вузеница
+NAME_SV: Vuzenica Kommun
+NAME_TR: Vuzenica Belediyesi
+NAME_VI: Vuzenica
+NAME_ZH: null
+NE_ID: 1159310813

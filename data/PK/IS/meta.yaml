@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: PAK-1110
+DISS_ME: 1110
+ISO_3166_2: PK-IS
+WIKIPEDIA: null
+ISO_A2: PK
+ADM0_SR: 1
+NAME: F.C.T.
+NAME_ALT: Islamabad|Federal Capital Territory|Federal Capital Territory Islamabad|Territoire de la Capitale fédérale
+NAME_LOCAL: null
+TYPE: Capital Territory
+TYPE_EN: Capital Territory
+CODE_LOCAL: null
+CODE_HASC: PK.IS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: IS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: PK08
+FIPS_ALT: PK06
+WOE_ID: 20070149
+WOE_LABEL: Islamabad, PK, Pakistan
+WOE_NAME: F.C.T.
+LATITUDE: 33.7011
+LONGITUDE: 73.0628
+SOV_A3: PAK
+ADM0_A3: PAK
+ADM0_LABEL: 2
+ADMIN: Pakistan
+GEONUNIT: Pakistan
+GU_A3: PAK
+GN_ID: 1162015
+GN_NAME: Islamabad Capital Territory
+GNS_ID: -2777707
+GNS_NAME: Islamabad Capital Territory
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PK.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: PK08
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.5
+MIN_ZOOM: 5
+WIKIDATAID: Q848613
+NAME_AR: ناحية بايتختي اسلام‌آباد
+NAME_BN: null
+NAME_DE: Hauptstadtterritorium Islamabad
+NAME_EN: Islamabad Capital Territory
+NAME_ES: null
+NAME_FR: Territoire fédéral d'Islamabad
+NAME_EL: null
+NAME_HI: इस्लामाबाद राजधानी क्षेत्र
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Territorio della capitale Islamabad
+NAME_JA: イスラーマーバード首都圏
+NAME_KO: 이슬라마바드 수도권
+NAME_NL: Hoofdstedelijk Territorium Islamabad
+NAME_PL: Stołeczne Terytorium Islamabadu
+NAME_PT: Território da Capital Islamabad
+NAME_RU: Федеральная столичная территория
+NAME_SV: null
+NAME_TR: İslamabad Başkent Bölgesi
+NAME_VI: Lãnh thổ Thủ đô Islamabad
+NAME_ZH: 伊斯兰堡首都区
+NE_ID: 1159310541

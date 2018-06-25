@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1691
+DISS_ME: 1691
+ISO_3166_2: AZ-AGM
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Ağdam
+NAME_ALT: Agdam
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.AM
+NOTE: null
+HASC_MAYBE: null
+REGION: Yukhari Garabakh Economic Region
+REGION_COD: AZ-07
+PROVNUM_NE: 61
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ03
+FIPS_ALT: AJ|
+WOE_ID: 20070258
+WOE_LABEL: Agdam, AZ, Azerbaijan
+WOE_NAME: Ağdam
+LATITUDE: 40.0455
+LONGITUDE: 46.9918
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 5
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 148617
+GN_NAME: Aghdam Rayon
+GNS_ID: -2704661
+GNS_NAME: Agdam Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ03
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q201647
+NAME_AR: مقاطعة آقدام
+NAME_BN: আগডাম জেলা
+NAME_DE: Ağdam
+NAME_EN: Agdam District
+NAME_ES: Ağdam
+NAME_FR: Agdam
+NAME_EL: Αγκντάμ
+NAME_HI: एगडेम जिला
+NAME_HU: Ağdami járás
+NAME_ID: Agdam
+NAME_IT: distretto di Ağdam
+NAME_JA: アグダム県
+NAME_KO: 아그담 구
+NAME_NL: Ağdam
+NAME_PL: Rejon Ağdam
+NAME_PT: Agdam
+NAME_RU: Агдамский район
+NAME_SV: Ağdam
+NAME_TR: Ağdam Rayonu
+NAME_VI: Quận Agdam
+NAME_ZH: 阿格達姆區
+NE_ID: 1159312139

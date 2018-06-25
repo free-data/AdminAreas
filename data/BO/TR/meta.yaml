@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BOL-1941
+DISS_ME: 1941
+ISO_3166_2: BO-T
+WIKIPEDIA: null
+ISO_A2: BO
+ADM0_SR: 1
+NAME: Tarija
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BO.TR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: TR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+FIPS: BL09
+FIPS_ALT: null
+WOE_ID: 2344809
+WOE_LABEL: Tarija, BO, Bolivia
+WOE_NAME: Tarija
+LATITUDE: -21.5039
+LONGITUDE: -63.8005
+SOV_A3: BOL
+ADM0_A3: BOL
+ADM0_LABEL: 2
+ADMIN: Bolivia
+GEONUNIT: Bolivia
+GU_A3: BOL
+GN_ID: 3903319
+GN_NAME: Departamento de Tarija
+GNS_ID: -702471
+GNS_NAME: Tarija, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BO.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BL09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q233933
+NAME_AR: إدارة تاريا
+NAME_BN: তারিজা বিভাগ
+NAME_DE: Departamento Tarija
+NAME_EN: Tarija Department
+NAME_ES: Departamento de Tarija
+NAME_FR: département de Tarija
+NAME_EL: Ταρίτζα
+NAME_HI: तारिहा विभाग
+NAME_HU: null
+NAME_ID: Departemen Tarija
+NAME_IT: dipartimento di Tarija
+NAME_JA: タリハ県
+NAME_KO: 타리하 주
+NAME_NL: Tarija
+NAME_PL: Tarija
+NAME_PT: Tarija
+NAME_RU: Тариха
+NAME_SV: Tarija
+NAME_TR: Tarija Departmanı
+NAME_VI: Khu vực hành chính Tarija
+NAME_ZH: 塔里哈省
+NE_ID: 1159311187

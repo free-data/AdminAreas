@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1715
+DISS_ME: 1715
+ISO_3166_2: AZ-SAL
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Salyan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ49
+FIPS_ALT: AJ|
+WOE_ID: 20070280
+WOE_LABEL: null
+WOE_NAME: Salyan
+LATITUDE: 39.7198
+LONGITUDE: 49.0495
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147269
+GN_NAME: Salyan Rayon
+GNS_ID: -2708316
+GNS_NAME: Salyan Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.49
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ49
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q457485
+NAME_AR: مقاطعة ساليان
+NAME_BN: সালিয়ান জেলা
+NAME_DE: Salyan
+NAME_EN: Salyan District
+NAME_ES: Salyan
+NAME_FR: Salyan
+NAME_EL: Σαλγιάν
+NAME_HI: सल्यान जिला
+NAME_HU: null
+NAME_ID: Salyan
+NAME_IT: distretto di Salyan
+NAME_JA: サルヤン県
+NAME_KO: 살리안 구
+NAME_NL: Salyan
+NAME_PL: Rejon Salyan
+NAME_PT: Salyan
+NAME_RU: Сальянский район
+NAME_SV: Saljan
+NAME_TR: Salyan Rayonu
+NAME_VI: Salyan
+NAME_ZH: 薩利揚區
+NE_ID: 1159312295

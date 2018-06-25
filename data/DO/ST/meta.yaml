@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1390
+DISS_ME: 1390
+ISO_3166_2: DO-25
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Santiago
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR25
+FIPS_ALT: null
+WOE_ID: 2345193
+WOE_LABEL: Santiago, DO, Dominican Republic
+WOE_NAME: Santiago
+LATITUDE: 19.2636
+LONGITUDE: -70.8974
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3492918
+GN_NAME: Provincia de Santiago
+GNS_ID: -3366232
+GNS_NAME: Santiago, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR25
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1772983
+NAME_AR: مقاطعة سانتياغو
+NAME_BN: স্যান্তিয়াগো প্রদেশ
+NAME_DE: Santiago
+NAME_EN: Santiago Province
+NAME_ES: Santiago
+NAME_FR: Santiago
+NAME_EL: Σαντιάγο
+NAME_HI: सैंटियागो प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Santiago
+NAME_IT: provincia di Santiago
+NAME_JA: サンティアゴ県
+NAME_KO: 산티아고 주
+NAME_NL: Santiago
+NAME_PL: Prowincja Santiago
+NAME_PT: Santiago
+NAME_RU: Сантьяго
+NAME_SV: Santiago
+NAME_TR: Santiago Province
+NAME_VI: Santiago
+NAME_ZH: 聖地牙哥省
+NE_ID: 1159310301

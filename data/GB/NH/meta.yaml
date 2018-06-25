@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2770
+DISS_ME: 2770
+ISO_3166_2: GB-NWM
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Newham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.NH
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20038
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Newham
+POSTAL: NH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKI8
+WOE_ID: 12695815
+WOE_LABEL: null
+WOE_NAME: London Borough of Newham
+LATITUDE: 51.5273
+LONGITUDE: 0.0442535
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: -2604000
+GNS_NAME: Newham, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q208139
+NAME_AR: نيوهام
+NAME_BN: নিউহ্যাম
+NAME_DE: London Borough of Newham
+NAME_EN: London Borough of Newham
+NAME_ES: Newham
+NAME_FR: district londonien de Newham
+NAME_EL: Νιούχαμ
+NAME_HI: न्यूहैम बरो
+NAME_HU: Newham kerület
+NAME_ID: null
+NAME_IT: Newham
+NAME_JA: ニューハム・ロンドン特別区
+NAME_KO: 뉴엄 구
+NAME_NL: Newham
+NAME_PL: London Borough of Newham
+NAME_PT: Newham
+NAME_RU: Ньюэм
+NAME_SV: London Borough of Newham
+NAME_TR: null
+NAME_VI: Khu Newham của Luân Đôn
+NAME_ZH: 紐漢區
+NE_ID: 1159314789

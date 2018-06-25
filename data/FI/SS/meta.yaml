@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: FIN-3189
+DISS_ME: 3189
+ISO_3166_2: FI-04
+WIKIPEDIA: http://en.wikipedia.org/wiki/Southern_Savonia
+ISO_A2: FI
+ADM0_SR: 1
+NAME: Southern Savonia
+NAME_ALT: Etelä-Savo|Södra Savolax
+NAME_LOCAL: null
+TYPE: Lääni
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: FI.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: FIN-MKK
+PROVNUM_NE: 20016
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 16
+MAPCOLOR9: 4
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 29389260
+WOE_LABEL: EtelÃ¤-Savon maakunta
+WOE_NAME: null
+LATITUDE: 61.8152
+LONGITUDE: 27.9693
+SOV_A3: FI1
+ADM0_A3: FIN
+ADM0_LABEL: 2
+ADMIN: Finland
+GEONUNIT: Finland
+GU_A3: FIN
+GN_ID: 830695
+GN_NAME: Etela-Savo
+GNS_ID: 413159
+GNS_NAME: Etela-Savon Maakunta
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FI.10
+REGION_SUB: null
+SUB_CODE: FI07
+GNS_LEVEL: 1
+GNS_LANG: fin
+GNS_ADM1: FI19
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q5693
+NAME_AR: سافو الجنوبية
+NAME_BN: দক্ষিণ সভোনিয়া
+NAME_DE: Südsavo
+NAME_EN: Southern Savonia
+NAME_ES: Savonia del Sur
+NAME_FR: Savonie du Sud
+NAME_EL: Βόρεια Σαβονία
+NAME_HI: दक्षिणी सवोनिया
+NAME_HU: null
+NAME_ID: Savonia Selatan
+NAME_IT: Savo meridionale
+NAME_JA: 南サヴォ県
+NAME_KO: 남사보 지역
+NAME_NL: Etelä-Savo
+NAME_PL: Etelä-Savo
+NAME_PT: Savônia do Sul
+NAME_RU: Южное Саво
+NAME_SV: Södra Savolax
+NAME_TR: Güney Savonya
+NAME_VI: Phía Nam Savonia
+NAME_ZH: 南萨沃尼亚区
+NE_ID: 1159314869

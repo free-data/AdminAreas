@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-849
+DISS_ME: 849
+ISO_3166_2: JO-AQ
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Aqaba
+NAME_ALT: Al `Aqabah
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.AQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AQ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO21
+FIPS_ALT: null
+WOE_ID: 20070290
+WOE_LABEL: Al `Aqabah, JO, Jordan
+WOE_NAME: Aqaba
+LATITUDE: 29.6276
+LONGITUDE: 35.3449
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 443122
+GN_NAME: Muhafazat al `Aqabah
+GNS_ID: 9022596
+GNS_NAME: Al `Aqabah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO21
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q260796
+NAME_AR: العقبة
+NAME_BN: আকাবা গভর্নোরেট
+NAME_DE: Aqaba
+NAME_EN: Aqaba Governorate
+NAME_ES: Gobernación de Aqaba
+NAME_FR: Gouvernorat d'Aqaba
+NAME_EL: Ακάμπα Γκοβερνοράτε
+NAME_HI: अकाबा गवर्नरेट
+NAME_HU: Akaba kormányzóság
+NAME_ID: Aqaba Governorate
+NAME_IT: governatorato di Aqaba
+NAME_JA: アカバ県
+NAME_KO: 아카바 주
+NAME_NL: Akaba
+NAME_PL: Akaba
+NAME_PT: Governorado de Aqaba
+NAME_RU: Акаба
+NAME_SV: Akaba
+NAME_TR: Aqaba Yönetimi
+NAME_VI: Tỉnh Aqaba
+NAME_ZH: 亞喀巴省
+NE_ID: 1159309313

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HTI-1384
+DISS_ME: 1384
+ISO_3166_2: HT-AR
+WIKIPEDIA: null
+ISO_A2: HT
+ADM0_SR: 1
+NAME: L'Artibonite
+NAME_ALT: Artibonite
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HT.AR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: HA06
+FIPS_ALT: null
+WOE_ID: 2345615
+WOE_LABEL: Artibonite, HT, Haiti
+WOE_NAME: L'Artibonite
+LATITUDE: 19.3089
+LONGITUDE: -72.5089
+SOV_A3: HTI
+ADM0_A3: HTI
+ADM0_LABEL: 5
+ADMIN: Haiti
+GEONUNIT: Haiti
+GU_A3: HTI
+GN_ID: 3731053
+GN_NAME: Departement de l'Artibonite
+GNS_ID: -57621
+GNS_NAME: Artibonite, Departement de l'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HT.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: HA06
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q844024
+NAME_AR: إدارة أرتيبونيت
+NAME_BN: আর্টিবোনাইট
+NAME_DE: Département Artibonite
+NAME_EN: Artibonite
+NAME_ES: Artibonito
+NAME_FR: Artibonite
+NAME_EL: Αρτιμπονίτ
+NAME_HI: आर्टिबोनिट
+NAME_HU: null
+NAME_ID: Departemen Artibonite
+NAME_IT: dipartimento dell'Artibonite
+NAME_JA: アルティボニット県
+NAME_KO: 아르티보니트 주
+NAME_NL: Artibonite
+NAME_PL: Artibonite
+NAME_PT: Artibonite
+NAME_RU: Артибонит
+NAME_SV: Artibonite
+NAME_TR: Artibonite
+NAME_VI: Artibonite
+NAME_ZH: 阿蒂博尼特省
+NE_ID: 1159310317

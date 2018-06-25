@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-5508
+DISS_ME: 5508
+ISO_3166_2: EC-SD
+WIKIPEDIA: http://en.wikipedia.org/wiki/Santo_Domingo_de_los_Tsachilas
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Santo Domingo de los Tsáchilas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 30
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC26
+FIPS_ALT: null
+WOE_ID: 56189814
+WOE_LABEL: Santo Domingo de los TsÃ¡chilas
+WOE_NAME: null
+LATITUDE: -0.34834
+LONGITUDE: -79.2525
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 7062136
+GN_NAME: Provincia de Santo Domingo de los Tsachilas
+GNS_ID: 10547184
+GNS_NAME: Santo Domingo de los Tsachilas, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: EC26
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1123208
+NAME_AR: سانتو دومينغو دا لوس تساتشيلاس
+NAME_BN: স্যান্তো ডোমিঙ্গ দে লস সাচিলাস প্রদেশ
+NAME_DE: Provinz Santo Domingo de los Tsáchilas
+NAME_EN: Santo Domingo de los Tsáchilas Province
+NAME_ES: Provincia de Santo Domingo de los Tsáchilas
+NAME_FR: Santo Domingo de los Tsáchilas
+NAME_EL: Σάντο Δομίγκο δε λος Τσατσίλας
+NAME_HI: सैंटो डोमिंगो डी लोस सैकिलास प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Santo Domingo de los Tsáchilas
+NAME_IT: provincia di Santo Domingo de los Tsáchilas
+NAME_JA: サント・ドミンゴ・デ・ロス・ツァチラス県
+NAME_KO: 산토도밍고데로스차칠라스 주
+NAME_NL: Santo Domingo de los Tsáchilas
+NAME_PL: Prowincja Santo Domingo de los Tsáchilas
+NAME_PT: Santo Domingo de los Tsáchilas
+NAME_RU: Санто-Доминго-де-лос-Тсачилас
+NAME_SV: Santo Domingo de los Tsáchilas
+NAME_TR: Santo Domingo de los Tsachilas Province
+NAME_VI: Tỉnh Santo Domingo de los Tsáchilas
+NAME_ZH: 聖多明各-德洛斯查奇拉斯省
+NE_ID: 1159317165

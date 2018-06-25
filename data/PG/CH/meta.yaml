@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1242
+DISS_ME: 1242
+ISO_3166_2: PG-CPK
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 1
+NAME: Chimbu
+NAME_ALT: Simbu
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP08
+FIPS_ALT: null
+WOE_ID: 2346588
+WOE_LABEL: Chimbu, PG, Papua New Guinea
+WOE_NAME: Chimbu
+LATITUDE: -6.27374
+LONGITUDE: 144.894
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2098593
+GN_NAME: Chimbu Province
+GNS_ID: -2186984
+GNS_NAME: Chimbu Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP08
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q599448
+NAME_AR: محافظة تشيمبو
+NAME_BN: চিম্বু প্রদেশ
+NAME_DE: Chimbu Province
+NAME_EN: Chimbu Province
+NAME_ES: Simbu
+NAME_FR: Simbu
+NAME_EL: Σίμπου
+NAME_HI: किम्बू प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Simbu
+NAME_IT: provincia di Chimbu
+NAME_JA: シンブ州
+NAME_KO: 심부 주
+NAME_NL: Chimbu
+NAME_PL: Simbu
+NAME_PT: Simbu
+NAME_RU: Чимбу
+NAME_SV: Simbu
+NAME_TR: Chimbu
+NAME_VI: Simbu
+NAME_ZH: 欽布省
+NE_ID: 1159309909

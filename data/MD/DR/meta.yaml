@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1619
+DISS_ME: 1619
+ISO_3166_2: MD-DR
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Drochia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.DR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 39
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD71
+FIPS_ALT: null
+WOE_ID: 55948187
+WOE_LABEL: Drochia, MD, Moldova
+WOE_NAME: Drochia
+LATITUDE: 48.0267
+LONGITUDE: 27.8915
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 618369
+GN_NAME: Raionul Drochia
+GNS_ID: -2276281
+GNS_NAME: Drochia, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.71
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD71
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q865594
+NAME_AR: مقاطعة دروتشيا
+NAME_BN: ড্রোকাইয়া জেলা
+NAME_DE: Rajon Drochia
+NAME_EN: Drochia District
+NAME_ES: Distrito de Drochia
+NAME_FR: Raion de Drochia
+NAME_EL: Ντρότσια
+NAME_HI: द्रोचिया जिला
+NAME_HU: null
+NAME_ID: Raionul Drochia
+NAME_IT: distretto di Drochia
+NAME_JA: ドロキア県
+NAME_KO: 드로키아 구
+NAME_NL: Drochia
+NAME_PL: Rejon Drochia
+NAME_PT: Drochia
+NAME_RU: Дрокиевский район
+NAME_SV: Drochia rajon
+NAME_TR: Drochia District
+NAME_VI: Quận Drochia
+NAME_ZH: 德羅基亞區
+NE_ID: 1159312571

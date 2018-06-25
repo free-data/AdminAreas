@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-1191
+DISS_ME: 1191
+ISO_3166_2: BW-GH
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: Ghanzi
+NAME_ALT: Ghantsi
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC03
+CODE_HASC: BW.GH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.GH
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GH
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC03
+FIPS_ALT: null
+WOE_ID: 2344743
+WOE_LABEL: Ghanzi, BW, Botswana
+WOE_NAME: Ghanzi
+LATITUDE: -22.1555
+LONGITUDE: 22.7086
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933758
+GN_NAME: Ghanzi District
+GNS_ID: -1397387
+GNS_NAME: Ghanzi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.03
+REGION_SUB: Ghanzi
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC03
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57571
+NAME_AR: مقاطعةغانزي
+NAME_BN: গাঞ্জি জেলা
+NAME_DE: Ghanzi District
+NAME_EN: Ghanzi District
+NAME_ES: Distrito Ghanzi
+NAME_FR: District de Ghanzi
+NAME_EL: Περιφέρεια Γκάνζι
+NAME_HI: घनजी जिला
+NAME_HU: null
+NAME_ID: Distrik Ghanzi
+NAME_IT: distretto di Ghanzi
+NAME_JA: ハンツィ地区
+NAME_KO: 간지 구
+NAME_NL: Ghanzi
+NAME_PL: Dystrykt Ghanzi
+NAME_PT: Ghanzi
+NAME_RU: Ганзи
+NAME_SV: Ghanzi
+NAME_TR: Ghanzi Bölgesi
+NAME_VI: Quận Ghanzi
+NAME_ZH: 杭濟區
+NE_ID: 1159309801

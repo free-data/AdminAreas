@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1508
+DISS_ME: 1508
+ISO_3166_2: ME-01
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Andrijevica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MJ00
+FIPS_ALT: null
+WOE_ID: 29389233
+WOE_LABEL: Andrijevica, ME, Montenegro
+WOE_NAME: Andrijevica
+LATITUDE: 42.6933
+LONGITUDE: 19.7688
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3343959
+GN_NAME: Opstina Andrijevica
+GNS_ID: 9101381
+GNS_NAME: Andrijevica, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2384773
+NAME_AR: بلدية أندرييفيكا
+NAME_BN: আন্দ্রেজেভিকা পৌরসভা
+NAME_DE: Gemeinde Andrijevica
+NAME_EN: Andrijevica Municipality
+NAME_ES: Municipio de Andrijevica
+NAME_FR: Municipalité d'Andrijevica
+NAME_EL: Αντριτζέβικα
+NAME_HI: एंड्रीएविका नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Andrijevica
+NAME_IT: Andrijevica
+NAME_JA: アンドリイェヴィツァ
+NAME_KO: 안드리예비차 지방 자치제
+NAME_NL: Andrijevica Municipality
+NAME_PL: Andrijevica
+NAME_PT: Andrijevica
+NAME_RU: Андриевица
+NAME_SV: Andrijevica Kommun
+NAME_TR: Andrijevica Belediyesi
+NAME_VI: Đô thị tự trị Andrijevica
+NAME_ZH: null
+NE_ID: 1159310615

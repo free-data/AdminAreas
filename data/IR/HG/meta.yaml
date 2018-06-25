@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3228
+DISS_ME: 3228
+ISO_3166_2: IR-23
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 5
+NAME: Hormozgan
+NAME_ALT: Banader va Jazayer-e Bahr-e Oman|Ports and Islands of the Sea of Oman|Saheli
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.HG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: HG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR11
+FIPS_ALT: null
+WOE_ID: 2345776
+WOE_LABEL: Hormozgan, IR, Iran
+WOE_NAME: Hormozgan
+LATITUDE: 27.6455
+LONGITUDE: 56.2505
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 131222
+GN_NAME: Ostan-e Hormozgan
+GNS_ID: -3066740
+GNS_NAME: Hormozgan, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR11
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q633659
+NAME_AR: هرمزغان
+NAME_BN: হোর্মোজগন প্রদেশ
+NAME_DE: Hormozgan
+NAME_EN: Hormozgan Province
+NAME_ES: Hormozgan
+NAME_FR: Hormozgan
+NAME_EL: null
+NAME_HI: होर्मोज़्गान प्रांत
+NAME_HU: Hormozgán tartomány
+NAME_ID: Provinsi Hormozgān
+NAME_IT: Hormozgan
+NAME_JA: ホルモズガーン州
+NAME_KO: 호르모즈간 주
+NAME_NL: Hormozgan
+NAME_PL: Hormozgan
+NAME_PT: Hormozgan
+NAME_RU: Хормозган
+NAME_SV: Hormozgan
+NAME_TR: Hürmüzgan Eyaleti
+NAME_VI: Hormozgan
+NAME_ZH: 霍爾木茲甘省
+NE_ID: 1159314009

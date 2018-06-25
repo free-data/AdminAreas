@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2122
+DISS_ME: 2122
+ISO_3166_2: GB-BBD
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Blackburn with Darwen
+NAME_ALT: Blackburn, Blackburn and Darwen
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.BW
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: null
+PROVNUM_NE: 20020
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Blackb'n
+POSTAL: BW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 21
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKA8
+FIPS_ALT: UKA8
+WOE_ID: 12696178
+WOE_LABEL: null
+WOE_NAME: Blackburn with Darwen
+LATITUDE: 53.705
+LONGITUDE: -2.44291
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333126
+GN_NAME: Borough of Blackburn with Darwen
+GNS_ID: 6077568
+GNS_NAME: Blackburn with Darwen, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.A8
+REGION_SUB: Lancashire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q880782
+NAME_AR: null
+NAME_BN: ব্ল্যাকবার্ন-ও-ডারওয়েন
+NAME_DE: Blackburn with Darwen
+NAME_EN: Blackburn with Darwen
+NAME_ES: Blackburn with Darwen
+NAME_FR: Blackburn with Darwen
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Blackburn with Darwen
+NAME_JA: ブラックバーン・ウィズ・ダーウェン
+NAME_KO: 블랙번위드다언
+NAME_NL: Blackburn with Darwen
+NAME_PL: Blackburn with Darwen
+NAME_PT: Blackburn with Darwen
+NAME_RU: Блэкберн и Дарвен
+NAME_SV: Blackburn with Darwen
+NAME_TR: Blackburn ile Darwen
+NAME_VI: null
+NAME_ZH: 布莱克本-達文
+NE_ID: 1159312951

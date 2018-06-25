@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1950
+DISS_ME: 1950
+ISO_3166_2: GT-ES
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Escuintla
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT06
+FIPS_ALT: null
+WOE_ID: 2345557
+WOE_LABEL: Escuintla, GT, Guatemala
+WOE_NAME: Escuintla
+LATITUDE: 14.1674
+LONGITUDE: -91.0243
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3595802
+GN_NAME: Departamento de Escuintla
+GNS_ID: -1135545
+GNS_NAME: Escuintla
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q795587
+NAME_AR: إسكوينتلا
+NAME_BN: এস্কুইন্টাল বিভাগ
+NAME_DE: Departamento Escuintla
+NAME_EN: Escuintla Department
+NAME_ES: Escuintla
+NAME_FR: Departement d'Escuintla
+NAME_EL: Εσκουίντλα
+NAME_HI: एसक्युइंटला
+NAME_HU: Escuintla megye
+NAME_ID: Departemen Escuintla
+NAME_IT: Escuintla
+NAME_JA: エスクィントラ県
+NAME_KO: 에스쿠인틀라 주
+NAME_NL: Escuintla
+NAME_PL: Escuintla
+NAME_PT: Escuintla
+NAME_RU: Эскуинтла
+NAME_SV: Departamento de Escuintla
+NAME_TR: Escuintla Departmano
+NAME_VI: Escuintla
+NAME_ZH: 埃斯昆特拉省
+NE_ID: 1159311653

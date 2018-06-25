@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1702
+DISS_ME: 1702
+ISO_3166_2: AZ-FUZ
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Füzuli
+NAME_ALT: Fizuli
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.FU
+NOTE: null
+HASC_MAYBE: null
+REGION: Yukhari Garabakh Economic Region
+REGION_COD: AZ-07
+PROVNUM_NE: 26
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: FU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ18
+FIPS_ALT: AJ|
+WOE_ID: 20070225
+WOE_LABEL: null
+WOE_NAME: Fuzuli
+LATITUDE: 39.5574
+LONGITUDE: 47.322
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 148107
+GN_NAME: Fizuli Rayon
+GNS_ID: -2706014
+GNS_NAME: Fuzuli Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ18
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q331687
+NAME_AR: مقاطعة فضولي
+NAME_BN: ফিজুলি জেলা
+NAME_DE: Füzuli
+NAME_EN: Fizuli District
+NAME_ES: Füzuli
+NAME_FR: Fizuli
+NAME_EL: Φιζούλι
+NAME_HI: फिज़ूली जिला
+NAME_HU: Füzuli járás
+NAME_ID: Fizuli
+NAME_IT: distretto di Füzuli
+NAME_JA: フュズリ県
+NAME_KO: 퓌줄리 구
+NAME_NL: Füzuli
+NAME_PL: Rejon Füzuli
+NAME_PT: Fizuli
+NAME_RU: Физулинский район
+NAME_SV: Füzuli Rayonu
+NAME_TR: Füzuli Rayonu
+NAME_VI: Fuzuli
+NAME_ZH: 菲祖利區
+NE_ID: 1159312265

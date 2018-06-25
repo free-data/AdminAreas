@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-601
+DISS_ME: 601
+ISO_3166_2: BR-MG
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Minas Gerais
+NAME_ALT: Minas|Minas Geraes
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: BR.MG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: M.G.S.
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR15
+FIPS_ALT: null
+WOE_ID: 2344856
+WOE_LABEL: Minas Gerais, BR, Brazil
+WOE_NAME: Minas Gerais
+LATITUDE: -18.5895
+LONGITUDE: -44.4808
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3457153
+GN_NAME: Estado de Minas Gerais
+GNS_ID: -655151
+GNS_NAME: Minas Gerais, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: BR15
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q39109
+NAME_AR: ميناس جرايس
+NAME_BN: মিনাস জেরাইস
+NAME_DE: Minas Gerais
+NAME_EN: Minas Gerais
+NAME_ES: Minas Gerais
+NAME_FR: Minas Gerais
+NAME_EL: Μίνας Ζεράις
+NAME_HI: मिनास जेरायज़
+NAME_HU: Minas Gerais
+NAME_ID: Minas Gerais
+NAME_IT: Minas Gerais
+NAME_JA: ミナスジェライス州
+NAME_KO: 미나스제라이스 주
+NAME_NL: Minas Gerais
+NAME_PL: Minas Gerais
+NAME_PT: Minas Gerais
+NAME_RU: Минас-Жерайс
+NAME_SV: Minas Gerais
+NAME_TR: Minas Gerais
+NAME_VI: Minas Gerais
+NAME_ZH: 米纳斯吉拉斯
+NE_ID: 1159307907

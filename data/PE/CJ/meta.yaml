@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-578
+DISS_ME: 578
+ISO_3166_2: PE-CAJ
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Cajamarca
+NAME_ALT: Caxamarca
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.CJ
+NOTE: null
+HASC_MAYBE: EC.ZC|PER-CJM
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: CJ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE06
+FIPS_ALT: EC20
+WOE_ID: 2346473
+WOE_LABEL: Cajamarca, PE, Peru
+WOE_NAME: Cajamarca
+LATITUDE: -6.81775
+LONGITUDE: -78.6091
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3699087
+GN_NAME: Region de Cajamarca
+GNS_ID: -339009
+GNS_NAME: Cajamarca, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q205078
+NAME_AR: إقليم كاخاماركا
+NAME_BN: কাজামার্কা অঞ্চল
+NAME_DE: Cajamarca
+NAME_EN: Cajamarca Region
+NAME_ES: Departamento de Cajamarca
+NAME_FR: Région de Cajamarca
+NAME_EL: Κατζαμάρκα
+NAME_HI: कजमार्का क्षेत्र
+NAME_HU: Cajamarca megye
+NAME_ID: Region Cajamarca
+NAME_IT: regione di Cajamarca
+NAME_JA: カハマルカ県
+NAME_KO: 카하마르카 주
+NAME_NL: Cajamarca
+NAME_PL: Region Cajamarca
+NAME_PT: Cajamarca
+NAME_RU: Кахамарка
+NAME_SV: Cajamarca
+NAME_TR: Cajamarca
+NAME_VI: Cajamarca
+NAME_ZH: 卡哈马卡大区
+NE_ID: 1159309959

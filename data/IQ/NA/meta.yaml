@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3061
+DISS_ME: 3061
+ISO_3166_2: IQ-NA
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: An-Najaf
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.NA
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ17
+FIPS_ALT: null
+WOE_ID: 2345849
+WOE_LABEL: An Najaf, IQ, Iraq
+WOE_NAME: An-Najaf
+LATITUDE: 30.9322
+LONGITUDE: 43.7551
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 98862
+GN_NAME: An Najaf
+GNS_ID: -3102871
+GNS_NAME: An Najaf
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ17
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q192882
+NAME_AR: النجف
+NAME_BN: নাজাফ প্রদেশ
+NAME_DE: Gouvernement Nadschaf
+NAME_EN: Najaf Governorate
+NAME_ES: Gobernación de Nayaf
+NAME_FR: An-Najaf
+NAME_EL: Νατζάφ
+NAME_HI: नजफ़ प्रान्त
+NAME_HU: Nedzsef kormányzóság
+NAME_ID: Kegubernuran Najaf
+NAME_IT: governatorato di Najaf
+NAME_JA: ナジャフ県
+NAME_KO: 나자프 주
+NAME_NL: An-Najaf
+NAME_PL: An-Nadżaf
+NAME_PT: An-Najaf
+NAME_RU: Наджаф
+NAME_SV: Najaf
+NAME_TR: Necef ili
+NAME_VI: Tỉnh Najaf
+NAME_ZH: 納傑夫省
+NE_ID: 1159314227

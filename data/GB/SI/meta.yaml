@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5695
+DISS_ME: 5695
+ISO_3166_2: GB-SOL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Solihull
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: GB.WM
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: W Mid
+POSTAL: WM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKM2
+FIPS_ALT: null
+WOE_ID: -12602191
+WOE_LABEL: null
+WOE_NAME: West Midlands
+LATITUDE: 52.4038
+LONGITUDE: -1.71185
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333195
+GN_NAME: Borough of Solihull
+GNS_ID: 6077637
+GNS_NAME: Solihull, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.M2
+REGION_SUB: West Midlands
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1925858
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Metropolitan Borough of Solihull
+NAME_EN: Solihull
+NAME_ES: null
+NAME_FR: district métropolitain de Solihull
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Solihull
+NAME_JA: ソリフル首都区
+NAME_KO: 솔리헐 도시 자치구
+NAME_NL: Solihull
+NAME_PL: Metropolitan Borough of Solihull
+NAME_PT: null
+NAME_RU: Солихалл
+NAME_SV: Solihull
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 索利赫爾區
+NE_ID: 1159317537

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: FSM-4943
+DISS_ME: 4943
+ISO_3166_2: FM-YAP
+WIKIPEDIA: http://en.wikipedia.org/wiki/Yap_State
+ISO_A2: FM
+ADM0_SR: 5
+NAME: Yap
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: FM.YA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 3
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: FM04
+FIPS_ALT: null
+WOE_ID: 2345343
+WOE_LABEL: Yap, FM, Federated States of Micronesia
+WOE_NAME: Yap
+LATITUDE: 9.58101
+LONGITUDE: 138.114
+SOV_A3: FSM
+ADM0_A3: FSM
+ADM0_LABEL: 5
+ADMIN: Federated States of Micronesia
+GEONUNIT: Federated States of Micronesia
+GU_A3: FSM
+GN_ID: 2081175
+GN_NAME: State of Yap
+GNS_ID: -3741502
+GNS_NAME: Yap, State of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: FM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: FM04
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q11342951
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Bundesstaat Yap
+NAME_EN: Yap State
+NAME_ES: null
+NAME_FR: Yap
+NAME_EL: null
+NAME_HI: याप राज्य
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: ヤップ州
+NAME_KO: 야프 주
+NAME_NL: null
+NAME_PL: Yap
+NAME_PT: null
+NAME_RU: Яп
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 雅浦州
+NE_ID: 1159316113

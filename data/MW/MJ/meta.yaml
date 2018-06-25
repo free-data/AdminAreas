@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1923
+DISS_ME: 1923
+ISO_3166_2: MW-MU
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Mulanje
+NAME_ALT: Mlange|Mlanje
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.MJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: MWI-STH
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MJ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI29
+FIPS_ALT: null
+WOE_ID: 20070141
+WOE_LABEL: Mulanje, MW, Malawi
+WOE_NAME: Mulanje
+LATITUDE: -15.9868
+LONGITUDE: 35.5397
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 925788
+GN_NAME: Mulanje District
+GNS_ID: -1485021
+GNS_NAME: Mulanje
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MI29
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q509097
+NAME_AR: مقاطعة مولاني
+NAME_BN: মোলানজে জেলা
+NAME_DE: Mulanje-Distrikt
+NAME_EN: Mulanje District
+NAME_ES: Distrito de Mulanje
+NAME_FR: District de Mulanje
+NAME_EL: Μουλάντζε
+NAME_HI: मुलान्ये जिला
+NAME_HU: null
+NAME_ID: Distrik Mulanje
+NAME_IT: distretto di Mulanje
+NAME_JA: ムランジェ
+NAME_KO: 물란제 현
+NAME_NL: Mulanje
+NAME_PL: Dystrykt Mulanje
+NAME_PT: Mulanje
+NAME_RU: Муланье
+NAME_SV: Mulanje
+NAME_TR: Mulanje
+NAME_VI: Quận Mulanje
+NAME_ZH: 姆蘭傑縣
+NE_ID: 1159311241

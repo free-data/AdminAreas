@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2525
+DISS_ME: 2525
+ISO_3166_2: PH-AKL
+WIKIPEDIA: http://en.wikipedia.org/wiki/Aklan
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Aklan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.AK
+NOTE: null
+HASC_MAYBE: null
+REGION: Western Visayas (Region VI)
+REGION_COD: PH-06
+PROVNUM_NE: 20056
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP04
+FIPS_ALT: null
+WOE_ID: 2346659
+WOE_LABEL: null
+WOE_NAME: Aklan
+LATITUDE: 11.5611
+LONGITUDE: 122.223
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1731758
+GN_NAME: Province of Aklan
+GNS_ID: -2407503
+GNS_NAME: Aklan, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.04
+REGION_SUB: Aklan
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP04
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13723
+NAME_AR: ولاية أكلان
+NAME_BN: আকা্লান
+NAME_DE: Aklan
+NAME_EN: Aklan
+NAME_ES: Aklan
+NAME_FR: province de Aklan
+NAME_EL: Ακλάν
+NAME_HI: अक्लान प्रान्त
+NAME_HU: null
+NAME_ID: Aklan
+NAME_IT: Provincia di Aklan
+NAME_JA: アクラン州
+NAME_KO: 아클란 주
+NAME_NL: Aklan
+NAME_PL: Aklan
+NAME_PT: Aklan
+NAME_RU: Аклан
+NAME_SV: Aklan
+NAME_TR: Aklan
+NAME_VI: Aklan
+NAME_ZH: 阿克兰省
+NE_ID: 1159313439

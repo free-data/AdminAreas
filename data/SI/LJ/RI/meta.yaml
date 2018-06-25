@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-218
+DISS_ME: 218
+ISO_3166_2: SI-104
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Ribnica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.RI
+NOTE: null
+HASC_MAYBE: null
+REGION: Jugovzhodna Slovenija
+REGION_COD: null
+PROVNUM_NE: 31
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIL1
+FIPS_ALT: null
+WOE_ID: 55848381
+WOE_LABEL: Ribnica, SI, Slovenia
+WOE_NAME: Ribnica
+LATITUDE: 45.7413
+LONGITUDE: 14.7047
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3191679
+GN_NAME: Obcina Ribnica
+GNS_ID: -94372
+GNS_NAME: Ribnica, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.L1
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: SI00
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q15912
+NAME_AR: بلدية ريبنيتسا
+NAME_BN: রিবনিকা পৌরসভা
+NAME_DE: Ribnica
+NAME_EN: Ribnica Municipality
+NAME_ES: Ribnica
+NAME_FR: Ribnica
+NAME_EL: Ριμπνίκα
+NAME_HI: रीबनिका नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Ribnica
+NAME_IT: Ribnica
+NAME_JA: リブニツァ
+NAME_KO: 리브니차
+NAME_NL: Ribnica
+NAME_PL: Gmina Ribnica
+NAME_PT: Ribnica
+NAME_RU: Рибница
+NAME_SV: Ribnica
+NAME_TR: Ribnica Belediyesi
+NAME_VI: Đô thị tự trị Ribnica
+NAME_ZH: 里布尼察
+NE_ID: 1159308589

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-449
+DISS_ME: 449
+ISO_3166_2: TH-39
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Nong Bua Lam Phu
+NAME_ALT: Nong Bua Lamphu
+NAME_LOCAL: จังหวัดหนองบัวลำภู
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 50
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 16
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH79
+FIPS_ALT: TH19
+WOE_ID: 2347202
+WOE_LABEL: Nong Bua Lam Phu, TH, Thailand
+WOE_NAME: Nong Bua Lam Phu
+LATITUDE: 17.2392
+LONGITUDE: 102.311
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1906690
+GN_NAME: Changwat Nong Bua Lamphu
+GNS_ID: 415793
+GNS_NAME: Nong Bua Lamphu, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.79
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH79
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q261241
+NAME_AR: محافظة نونغ بوا لامفو
+NAME_BN: নাং বাউ লাম ফু
+NAME_DE: Nongbua Lamphu
+NAME_EN: Nong Bua Lam Phu
+NAME_ES: Nongbua Lamphu
+NAME_FR: Nong Bua Lam Phu
+NAME_EL: Νόνγκ Μποάα Λάμπου
+NAME_HI: नोंग बुआ लम फू प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Nong Bua Lamphu
+NAME_IT: provincia di Nongbua Lamphu
+NAME_JA: ノーンブワラムプー県
+NAME_KO: 농부아람푸 주
+NAME_NL: Changwat Nong Bua Lamphu
+NAME_PL: Prowincja Nongbua Lamphu
+NAME_PT: Nong Bua Lam Phu
+NAME_RU: Нонгбуалампху
+NAME_SV: Nong Bua Lam Phu
+NAME_TR: Nong Bua Lamphu
+NAME_VI: Nongbua Lamphu
+NAME_ZH: 廊磨喃蒲府
+NE_ID: 1159308265

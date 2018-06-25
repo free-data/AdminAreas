@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-994
+DISS_ME: 994
+ISO_3166_2: SI-125
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Šmartno ob Paki
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.SP
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 121
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIC6
+FIPS_ALT: null
+WOE_ID: -55848395
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3421
+LONGITUDE: 15.0326
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239187
+GN_NAME: Obcina Smartno ob Paki
+GNS_ID: 243859
+GNS_NAME: Smartno ob Paki, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.C6
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI62
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q392188
+NAME_AR: بلدية شمارتنو أوب باكي
+NAME_BN: স্মার্টনো পৌরসভা
+NAME_DE: Šmartno ob Paki
+NAME_EN: Šmartno ob Paki Municipality
+NAME_ES: Municipalidad Šmartno ob Paki
+NAME_FR: Šmartno ob Paki
+NAME_EL: Σμάρτνο ομπ Πάκι
+NAME_HI: स्मार्त्नो ओब पाकी नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Šmartno ob Paki
+NAME_IT: Šmartno ob Paki
+NAME_JA: シュマルトノ・オプ・パキ
+NAME_KO: 슈마르트노오브파키
+NAME_NL: Šmartno ob Paki
+NAME_PL: Gmina Šmartno ob Paki
+NAME_PT: Šmartno ob Paki
+NAME_RU: Шмартно-об-Паки
+NAME_SV: Smartno ob Paki Kommun
+NAME_TR: Smartno ob Paki Belediyesi
+NAME_VI: Šmartno ob Paki
+NAME_ZH: null
+NE_ID: 1159310791

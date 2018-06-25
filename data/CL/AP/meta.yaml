@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: CHL-2694
+DISS_ME: 2694
+ISO_3166_2: CL-AP
+WIKIPEDIA: null
+ISO_A2: CL
+ADM0_SR: 1
+NAME: Arica y Parinacota
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Región
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CL.AP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 18
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 56043702
+WOE_LABEL: Arica and Parinacota Region, CL, Chile
+WOE_NAME: Arica y Parinacota
+LATITUDE: -18.3207
+LONGITUDE: -69.6804
+SOV_A3: CHL
+ADM0_A3: CHL
+ADM0_LABEL: 2
+ADMIN: Chile
+GEONUNIT: Chile
+GU_A3: CHL
+GN_ID: 6693562
+GN_NAME: Region de Arica y Parinacota
+GNS_ID: 10749159
+GNS_NAME: Arica y Parinacota, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CL.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: CI16
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q2109
+NAME_AR: إقليم أريكا وبارينكوتا
+NAME_BN: null
+NAME_DE: Región de Arica y Parinacota
+NAME_EN: Arica y Parinacota Region
+NAME_ES: Región de Arica y Parinacota
+NAME_FR: Région d'Arica et Parinacota
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: regione di Arica e Parinacota
+NAME_JA: アリカ・イ・パリナコータ州
+NAME_KO: 아리카 이 파리나코타 주
+NAME_NL: Arica y Parinacota
+NAME_PL: Arica y Parinacota
+NAME_PT: Região de Arica e Parinacota
+NAME_RU: Арика-и-Паринакота
+NAME_SV: Región de Arica y Parinacota
+NAME_TR: Arica ve Parinacota bölgesi
+NAME_VI: Arica và Parinacota
+NAME_ZH: 阿里卡和帕里纳科塔大区
+NE_ID: 1159313647

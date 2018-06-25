@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-204
+DISS_ME: 204
+ISO_3166_2: SI-021
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Dobrova-Polhov Gradec
+NAME_ALT: Dobrova-Horjul-Polhov Gradec
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.DP
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 131
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 21
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIG4
+FIPS_ALT: null
+WOE_ID: -55848364
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.0716
+LONGITUDE: 14.3138
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239096
+GN_NAME: Obcina Dobrova-Polhov Gradec
+GNS_ID: 243495
+GNS_NAME: Dobrova-Polhov Gradec, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.G4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI27
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1005208
+NAME_AR: بلدية دوبروفا بولهوف غرادك
+NAME_BN: দব্রোভা-পলহভ গ্রাদেচ পৌরসভা
+NAME_DE: Dobrova-Polhov Gradec
+NAME_EN: Dobrova–Polhov Gradec Municipality
+NAME_ES: Dobrova-Polhov Gradec
+NAME_FR: Dobrova-Polhov Gradec
+NAME_EL: Ντόμπροβα-Πολχόβ Γκράντεκ
+NAME_HI: डोब्रोवा-पोल्होव ग्रादेक नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Dobrova–Polhov Gradec
+NAME_IT: Dobrova-Polhov Gradec
+NAME_JA: ドブロヴァ＝ポルホフ・グラデツ
+NAME_KO: 도브로바폴호브그라데츠
+NAME_NL: Dobrova-Polhov Gradec
+NAME_PL: Gmina Dobrova-Polhov Gradec
+NAME_PT: Dobrova-Polhov Gradec
+NAME_RU: Доброва-Полхов Градец
+NAME_SV: null
+NAME_TR: Dobrova-Polhov
+NAME_VI: Dobrova-Polhov Gradec
+NAME_ZH: 多布罗瓦-霍尔尤尔-波尔霍夫格拉代茨
+NE_ID: 1159308557

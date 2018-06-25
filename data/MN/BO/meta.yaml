@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MNG-3208
+DISS_ME: 3208
+ISO_3166_2: MN-071
+WIKIPEDIA: null
+ISO_A2: MN
+ADM0_SR: 1
+NAME: Bayan-Ölgiy
+NAME_ALT: Bajan-Ölgij|Bayan Ölögey|Bayan-Ulegei|Bayanulgee|Bayan-Ulgii|Bajan-Ulegei
+NAME_LOCAL: null
+TYPE: Aimag|aymag
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: MN.BO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 6
+FIPS: MG03
+FIPS_ALT: null
+WOE_ID: 2346159
+WOE_LABEL: Bayan-Olgiy, MN, Mongolia
+WOE_NAME: Bayan-Ölgiy
+LATITUDE: 48.8811
+LONGITUDE: 89.8127
+SOV_A3: MNG
+ADM0_A3: MNG
+ADM0_LABEL: 2
+ADMIN: Mongolia
+GEONUNIT: Mongolia
+GU_A3: MNG
+GN_ID: 1516278
+GN_NAME: Bayan-Olgiy Aymag
+GNS_ID: -2348245
+GNS_NAME: Bayan-Olgiy Aymag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MN.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: MG03
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q191792
+NAME_AR: محافظة بايان-أولجي
+NAME_BN: বায়ান-ওলগি প্রদেশ
+NAME_DE: Bajan-Ölgii-Aimag
+NAME_EN: Bayan-Ölgii Province
+NAME_ES: Bayan-Ölgiy
+NAME_FR: Bayan-Ölgii
+NAME_EL: Μπαγιάν Ολγκίι
+NAME_HI: बयान-ओलगी प्रांत
+NAME_HU: Bajan-Ölgij ajmag
+NAME_ID: Provinsi Bayan-Ölgii
+NAME_IT: provincia del Bajan-Ôlgij
+NAME_JA: バヤン・ウルギー県
+NAME_KO: 바잉울기 주
+NAME_NL: Bajan-Ölgi
+NAME_PL: Ajmak bajanolgijski
+NAME_PT: Bayan-Ölgiy
+NAME_RU: Баян-Улгий
+NAME_SV: Bajan-Ölgij
+NAME_TR: Bayan Ölgii ili
+NAME_VI: Bayan-Ölgii
+NAME_ZH: 巴彦乌列盖省
+NE_ID: 1159314673

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LBN-3024
+DISS_ME: 3024
+ISO_3166_2: LB-BA
+WIKIPEDIA: null
+ISO_A2: LB
+ADM0_SR: 1
+NAME: Beirut
+NAME_ALT: Bayrut|Beirute|Beyrouth
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LB.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: LE04
+FIPS_ALT: null
+WOE_ID: 2346016
+WOE_LABEL: Bayrut, LB, Lebanon
+WOE_NAME: Beirut
+LATITUDE: 33.8849
+LONGITUDE: 35.5093
+SOV_A3: LBN
+ADM0_A3: LBN
+ADM0_LABEL: 5
+ADMIN: Lebanon
+GEONUNIT: Lebanon
+GU_A3: LBN
+GN_ID: 276780
+GN_NAME: Beyrouth
+GNS_ID: -801547
+GNS_NAME: Beyrouth, Mohafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LB.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: LE04
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q651688
+NAME_AR: بيروت
+NAME_BN: বৈরুত গভর্নোরেট
+NAME_DE: Beirut
+NAME_EN: Beirut Governorate
+NAME_ES: Gobernación de Beirut
+NAME_FR: Gouvernorat de Beyrouth
+NAME_EL: Μπεϊρούτ
+NAME_HI: बेयरूत प्रान्त
+NAME_HU: null
+NAME_ID: Kegubernuran Beirut
+NAME_IT: governatorato di Beirut
+NAME_JA: ベイルート県
+NAME_KO: 베이루트 주
+NAME_NL: Beiroet
+NAME_PL: Gubernatorstwo Bejrut
+NAME_PT: Beirute
+NAME_RU: Бейрут
+NAME_SV: Guvernementet Beirut
+NAME_TR: Beyrut ili
+NAME_VI: Beirut
+NAME_ZH: 贝鲁特省
+NE_ID: 1159314203

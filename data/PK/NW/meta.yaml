@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: PAK-1123
+DISS_ME: 1123
+ISO_3166_2: PK-KP
+WIKIPEDIA: null
+ISO_A2: PK
+ADM0_SR: 1
+NAME: K.P.
+NAME_ALT: North-West Frontier Province
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PK.NW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: NW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: PK03
+FIPS_ALT: null
+WOE_ID: 2346497
+WOE_LABEL: North-West Frontier, PK, Pakistan
+WOE_NAME: N.W.F.P.
+LATITUDE: 34.9407
+LONGITUDE: 72.6402
+SOV_A3: PAK
+ADM0_A3: PAK
+ADM0_LABEL: 2
+ADMIN: Pakistan
+GEONUNIT: Pakistan
+GU_A3: PAK
+GN_ID: 1168873
+GN_NAME: Khyber Pakhtunkhwa Province
+GNS_ID: -2770671
+GNS_NAME: Khyber Pakhtunkhwa Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PK.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: PK03
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.5
+MIN_ZOOM: 5
+WIKIDATAID: Q183314
+NAME_AR: خیبر بختونخوا
+NAME_BN: খাইবার পাখতুনখাওয়া
+NAME_DE: Khyber Pakhtunkhwa
+NAME_EN: Khyber Pakhtunkhwa
+NAME_ES: Khyber Pakhtunkhwa
+NAME_FR: Khyber Pakhtunkhwa
+NAME_EL: null
+NAME_HI: ख़ैबर-पख़्तूनख़्वा
+NAME_HU: Hajber-Pahtunhva
+NAME_ID: Khyber Pakhtunkhwa
+NAME_IT: Khyber Pakhtunkhwa
+NAME_JA: カイバル・パクトゥンクワ州
+NAME_KO: 카이베르파크툰크와 주
+NAME_NL: Khyber-Pakhtunkhwa
+NAME_PL: Chajber Pachtunchwa
+NAME_PT: Khyber Pakhtunkhwa
+NAME_RU: Хайбер-Пахтунхва
+NAME_SV: Khyber Pukhtunkhwa
+NAME_TR: Kuzeybatı Sınır Eyaleti
+NAME_VI: Khyber Pakhtunkhwa
+NAME_ZH: 开伯尔－普赫图赫瓦省
+NE_ID: 1159309353

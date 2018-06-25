@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-439
+DISS_ME: 439
+ISO_3166_2: TH-46
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Kalasin
+NAME_ALT: null
+NAME_LOCAL: จังหวัดกาฬสินธุ์
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.KL
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 51
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH23
+FIPS_ALT: null
+WOE_ID: 2347148
+WOE_LABEL: Kalasin, TH, Thailand
+WOE_NAME: Kalasin
+LATITUDE: 16.6224
+LONGITUDE: 103.679
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1610468
+GN_NAME: Changwat Kalasin
+GNS_ID: -3248416
+GNS_NAME: Kalasin, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH23
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q382144
+NAME_AR: محافظة كالاسين
+NAME_BN: কালাসিন
+NAME_DE: Kalasin
+NAME_EN: Kalasin
+NAME_ES: Provincia de Kalasin
+NAME_FR: Kalasin
+NAME_EL: Καλάσιν
+NAME_HI: कालासिन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Kalasin
+NAME_IT: provincia di Kalasin
+NAME_JA: カーラシン県
+NAME_KO: 깔라신 주
+NAME_NL: Changwat Kalasin
+NAME_PL: Prowincja Kalasin
+NAME_PT: Kalasin
+NAME_RU: Каласин
+NAME_SV: Kalasin
+NAME_TR: Kalasin
+NAME_VI: Kalasin
+NAME_ZH: 加拉信府
+NE_ID: 1159308245

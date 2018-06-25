@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GHA-2160
+DISS_ME: 2160
+ISO_3166_2: GH-CP
+WIKIPEDIA: null
+ISO_A2: GH
+ADM0_SR: 1
+NAME: Central
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GH.CP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: GH04
+FIPS_ALT: null
+WOE_ID: 2345465
+WOE_LABEL: Central, GH, Ghana
+WOE_NAME: Central
+LATITUDE: 5.49477
+LONGITUDE: -1.26555
+SOV_A3: GHA
+ADM0_A3: GHA
+ADM0_LABEL: 2
+ADMIN: Ghana
+GEONUNIT: Ghana
+GU_A3: GHA
+GN_ID: 2302353
+GN_NAME: Central Region
+GNS_ID: -2071697
+GNS_NAME: Central
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GH.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GH04
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q846323
+NAME_AR: الإقليم الأوسط
+NAME_BN: সেন্ট্রাল অঞ্চল
+NAME_DE: Central Region
+NAME_EN: Central Region
+NAME_ES: Región Central
+NAME_FR: Région du Centre
+NAME_EL: Κεντρική Περιφέρεια
+NAME_HI: केन्द्रीय क्षेत्र
+NAME_HU: null
+NAME_ID: Region Tengah
+NAME_IT: regione Centrale
+NAME_JA: セントラル州
+NAME_KO: 중앙 주
+NAME_NL: Central
+NAME_PL: Region Centralny
+NAME_PT: Central
+NAME_RU: Центральный регион
+NAME_SV: Centralregionen
+NAME_TR: Merkez Bölgesi
+NAME_VI: Khu vực Miền Trung
+NAME_ZH: 中部地區
+NE_ID: 1159311461

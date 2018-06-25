@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1915
+DISS_ME: 1915
+ISO_3166_2: MW-BA
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Balaka
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: MWI-CNT
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI26
+FIPS_ALT: null
+WOE_ID: 1500503
+WOE_LABEL: null
+WOE_NAME: Balaka
+LATITUDE: -15.037
+LONGITUDE: 35.0792
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 1105840
+GN_NAME: Balaka District
+GNS_ID: 6240704
+GNS_NAME: Balaka
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: MI26
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q870044
+NAME_AR: مقاطعة بالاكا
+NAME_BN: বালাকা জেলা
+NAME_DE: Balaka
+NAME_EN: Balaka District
+NAME_ES: Distrito de Balaka
+NAME_FR: District de Balaka
+NAME_EL: Μπαλάκα
+NAME_HI: बलाका जिला
+NAME_HU: null
+NAME_ID: Distrik Balaka
+NAME_IT: distretto di Balaka
+NAME_JA: バラカ
+NAME_KO: 발라카 현
+NAME_NL: Balaka
+NAME_PL: Dystrykt Balaka
+NAME_PT: Balaka
+NAME_RU: Балака
+NAME_SV: Balaka
+NAME_TR: Balaka
+NAME_VI: Quận Balaka
+NAME_ZH: 巴拉卡縣
+NE_ID: 1159311225

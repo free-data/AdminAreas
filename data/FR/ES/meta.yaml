@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5289
+DISS_ME: 5289
+ISO_3166_2: FR-91
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Essonne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: Île-de-France
+REGION_COD: FR-J
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA8
+FIPS_ALT: null
+WOE_ID: 12597118
+WOE_LABEL: null
+WOE_NAME: Essonne
+LATITUDE: 48.5629
+LONGITUDE: 2.29588
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3019599
+GN_NAME: Departement de l'Essonne
+GNS_ID: -1425761
+GNS_NAME: Essonne, Departement de l'
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.91
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FR00
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q3368
+NAME_AR: إيسون
+NAME_BN: এসোনে
+NAME_DE: Département Essonne
+NAME_EN: Essonne
+NAME_ES: Essonne
+NAME_FR: Essonne
+NAME_EL: Εσσόν
+NAME_HI: एसोने
+NAME_HU: Essonne
+NAME_ID: Essonne
+NAME_IT: Essonne
+NAME_JA: エソンヌ県
+NAME_KO: 에손 주
+NAME_NL: Essonne
+NAME_PL: Essonne
+NAME_PT: Essonne
+NAME_RU: Эсон
+NAME_SV: Essonne
+NAME_TR: Essonne
+NAME_VI: Essonne
+NAME_ZH: 埃松省
+NE_ID: 1159316785

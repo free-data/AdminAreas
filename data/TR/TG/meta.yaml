@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2242
+DISS_ME: 2242
+ISO_3166_2: TR-59
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Tekirdag
+NAME_ALT: Tekirdağ
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.TG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU59
+FIPS_ALT: null
+WOE_ID: 2347310
+WOE_LABEL: TekirdaÄŸ, TR, Turkey
+WOE_NAME: Tekirdag
+LATITUDE: 41.0824
+LONGITUDE: 27.4547
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 738926
+GN_NAME: Tekirdag
+GNS_ID: -772858
+GNS_NAME: Tekirdag Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.59
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: heb
+GNS_ADM1: TU59
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q129387
+NAME_AR: تيكيرداغ
+NAME_BN: তিকরদাগ প্রদেশ
+NAME_DE: Tekirdağ
+NAME_EN: Tekirdağ Province
+NAME_ES: Provincia de Tekirdağ
+NAME_FR: Tekirdağ
+NAME_EL: Επαρχία Ραιδεστού
+NAME_HI: टेकीरडैग प्रांत
+NAME_HU: Tekirdağ
+NAME_ID: Provinsi Tekirdağ
+NAME_IT: provincia di Tekirdağ
+NAME_JA: テキルダー県
+NAME_KO: 테키르다 주
+NAME_NL: Tekirdağ
+NAME_PL: Tekirdağ
+NAME_PT: Tekirdağ
+NAME_RU: Текирдаг
+NAME_SV: Tekirdağ
+NAME_TR: Tekirdağ
+NAME_VI: Tekirdağ
+NAME_ZH: 泰基尔达省
+NE_ID: 1159312321

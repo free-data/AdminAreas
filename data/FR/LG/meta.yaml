@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5319
+DISS_ME: 5319
+ISO_3166_2: FR-47
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Lot-et-Garonne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.LG
+NOTE: null
+HASC_MAYBE: null
+REGION: Aquitaine
+REGION_COD: FR-B
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 14
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FR97
+FIPS_ALT: null
+WOE_ID: 12597143
+WOE_LABEL: null
+WOE_NAME: Lot-et-Garonne
+LATITUDE: 44.3829
+LONGITUDE: 0.449742
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2997523
+GN_NAME: Departement du Lot-et-Garonne
+GNS_ID: -1447887
+GNS_NAME: Lot-et-Garonne, Departement de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FR97
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12578
+NAME_AR: لوت وغارون
+NAME_BN: লট-এট-গ্যারোন
+NAME_DE: Département Lot-et-Garonne
+NAME_EN: Lot-et-Garonne
+NAME_ES: Lot y Garona
+NAME_FR: Lot-et-Garonne
+NAME_EL: Λοτ-ε-Γκαρόν
+NAME_HI: लूत-एट-गोरोन
+NAME_HU: Lot-et-Garonne
+NAME_ID: Lot-et-Garonne
+NAME_IT: Lot e Garonna
+NAME_JA: ロット＝エ＝ガロンヌ県
+NAME_KO: 로트에가론 주
+NAME_NL: Lot-et-Garonne
+NAME_PL: Lot-et-Garonne
+NAME_PT: Lot e Garona
+NAME_RU: Ло и Гаронна
+NAME_SV: Lot-et-Garonne
+NAME_TR: Lot-et-Garonne
+NAME_VI: Lot-et-Garonne
+NAME_ZH: 洛特-加龍省
+NE_ID: 1159316899

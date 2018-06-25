@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1279
+DISS_ME: 1279
+ISO_3166_2: EC-X
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Cotopaxi
+NAME_ALT: Le¢n
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC07
+FIPS_ALT: null
+WOE_ID: 2345208
+WOE_LABEL: Cotopaxi, EC, Ecuador
+WOE_NAME: Cotopaxi
+LATITUDE: -0.813335
+LONGITUDE: -78.8554
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3658766
+GN_NAME: Provincia de Cotopaxi
+GNS_ID: -926245
+GNS_NAME: Cotopaxi, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q241140
+NAME_AR: مقاطعة كوتوباكسي
+NAME_BN: কটোপাক্সি প্রদেশ
+NAME_DE: Provinz Cotopaxi
+NAME_EN: Cotopaxi Province
+NAME_ES: Provincia de Cotopaxi
+NAME_FR: Cotopaxi
+NAME_EL: Επαρχία Κοτοπάξι
+NAME_HI: कोटोपैक्सी प्रांत
+NAME_HU: Cotopaxi tartomány
+NAME_ID: Provinsi Cotopaxi
+NAME_IT: provincia del Cotopaxi
+NAME_JA: コトパクシ県
+NAME_KO: 코토팍시 주
+NAME_NL: Cotopaxi
+NAME_PL: Prowincja Cotopaxi
+NAME_PT: Cotopaxi
+NAME_RU: Котопахи
+NAME_SV: Cotopaxi
+NAME_TR: Cotopaxi Province
+NAME_VI: Cotopaxi
+NAME_ZH: 科托帕希省
+NE_ID: 1159309983

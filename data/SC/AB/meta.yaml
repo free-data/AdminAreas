@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SYC-5199
+DISS_ME: 5199
+ISO_3166_2: SC-02
+WIKIPEDIA: null
+ISO_A2: SC
+ADM0_SR: 4
+NAME: Anse Boileau
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SC.AB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549869
+WOE_LABEL: null
+WOE_NAME: Anse Boileau
+LATITUDE: -4.71357
+LONGITUDE: 55.4923
+SOV_A3: SYC
+ADM0_A3: SYC
+ADM0_LABEL: 5
+ADMIN: Seychelles
+GEONUNIT: Seychelles
+GU_A3: SYC
+GN_ID: 241449
+GN_NAME: Anse Boileau
+GNS_ID: -1322394
+GNS_NAME: Anse Boileau
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SC.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: SE02
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q569453
+NAME_AR: أنس بويلاو
+NAME_BN: আন্স বুইলু
+NAME_DE: Anse Boileau
+NAME_EN: Anse Boileau
+NAME_ES: Anse Boileau
+NAME_FR: Anse Boileau
+NAME_EL: Άνσε Μποϊλό
+NAME_HI: एंस बॉइलो
+NAME_HU: null
+NAME_ID: Anse Boileau
+NAME_IT: Anse Boileau
+NAME_JA: アンセ・ボイレヤー
+NAME_KO: 앙스부알로 구
+NAME_NL: Anse Boileau
+NAME_PL: Anse Boileau
+NAME_PT: Anse Boileau
+NAME_RU: Анс-Буало
+NAME_SV: Anse Boileau
+NAME_TR: Anse Boileau
+NAME_VI: Anse Boileau
+NAME_ZH: 安塞布瓦洛區
+NE_ID: 1159316605

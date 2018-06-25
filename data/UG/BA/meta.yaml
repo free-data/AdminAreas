@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5626
+DISS_ME: 5626
+ISO_3166_2: UG-223
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Bududa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 20028
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGC2
+FIPS_ALT: null
+WOE_ID: -20070433
+WOE_LABEL: Mbale, UG, Uganda
+WOE_NAME: Manafwa
+LATITUDE: 1.03321
+LONGITUDE: 34.3979
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056280
+GN_NAME: Bududa District
+GNS_ID: 10540242
+GNS_NAME: Bududa District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.C2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1365449
+NAME_AR: مقاطعة بودودا
+NAME_BN: বুডোডা জেলা
+NAME_DE: Bududa-Distrikt
+NAME_EN: Bududa District
+NAME_ES: Distrito de Bududa
+NAME_FR: Bududa
+NAME_EL: Μπουντούντα
+NAME_HI: बुडूडा जिला
+NAME_HU: null
+NAME_ID: Distrik Bududa
+NAME_IT: Bududa
+NAME_JA: ブドゥダ県
+NAME_KO: 부두다 구
+NAME_NL: Bududa
+NAME_PL: Dystrykt Bududa
+NAME_PT: Bududa
+NAME_RU: Будуда
+NAME_SV: Bududa
+NAME_TR: Bududa District
+NAME_VI: Quận Bududa
+NAME_ZH: 布杜達區
+NE_ID: 1159317413

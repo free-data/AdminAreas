@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CZE-10369
+DISS_ME: 10369
+ISO_3166_2: CZ-PL
+WIKIPEDIA: http://en.wikipedia.org/wiki/Plze%C5%88_Region
+ISO_A2: CZ
+ADM0_SR: 1
+NAME: Plzeňský
+NAME_ALT: Plzeň Region, Plzeňský kraj
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CZ.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070501
+WOE_LABEL: PlzeÅˆskÃ½, CZ, Czech Republic
+WOE_NAME: Plzeňský
+LATITUDE: 49.6458
+LONGITUDE: 13.2001
+SOV_A3: CZE
+ADM0_A3: CZE
+ADM0_LABEL: 5
+ADMIN: Czech Republic
+GEONUNIT: Czech Republic
+GU_A3: CZE
+GN_ID: 3339575
+GN_NAME: Plzensky kraj
+GNS_ID: 9047183
+GNS_NAME: Plzensky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CZ.87
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: EZ87
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1080673
+NAME_AR: مقاطعة بلزن-المدينة
+NAME_BN: null
+NAME_DE: Okres Plzeň-město
+NAME_EN: Plzeň-City District
+NAME_ES: null
+NAME_FR: District de Plzeň-město
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Plzeň városi járás
+NAME_ID: null
+NAME_IT: Distretto di Plzeň-město
+NAME_JA: null
+NAME_KO: null
+NAME_NL: Okres Plzeň-město
+NAME_PL: null
+NAME_PT: Distrito de Plzeň-Ciudad
+NAME_RU: Пльзень-город
+NAME_SV: Okres Plzeň-Město
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 比爾森城縣
+NE_ID: 1159315775

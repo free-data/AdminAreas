@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1286
+DISS_ME: 1286
+ISO_3166_2: EC-D
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Orellana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.OR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: NA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC24
+FIPS_ALT: EC21|EC23
+WOE_ID: 20070099
+WOE_LABEL: Orellano, EC, Ecuador
+WOE_NAME: Orellana
+LATITUDE: -0.875888
+LONGITUDE: -76.4248
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3830306
+GN_NAME: Provincia de Francisco de Orellana
+GNS_ID: 9125915
+GNS_NAME: Francisco de Orellana, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: EC24
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q499475
+NAME_AR: مقاطعة أوريينا
+NAME_BN: ওরেল্লানা প্রদেশ
+NAME_DE: Provinz Orellana
+NAME_EN: Orellana Province
+NAME_ES: Provincia de Orellana
+NAME_FR: Orellana
+NAME_EL: Ορεγιάνα
+NAME_HI: ओरेल्लाना प्रांत
+NAME_HU: Orellana tartomány
+NAME_ID: Provinsi Orellana
+NAME_IT: provincia di Orellana
+NAME_JA: オレリャーナ県
+NAME_KO: 오레야나 주
+NAME_NL: Orellana
+NAME_PL: Prowincja Orellana
+NAME_PT: Orellana
+NAME_RU: Орельяна
+NAME_SV: Orellana
+NAME_TR: Orellana Province
+NAME_VI: Tỉnh Orellana
+NAME_ZH: 奥雷亚纳省
+NE_ID: 1159309995

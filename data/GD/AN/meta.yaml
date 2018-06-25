@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: GRD-5070
+DISS_ME: 5070
+ISO_3166_2: GD-01
+WIKIPEDIA: null
+ISO_A2: GD
+ADM0_SR: 1
+NAME: Saint Andrew
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: GD.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GJ01
+FIPS_ALT: null
+WOE_ID: 2345473
+WOE_LABEL: Saint Andrew, GD, Grenada
+WOE_NAME: Saint Andrew
+LATITUDE: 12.1224
+LONGITUDE: -61.6329
+SOV_A3: GRD
+ADM0_A3: GRD
+ADM0_LABEL: 8
+ADMIN: Grenada
+GEONUNIT: Grenada
+GU_A3: GRD
+GN_ID: 3579938
+GN_NAME: Saint Andrew
+GNS_ID: -1202219
+GNS_NAME: Saint Andrew
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GD.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GJ01
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q977183
+NAME_AR: أبرشية سانت أندرو
+NAME_BN: সেন্ট আন্ড্রু পারিশ
+NAME_DE: Saint Andrew
+NAME_EN: Saint Andrew Parish
+NAME_ES: Parroquia de Saint Andrew
+NAME_FR: Paroisse de Saint Andrew
+NAME_EL: Άγιος Ανδρέας
+NAME_HI: सेंट एंड्रू पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Andrew
+NAME_IT: Parrocchia di Saint Andrew
+NAME_JA: セント・アンドリューズ
+NAME_KO: 세인트앤드루 교구
+NAME_NL: Saint Andrew
+NAME_PL: Saint Andrew
+NAME_PT: Saint Andrew
+NAME_RU: Приход Сент-Эндрю
+NAME_SV: Saint Andrew
+NAME_TR: Saint Andrew Parish
+NAME_VI: Giáo xứ Saint Andrew
+NAME_ZH: 聖安德魯區
+NE_ID: 1159316371

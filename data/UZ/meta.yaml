@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Uzbekistan
+SOV_A3: UZB
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Uzbekistan
+ADM0_A3: UZB
+GEOU_DIF: 0
+GEOUNIT: Uzbekistan
+GU_A3: UZB
+SU_DIF: 0
+SUBUNIT: Uzbekistan
+SU_A3: UZB
+BRK_DIFF: 0
+NAME: Uzbekistan
+NAME_LONG: Uzbekistan
+BRK_A3: UZB
+BRK_NAME: Uzbekistan
+BRK_GROUP: null
+ABBREV: Uzb.
+POSTAL: UZ
+FORMAL_EN: Republic of Uzbekistan
+FORMAL_FR: null
+NAME_CIAWF: Uzbekistan
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Uzbekistan
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 3
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+POP_EST: 29748859
+POP_RANK: 15
+GDP_MD_EST: 202300
+POP_YEAR: 2017
+LASTCENSUS: 1989
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: UZ
+ISO_A2: UZ
+ISO_A3: UZB
+ISO_A3_EH: UZB
+ISO_N3: 860
+UN_A3: 860
+WB_A2: UZ
+WB_A3: UZB
+WOE_ID: 23424980
+WOE_ID_EH: 23424980
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: UZB
+ADM0_A3_US: UZB
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Central Asia
+REGION_WB: Europe & Central Asia
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 4
+TINY: 5
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321405
+WIKIDATAID: Q265
+NAME_AR: أوزبكستان
+NAME_BN: উজবেকিস্তান
+NAME_DE: Usbekistan
+NAME_EN: Uzbekistan
+NAME_ES: Uzbekistán
+NAME_FR: Ouzbékistan
+NAME_EL: Ουζμπεκιστάν
+NAME_HI: उज़्बेकिस्तान
+NAME_HU: Üzbegisztán
+NAME_ID: Uzbekistan
+NAME_IT: Uzbekistan
+NAME_JA: ウズベキスタン
+NAME_KO: 우즈베키스탄
+NAME_NL: Oezbekistan
+NAME_PL: Uzbekistan
+NAME_PT: Usbequistão
+NAME_RU: Узбекистан
+NAME_SV: Uzbekistan
+NAME_TR: Özbekistan
+NAME_VI: Uzbekistan
+NAME_ZH: 乌兹别克斯坦

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TTO-57
+DISS_ME: 57
+ISO_3166_2: TT-PRT
+WIKIPEDIA: null
+ISO_A2: TT
+ADM0_SR: 1
+NAME: Princes Town
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TT.PT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: TD19
+FIPS_ALT: null
+WOE_ID: 56189831
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 10.2039
+LONGITUDE: -61.3096
+SOV_A3: TTO
+ADM0_A3: TTO
+ADM0_LABEL: 6
+ADMIN: Trinidad and Tobago
+GEONUNIT: Trinidad and Tobago
+GU_A3: TTO
+GN_ID: 7521942
+GN_NAME: Princes Town
+GNS_ID: 11402780
+GNS_NAME: Princes Town, Region of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TT.PRT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TD19
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2228167
+NAME_AR: شركة برنس تاون الإقليمية
+NAME_BN: প্রিন্সেস টাউন আঞ্চলিক কর্পোরেশন
+NAME_DE: Princes Town Region
+NAME_EN: Princes Town Regional Corporation
+NAME_ES: Princes Town
+NAME_FR: Région de Princes Town
+NAME_EL: Πρίνσις Τάουν
+NAME_HI: प्रिंस टाउन क्षेत्रीय निगम
+NAME_HU: null
+NAME_ID: Korporasi Wilayah Princes Town
+NAME_IT: regione di Princes Town
+NAME_JA: プリンセス・タウン地域自治体
+NAME_KO: 프린세스타운 지역
+NAME_NL: Princes Town
+NAME_PL: Region Princes Town
+NAME_PT: Corporação Regional Princes Town
+NAME_RU: Принсес-Таун
+NAME_SV: Princes Town Regional Corporation
+NAME_TR: Princes Town Bölgesi
+NAME_VI: Khu liên kết chung Princes Town
+NAME_ZH: 王子城郡
+NE_ID: 1159308053

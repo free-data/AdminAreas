@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1772
+DISS_ME: 1772
+ISO_3166_2: AF-PAR
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Parwan
+NAME_ALT: Charikar
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.PV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF40
+FIPS_ALT: AF22
+WOE_ID: 56000467
+WOE_LABEL: Panjshir, AF, Afghanistan
+WOE_NAME: Parwan
+LATITUDE: 34.9984
+LONGITUDE: 68.8995
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1131054
+GN_NAME: Parwan
+GNS_ID: -3386432
+GNS_NAME: Parwan, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.40
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF40
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q188157
+NAME_AR: ولاية بروان
+NAME_BN: পারভন প্রদেশ
+NAME_DE: Parwan
+NAME_EN: Parwan Province
+NAME_ES: Provincia de Parwān
+NAME_FR: Parwân
+NAME_EL: Παρβάν
+NAME_HI: परवान प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Parwan
+NAME_IT: Parvan
+NAME_JA: パルヴァーン州
+NAME_KO: 파르반 주
+NAME_NL: Parvan
+NAME_PL: Parwan
+NAME_PT: Parwan
+NAME_RU: Парван
+NAME_SV: Parvan
+NAME_TR: Parvan Vilayeti
+NAME_VI: Tỉnh Parwan
+NAME_ZH: 帕尔旺省
+NE_ID: 1159312103

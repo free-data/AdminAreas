@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 4
+SOVEREIGNT: Republic of the Congo
+SOV_A3: COG
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Republic of the Congo
+ADM0_A3: COG
+GEOU_DIF: 0
+GEOUNIT: Republic of the Congo
+GU_A3: COG
+SU_DIF: 0
+SUBUNIT: Republic of the Congo
+SU_A3: COG
+BRK_DIFF: 0
+NAME: Congo
+NAME_LONG: Republic of the Congo
+BRK_A3: COG
+BRK_NAME: Republic of the Congo
+BRK_GROUP: null
+ABBREV: Rep. Congo
+POSTAL: CG
+FORMAL_EN: Republic of the Congo
+FORMAL_FR: null
+NAME_CIAWF: Congo, Republic of the
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Congo, Rep.
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 1
+MAPCOLOR9: 3
+MAPCOLOR13: 10
+POP_EST: 4954674
+POP_RANK: 12
+GDP_MD_EST: 30270
+POP_YEAR: 2017
+LASTCENSUS: 2007
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: CF
+ISO_A2: CG
+ISO_A3: COG
+ISO_A3_EH: COG
+ISO_N3: 178
+UN_A3: 178
+WB_A2: CG
+WB_A3: COG
+WOE_ID: 23424779
+WOE_ID_EH: 23424779
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: COG
+ADM0_A3_US: COG
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Middle Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 5
+LONG_LEN: 21
+ABBREV_LEN: 10
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320515
+WIKIDATAID: Q971
+NAME_AR: جمهورية الكونغو
+NAME_BN: কঙ্গো প্রজাতন্ত্র
+NAME_DE: Republik Kongo
+NAME_EN: Republic of the Congo
+NAME_ES: República del Congo
+NAME_FR: République du Congo
+NAME_EL: Δημοκρατία του Κονγκό
+NAME_HI: कांगो गणराज्य
+NAME_HU: Kongói Köztársaság
+NAME_ID: Republik Kongo
+NAME_IT: Repubblica del Congo
+NAME_JA: コンゴ共和国
+NAME_KO: 콩고 공화국
+NAME_NL: Republiek Congo
+NAME_PL: Kongo
+NAME_PT: Congo
+NAME_RU: Республика Конго
+NAME_SV: Kongo-Brazzaville
+NAME_TR: Kongo Cumhuriyeti
+NAME_VI: Cộng hòa Congo
+NAME_ZH: 刚果共和国

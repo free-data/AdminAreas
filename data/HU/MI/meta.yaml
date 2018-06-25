@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4922
+DISS_ME: 4922
+ISO_3166_2: HU-MI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Miskolc
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Miskolc
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.MI
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Hungary
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU13
+FIPS_ALT: null
+WOE_ID: 56043619
+WOE_LABEL: Miskolc, HU, Hungary
+WOE_NAME: Miskolc
+LATITUDE: 48.1181
+LONGITUDE: 20.7319
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -722064
+GN_NAME: Borsod-Abauj-Zemplen megye
+GNS_ID: -861628
+GNS_NAME: Miskolc Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Borsod-Abaúj-Zemplén
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU13
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q102397
+NAME_AR: ميشكولتس
+NAME_BN: মিসকস
+NAME_DE: Miskolc
+NAME_EN: Miskolc
+NAME_ES: Miskolc
+NAME_FR: Miskolc
+NAME_EL: Μίσκολτς
+NAME_HI: मिस्कोल्स
+NAME_HU: Miskolc
+NAME_ID: Miskolc
+NAME_IT: Miskolc
+NAME_JA: ミシュコルツ
+NAME_KO: 미슈콜츠
+NAME_NL: Miskolc
+NAME_PL: Miszkolc
+NAME_PT: Miskolc
+NAME_RU: Мишкольц
+NAME_SV: Miskolc
+NAME_TR: Miskolc
+NAME_VI: Miskolc
+NAME_ZH: 米什科尔茨
+NE_ID: 1159316075

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2451
+DISS_ME: 2451
+ISO_3166_2: LK-52
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Ampāra
+NAME_ALT: Amparai|Ampara
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.AP
+NOTE: null
+HASC_MAYBE: null
+REGION: Næ̆gĕnahira paḷāta
+REGION_COD: LK-5
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: AP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE01
+FIPS_ALT: null
+WOE_ID: 23706509
+WOE_LABEL: null
+WOE_NAME: Ampara
+LATITUDE: 7.1632
+LONGITUDE: 81.7242
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1251460
+GN_NAME: Ampara District
+GNS_ID: -2212406
+GNS_NAME: Ampari
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1251460
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE37
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q474395
+NAME_AR: مديرية أمبارا
+NAME_BN: আমপারা জেলা
+NAME_DE: Ampara
+NAME_EN: Ampara District
+NAME_ES: Distrito de Ampara
+NAME_FR: Ampara
+NAME_EL: Αμπάρα
+NAME_HI: अम्पार' जिला
+NAME_HU: null
+NAME_ID: Distrik Ampara
+NAME_IT: Distretto di Ampara
+NAME_JA: アンパーラ県
+NAME_KO: 암파라 구
+NAME_NL: Ampara
+NAME_PL: Ampara
+NAME_PT: Ampara
+NAME_RU: округ Ампара
+NAME_SV: Ampara District
+NAME_TR: Ampara District
+NAME_VI: Quận Ampara
+NAME_ZH: 安帕賴區
+NE_ID: 1159311403

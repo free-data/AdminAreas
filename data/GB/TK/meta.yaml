@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2121
+DISS_ME: 2121
+ISO_3166_2: GB-TFW
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Telford and Wrekin
+NAME_ALT: The Wrekin, Wrekin
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.TK
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Tel&Wrek
+POSTAL: TK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 18
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKO2
+FIPS_ALT: UKO2
+WOE_ID: 12696181
+WOE_LABEL: null
+WOE_NAME: Telford and Wrekin Borough
+LATITUDE: 52.7152
+LONGITUDE: -2.49356
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333209
+GN_NAME: District of Telford and Wrekin
+GNS_ID: 6077651
+GNS_NAME: Telford and Wrekin, District of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.O2
+REGION_SUB: Shropshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1425298
+NAME_AR: null
+NAME_BN: টেলফোর্ড ও রেকিন
+NAME_DE: Telford and Wrekin
+NAME_EN: Telford and Wrekin
+NAME_ES: Telford & Wrekin
+NAME_FR: Telford et Wrekin
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Telford and Wrekin
+NAME_JA: テルフォード・アンド・レキン
+NAME_KO: 텔퍼드 레킨
+NAME_NL: Telford and Wrekin
+NAME_PL: Telford and Wrekin
+NAME_PT: Telford and Wrekin
+NAME_RU: Телфорд и Рекин
+NAME_SV: Telford and Wrekin
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 特爾福德和雷金
+NE_ID: 1159312949

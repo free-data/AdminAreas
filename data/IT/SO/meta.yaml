@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5444
+DISS_ME: 5444
+ISO_3166_2: IT-SO
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Sondrio
+NAME_ALT: Lombardy|Lombardei|Lombardie
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 96
+CODE_HASC: IT.SO
+NOTE: ITC
+HASC_MAYBE: null
+REGION: Lombardia
+REGION_COD: IT-25
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT09
+FIPS_ALT: null
+WOE_ID: 12591881
+WOE_LABEL: null
+WOE_NAME: Sondrio
+LATITUDE: 46.2035
+LONGITUDE: 9.81202
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3166396
+GN_NAME: Provincia di Sondrio
+GNS_ID: -129920
+GNS_NAME: Sondrio, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.SO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT09
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16282
+NAME_AR: مقاطعة سوندريو
+NAME_BN: সন্দ্রিও প্রদেশ
+NAME_DE: Provinz Sondrio
+NAME_EN: Province of Sondrio
+NAME_ES: Sondrio
+NAME_FR: province de Sondrio
+NAME_EL: Επαρχία του Σόντριο
+NAME_HI: सोंड्रीओ प्रांत
+NAME_HU: Sondrio megye
+NAME_ID: Provinsi Sondrio
+NAME_IT: provincia di Sondrio
+NAME_JA: ソンドリオ県
+NAME_KO: 손드리오 현
+NAME_NL: Sondrio
+NAME_PL: Prowincja Sondrio
+NAME_PT: Sondrio
+NAME_RU: Сондрио
+NAME_SV: Sondrio
+NAME_TR: Sondrio ili
+NAME_VI: Sondrio
+NAME_ZH: 松德里奧省
+NE_ID: 1159316925

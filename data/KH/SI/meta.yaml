@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1781
+DISS_ME: 1781
+ISO_3166_2: KH-17
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Siemréab
+NAME_ALT: Siem Reap|Siem Reab|Siem Réab|Siemreap
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB24
+FIPS_ALT: CB16
+WOE_ID: 2344941
+WOE_LABEL: Siem Reap Province, KH, Cambodia
+WOE_NAME: Siemréab
+LATITUDE: 13.5711
+LONGITUDE: 104.043
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1822213
+GN_NAME: Khett Siem Reab
+GNS_ID: -1032756
+GNS_NAME: Siem Reab, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB24
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q652818
+NAME_AR: محافظة سيم رياب
+NAME_BN: সিয়েম রিপ প্রদেশ
+NAME_DE: Siem Reap
+NAME_EN: Siem Reap Province
+NAME_ES: Provincia de Siem Riep
+NAME_FR: province de Siem Reap
+NAME_EL: Σιέμ Ριπ
+NAME_HI: सिएम रीप प्रांत
+NAME_HU: Sziemreap tartomány
+NAME_ID: Provinsi Siem Reap
+NAME_IT: provincia di Siem Reap
+NAME_JA: シェムリアップ州
+NAME_KO: 시엠레아프 주
+NAME_NL: Siem Reap
+NAME_PL: Prowincja Siem Reap
+NAME_PT: Siem Reap
+NAME_RU: Сиемреап
+NAME_SV: Siem Reap
+NAME_TR: Siem Reap Province
+NAME_VI: Xiêm Riệp
+NAME_ZH: 暹粒省
+NE_ID: 1159311557

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-413
+DISS_ME: 413
+ISO_3166_2: TH-13
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Pathum Thani
+NAME_ALT: null
+NAME_LOCAL: จังหวัดปทุมธานี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PT
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 69
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH39
+FIPS_ALT: null
+WOE_ID: 2347164
+WOE_LABEL: Pathum Thani, TH, Thailand
+WOE_NAME: Pathum Thani
+LATITUDE: 14.034
+LONGITUDE: 100.625
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1607982
+GN_NAME: Changwat Pathum Thani
+GNS_ID: -3252530
+GNS_NAME: Pathum Thani, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH39
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q459748
+NAME_AR: محافظة باثوم ثاني
+NAME_BN: পাথুম থানি
+NAME_DE: Pathum Thani
+NAME_EN: Pathum Thani
+NAME_ES: Provincia de Pathum Thani
+NAME_FR: Pathum Thani
+NAME_EL: Πάτουμ Τάνι
+NAME_HI: पथुम थानी प्रान्त
+NAME_HU: null
+NAME_ID: Pathum Thani
+NAME_IT: provincia di Pathum Thani
+NAME_JA: パトゥムターニー県
+NAME_KO: 빠툼타니 주
+NAME_NL: Changwat Pathum Thani
+NAME_PL: Prowincja Pathum Thani
+NAME_PT: Pathum Thani
+NAME_RU: Патхумтхани
+NAME_SV: Pathum Thani
+NAME_TR: Pathum Thani
+NAME_VI: Pathum Thani
+NAME_ZH: 巴吞他尼府
+NE_ID: 1159308191

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1254
+DISS_ME: 1254
+ISO_3166_2: PG-NCD
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 1
+NAME: National Capital District
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.NC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 25
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346600
+WOE_LABEL: National Capital, PG, Papua New Guinea
+WOE_NAME: National Capital District
+LATITUDE: -9.4476
+LONGITUDE: 147.174
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2089856
+GN_NAME: National Capital District
+GNS_ID: -2196643
+GNS_NAME: National Capital District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP20
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q36526
+NAME_AR: بورت مورسبي
+NAME_BN: পোর্টমোরেস্বি
+NAME_DE: Port Moresby
+NAME_EN: Port Moresby
+NAME_ES: Puerto Moresby
+NAME_FR: Port Moresby
+NAME_EL: Πορτ Μόρεσμπι
+NAME_HI: पोर्ट मोरेस्बी
+NAME_HU: Port Moresby
+NAME_ID: Port Moresby
+NAME_IT: Port Moresby
+NAME_JA: ポートモレスビー
+NAME_KO: 포트모르즈비
+NAME_NL: Port Moresby
+NAME_PL: Port Moresby
+NAME_PT: Port Moresby
+NAME_RU: Порт-Морсби
+NAME_SV: Port Moresby
+NAME_TR: Port Moresby
+NAME_VI: Port Moresby
+NAME_ZH: 莫尔兹比港
+NE_ID: 1159309923

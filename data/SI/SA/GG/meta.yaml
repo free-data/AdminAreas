@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-949
+DISS_ME: 949
+ISO_3166_2: SI-030
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Gornji Grad
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.GG
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 116
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI30
+FIPS_ALT: null
+WOE_ID: -55848369
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.2972
+LONGITUDE: 14.7905
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239133
+GN_NAME: Obcina Gornji Grad
+GNS_ID: 243737
+GNS_NAME: Gornji Grad, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI30
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q726548
+NAME_AR: بلدية غورني غراد
+NAME_BN: গর্নজি গ্রাদ পৌরসভা
+NAME_DE: Gornji Grad
+NAME_EN: Gornji Grad Municipality
+NAME_ES: Municipalidad del Gornji Grad
+NAME_FR: Gornji Grad
+NAME_EL: Γκόρντζι Γκράντ
+NAME_HI: गोर्न्जी ग्रैड नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Gornji Grad
+NAME_IT: Gornji Grad
+NAME_JA: ゴルニ・グラード
+NAME_KO: 고르니그라드
+NAME_NL: Gornji Grad
+NAME_PL: Gmina Gornji Grad
+NAME_PT: Gornji Grad
+NAME_RU: Горний Град
+NAME_SV: Gornij Grand kommun
+NAME_TR: Gornji Grad Belediyesi
+NAME_VI: Đô thị tự trị Gornji Grad
+NAME_ZH: 戈爾尼格勒
+NE_ID: 1159310689

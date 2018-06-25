@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GRC-2883
+DISS_ME: 2883
+ISO_3166_2: GR-F
+WIKIPEDIA: null
+ISO_A2: GR
+ADM0_SR: 3
+NAME: Ionioi Nisoi
+NAME_ALT: Ionian Islands
+NAME_LOCAL: Ιόνια νησιά
+TYPE: Diamerismata
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GR.II
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: II
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: GR25
+FIPS_ALT: null
+WOE_ID: 12577882
+WOE_LABEL: Nisia Ionioy, GR, Greece
+WOE_NAME: Ionioi Nisoi
+LATITUDE: 38.2419
+LONGITUDE: 20.5554
+SOV_A3: GRC
+ADM0_A3: GRC
+ADM0_LABEL: 2
+ADMIN: Greece
+GEONUNIT: Greece
+GU_A3: GRC
+GN_ID: 6697805
+GN_NAME: Ionian Islands
+GNS_ID: 11315993
+GNS_NAME: Ionion Nison, Perifereia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GR.ESYE22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: GR57
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1147674
+NAME_AR: الجزر الأيونية
+NAME_BN: null
+NAME_DE: Ionische Inseln
+NAME_EN: Ionian Islands Region
+NAME_ES: Periferia de Islas Jónicas
+NAME_FR: Îles Ioniennes
+NAME_EL: Περιφέρεια Ιονίων Νήσων
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Isole Ionie
+NAME_JA: null
+NAME_KO: null
+NAME_NL: Ionian Islands Region
+NAME_PL: Region Wyspy Jońskie
+NAME_PT: Ilhas Jónicas
+NAME_RU: Ионические острова
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 愛奧尼亞群島
+NE_ID: 1159314259

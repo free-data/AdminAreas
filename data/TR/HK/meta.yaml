@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-3047
+DISS_ME: 3047
+ISO_3166_2: TR-30
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Hakkari
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.HK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20027
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: HK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU70
+FIPS_ALT: null
+WOE_ID: 2347320
+WOE_LABEL: HakkÃ¢ri, TR, Turkey
+WOE_NAME: Hakkari
+LATITUDE: 37.6097
+LONGITUDE: 44.0804
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 312888
+GN_NAME: Hakkari
+GNS_ID: -752257
+GNS_NAME: Hakkari Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.70
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU70
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q93209
+NAME_AR: هكاري
+NAME_BN: হাক্কারি প্রদেশ
+NAME_DE: Hakkâri
+NAME_EN: Hakkâri Province
+NAME_ES: Provincia de Hakkâri
+NAME_FR: Hakkari
+NAME_EL: Χακάρι
+NAME_HI: हक्कारी प्रोविंस
+NAME_HU: Hakkari
+NAME_ID: Provinsi Hakkari
+NAME_IT: provincia di Hakkâri
+NAME_JA: ハッキャリ県
+NAME_KO: 하카리 주
+NAME_NL: Hakkâri
+NAME_PL: Hakkari
+NAME_PT: Hakkâri
+NAME_RU: Хаккяри
+NAME_SV: Hakkari
+NAME_TR: Hakkâri
+NAME_VI: Hakkâri
+NAME_ZH: 哈卡里省
+NE_ID: 1159314391

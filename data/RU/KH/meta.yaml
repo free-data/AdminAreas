@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2614
+DISS_ME: 2614
+ISO_3166_2: RU-KHA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 5
+NAME: Khabarovsk
+NAME_ALT: Khabarovskiy Kray
+NAME_LOCAL: Хабаровский край
+TYPE: Kray
+TYPE_EN: Territory
+CODE_LOCAL: null
+CODE_HASC: RU.KH
+NOTE: null
+HASC_MAYBE: null
+REGION: Far Eastern
+REGION_COD: null
+PROVNUM_NE: 20023
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KH
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS30
+FIPS_ALT: null
+WOE_ID: 2346883
+WOE_LABEL: Khabarovskiy Kray, RU, Russia
+WOE_NAME: Khabarovsk
+LATITUDE: 57.0232
+LONGITUDE: 135.443
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 2022888
+GN_NAME: Khabarovskiy Kray
+GNS_ID: -2924121
+GNS_NAME: Khabarovskiy Kray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.30
+REGION_SUB: Far Eastern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS30
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q7788
+NAME_AR: خاباروفسك كراي
+NAME_BN: খাবারোভস্ক ক্রাই
+NAME_DE: Region Chabarowsk
+NAME_EN: Khabarovsk Krai
+NAME_ES: Jabárovsk
+NAME_FR: Kraï de Khabarovsk
+NAME_EL: Κράι Χαμπάροφσκ
+NAME_HI: ख़ाबारोव्स्क क्राय
+NAME_HU: Habarovszki határterület
+NAME_ID: Krai Khabarovsk
+NAME_IT: Territorio di Chabarovsk
+NAME_JA: ハバロフスク地方
+NAME_KO: 하바롭스크 지방
+NAME_NL: Kraj Chabarovsk
+NAME_PL: Kraj Chabarowski
+NAME_PT: Krai de Khabarovsk
+NAME_RU: Хабаровский край
+NAME_SV: Chabarovsk kraj
+NAME_TR: Habarovsk Krayı
+NAME_VI: Khabarovsk
+NAME_ZH: 哈巴罗夫斯克边疆区
+NE_ID: 1159313583

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1377
+DISS_ME: 1377
+ISO_3166_2: JM-01
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Kingston
+NAME_ALT: Kingston and Port Royal
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.KI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KI
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM17
+FIPS_ALT: null
+WOE_ID: 2345925
+WOE_LABEL: Kingston St. John, JM, Jamaica
+WOE_NAME: Kingston
+LATITUDE: 17.9799
+LONGITUDE: -76.7653
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3489853
+GN_NAME: Parish of Kingston
+GNS_ID: -3752439
+GNS_NAME: Kingston, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM17
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1473680
+NAME_AR: أبرشية كينغستون
+NAME_BN: কিংস্টোন পারিশ
+NAME_DE: Kingston Parish
+NAME_EN: Kingston Parish
+NAME_ES: Parroquia de Kingston
+NAME_FR: Paroisse de Kingston
+NAME_EL: Κίνγκστον
+NAME_HI: किंग्स्टन पैरिश
+NAME_HU: null
+NAME_ID: Paroki Kingston
+NAME_IT: parrocchia di Kingston
+NAME_JA: キングストン教区
+NAME_KO: 킹스턴 교구
+NAME_NL: Kingston
+NAME_PL: Kingston
+NAME_PT: Kingston
+NAME_RU: Кингстон
+NAME_SV: Kingston Parish
+NAME_TR: Kingston Parish
+NAME_VI: Giáo xứ Kingston
+NAME_ZH: 金斯敦區
+NE_ID: 1159310281

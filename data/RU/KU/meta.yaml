@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2380
+DISS_ME: 2380
+ISO_3166_2: RU-KGN
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Kurgan
+NAME_ALT: Kurganskaya Oblast
+NAME_LOCAL: Курганская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.KU
+NOTE: null
+HASC_MAYBE: null
+REGION: Urals
+REGION_COD: null
+PROVNUM_NE: 20058
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KU
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS40
+FIPS_ALT: null
+WOE_ID: 2346904
+WOE_LABEL: Kurganskaya Oblast, RU, Russia
+WOE_NAME: Kurgan
+LATITUDE: 55.4316
+LONGITUDE: 65.3505
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1501312
+GN_NAME: Kurganskaya Oblast'
+GNS_ID: -2941319
+GNS_NAME: Kurganskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.40
+REGION_SUB: Urals
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS40
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5741
+NAME_AR: أوبلاست كورغان
+NAME_BN: কুরগ্যান ওব্লাস্ট
+NAME_DE: Oblast Kurgan
+NAME_EN: Kurgan Oblast
+NAME_ES: Kurgán
+NAME_FR: Oblast de Kourgan
+NAME_EL: Περιφέρεια Κουργκάν
+NAME_HI: कुर्गन ओब्लास्ट
+NAME_HU: Kurgani terület
+NAME_ID: Oblast Kurgan
+NAME_IT: oblast' di Kurgan
+NAME_JA: クルガン州
+NAME_KO: 쿠르간 주
+NAME_NL: Oblast Koergan
+NAME_PL: Obwód kurgański
+NAME_PT: Oblast de Kurgan
+NAME_RU: Курганская область
+NAME_SV: Kurgan oblast
+NAME_TR: Kurgan Oblastı
+NAME_VI: Kurgan
+NAME_ZH: 库尔干州
+NE_ID: 1159313223

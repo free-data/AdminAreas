@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: MAR-3457
+DISS_ME: 3457
+ISO_3166_2: MA-14
+WIKIPEDIA: null
+ISO_A2: MA
+ADM0_SR: 1
+NAME: Guelmim - Es-Semara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: 03
+CODE_HASC: MA.GE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 5
+ABBREV: null
+POSTAL: GE
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 19
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: MO03
+FIPS_ALT: MO53
+WOE_ID: -56120055
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 28.1581
+LONGITUDE: -10.0502
+SOV_A3: MAR
+ADM0_A3: MAR
+ADM0_LABEL: 2
+ADMIN: Morocco
+GEONUNIT: Morocco
+GU_A3: MAR
+GN_ID: 2597551
+GN_NAME: Guelmim-Es Smara
+GNS_ID: 9199130
+GNS_NAME: Guelmim-Es Smara, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MA.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: MO53
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q529796
+NAME_AR: كلميم السمارة
+NAME_BN: গোয়েল্মিম এস সেমারা
+NAME_DE: Guelmim-Es Semara
+NAME_EN: Guelmim-Es Semara
+NAME_ES: Guelmim-Esmara
+NAME_FR: Guelmim-Es Semara
+NAME_EL: Γκουελμίμ-Ες Σεμάρα
+NAME_HI: ग्वेल्मिम-एस सेमारा
+NAME_HU: null
+NAME_ID: Guelmim-Es Semara
+NAME_IT: Guelmim-Es Semara
+NAME_JA: ゲルミン＝エス・スマラ地方
+NAME_KO: 겔밈에스스마라 지방
+NAME_NL: Guelmim-Es Semara
+NAME_PL: Kulmim-Asmara
+NAME_PT: Guelmim-Es Semara
+NAME_RU: Гулимим-Эс-Смара
+NAME_SV: Guelmim-Es-Smara
+NAME_TR: Guelmim-Es Semara
+NAME_VI: Guelmim-Es Semara
+NAME_ZH: 蓋勒敏-塞馬拉大區
+NE_ID: 1159315253

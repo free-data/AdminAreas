@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2204
+DISS_ME: 2204
+ISO_3166_2: DZ-20
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Saïda
+NAME_ALT: null
+NAME_LOCAL: ولاية سعيدة
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 40
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG10
+FIPS_ALT: null
+WOE_ID: 2344585
+WOE_LABEL: Saida, DZ, Algeria
+WOE_NAME: Saïda
+LATITUDE: 34.5917
+LONGITUDE: 0.178599
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2482557
+GN_NAME: Wilaya de Saida
+GNS_ID: -483393
+GNS_NAME: Saida
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG10
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q233640
+NAME_AR: ولاية سعيدة
+NAME_BN: সাইদা প্রদেশ
+NAME_DE: Saida
+NAME_EN: Saïda Province
+NAME_ES: Provincia de Saida
+NAME_FR: wilaya de Saïda
+NAME_EL: Σάιντα
+NAME_HI: सैदा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Saida
+NAME_IT: provincia di Saida
+NAME_JA: サイダ県
+NAME_KO: 사이다 주
+NAME_NL: Saïda
+NAME_PL: Prowincja Saida
+NAME_PT: Saïda
+NAME_RU: Саида
+NAME_SV: Saïda
+NAME_TR: Saida Vilayeti
+NAME_VI: Saida
+NAME_ZH: 赛伊达省
+NE_ID: 1159311953

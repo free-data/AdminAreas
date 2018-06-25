@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 5
+SOVEREIGNT: Costa Rica
+SOV_A3: CRI
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Costa Rica
+ADM0_A3: CRI
+GEOU_DIF: 0
+GEOUNIT: Costa Rica
+GU_A3: CRI
+SU_DIF: 0
+SUBUNIT: Costa Rica
+SU_A3: CRI
+BRK_DIFF: 0
+NAME: Costa Rica
+NAME_LONG: Costa Rica
+BRK_A3: CRI
+BRK_NAME: Costa Rica
+BRK_GROUP: null
+ABBREV: C.R.
+POSTAL: CR
+FORMAL_EN: Republic of Costa Rica
+FORMAL_FR: null
+NAME_CIAWF: Costa Rica
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Costa Rica
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 2
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+POP_EST: 4930258
+POP_RANK: 12
+GDP_MD_EST: 79260
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 5. Emerging region: G20
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: CS
+ISO_A2: CR
+ISO_A3: CRI
+ISO_A3_EH: CRI
+ISO_N3: 188
+UN_A3: 188
+WB_A2: CR
+WB_A3: CRI
+WOE_ID: 23424791
+WOE_ID_EH: 23424791
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: CRI
+ADM0_A3_US: CRI
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Central America
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159320525
+WIKIDATAID: Q800
+NAME_AR: كوستاريكا
+NAME_BN: কোস্টা রিকা
+NAME_DE: Costa Rica
+NAME_EN: Costa Rica
+NAME_ES: Costa Rica
+NAME_FR: Costa Rica
+NAME_EL: Κόστα Ρίκα
+NAME_HI: कोस्टा रीका
+NAME_HU: Costa Rica
+NAME_ID: Kosta Rika
+NAME_IT: Costa Rica
+NAME_JA: コスタリカ
+NAME_KO: 코스타리카
+NAME_NL: Costa Rica
+NAME_PL: Kostaryka
+NAME_PT: Costa Rica
+NAME_RU: Коста-Рика
+NAME_SV: Costa Rica
+NAME_TR: Kosta Rika
+NAME_VI: Costa Rica
+NAME_ZH: 哥斯达黎加

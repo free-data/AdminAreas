@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1432
+DISS_ME: 1432
+ISO_3166_2: DM-02
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint Andrew
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO02
+FIPS_ALT: null
+WOE_ID: 2345161
+WOE_LABEL: Saint Andrew, DM, Dominica
+WOE_NAME: Saint Andrew
+LATITUDE: 15.5378
+LONGITUDE: -61.3589
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575632
+GN_NAME: Saint Andrew
+GNS_ID: -1352347
+GNS_NAME: Saint Andrew
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO02
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q732322
+NAME_AR: أبرشية سانت أندرو
+NAME_BN: সেন্ট আন্ড্রু পারিশ
+NAME_DE: Saint Andrew
+NAME_EN: Saint Andrew Parish
+NAME_ES: Parroquia de Saint Andrew
+NAME_FR: Saint-Andrew
+NAME_EL: Άγιος Ανδρέας
+NAME_HI: सेंट एंड्रू पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Andrew
+NAME_IT: Parrocchia di Saint Andrew
+NAME_JA: セント・アンドルー
+NAME_KO: 세인트앤드루 교구
+NAME_NL: Saint Andrew
+NAME_PL: Parafia św. Andrzeja na Dominice
+NAME_PT: Saint Andrew
+NAME_RU: ПриходСент-Эндрю
+NAME_SV: Saint Andrew
+NAME_TR: Saint Andrew Parish
+NAME_VI: Giáo xứ Saint Andrew
+NAME_ZH: 圣安德鲁区
+NE_ID: 1159311605

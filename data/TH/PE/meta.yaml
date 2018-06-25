@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-419
+DISS_ME: 419
+ISO_3166_2: TH-76
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Phetchaburi
+NAME_ALT: Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit
+NAME_LOCAL: จังหวัดเพชรบุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PE
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PE
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH56
+FIPS_ALT: null
+WOE_ID: 2347180
+WOE_LABEL: Phetchaburi, TH, Thailand
+WOE_NAME: Phetchaburi
+LATITUDE: 12.8727
+LONGITUDE: 99.5964
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1151416
+GN_NAME: Changwat Phetchaburi
+GNS_ID: -3252883
+GNS_NAME: Phetchaburi, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.56
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH56
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q244699
+NAME_AR: محافظة براتشينبوري
+NAME_BN: ফেৎচাবুরি
+NAME_DE: Phetchaburi
+NAME_EN: Phetchaburi
+NAME_ES: Provincia de Phetchaburi
+NAME_FR: Phetchaburi
+NAME_EL: Πέτσαμπουρι
+NAME_HI: फेत्चबुरी प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Phetchaburi
+NAME_IT: provincia di Phetchaburi
+NAME_JA: ペッチャブリー県
+NAME_KO: 펫차부리 주
+NAME_NL: Changwat Phetchaburi
+NAME_PL: Prowincja Phetchaburi
+NAME_PT: Phetchaburi
+NAME_RU: Пхетбури
+NAME_SV: Phetchaburi
+NAME_TR: Phetchaburi
+NAME_VI: Phetchaburi
+NAME_ZH: 佛丕府
+NE_ID: 1159308203

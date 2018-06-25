@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1253
+DISS_ME: 1253
+ISO_3166_2: PG-MPL
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 4
+NAME: Morobe
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP14
+FIPS_ALT: null
+WOE_ID: 2346594
+WOE_LABEL: Morobe, PG, Papua New Guinea
+WOE_NAME: Morobe
+LATITUDE: -6.3992
+LONGITUDE: 146.83
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2090468
+GN_NAME: Morobe Province
+GNS_ID: -2196004
+GNS_NAME: Morobe Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP14
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q853664
+NAME_AR: محافظة موروب
+NAME_BN: মোরবে প্রদেশের
+NAME_DE: Morobe Province
+NAME_EN: Morobe Province
+NAME_ES: Morobe
+NAME_FR: Morobe
+NAME_EL: Μορόμπε
+NAME_HI: मोरोबे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Morobe
+NAME_IT: provincia di Morobe
+NAME_JA: モロベ州
+NAME_KO: 모로베 주
+NAME_NL: Morobe
+NAME_PL: Morobe
+NAME_PT: Morobe
+NAME_RU: Моробе
+NAME_SV: Morobe
+NAME_TR: Morobe Province
+NAME_VI: Tỉnh Morobe
+NAME_ZH: 莫雷贝省
+NE_ID: 1159309887

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1898
+DISS_ME: 1898
+ISO_3166_2: CD-NK
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 1
+NAME: Nord-Kivu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.NK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: CG11
+FIPS_ALT: null
+WOE_ID: 20069830
+WOE_LABEL: North Kivu, CD, Democratic Republic of Congo
+WOE_NAME: Nord-Kivu
+LATITUDE: -0.659128
+LONGITUDE: 28.5939
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 206938
+GN_NAME: Province du Nord-Kivu
+GNS_ID: -2057962
+GNS_NAME: Nord-Kivu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG11
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q130625
+NAME_AR: كيفو الشمالية
+NAME_BN: উত্তর কিভু
+NAME_DE: Nord-Kivu
+NAME_EN: North Kivu
+NAME_ES: Kivu del Norte
+NAME_FR: Nord-Kivu
+NAME_EL: Βόρειο Κίβου
+NAME_HI: उत्तर कीवू प्रान्त
+NAME_HU: Észak-Kivu tartomány
+NAME_ID: Nord-Kivu
+NAME_IT: provincia del Kivu Nord
+NAME_JA: 北キヴ州
+NAME_KO: 북키부 주
+NAME_NL: Noord-Kivu
+NAME_PL: Kiwu Północne
+NAME_PT: Nord-Kivu
+NAME_RU: Северное Киву
+NAME_SV: Norra Kivu-provinsen
+NAME_TR: Kuzey Kivu
+NAME_VI: Bắc Kivu
+NAME_ZH: 北基伍省
+NE_ID: 1159311347

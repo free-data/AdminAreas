@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1273
+DISS_ME: 1273
+ISO_3166_2: AR-J
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: San Juan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR18
+FIPS_ALT: null
+WOE_ID: 2344692
+WOE_LABEL: San Juan, AR, Argentina
+WOE_NAME: San Juan
+LATITUDE: -30.97
+LONGITUDE: -68.6612
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3837152
+GN_NAME: Provincia de San Juan
+GNS_ID: -1013139
+GNS_NAME: San Juan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR18
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44805
+NAME_AR: سان خوان
+NAME_BN: সান জুয়ান প্রদেশ
+NAME_DE: Provinz San Juan
+NAME_EN: San Juan Province
+NAME_ES: Provincia de San Juan
+NAME_FR: San Juan
+NAME_EL: Σαν Χουάν
+NAME_HI: सैन जुआन प्रान्त
+NAME_HU: San Juan tartomány
+NAME_ID: Provinsi San Juan
+NAME_IT: provincia di San Juan
+NAME_JA: サンフアン州
+NAME_KO: 산후안 주
+NAME_NL: San Juan
+NAME_PL: San Juan
+NAME_PT: San Juan
+NAME_RU: Сан-Хуан
+NAME_SV: San Juan
+NAME_TR: San Juan eyaleti
+NAME_VI: San Juan
+NAME_ZH: 圣胡安省
+NE_ID: 1159309751

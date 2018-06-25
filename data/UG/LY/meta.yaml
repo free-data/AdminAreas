@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5618
+DISS_ME: 5618
+ISO_3166_2: UG-116
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Lyantonde
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.LY
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-STB
+PROVNUM_NE: 20060
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGD5
+FIPS_ALT: null
+WOE_ID: -20070451
+WOE_LABEL: Masaka, UG, Uganda
+WOE_NAME: Masaka
+LATITUDE: -0.269997
+LONGITUDE: 31.1783
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056290
+GN_NAME: Lyantonde District
+GNS_ID: 10540252
+GNS_NAME: Lyantonde District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.D5
+REGION_SUB: null
+SUB_CODE: UG12
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375878
+NAME_AR: مقاطعة ليانتوند
+NAME_BN: লায়ান্তন্ডে জেলা
+NAME_DE: Lyantonde-Distrikt
+NAME_EN: Lyantonde District
+NAME_ES: Distrito de Lyantonde
+NAME_FR: Lyantonde
+NAME_EL: Λιαντόντε
+NAME_HI: लिएनतोंडे जिला
+NAME_HU: null
+NAME_ID: Distrik Lyantonde
+NAME_IT: Lyantonde
+NAME_JA: リャントンデ県
+NAME_KO: 리안톤데 구
+NAME_NL: Lyantonde
+NAME_PL: Dystrykt Lyantonde
+NAME_PT: Lyantonde
+NAME_RU: Льантонде
+NAME_SV: Lyantondedistriktet
+NAME_TR: Lyantonde District
+NAME_VI: Quận Lyantonde
+NAME_ZH: 利安通德區
+NE_ID: 1159317375

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3237
+DISS_ME: 3237
+ISO_3166_2: IR-02
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: West Azarbaijan
+NAME_ALT: Azarbayjan-e Bakhtari|Azarbaijan-e Gharbi|West Azarbayejan|Azerba‹djan e Gharbi
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.WA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: WA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 15
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR01
+FIPS_ALT: null
+WOE_ID: 2345767
+WOE_LABEL: Azarbayjan-e Gharbi, IR, Iran
+WOE_NAME: West Azarbaijan
+LATITUDE: 36.6666
+LONGITUDE: 45.6734
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 142550
+GN_NAME: Ostan-e Azarbayjan-e Gharbi
+GNS_ID: -3054144
+GNS_NAME: Azarbayjan-e Gharbi, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q134411
+NAME_AR: محافظة أذربيجان الغربية
+NAME_BN: পশ্চিম অজারবাইজন প্রদেশ
+NAME_DE: West-Aserbaidschan
+NAME_EN: West Azarbaijan Province
+NAME_ES: Azerbaiyán Occidental
+NAME_FR: Azerbaïdjan occidental
+NAME_EL: Δυτικό Αζερμπαϊτζάν
+NAME_HI: पश्चिम अज़रबैजान प्रांत
+NAME_HU: Nyugat-Azerbajdzsán tartomány
+NAME_ID: Provinsi Azarbaijan Barat
+NAME_IT: Azerbaigian occidentale
+NAME_JA: 西アーザルバーイジャーン州
+NAME_KO: 서아제르바이잔 주
+NAME_NL: West-Azerbeidzjan
+NAME_PL: Azerbejdżan Zachodni
+NAME_PT: Azerbaijão Ocidental
+NAME_RU: Западный Азербайджан
+NAME_SV: Västazarbaijan
+NAME_TR: Batı Azerbaycan Eyaleti
+NAME_VI: Tây Azerbaijan
+NAME_ZH: 西亞塞拜然省
+NE_ID: 1159314305

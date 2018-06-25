@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-557
+DISS_ME: 557
+ISO_3166_2: ID-ST
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Sulawesi Tengah
+NAME_ALT: Sulteng
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 27
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID21
+FIPS_ALT: null
+WOE_ID: 2345730
+WOE_LABEL: Central Sulawesi, ID, Indonesia
+WOE_NAME: Sulawesi Tengah
+LATITUDE: -1.30097
+LONGITUDE: 120.153
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1626231
+GN_NAME: Provinsi Sulawesi Tengah
+GNS_ID: -2698079
+GNS_NAME: Sulawesi Tengah, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID21
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5065
+NAME_AR: سولاوسي الوسطى
+NAME_BN: কেন্দ্রীয় সুলাবেসি প্রদেশ
+NAME_DE: Sulawesi Tengah
+NAME_EN: Central Sulawesi Province
+NAME_ES: Célebes Central
+NAME_FR: Sulawesi central
+NAME_EL: Κεντρικό Σουλαβέσι
+NAME_HI: मध्य सुलावेसी
+NAME_HU: null
+NAME_ID: Sulawesi Tengah
+NAME_IT: Sulawesi Centrale
+NAME_JA: 中部スラウェシ州
+NAME_KO: 술라웨시틍아 주
+NAME_NL: Midden-Celebes
+NAME_PL: Celebes Środkowy
+NAME_PT: Celebes Central
+NAME_RU: Центральный Сулавеси
+NAME_SV: Sulawesi Tengah
+NAME_TR: Orta Sulawesi
+NAME_VI: Trung Sulawesi
+NAME_ZH: 中苏拉威西省
+NE_ID: 1159308861

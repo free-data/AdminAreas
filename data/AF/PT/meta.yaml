@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-3413
+DISS_ME: 3413
+ISO_3166_2: AF-PKA
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Paktya
+NAME_ALT: Paktiya|Southern Province
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.PT
+NOTE: null
+HASC_MAYBE: AF.NG|AFG-NNG
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF36
+FIPS_ALT: null
+WOE_ID: 2344567
+WOE_LABEL: Paktia, AF, Afghanistan
+WOE_NAME: Paktya
+LATITUDE: 33.575
+LONGITUDE: 69.3826
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1131257
+GN_NAME: Wilayat-e Paktiya
+GNS_ID: -3386221
+GNS_NAME: Paktiya, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF36
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q182493
+NAME_AR: ولاية بكتيا
+NAME_BN: পাক্‌তিয়া প্রদেশ
+NAME_DE: Paktia
+NAME_EN: Paktia
+NAME_ES: Provincia de Paktiyā
+NAME_FR: Paktiyâ
+NAME_EL: Πακτιά
+NAME_HI: पकतिया प्रान्त
+NAME_HU: null
+NAME_ID: Paktia
+NAME_IT: Paktia
+NAME_JA: パクティヤー州
+NAME_KO: 팍티야 주
+NAME_NL: Paktia
+NAME_PL: Paktija
+NAME_PT: Paktia
+NAME_RU: Пактия
+NAME_SV: Paktia
+NAME_TR: Paktiya Vilayeti
+NAME_VI: Paktia
+NAME_ZH: 帕克蒂亚省
+NE_ID: 1159315265

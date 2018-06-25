@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-1080
+DISS_ME: 1080
+ISO_3166_2: LV-022
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Cesu
+NAME_ALT: Wenden
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.CS
+NOTE: null
+HASC_MAYBE: null
+REGION: Vidzeme
+REGION_COD: LV.CE
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 4
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG54
+FIPS_ALT: null
+WOE_ID: -2346022
+WOE_LABEL: Cesu Rajons, LV, Latvia
+WOE_NAME: Vidzeme
+LATITUDE: 57.2396
+LONGITUDE: 25.4307
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 460569
+GN_NAME: Cesu Rajons
+GNS_ID: 10984978
+GNS_NAME: Cesu Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.05
+REGION_SUB: Vidzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG54
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1989164
+NAME_AR: بلدية تسيسس
+NAME_BN: চেসিস পৌরসভা
+NAME_DE: Bezirk Cēsis
+NAME_EN: Cēsis Municipality
+NAME_ES: Municipalidad de Cēsis
+NAME_FR: Cēsis
+NAME_EL: Κέσις
+NAME_HI: केसिस नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Cēsis
+NAME_IT: Comune di Cēsis
+NAME_JA: ツェースィス
+NAME_KO: 체시스 시
+NAME_NL: Cēsu novads
+NAME_PL: Gmina Kieś
+NAME_PT: Município de Cesis
+NAME_RU: Цесисский край
+NAME_SV: Cēsu novads
+NAME_TR: Cesis Bölgesi
+NAME_VI: Đô thị tự trị Cesis
+NAME_ZH: null
+NE_ID: 1159311075

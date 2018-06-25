@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1035
+DISS_ME: 1035
+ISO_3166_2: SI-136
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Vipava
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SP.VI
+NOTE: null
+HASC_MAYBE: null
+REGION: Goriška
+REGION_COD: null
+PROVNUM_NE: 162
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: VI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIE1
+FIPS_ALT: null
+WOE_ID: -55848385
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.8271
+LONGITUDE: 13.9723
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239075
+GN_NAME: Obcina Vipava
+GNS_ID: 243467
+GNS_NAME: Vipava, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.E1
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI05
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1002229
+NAME_AR: بلدية فيبافا
+NAME_BN: ভিপাভা পৌরসভা
+NAME_DE: Gemeinde Vipava
+NAME_EN: Vipava Municipality
+NAME_ES: Municipalidad del Vipava
+NAME_FR: Municipalité de Vipava
+NAME_EL: Βιπάβα
+NAME_HI: विपावा नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Vipava
+NAME_IT: Comune di Vipava
+NAME_JA: ヴィパーヴァ
+NAME_KO: 비파바 지방 자치제
+NAME_NL: Vipava
+NAME_PL: Gmina Vipava
+NAME_PT: Município de Vipava
+NAME_RU: Випава
+NAME_SV: Vipava kommun
+NAME_TR: Vipava Belediyesi
+NAME_VI: Đô thị tự trị Vipava
+NAME_ZH: 維帕瓦鎮
+NE_ID: 1159310881

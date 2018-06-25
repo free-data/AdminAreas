@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2472
+DISS_ME: 2472
+ISO_3166_2: LK-13
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Kaḷutara
+NAME_ALT: Kalutara
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.KT
+NOTE: null
+HASC_MAYBE: null
+REGION: Basnāhira paḷāta
+REGION_COD: LK-1
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: KT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE09
+FIPS_ALT: null
+WOE_ID: 23706492
+WOE_LABEL: null
+WOE_NAME: Kalutara
+LATITUDE: 6.58989
+LONGITUDE: 80.1374
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1241963
+GN_NAME: Kalutara District
+GNS_ID: -2221910
+GNS_NAME: Kalutara District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1241963
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE36
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q728935
+NAME_AR: مديرية كالوتارا
+NAME_BN: কুলোটারা জেলা
+NAME_DE: Kalutara
+NAME_EN: Kalutara District
+NAME_ES: Distrito de Kalutara
+NAME_FR: Kalutara
+NAME_EL: Καλουτάρα
+NAME_HI: कलुतारा जिला
+NAME_HU: null
+NAME_ID: Distrik Kalutara
+NAME_IT: Distretto di Kalutara
+NAME_JA: カルタラ県
+NAME_KO: 칼루타라 구
+NAME_NL: Kalutara
+NAME_PL: Kalutara District
+NAME_PT: Kulatra
+NAME_RU: Калутара
+NAME_SV: Kalutara District
+NAME_TR: Kalutara District
+NAME_VI: Quận Kalutara
+NAME_ZH: 卡盧特勒區
+NE_ID: 1159311443

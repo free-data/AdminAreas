@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2299
+DISS_ME: 2299
+ISO_3166_2: TR-25
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Erzurum
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.EM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20046
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: EM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU25
+FIPS_ALT: null
+WOE_ID: 2347282
+WOE_LABEL: Erzurum, TR, Turkey
+WOE_NAME: Erzurum
+LATITUDE: 39.9678
+LONGITUDE: 41.403
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 315367
+GN_NAME: Erzurum
+GNS_ID: -748395
+GNS_NAME: Erzurum Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU25
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q376797
+NAME_AR: أرضروم
+NAME_BN: এরজুরাম প্রদেশ
+NAME_DE: Erzurum
+NAME_EN: Erzurum Province
+NAME_ES: Provincia de Erzurum
+NAME_FR: Erzurum
+NAME_EL: Ερζουρούμ
+NAME_HI: एर्ज़ुरुम प्रांत
+NAME_HU: Erzurum
+NAME_ID: Provinsi Erzurum
+NAME_IT: provincia di Erzurum
+NAME_JA: エルズルム県
+NAME_KO: 에르주룸 주
+NAME_NL: Erzurum
+NAME_PL: Erzurum
+NAME_PT: Erzurum
+NAME_RU: Эрзурум
+NAME_SV: Erzurum
+NAME_TR: Erzurum
+NAME_VI: Erzurum
+NAME_ZH: 埃尔祖鲁姆省
+NE_ID: 1159312349

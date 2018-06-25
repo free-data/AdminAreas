@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Taiwan
+SOV_A3: TWN
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Taiwan
+ADM0_A3: TWN
+GEOU_DIF: 0
+GEOUNIT: Taiwan
+GU_A3: TWN
+SU_DIF: 0
+SUBUNIT: Taiwan
+SU_A3: TWN
+BRK_DIFF: 1
+NAME: Taiwan
+NAME_LONG: Taiwan
+BRK_A3: B77
+BRK_NAME: Taiwan
+BRK_GROUP: null
+ABBREV: Taiwan
+POSTAL: TW
+FORMAL_EN: null
+FORMAL_FR: null
+NAME_CIAWF: Taiwan
+NOTE_ADM0: null
+NOTE_BRK: Self admin.; Claimed by China
+NAME_SORT: Taiwan
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+POP_EST: 23508428
+POP_RANK: 15
+GDP_MD_EST: 1127000
+POP_YEAR: 2017
+LASTCENSUS: -99
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: TW
+ISO_A2: TW
+ISO_A3: TWN
+ISO_A3_EH: TWN
+ISO_N3: 158
+UN_A3: -099
+WB_A2: -99
+WB_A3: -99
+WOE_ID: 23424971
+WOE_ID_EH: 23424971
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: TWN
+ADM0_A3_US: TWN
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Eastern Asia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 6
+LONG_LEN: 6
+ABBREV_LEN: 6
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321335
+WIKIDATAID: Q865
+NAME_AR: تايوان
+NAME_BN: তাইওয়ান
+NAME_DE: Taiwan
+NAME_EN: Taiwan
+NAME_ES: Taiwán
+NAME_FR: Taïwan
+NAME_EL: Δημοκρατία της Κίνας
+NAME_HI: चीनी गणराज्य
+NAME_HU: Kínai Köztársaság
+NAME_ID: Republik Tiongkok
+NAME_IT: Taiwan
+NAME_JA: 中華民国
+NAME_KO: 중화민국
+NAME_NL: Taiwan
+NAME_PL: Republika Chińska
+NAME_PT: Taiwan
+NAME_RU: Китайская Республика
+NAME_SV: Taiwan
+NAME_TR: Çin Cumhuriyeti
+NAME_VI: Đài Loan
+NAME_ZH: 中華民國

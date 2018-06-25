@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1492
+DISS_ME: 1492
+ISO_3166_2: HR-17
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 3
+NAME: Splitsko-Dalmatinska
+NAME_ALT: Split-Dalmacia
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR15
+FIPS_ALT: null
+WOE_ID: 12577985
+WOE_LABEL: Splitsko-Dalmatinska, HR, Croatia
+WOE_NAME: Splitsko-Dalmatinska
+LATITUDE: 43.5266
+LONGITUDE: 16.788
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337527
+GN_NAME: Splitsko-Dalmatinska Zupanija
+GNS_ID: 9031093
+GNS_NAME: Splitsko-Dalmatinska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR15
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58253
+NAME_AR: مقاطعة سبليت-دالماسيا
+NAME_BN: স্প্লিত-দাল্মেশিয়া কাউন্টি
+NAME_DE: Gespanschaft Split-Dalmatien
+NAME_EN: Split-Dalmatia County
+NAME_ES: Split-Dalmacia
+NAME_FR: Comitat de Split-Dalmatie
+NAME_EL: Σπλιτ-Νταλματία
+NAME_HI: स्प्लिट-डालमेशिया काउंटी
+NAME_HU: Split-Dalmácia megye
+NAME_ID: Kabupaten Split-Dalmatia
+NAME_IT: regione spalatino-dalmata
+NAME_JA: スプリト＝ダルマチア郡
+NAME_KO: 스플리트달마티아 주
+NAME_NL: Split-Dalmatië
+NAME_PL: Splitsko-dalmatinska županija
+NAME_PT: Condado de Split-Dalmácia
+NAME_RU: Сплитско-Далматинская жупания
+NAME_SV: Split-Dalmatiens län
+NAME_TR: Split-Dalmaçya
+NAME_VI: Hạt Split-Dalmatia
+NAME_ZH: 斯普利特-達爾馬提亞縣
+NE_ID: 1159312433

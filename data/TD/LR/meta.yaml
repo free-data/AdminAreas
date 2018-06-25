@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1485
+DISS_ME: 1485
+ISO_3166_2: TD-LR
+WIKIPEDIA: null
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Logone Oriental
+NAME_ALT: Logone-Oriental
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.LR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: LR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 15
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD09
+FIPS_ALT: null
+WOE_ID: 2344953
+WOE_LABEL: null
+WOE_NAME: Logone Oriental
+LATITUDE: 8.12559
+LONGITUDE: 16.23
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 2429058
+GN_NAME: Logone Oriental Region
+GNS_ID: -1099357
+GNS_NAME: Logone Oriental
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q167514
+NAME_AR: منطقة لوقون الشرقي
+NAME_BN: লুগোনে ওরিয়েন্টাল অঞ্চল
+NAME_DE: Region Logone Oriental
+NAME_EN: Logone Oriental Region
+NAME_ES: Región de Logone Oriental
+NAME_FR: Logone Oriental
+NAME_EL: Λογκόνε Οριένταλ
+NAME_HI: लॉगोन ओरिएंटल क्षेत्र
+NAME_HU: null
+NAME_ID: Region Logone Oriental
+NAME_IT: regione del Logone Orientale
+NAME_JA: ロゴン・オリエンタル州
+NAME_KO: 로곤오리앙탈 주
+NAME_NL: Logone Oriental
+NAME_PL: Region Logone Oriental
+NAME_PT: Região de Logone Oriental
+NAME_RU: Восточный Логон
+NAME_SV: Logone Oriental
+NAME_TR: Logone Oriental Bölgesi
+NAME_VI: Khu vực Logone Oriental
+NAME_ZH: 東洛貢區
+NE_ID: 1159311765

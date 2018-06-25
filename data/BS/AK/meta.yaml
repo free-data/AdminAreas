@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5036
+DISS_ME: 5036
+ISO_3166_2: BS-AK
+WIKIPEDIA: http://en.wikipedia.org/wiki/Acklins
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Acklins
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.AK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: AK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF24
+FIPS_ALT: null
+WOE_ID: 2344778
+WOE_LABEL: Acklins, BS, The Bahamas
+WOE_NAME: Acklins
+LATITUDE: 22.3745
+LONGITUDE: -74.0024
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 3572937
+GN_NAME: Acklins Island District
+GNS_ID: -1542711
+GNS_NAME: Acklins Island District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BF24
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q341919
+NAME_AR: أكلينز
+NAME_BN: এক্লিংস
+NAME_DE: Acklins
+NAME_EN: Acklins
+NAME_ES: Acklins
+NAME_FR: Acklins
+NAME_EL: Άκλινς
+NAME_HI: एक्लिंस
+NAME_HU: null
+NAME_ID: Acklins
+NAME_IT: Acklins
+NAME_JA: アクリンズ
+NAME_KO: 아클린스 섬
+NAME_NL: Acklins
+NAME_PL: Acklins
+NAME_PT: Acklins
+NAME_RU: Аклинс
+NAME_SV: Acklins
+NAME_TR: Acklins
+NAME_VI: Acklins
+NAME_ZH: 阿克林岛
+NE_ID: 1159316293

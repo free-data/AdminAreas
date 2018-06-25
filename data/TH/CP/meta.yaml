@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-375
+DISS_ME: 375
+ISO_3166_2: TH-86
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Chumphon
+NAME_ALT: null
+NAME_LOCAL: จังหวัดชุมพร
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.CP
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 28
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH58
+FIPS_ALT: null
+WOE_ID: 2347182
+WOE_LABEL: Chumphon, TH, Thailand
+WOE_NAME: Chumphon
+LATITUDE: 10.3809
+LONGITUDE: 99.0755
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1153555
+GN_NAME: Changwat Chumphon
+GNS_ID: -3247401
+GNS_NAME: Chumphon, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.58
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH58
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q244695
+NAME_AR: محافظة تشومفون
+NAME_BN: কাম্ফন
+NAME_DE: Chumphon
+NAME_EN: Chumphon
+NAME_ES: Provincia de Chumphon
+NAME_FR: Chumphon
+NAME_EL: Τσουμπόν
+NAME_HI: चुमफोन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Chumphon
+NAME_IT: provincia di Chumphon
+NAME_JA: チュムポーン県
+NAME_KO: 춤폰 주
+NAME_NL: Changwat Chumphon
+NAME_PL: Prowincja Chumphon
+NAME_PT: Chumphon
+NAME_RU: Чумпхон
+NAME_SV: Chumphon
+NAME_TR: Chumphon
+NAME_VI: Chumphon
+NAME_ZH: 春蓬府
+NE_ID: 1159308157

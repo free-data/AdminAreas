@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: EST-1655
+DISS_ME: 1655
+ISO_3166_2: EE-44
+WIKIPEDIA: null
+ISO_A2: EE
+ADM0_SR: 1
+NAME: Ida-Viru
+NAME_ALT: Ida-Virumaa|Ida-Viru maakond
+NAME_LOCAL: null
+TYPE: Maakond
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: EE.IV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: IV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 10
+FIPS: EN03
+FIPS_ALT: null
+WOE_ID: 2345278
+WOE_LABEL: Ida-Viru County, EE, Estonia
+WOE_NAME: Ida-Viru
+LATITUDE: 59.1333
+LONGITUDE: 27.4446
+SOV_A3: EST
+ADM0_A3: EST
+ADM0_LABEL: 2
+ADMIN: Estonia
+GEONUNIT: Estonia
+GU_A3: EST
+GN_ID: 592075
+GN_NAME: Ida-Virumaa
+GNS_ID: -2621851
+GNS_NAME: Ida-Virumaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EE.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: EN03
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q189963
+NAME_AR: مقاطعة إيدا فيرو
+NAME_BN: ইদা-ভিরু কাউন্টি
+NAME_DE: Kreis Ida-Viru
+NAME_EN: Ida-Viru County
+NAME_ES: Condado de Ida-Viru
+NAME_FR: Comté de Viru-Est
+NAME_EL: Επαρχία Ίντα-Βίρου
+NAME_HI: आइडा-विरु काउंटी
+NAME_HU: Ida-Virumaa
+NAME_ID: County Ida-Viru
+NAME_IT: Ida-Virumaa
+NAME_JA: イダ＝ヴィル県
+NAME_KO: 이다비루 주
+NAME_NL: Ida-Virumaa
+NAME_PL: Ida-Virumaa
+NAME_PT: Ida-Virumaa
+NAME_RU: Восточная Эстония
+NAME_SV: Ida-Virumaa
+NAME_TR: Ida-Viru ili
+NAME_VI: Hạt Ida-Viru
+NAME_ZH: 東維魯縣
+NE_ID: 1159313077

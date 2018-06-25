@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-96
+DISS_ME: 96
+ISO_3166_2: TN-82
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Médenine
+NAME_ALT: Madanīyīn|Madanīn|Medenin
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.ME
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: ME
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS28
+FIPS_ALT: null
+WOE_ID: 2347249
+WOE_LABEL: Madanin, TN, Tunisia
+WOE_NAME: Médenine
+LATITUDE: 33.4403
+LONGITUDE: 10.6522
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2469470
+GN_NAME: Gouvernorat de Medenine
+GNS_ID: -726669
+GNS_NAME: Medenine, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS28
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q327087
+NAME_AR: ولاية مدنين
+NAME_BN: মেদেনিন গভর্নোরেট
+NAME_DE: Gouvernorat Medenine
+NAME_EN: Medenine Governorate
+NAME_ES: Gobernación de Medenine
+NAME_FR: gouvernorat de Médenine
+NAME_EL: Μαντανίγιν
+NAME_HI: मेडेनिन
+NAME_HU: null
+NAME_ID: Kegubernuran Medenine
+NAME_IT: governatorato di Médenine
+NAME_JA: メドニン県
+NAME_KO: 메드닌 주
+NAME_NL: Médenine
+NAME_PL: Gubernatorstwo Madanijin
+NAME_PT: Médenine
+NAME_RU: Меденин
+NAME_SV: Medenine
+NAME_TR: Medenin ili
+NAME_VI: Tỉnh Medenine
+NAME_ZH: 梅德寧省
+NE_ID: 1159309355

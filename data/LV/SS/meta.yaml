@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5775
+DISS_ME: 5775
+ISO_3166_2: LV-087
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Salaspils
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGC3
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.8708
+LONGITUDE: 24.365
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628323
+GN_NAME: Salaspils Novads
+GNS_ID: 10975446
+GNS_NAME: Salaspils Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.C3
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG80
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2140753
+NAME_AR: بلدية سالاسبيلز
+NAME_BN: সালাস্পিলস পৌরসভা
+NAME_DE: Bezirk Salaspils
+NAME_EN: Salaspils Municipality
+NAME_ES: Municipalidad de Salaspils
+NAME_FR: Salaspils
+NAME_EL: Σάλασπιλς
+NAME_HI: सलासपिल्स नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Salaspils
+NAME_IT: Comune di Salaspils
+NAME_JA: サラスピルス
+NAME_KO: 살라스필스 시
+NAME_NL: Salaspils novads
+NAME_PL: Gmina Salaspils
+NAME_PT: Município de Salaspils
+NAME_RU: Саласпилсский край
+NAME_SV: Salaspils Novads
+NAME_TR: Salaspils Belediyesi
+NAME_VI: Đô thị tự trị Salaspils
+NAME_ZH: null
+NE_ID: 1159317671

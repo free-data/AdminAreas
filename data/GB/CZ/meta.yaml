@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5707
+DISS_ME: 5707
+ISO_3166_2: GB-CHW
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Cheshire West and Chester
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.CZ
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: null
+PROVNUM_NE: 20094
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Ches
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 25
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKZ8
+FIPS_ALT: UKC5
+WOE_ID: -12602157
+WOE_LABEL: null
+WOE_NAME: Cheshire
+LATITUDE: 53.1671
+LONGITUDE: -2.76774
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 7290537
+GN_NAME: Cheshire West and Chester
+GNS_ID: 10876240
+GNS_NAME: Cheshire West and Chester
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Z8
+REGION_SUB: Cheshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK25
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1070591
+NAME_AR: null
+NAME_BN: চেশায়ার ওয়েস্ট ও চেস্টার
+NAME_DE: Cheshire West and Chester
+NAME_EN: Cheshire West and Chester
+NAME_ES: Cheshire West and Chester
+NAME_FR: Cheshire West and Chester
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Cheshire West and Chester
+NAME_JA: チェシャーウェスト・アンド・チェスター
+NAME_KO: 체셔웨스트 체스터
+NAME_NL: Cheshire West and Chester
+NAME_PL: Cheshire West and Chester
+NAME_PT: Cheshire West and Chester
+NAME_RU: Западный Чешир и Честер
+NAME_SV: Cheshire West and Chester
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 西柴郡與切斯特
+NE_ID: 1159317557

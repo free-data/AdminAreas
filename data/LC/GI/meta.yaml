@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: LCA-5081
+DISS_ME: 5081
+ISO_3166_2: LC-06
+WIKIPEDIA: http://en.wikipedia.org/wiki/Gros_Islet_Quarter
+ISO_A2: LC
+ADM0_SR: 1
+NAME: Gros Islet
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Quarter
+TYPE_EN: Quarter
+CODE_LOCAL: null
+CODE_HASC: LC.GI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: ST06
+FIPS_ALT: null
+WOE_ID: 2347028
+WOE_LABEL: Gros Islet, LC, St. Lucia
+WOE_NAME: Gros Islet
+LATITUDE: 14.0664
+LONGITUDE: -60.9446
+SOV_A3: LCA
+ADM0_A3: LCA
+ADM0_LABEL: 7
+ADMIN: Saint Lucia
+GEONUNIT: Saint Lucia
+GU_A3: LCA
+GN_ID: 3576685
+GN_NAME: Quarter of Gros-Islet
+GNS_ID: -1313908
+GNS_NAME: Gros-Islet, Quarter of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LC.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ST06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q953557
+NAME_AR: حي غروس إسليت
+NAME_BN: গ্রোস  ইজলেট কোয়ার্টার
+NAME_DE: Gros Islet
+NAME_EN: Gros Islet Quarter
+NAME_ES: Gros Islet
+NAME_FR: District de Gros-Islet
+NAME_EL: Νησίδα Γκρος
+NAME_HI: ग्रोस आइलेट क्वार्टर
+NAME_HU: null
+NAME_ID: Gros Islet Quarter
+NAME_IT: quartiere di Gros Islet
+NAME_JA: グロス・イスレット地区
+NAME_KO: 그로스아일렛 구
+NAME_NL: Gros Islet
+NAME_PL: Gros Islet
+NAME_PT: Gros Islet Quarter
+NAME_RU: Грос-Айлет
+NAME_SV: Gros-Islet
+NAME_TR: Gros Islet
+NAME_VI: Gros Islet
+NAME_ZH: 格羅斯伊斯勒區
+NE_ID: 1159315539

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1500
+DISS_ME: 1500
+ISO_3166_2: ME-06
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Cetinje
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.CE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MJ00
+FIPS_ALT: null
+WOE_ID: 29389242
+WOE_LABEL: Cetinje, ME, Montenegro
+WOE_NAME: Cetinje
+LATITUDE: 42.4993
+LONGITUDE: 18.8954
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3202640
+GN_NAME: Opstina Cetinje
+GNS_ID: -77354
+GNS_NAME: Cetinje, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3305075
+NAME_AR: بلدية سيتينيي
+NAME_BN: সেতিঞ্জে পৌরসভা
+NAME_DE: Gemeinde Cetinje
+NAME_EN: Cetinje Municipality
+NAME_ES: Municipio de Cetinje
+NAME_FR: Cetinje
+NAME_EL: Κετίντζε
+NAME_HI: केतिन्ये नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Cetinje
+NAME_IT: Comune di Cetinje
+NAME_JA: ツェティニェ
+NAME_KO: 체티녜 지방 자치제
+NAME_NL: null
+NAME_PL: Cetynia
+NAME_PT: Cetinje
+NAME_RU: Цетине
+NAME_SV: Cetinje
+NAME_TR: Cetinje  Belediyesi
+NAME_VI: Đô thị tự trị Cetinje
+NAME_ZH: null
+NE_ID: 1159310605

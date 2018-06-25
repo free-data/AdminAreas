@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: KOR-2502
+DISS_ME: 2502
+ISO_3166_2: KR-44
+WIKIPEDIA: http://en.wikipedia.org/wiki/South_Chungcheong_Province
+ISO_A2: KR
+ADM0_SR: 1
+NAME: South Chungcheong
+NAME_ALT: Chungchongnam-Do|Ch'ungch'ong-namdo|Chusei Nan-do|South Chungchong|Ch'ungch'ong-namdo
+NAME_LOCAL: 충청남도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: 34
+CODE_HASC: KR.HN
+NOTE: 34 (NSO Code)
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: GN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 17
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: KS17
+FIPS_ALT: null
+WOE_ID: 2345973
+WOE_LABEL: Chungcheongnam-Do, KR, South Korea
+WOE_NAME: Chungcheongnam-do
+LATITUDE: 36.4602
+LONGITUDE: 126.874
+SOV_A3: KOR
+ADM0_A3: KOR
+ADM0_LABEL: 2
+ADMIN: South Korea
+GEONUNIT: South Korea
+GU_A3: KOR
+GN_ID: 1845105
+GN_NAME: Chungcheongnam-do
+GNS_ID: -707260
+GNS_NAME: Chungcheongnam-do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KR.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KS17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q41070
+NAME_AR: مقاطعة تشنغتشونغ الجنوبية
+NAME_BN: দক্ষিণ চুংচেয়ং
+NAME_DE: Chungcheongnam-do
+NAME_EN: South Chungcheong Province
+NAME_ES: Chungcheong del Sur
+NAME_FR: Chungcheong du Sud
+NAME_EL: Τσούνγκτσονγκναμ-ντο
+NAME_HI: दक्षिणी चुंगचियोंग प्रांत
+NAME_HU: Dél-Cshungcshong
+NAME_ID: Chungcheong Selatan
+NAME_IT: Sud Chungcheong
+NAME_JA: 忠清南道
+NAME_KO: 충청남도
+NAME_NL: Chungcheongnam-do
+NAME_PL: Chungcheong Południowy
+NAME_PT: Chungcheong do Sul
+NAME_RU: Чхунчхон-Намдо
+NAME_SV: Sydchungcheong
+NAME_TR: Güney Çungçeong
+NAME_VI: Chungcheong Nam
+NAME_ZH: 忠清南道
+NE_ID: 1159313525

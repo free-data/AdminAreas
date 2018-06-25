@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BOL-1293
+DISS_ME: 1293
+ISO_3166_2: BO-B
+WIKIPEDIA: null
+ISO_A2: BO
+ADM0_SR: 1
+NAME: El Beni
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BO.EB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: EB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+FIPS: BL03
+FIPS_ALT: null
+WOE_ID: 2344803
+WOE_LABEL: El Beni, BO, Bolivia
+WOE_NAME: El Beni
+LATITUDE: -14.0358
+LONGITUDE: -64.5806
+SOV_A3: BOL
+ADM0_A3: BOL
+ADM0_LABEL: 2
+ADMIN: Bolivia
+GEONUNIT: Bolivia
+GU_A3: BOL
+GN_ID: 3923172
+GN_NAME: Departamento del Beni
+GNS_ID: -681753
+GNS_NAME: Beni, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BO.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BL03
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q233169
+NAME_AR: محافظة بني
+NAME_BN: বেনি বিভাগ
+NAME_DE: Departamento Beni
+NAME_EN: Beni Department
+NAME_ES: Departamento del Beni
+NAME_FR: département de Beni
+NAME_EL: Μπένι
+NAME_HI: बेनी विभाग
+NAME_HU: null
+NAME_ID: Departemen Beni
+NAME_IT: dipartimento di Beni
+NAME_JA: ベニ県
+NAME_KO: 베니 주
+NAME_NL: Beni
+NAME_PL: Beni
+NAME_PT: Beni
+NAME_RU: Бени
+NAME_SV: Beni
+NAME_TR: Beni Departmanı
+NAME_VI: Khu vực hành chính Beni
+NAME_ZH: 贝尼省
+NE_ID: 1159309855

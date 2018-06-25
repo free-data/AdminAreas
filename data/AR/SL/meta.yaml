@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1298
+DISS_ME: 1298
+ISO_3166_2: AR-D
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: San Luis
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR19
+FIPS_ALT: null
+WOE_ID: 2344693
+WOE_LABEL: San Luis, AR, Argentina
+WOE_NAME: San Luis
+LATITUDE: -33.9469
+LONGITUDE: -66.135
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3837029
+GN_NAME: Provincia de San Luis
+GNS_ID: -1013350
+GNS_NAME: San Luis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR19
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44818
+NAME_AR: سان لويس
+NAME_BN: স্কোযান লুই প্রদেশ
+NAME_DE: Provinz San Luis
+NAME_EN: San Luis Province
+NAME_ES: Provincia de San Luis
+NAME_FR: San Luis
+NAME_EL: Σαν Λουίς
+NAME_HI: सैन लुई प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi San Luis
+NAME_IT: provincia di San Luis
+NAME_JA: サンルイス州
+NAME_KO: 산루이스 주
+NAME_NL: San Luis
+NAME_PL: San Luis
+NAME_PT: San Luis
+NAME_RU: Сан-Луис
+NAME_SV: San Luis
+NAME_TR: San Luis eyaleti
+NAME_VI: San Luis
+NAME_ZH: 圣路易省
+NE_ID: 1159309765

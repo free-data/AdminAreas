@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1246
+DISS_ME: 1246
+ISO_3166_2: PG-SHM
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 1
+NAME: Southern Highlands
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 18
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP05
+FIPS_ALT: null
+WOE_ID: 2346585
+WOE_LABEL: Southern Highlands, PG, Papua New Guinea
+WOE_NAME: Southern Highlands
+LATITUDE: -6.38625
+LONGITUDE: 143.446
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2086331
+GN_NAME: Southern Highlands Province
+GNS_ID: -2200496
+GNS_NAME: Southern Highlands Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP05
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q849801
+NAME_AR: محافظة هايلاند الجنوبية
+NAME_BN: সাউদার্ন হাইল্যান্ড প্রদেশ
+NAME_DE: Southern Highlands Province
+NAME_EN: Southern Highlands Province
+NAME_ES: Tierras Altas del Sur
+NAME_FR: Hautes-Terres méridionales
+NAME_EL: Νότια Υψίπεδα
+NAME_HI: दक्षिणी हाइलैंड्स प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Pegunungan Selatan
+NAME_IT: provincia degli Altopiani del Sud
+NAME_JA: 南部山岳州
+NAME_KO: 서던하일랜즈 주
+NAME_NL: Southern Highlands
+NAME_PL: Southern Highlands
+NAME_PT: Southern Highlands
+NAME_RU: Саутерн-Хайлендс
+NAME_SV: Southern Highlands
+NAME_TR: Southern Highlands
+NAME_VI: Tỉnh Phía Nam Highlands
+NAME_ZH: 南高地省
+NE_ID: 1159309915

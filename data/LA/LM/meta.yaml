@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3272
+DISS_ME: 3272
+ISO_3166_2: LA-LM
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Louang Namtha
+NAME_ALT: Haut-Mekong|Luangnamtha|Muong Luang Namtha|Namtha|Hiuakhong|Houa Kh
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.LM
+NOTE: formerly Houakhong
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA16
+FIPS_ALT: LA05
+WOE_ID: 2346003
+WOE_LABEL: Louang Namtha Province, LA, Laos
+WOE_NAME: Louang Namtha
+LATITUDE: 20.9099
+LONGITUDE: 101.148
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1655561
+GN_NAME: Louangnamtha
+GNS_ID: -2665955
+GNS_NAME: Louangnamtha
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LA16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q948691
+NAME_AR: محافظة لوانغ نامثا
+NAME_BN: লুয়াং নাম্থা প্রদেশ
+NAME_DE: Luang Namtha
+NAME_EN: Luang Namtha Province
+NAME_ES: Louang Namtha
+NAME_FR: Province de Luang Namtha
+NAME_EL: Λουάνγκ Νάμθα
+NAME_HI: लुअंग नम्था प्रान्त
+NAME_HU: Luangnamtha tartomány
+NAME_ID: Provinsi Louang Namtha
+NAME_IT: provincia di Luang Namtha
+NAME_JA: ルアンナムター県
+NAME_KO: 루앙남타 주
+NAME_NL: Luang Namtha
+NAME_PL: Prowincja Louang Namtha
+NAME_PT: Luang Namtha
+NAME_RU: Луангнамтха
+NAME_SV: Luang Namtha
+NAME_TR: Luang Namtha Province
+NAME_VI: Luangnamtha
+NAME_ZH: 琅南塔省
+NE_ID: 1159313989

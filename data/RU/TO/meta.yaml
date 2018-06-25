@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2167
+DISS_ME: 2167
+ISO_3166_2: RU-TOM
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tomsk
+NAME_ALT: Tomskaya
+NAME_LOCAL: Томская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: Siberian
+REGION_COD: null
+PROVNUM_NE: 20099
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS75
+FIPS_ALT: null
+WOE_ID: 2346928
+WOE_LABEL: Tomskaya Oblast, RU, Russia
+WOE_NAME: Tomsk
+LATITUDE: 58.4467
+LONGITUDE: 82.2299
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1489421
+GN_NAME: Tomskaya Oblast'
+GNS_ID: -3019683
+GNS_NAME: Tomskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.75
+REGION_SUB: West Siberian
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS75
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5884
+NAME_AR: تومسك أوبلاست
+NAME_BN: টোমস্ক ওব্লাস্ট
+NAME_DE: Oblast Tomsk
+NAME_EN: Tomsk Oblast
+NAME_ES: Tomsk
+NAME_FR: Oblast de Tomsk
+NAME_EL: Περιφέρεια Τομσκ
+NAME_HI: टॉमस्क ओब्लास्ट
+NAME_HU: Tomszki terület
+NAME_ID: Oblast Tomsk
+NAME_IT: oblast' di Tomsk
+NAME_JA: トムスク州
+NAME_KO: 톰스크 주
+NAME_NL: Oblast Tomsk
+NAME_PL: Obwód tomski
+NAME_PT: Oblast de Tomsk
+NAME_RU: Томская область
+NAME_SV: Tomsk oblast
+NAME_TR: Tomsk Oblastı
+NAME_VI: Tomsk
+NAME_ZH: 托木斯克州
+NE_ID: 1159313233

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2219
+DISS_ME: 2219
+ISO_3166_2: DZ-40
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Khenchela
+NAME_ALT: Khenchela
+NAME_LOCAL: ولاية خنشلة
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.KH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 31
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG47
+FIPS_ALT: null
+WOE_ID: 2344617
+WOE_LABEL: Khenchela, DZ, Algeria
+WOE_NAME: Khenchela
+LATITUDE: 34.8896
+LONGITUDE: 7.02787
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2491887
+GN_NAME: Wilaya de Khenchela
+GNS_ID: -474014
+GNS_NAME: Khenchela
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG47
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q213950
+NAME_AR: ولاية خنشلة
+NAME_BN: কেনচেল্লা প্রদেশ
+NAME_DE: Khenchela
+NAME_EN: Khenchela Province
+NAME_ES: Provincia de Khenchela
+NAME_FR: wilaya de Khenchela
+NAME_EL: Χενσέλα
+NAME_HI: खेन्छेला प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Khenchela
+NAME_IT: provincia di Khenchela
+NAME_JA: ヘンシュラ県
+NAME_KO: 켄셸라 주
+NAME_NL: Khenchela
+NAME_PL: Prowincja Chanszala
+NAME_PT: Khenchela
+NAME_RU: Хеншела
+NAME_SV: Khenchela
+NAME_TR: Henşle Vilayeti
+NAME_VI: Khenchela
+NAME_ZH: 汉舍莱省
+NE_ID: 1159311985

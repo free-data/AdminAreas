@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Bangladesh
+SOV_A3: BGD
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Bangladesh
+ADM0_A3: BGD
+GEOU_DIF: 0
+GEOUNIT: Bangladesh
+GU_A3: BGD
+SU_DIF: 0
+SUBUNIT: Bangladesh
+SU_A3: BGD
+BRK_DIFF: 0
+NAME: Bangladesh
+NAME_LONG: Bangladesh
+BRK_A3: BGD
+BRK_NAME: Bangladesh
+BRK_GROUP: null
+ABBREV: Bang.
+POSTAL: BD
+FORMAL_EN: People's Republic of Bangladesh
+FORMAL_FR: null
+NAME_CIAWF: Bangladesh
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Bangladesh
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+POP_EST: 157826578
+POP_RANK: 17
+GDP_MD_EST: 628400
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: BG
+ISO_A2: BD
+ISO_A3: BGD
+ISO_A3_EH: BGD
+ISO_N3: 050
+UN_A3: 050
+WB_A2: BD
+WB_A3: BGD
+WOE_ID: 23424759
+WOE_ID_EH: 23424759
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BGD
+ADM0_A3_US: BGD
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Southern Asia
+REGION_WB: South Asia
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159320407
+WIKIDATAID: Q902
+NAME_AR: بنغلاديش
+NAME_BN: বাংলাদেশ
+NAME_DE: Bangladesch
+NAME_EN: Bangladesh
+NAME_ES: Bangladés
+NAME_FR: Bangladesh
+NAME_EL: Μπανγκλαντές
+NAME_HI: बांग्लादेश
+NAME_HU: Banglades
+NAME_ID: Bangladesh
+NAME_IT: Bangladesh
+NAME_JA: バングラデシュ
+NAME_KO: 방글라데시
+NAME_NL: Bangladesh
+NAME_PL: Bangladesz
+NAME_PT: Bangladesh
+NAME_RU: Бангладеш
+NAME_SV: Bangladesh
+NAME_TR: Bangladeş
+NAME_VI: Bangladesh
+NAME_ZH: 孟加拉国

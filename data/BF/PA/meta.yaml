@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2817
+DISS_ME: 2817
+ISO_3166_2: BF-PAS
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Passoré
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: Nord
+REGION_COD: null
+PROVNUM_NE: 20027
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV34
+FIPS_ALT: null
+WOE_ID: 2347629
+WOE_LABEL: Passore, BF, Burkina Faso
+WOE_NAME: Passoré
+LATITUDE: 12.8734
+LONGITUDE: -2.10662
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2356667
+GN_NAME: Province du Passore
+GNS_ID: -1722109
+GNS_NAME: Passore, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV88
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1142008
+NAME_AR: محافظة باسوري
+NAME_BN: প্যাসেরে প্রদেশ
+NAME_DE: Passoré
+NAME_EN: Passoré Province
+NAME_ES: Provincia de Passoré
+NAME_FR: Passoré
+NAME_EL: Πασορέ
+NAME_HI: पासोरे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Passoré
+NAME_IT: provincia di Passoré
+NAME_JA: パッソレ県
+NAME_KO: 파소레 현
+NAME_NL: Passoré
+NAME_PL: Prowincja Passoré
+NAME_PT: Passoré
+NAME_RU: Провинция Пассор
+NAME_SV: Province du Passoré
+NAME_TR: Passoré
+NAME_VI: Passoré
+NAME_ZH: 帕索雷省
+NE_ID: 1159313907

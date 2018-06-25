@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1753
+DISS_ME: 1753
+ISO_3166_2: AF-URU
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Uruzgan
+NAME_ALT: Urozgan
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.OZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: OZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF39
+FIPS_ALT: AF20|AF39
+WOE_ID: 56000466
+WOE_LABEL: null
+WOE_NAME: Daykundi
+LATITUDE: 33.8446
+LONGITUDE: 66.3011
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 6957553
+GN_NAME: Wilayat-e Daykundi
+GNS_ID: 10471835
+GNS_NAME: Daykundi, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: AF41
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q183028
+NAME_AR: ولاية أروزكان
+NAME_BN: ওরুজ্‌গন প্রদেশ
+NAME_DE: Urusgan
+NAME_EN: Urozgan
+NAME_ES: Provincia de Urūzgān
+NAME_FR: Orozgân
+NAME_EL: Ορουζγκάν
+NAME_HI: ओरूज़्गान प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Oruzgan
+NAME_IT: Oruzgan
+NAME_JA: ウルーズガーン州
+NAME_KO: 우루즈간 주
+NAME_NL: Uruzgan
+NAME_PL: Oruzgan
+NAME_PT: Oruzgan
+NAME_RU: Урузган
+NAME_SV: Oruzgan
+NAME_TR: Uruzgan Vilayeti
+NAME_VI: Oruzgan
+NAME_ZH: 乌鲁兹甘省
+NE_ID: 1159312063

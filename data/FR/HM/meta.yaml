@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5300
+DISS_ME: 5300
+ISO_3166_2: FR-52
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Haute-Marne
+NAME_ALT: Champaña-Ardenne
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.HM
+NOTE: null
+HASC_MAYBE: null
+REGION: Champagne-Ardenne
+REGION_COD: FR-G
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 11
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA4
+FIPS_ALT: null
+WOE_ID: 12597145
+WOE_LABEL: null
+WOE_NAME: Haute-Marne
+LATITUDE: 48.1552
+LONGITUDE: 5.24076
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3013757
+GN_NAME: Departement de la Haute-Marne
+GNS_ID: -1431621
+GNS_NAME: Haute-Marne, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.52
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA4
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12607
+NAME_AR: المارن العليا
+NAME_BN: হোতে-মার্নে
+NAME_DE: Département Haute-Marne
+NAME_EN: Haute-Marne
+NAME_ES: Alto Marne
+NAME_FR: Haute-Marne
+NAME_EL: Ωτ-Μαρν
+NAME_HI: ओट-मार्न
+NAME_HU: Haute-Marne
+NAME_ID: Haute-Marne
+NAME_IT: Alta Marna
+NAME_JA: オート＝マルヌ県
+NAME_KO: 오트마른 주
+NAME_NL: Haute-Marne
+NAME_PL: Górna Marna
+NAME_PT: Haute-Marne
+NAME_RU: Верхняя Марна
+NAME_SV: Haute-Marne
+NAME_TR: Haute-Marne
+NAME_VI: Haute-Marne
+NAME_ZH: 上马恩省
+NE_ID: 1159316805

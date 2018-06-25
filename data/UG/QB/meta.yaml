@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5595
+DISS_ME: 5595
+ISO_3166_2: UG-227
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kibuku
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.QB
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20041
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGF6
+FIPS_ALT: null
+WOE_ID: -20070441
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 1.03603
+LONGITUDE: 33.7704
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 8030572
+GN_NAME: Kibuku District
+GNS_ID: 11074792
+GNS_NAME: Kibuku District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.F6
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1114885
+NAME_AR: مقاطعة كيبوكو
+NAME_BN: কিবুকো জেলা
+NAME_DE: Kibuku Distrikt
+NAME_EN: Kibuku District
+NAME_ES: Distrito de Kibuku
+NAME_FR: Kibuku
+NAME_EL: Κιμπουκού
+NAME_HI: किबुकु जिला
+NAME_HU: null
+NAME_ID: Distrik Kibuku
+NAME_IT: Kibuku
+NAME_JA: キブク県
+NAME_KO: 키부쿠 구
+NAME_NL: Kibuku District
+NAME_PL: Dystrykt Kibuku
+NAME_PT: Kibuku
+NAME_RU: Кибуку
+NAME_SV: Kibukudistriktet
+NAME_TR: Kibuku District
+NAME_VI: Quận Kibuku
+NAME_ZH: 基布庫區
+NE_ID: 1159317407

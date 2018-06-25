@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-1082
+DISS_ME: 1082
+ISO_3166_2: LV-026
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Dobele
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.DB
+NOTE: null
+HASC_MAYBE: LT.SH
+REGION: Zemgale
+REGION_COD: LV.DO
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: DO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG59
+FIPS_ALT: LH61
+WOE_ID: -2346024
+WOE_LABEL: Dobeles Rajons, LV, Latvia
+WOE_NAME: Dobele
+LATITUDE: 56.6172
+LONGITUDE: 23.2005
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 460311
+GN_NAME: Dobeles Rajons
+GNS_ID: 10972890
+GNS_NAME: Dobeles Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.08
+REGION_SUB: Zemgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG59
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q519580
+NAME_AR: بلدية دوبيل
+NAME_BN: ডোবেল পৌরসভা
+NAME_DE: Bezirk Dobele
+NAME_EN: Dobele Municipality
+NAME_ES: Municipalidad de Dobele
+NAME_FR: Dobele
+NAME_EL: Ντόμπελε
+NAME_HI: दोबेले नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Dobele
+NAME_IT: Comune di Dobele
+NAME_JA: ドベレ
+NAME_KO: 도벨레 시
+NAME_NL: Dobele
+NAME_PL: Gmina Dobele
+NAME_PT: Município de Dobele
+NAME_RU: Добельский край
+NAME_SV: Dobele
+NAME_TR: Dobele Belediyesi
+NAME_VI: Đô thị tự trị Dobele
+NAME_ZH: 多貝萊自治市
+NE_ID: 1159311079

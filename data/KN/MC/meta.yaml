@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5106
+DISS_ME: 5106
+ISO_3166_2: KN-08
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Mary Cayon
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: Saint Kitts
+REGION_COD: KN-K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: MCA
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC08
+FIPS_ALT: null
+WOE_ID: 2346971
+WOE_LABEL: Saint Mary Cayon, KN, Saint Kitts and Nevis
+WOE_NAME: Saint Mary Cayon
+LATITUDE: 17.3459
+LONGITUDE: -62.7286
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575173
+GN_NAME: Saint Mary Cayon
+GNS_ID: -1359321
+GNS_NAME: Saint Mary Cayon
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC08
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1538034
+NAME_AR: كايون سانت ماري باريش
+NAME_BN: সেন্ট মেরি কোয়ানপ্যারিশ
+NAME_DE: Saint Mary Cayon
+NAME_EN: Saint Mary Cayon Parish
+NAME_ES: Parroquia de Saint Mary Cayon
+NAME_FR: Saint-Mary Cayon
+NAME_EL: Σεντ Μέρι Κέιον
+NAME_HI: सेंट मैरी केयौन पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Mary Cayon
+NAME_IT: parrocchia di Saint Mary Cayon
+NAME_JA: セント・メアリー・カヨン教区
+NAME_KO: 세인트메리카욘 교구
+NAME_NL: Saint Mary Cayon
+NAME_PL: Saint Mary Cayon
+NAME_PT: Saint Mary Cayon
+NAME_RU: Сент-Мери-Кайон
+NAME_SV: Saint Mary Cayon
+NAME_TR: Saint Mary Cayon
+NAME_VI: Giáo xứ Saint Mary Cayon
+NAME_ZH: 聖瑪麗卡永區
+NE_ID: 1159316445

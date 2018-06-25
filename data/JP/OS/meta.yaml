@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1852
+DISS_ME: 1852
+ISO_3166_2: JP-27
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 6
+NAME: Ōsaka
+NAME_ALT: null
+NAME_LOCAL: 大阪府
+TYPE: Fu
+TYPE_EN: Urban Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.OS
+NOTE: null
+HASC_MAYBE: JP.MG
+REGION: Kinki
+REGION_COD: JPN-KIN
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: OS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA32
+FIPS_ALT: JA24
+WOE_ID: 2345881
+WOE_LABEL: Osaka Prefecture, JP, Japan
+WOE_NAME: Osaka
+LATITUDE: 34.5993
+LONGITUDE: 135.519
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1853904
+GN_NAME: Osaka-fu
+GNS_ID: -240910
+GNS_NAME: Osaka-fu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA32
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q122723
+NAME_AR: أوساكا
+NAME_BN: ওসাকা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Osaka
+NAME_EN: Ōsaka Prefecture
+NAME_ES: Prefectura de Osaka
+NAME_FR: Préfecture d'Osaka
+NAME_EL: Οσάκα
+NAME_HI: ओसाका प्रीफेक्चर
+NAME_HU: Oszaka prefektúra
+NAME_ID: Prefektur Osaka
+NAME_IT: prefettura di Osaka
+NAME_JA: 大阪府
+NAME_KO: 오사카 부
+NAME_NL: Osaka
+NAME_PL: Prefektura Osaka
+NAME_PT: Osaka
+NAME_RU: Осака
+NAME_SV: Osaka prefektur
+NAME_TR: Osaka ili
+NAME_VI: Ōsaka
+NAME_ZH: 大阪府
+NE_ID: 1159308417

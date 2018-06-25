@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1700
+DISS_ME: 1700
+ISO_3166_2: AZ-CAL
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Cəlilabad
+NAME_ALT: Jalilabad
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.CL
+NOTE: null
+HASC_MAYBE: null
+REGION: Lankaran Economic Region
+REGION_COD: AZ-04
+PROVNUM_NE: 31
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ15
+FIPS_ALT: AJ|
+WOE_ID: 20070223
+WOE_LABEL: null
+WOE_NAME: Calilabad
+LATITUDE: 39.1757
+LONGITUDE: 48.4338
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 148155
+GN_NAME: Jalilabad Rayon
+GNS_ID: -2705861
+GNS_NAME: Calilabad Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ15
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q372795
+NAME_AR: مقاطعة جليل‌ آباد
+NAME_BN: জালিলা বাদ জেলা
+NAME_DE: Cəlilabad
+NAME_EN: Jalilabad District
+NAME_ES: Cəlilabad
+NAME_FR: Cəlilabad
+NAME_EL: Τζαλιλαμπάντ
+NAME_HI: जलीलाबाद जिला
+NAME_HU: Cəlilabadi járás
+NAME_ID: Jalilabad
+NAME_IT: distretto di Cəlilabad
+NAME_JA: ジャリラバド県
+NAME_KO: 젤릴라바트 구
+NAME_NL: Cəlilabad
+NAME_PL: Rejon Cəlilabad
+NAME_PT: Jalilabad
+NAME_RU: Джалилабадский район
+NAME_SV: Cəlilabad
+NAME_TR: Celilabad Rayonu
+NAME_VI: Jalilabad
+NAME_ZH: 賈利拉巴德區
+NE_ID: 1159312261

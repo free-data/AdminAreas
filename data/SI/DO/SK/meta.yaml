@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-989
+DISS_ME: 989
+ISO_3166_2: SI-121
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Škocjan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.DO.SK
+NOTE: null
+HASC_MAYBE: null
+REGION: Jugovzhodna Slovenija
+REGION_COD: null
+PROVNUM_NE: 29
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIB8
+FIPS_ALT: null
+WOE_ID: -55848372
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.9221
+LONGITUDE: 15.3006
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239199
+GN_NAME: Obcina Skocjan
+GNS_ID: 243884
+GNS_NAME: Skocjan, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.B8
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI20
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q391800
+NAME_AR: بلدية شكوتسيان
+NAME_BN: স্কোকজান পৌরসভা
+NAME_DE: Škocjan
+NAME_EN: Škocjan Municipality
+NAME_ES: Škocjan
+NAME_FR: Škocjan
+NAME_EL: Σκοκτζάν
+NAME_HI: स्कोक्येन नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Škocjan
+NAME_IT: Škocjan
+NAME_JA: シュコツィアン
+NAME_KO: 슈코찬
+NAME_NL: Škocjan
+NAME_PL: Gmina Škocjan
+NAME_PT: Škocjan
+NAME_RU: Шкоцьян
+NAME_SV: Skocjan kommun
+NAME_TR: Skocjan Belediyesi
+NAME_VI: Škocjan
+NAME_ZH: null
+NE_ID: 1159310779

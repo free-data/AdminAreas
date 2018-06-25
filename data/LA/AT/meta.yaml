@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3294
+DISS_ME: 3294
+ISO_3166_2: LA-AT
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Attapu
+NAME_ALT: Attopu|Atpu|Attapeu|Attopeu|Muang Mai
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.AT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA01
+FIPS_ALT: null
+WOE_ID: 20070159
+WOE_LABEL: Attapu, LA, Laos
+WOE_NAME: Attapu
+LATITUDE: 14.7848
+LONGITUDE: 106.866
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1665045
+GN_NAME: Attapu
+GNS_ID: -2656433
+GNS_NAME: Attapu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LA01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q503004
+NAME_AR: محافظة أتابيو
+NAME_BN: আত্তাপিউ প্রদেশ
+NAME_DE: Provinz Attapeu
+NAME_EN: Attapeu Province
+NAME_ES: Provincia de Attapeu
+NAME_FR: Province d'Attapeu
+NAME_EL: Αττάπου
+NAME_HI: अत्ताप्यु प्रान्त
+NAME_HU: Attapö tartomány
+NAME_ID: Provinsi Attapu
+NAME_IT: provincia di Attapeu
+NAME_JA: アッタプー県
+NAME_KO: 앗타푸 주
+NAME_NL: Attapeu
+NAME_PL: Prowincja Attapu
+NAME_PT: Attapeu
+NAME_RU: Аттапы
+NAME_SV: Attapeu
+NAME_TR: Attapeu
+NAME_VI: Attapeu
+NAME_ZH: 阿速坡省
+NE_ID: 1159315201

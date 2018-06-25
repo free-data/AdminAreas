@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3397
+DISS_ME: 3397
+ISO_3166_2: NZ-HKB
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Hawke's Bay
+NAME_ALT: Te Matau a Māui|Hawkes Bay
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.HB
+NOTE: null
+HASC_MAYBE: null
+REGION: North Island
+REGION_COD: NZ-N
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: HB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZF2
+FIPS_ALT: NZ31
+WOE_ID: 15021760
+WOE_LABEL: Hawke's Bay, NZ, New Zealand
+WOE_NAME: Hawke's Bay
+LATITUDE: -39.5434
+LONGITUDE: 176.605
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2190146
+GN_NAME: Hawke's Bay
+GNS_ID: 11483301
+GNS_NAME: Hawke's Bay Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.F2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q251825
+NAME_AR: إقليم هاوكس باي
+NAME_BN: হাকেস বে অঞ্চল
+NAME_DE: Hawke’s Bay
+NAME_EN: Hawke's Bay Region
+NAME_ES: Hawke's Bay
+NAME_FR: Hawke's Bay
+NAME_EL: Xοκ’ς Μπέι
+NAME_HI: हॉक्स बे क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Hawke's Bay
+NAME_IT: Hawke's Bay
+NAME_JA: ホークス・ベイ地方
+NAME_KO: 호크스베이 지방
+NAME_NL: Hawke's Bay
+NAME_PL: Hawke's Bay
+NAME_PT: Hawke's Bay
+NAME_RU: Хокс-Бей
+NAME_SV: Hawke's Bay
+NAME_TR: Hawke Limano Bölgesi
+NAME_VI: Khu vực Hawke's Bay
+NAME_ZH: 霍克湾大区
+NE_ID: 1159314929

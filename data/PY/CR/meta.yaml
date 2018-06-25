@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-604
+DISS_ME: 604
+ISO_3166_2: PY-3
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Cordillera
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.CR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: CR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA08
+FIPS_ALT: null
+WOE_ID: 2346455
+WOE_LABEL: Cordillera, PY, Paraguay
+WOE_NAME: Cordillera
+LATITUDE: -25.2506
+LONGITUDE: -56.9747
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3438827
+GN_NAME: Departamento de la Cordillera
+GNS_ID: -910626
+GNS_NAME: Cordillera, Departamento de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q755121
+NAME_AR: كورديليرا
+NAME_BN: কর্ডিল্যেরা
+NAME_DE: Departamento Cordillera
+NAME_EN: Cordillera Department
+NAME_ES: Cordillera
+NAME_FR: Cordillera
+NAME_EL: Κορδιγιέρα
+NAME_HI: कार्डिलेरा
+NAME_HU: Cordillera megye
+NAME_ID: Departemen Cordillera
+NAME_IT: Cordillera
+NAME_JA: コルディリェラ県
+NAME_KO: 코르디예라 주
+NAME_NL: Cordillera
+NAME_PL: Cordillera
+NAME_PT: Cordillera
+NAME_RU: Кордильера
+NAME_SV: Cordillera
+NAME_TR: Cordillera
+NAME_VI: Cordillera
+NAME_ZH: 科迪勒拉省
+NE_ID: 1159307781

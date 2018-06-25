@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-209
+DISS_ME: 209
+ISO_3166_2: SI-065
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Loška dolina
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.NO.LD
+NOTE: null
+HASC_MAYBE: null
+REGION: Notranjsko-kraška
+REGION_COD: null
+PROVNUM_NE: 89
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SII7
+FIPS_ALT: null
+WOE_ID: -55848344
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.6638
+LONGITUDE: 14.4776
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239056
+GN_NAME: Obcina Loska Dolina
+GNS_ID: 243445
+GNS_NAME: Loska Dolina, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.I7
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI91
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q999525
+NAME_AR: بلدية لوتسكا دولينا
+NAME_BN: লস্কা ডোলিনা পৌরসভা
+NAME_DE: Loška Dolina
+NAME_EN: Loška Dolina Municipality
+NAME_ES: Loška Dolina
+NAME_FR: Loška Dolina
+NAME_EL: Λόσκα Ντολίνα
+NAME_HI: लोस्का डोलिना नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Loška Dolina
+NAME_IT: Loška Dolina
+NAME_JA: ロシュカ・ドリナ
+NAME_KO: 로슈카돌리나
+NAME_NL: Loška Dolina
+NAME_PL: Gmina Loška dolina
+NAME_PT: Loška Dolina
+NAME_RU: Лошка-Долина
+NAME_SV: Loska Dolina
+NAME_TR: Loska Dolina Belediyesi
+NAME_VI: Loška Dolina
+NAME_ZH: 罗斯卡得利亚
+NE_ID: 1159308569

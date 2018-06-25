@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-266
+DISS_ME: 266
+ISO_3166_2: SI-166
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Križevci
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PM.KR
+NOTE: null
+HASC_MAYBE: null
+REGION: Pomurska
+REGION_COD: null
+PROVNUM_NE: 39
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: KR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SII1
+WOE_ID: -55848365
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.5723
+LONGITUDE: 16.1282
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344932
+GN_NAME: Obcina Krizevci
+GNS_ID: 9123452
+GNS_NAME: Krizevci, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.I1
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q999563
+NAME_AR: بلدية كريجيفتسي
+NAME_BN: ক্রিজেভচি পৌরসভা
+NAME_DE: Križevci
+NAME_EN: Križevci Municipality
+NAME_ES: Municipalidad del Križevci
+NAME_FR: Križevci
+NAME_EL: Κριζέβκι
+NAME_HI: क्रिज़ेव्की नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Križevci
+NAME_IT: Križevci
+NAME_JA: クリジェフツィ
+NAME_KO: 크리제브치
+NAME_NL: Križevci
+NAME_PL: Gmina Križevci
+NAME_PT: Križevci
+NAME_RU: Крижевци
+NAME_SV: Krizevci kommun
+NAME_TR: Krizevci Belediyesi
+NAME_VI: Đô thị tự trị Krizevci
+NAME_ZH: null
+NE_ID: 1159308691

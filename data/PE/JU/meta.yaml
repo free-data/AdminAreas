@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-590
+DISS_ME: 590
+ISO_3166_2: PE-JUN
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Junín
+NAME_ALT: Junnn
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.JU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: JU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE12
+FIPS_ALT: null
+WOE_ID: 2346479
+WOE_LABEL: JunÃ­n, PE, Peru
+WOE_NAME: Junín
+LATITUDE: -11.3744
+LONGITUDE: -74.9642
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3937485
+GN_NAME: Region de Junin
+GNS_ID: -350935
+GNS_NAME: Junin, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE12
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q207973
+NAME_AR: إقليم جونين
+NAME_BN: জুনিন অঞ্চল
+NAME_DE: Junín
+NAME_EN: Junín Region
+NAME_ES: Departamento de Junín
+NAME_FR: Région de Junín
+NAME_EL: Τζουνίν
+NAME_HI: जूनिन क्षेत्र
+NAME_HU: Junín megye
+NAME_ID: Region Junín
+NAME_IT: regione di Junín
+NAME_JA: フニン県
+NAME_KO: 후닌 주
+NAME_NL: Junín
+NAME_PL: Region Junín
+NAME_PT: Junín
+NAME_RU: Хунин
+NAME_SV: Junín
+NAME_TR: Junin Region
+NAME_VI: Khu vực Junín
+NAME_ZH: 胡宁大区
+NE_ID: 1159307969

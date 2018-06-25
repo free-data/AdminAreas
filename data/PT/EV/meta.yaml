@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-744
+DISS_ME: 744
+ISO_3166_2: PT-07
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Évora
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.EV
+NOTE: null
+HASC_MAYBE: null
+REGION: Alentejo
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: EV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO08
+FIPS_ALT: null
+WOE_ID: 2346568
+WOE_LABEL: Evora, PT, Portugal
+WOE_NAME: Évora
+LATITUDE: 38.6036
+LONGITUDE: -7.88463
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2268404
+GN_NAME: Distrito de Evora
+GNS_ID: -2164924
+GNS_NAME: Evora, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO08
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q274118
+NAME_AR: محافظة إيفورا
+NAME_BN: এভোরা জেলা
+NAME_DE: Distrikt Évora
+NAME_EN: Évora District
+NAME_ES: Distrito de Évora
+NAME_FR: District d'Évora
+NAME_EL: Έβορα
+NAME_HI: एवोरा जिला
+NAME_HU: Évora
+NAME_ID: Distrik Évora
+NAME_IT: distretto di Évora
+NAME_JA: エヴォラ県
+NAME_KO: 에보라 현
+NAME_NL: Évora
+NAME_PL: Dystrykt Évora
+NAME_PT: Distrito de Évora
+NAME_RU: Эвора
+NAME_SV: Évora
+NAME_TR: évora District
+NAME_VI: Évora
+NAME_ZH: 埃武拉區
+NE_ID: 1159310569

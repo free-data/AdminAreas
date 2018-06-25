@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-858
+DISS_ME: 858
+ISO_3166_2: JO-MD
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Madaba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO23
+FIPS_ALT: JO02
+WOE_ID: 20070288
+WOE_LABEL: Madaba, JO, Jordan
+WOE_NAME: Madaba
+LATITUDE: 31.5852
+LONGITUDE: 35.6722
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 443123
+GN_NAME: Muhafazat Madaba
+GNS_ID: 9022614
+GNS_NAME: Madaba
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO23
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q750447
+NAME_AR: مادبا
+NAME_BN: মাদাবা গভর্নোরেট
+NAME_DE: Gouvernement Madaba
+NAME_EN: Madaba Governorate
+NAME_ES: Gobernación de Madaba
+NAME_FR: subdivision de Madaba
+NAME_EL: Μαντάμπα Γκοβερνοράτε
+NAME_HI: मदाबा गवर्नरेट
+NAME_HU: Mádaba kormányzóság
+NAME_ID: Madaba Governorate
+NAME_IT: governatorato di Madaba
+NAME_JA: マダバ県
+NAME_KO: 마다바 주
+NAME_NL: Madaba
+NAME_PL: Madaba
+NAME_PT: Madaba
+NAME_RU: Мадаба
+NAME_SV: Madaba
+NAME_TR: Madaba Yönetimi
+NAME_VI: Tỉnh Madaba
+NAME_ZH: 馬代巴省
+NE_ID: 1159309333

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 4
+SOVEREIGNT: Tajikistan
+SOV_A3: TJK
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Tajikistan
+ADM0_A3: TJK
+GEOU_DIF: 0
+GEOUNIT: Tajikistan
+GU_A3: TJK
+SU_DIF: 0
+SUBUNIT: Tajikistan
+SU_A3: TJK
+BRK_DIFF: 0
+NAME: Tajikistan
+NAME_LONG: Tajikistan
+BRK_A3: TJK
+BRK_NAME: Tajikistan
+BRK_GROUP: null
+ABBREV: Tjk.
+POSTAL: TJ
+FORMAL_EN: Republic of Tajikistan
+FORMAL_FR: null
+NAME_CIAWF: Tajikistan
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Tajikistan
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+POP_EST: 8468555
+POP_RANK: 13
+GDP_MD_EST: 25810
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: TI
+ISO_A2: TJ
+ISO_A3: TJK
+ISO_A3_EH: TJK
+ISO_N3: 762
+UN_A3: 762
+WB_A2: TJ
+WB_A3: TJK
+WOE_ID: 23424961
+WOE_ID_EH: 23424961
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: TJK
+ADM0_A3_US: TJK
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Central Asia
+REGION_WB: Europe & Central Asia
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321307
+WIKIDATAID: Q863
+NAME_AR: طاجيكستان
+NAME_BN: তাজিকিস্তান
+NAME_DE: Tadschikistan
+NAME_EN: Tajikistan
+NAME_ES: Tayikistán
+NAME_FR: Tadjikistan
+NAME_EL: Τατζικιστάν
+NAME_HI: ताजिकिस्तान
+NAME_HU: Tádzsikisztán
+NAME_ID: Tajikistan
+NAME_IT: Tagikistan
+NAME_JA: タジキスタン
+NAME_KO: 타지키스탄
+NAME_NL: Tadzjikistan
+NAME_PL: Tadżykistan
+NAME_PT: Tajiquistão
+NAME_RU: Таджикистан
+NAME_SV: Tadzjikistan
+NAME_TR: Tacikistan
+NAME_VI: Tajikistan
+NAME_ZH: 塔吉克斯坦

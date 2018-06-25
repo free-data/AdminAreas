@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2367
+DISS_ME: 2367
+ISO_3166_2: RU-ROS
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Rostov
+NAME_ALT: Province of the Don Cossacks|Provinz des Donischen Heeres|Voyska Donskovo|Rostovskaya Oblast
+NAME_LOCAL: Ростовская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.RO
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20048
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: RO
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS61
+FIPS_ALT: null
+WOE_ID: 2346921
+WOE_LABEL: Rostovskaya Oblast, RU, Russia
+WOE_NAME: Rostov
+LATITUDE: 47.9913
+LONGITUDE: 41.2613
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 501165
+GN_NAME: Rostovskaya Oblast'
+GNS_ID: -2993228
+GNS_NAME: Rostovskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.61
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS61
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3573
+NAME_AR: روستوف أوبلاست
+NAME_BN: রসতোভ ওব্লাস্ট
+NAME_DE: Oblast Rostow
+NAME_EN: Rostov Oblast
+NAME_ES: Rostov
+NAME_FR: Oblast de Rostov
+NAME_EL: Περιφέρεια Ροστόβ
+NAME_HI: रोस्तोव ओब्लास्ट
+NAME_HU: Rosztovi terület
+NAME_ID: Oblast Rostov
+NAME_IT: oblast' di Rostov
+NAME_JA: ロストフ州
+NAME_KO: 로스토프 주
+NAME_NL: Oblast Rostov
+NAME_PL: Obwód rostowski
+NAME_PT: Oblast de Rostov
+NAME_RU: Ростовская область
+NAME_SV: Rostov oblast
+NAME_TR: Rostov Oblastı
+NAME_VI: Rostov
+NAME_ZH: 罗斯托夫州
+NE_ID: 1159313169

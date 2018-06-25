@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1690
+DISS_ME: 1690
+ISO_3166_2: AZ-ABS
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Abşeron
+NAME_ALT: Absheron
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.AR
+NOTE: includes an exclave in Baku
+HASC_MAYBE: null
+REGION: Absheron Economic Region
+REGION_COD: AZ-01
+PROVNUM_NE: 56
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ01
+FIPS_ALT: AJ|
+WOE_ID: 20070283
+WOE_LABEL: Abseron, AZ, Azerbaijan
+WOE_NAME: Abşeron
+LATITUDE: 40.3278
+LONGITUDE: 49.3694
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 587245
+GN_NAME: Absheron Rayon
+GNS_ID: -2704896
+GNS_NAME: Abseron Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ01
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q179538
+NAME_AR: مقاطعة آبشوران
+NAME_BN: আবশেরন জেলা
+NAME_DE: Abşeron
+NAME_EN: Absheron District
+NAME_ES: Abşeron
+NAME_FR: Abşeron
+NAME_EL: Αμπσερόν
+NAME_HI: एबशेरन जिला
+NAME_HU: Abşeroni járás
+NAME_ID: Abşeron
+NAME_IT: distretto di Abşeron
+NAME_JA: アブシェロン県
+NAME_KO: 압셰론 구
+NAME_NL: Abşeron
+NAME_PL: Rejon Abşeron
+NAME_PT: Absheron
+NAME_RU: Апшеронский район
+NAME_SV: Apsjeron
+NAME_TR: Abşeron Rayonu
+NAME_VI: Absheron
+NAME_ZH: 阿布歇隆區
+NE_ID: 1159312243

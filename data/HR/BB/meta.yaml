@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1607
+DISS_ME: 1607
+ISO_3166_2: HR-07
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Bjelovarsko-bilogorska
+NAME_ALT: Bjelovar-Bilogora
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: BB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 22
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR01
+FIPS_ALT: null
+WOE_ID: 12577991
+WOE_LABEL: Bjelovarsko-Bilogorska, HR, Croatia
+WOE_NAME: Bjelovarska-Bilogorska
+LATITUDE: 45.7207
+LONGITUDE: 16.9948
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337511
+GN_NAME: Bjelovarsko-Bilogorska Zupanija
+GNS_ID: 9030963
+GNS_NAME: Bjelovarsko-Bilogorska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR01
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58060
+NAME_AR: مقاطعة بيلوفار-بيلوغورا
+NAME_BN: বিলোভার-বিলোগোরা কাউন্টি
+NAME_DE: Gespanschaft Bjelovar-Bilogora
+NAME_EN: Bjelovar-Bilogora County
+NAME_ES: Bjelovar-Bilogora
+NAME_FR: Comitat de Bjelovar-Bilogora
+NAME_EL: κομητεία Μπιέλοβαρ-Μπιλόγκονα
+NAME_HI: बिएलोवर-बिलोगोरा काउंटी
+NAME_HU: Belovár-Bilogora megye
+NAME_ID: Kabupaten Bjelovar-Bilogora
+NAME_IT: regione di Bjelovar e della Bilogora
+NAME_JA: ビェロヴァル＝ビロゴラ郡
+NAME_KO: 벨로바르빌로고라 주
+NAME_NL: Bjelovar-Bilogora
+NAME_PL: Bjelovarsko-bilogorska županija
+NAME_PT: Condado de Bjelovar-Bilogora
+NAME_RU: Беловарско-Билогорская жупания
+NAME_SV: Bjelovar-Bilogoras län
+NAME_TR: Bjelovar-Bilogora
+NAME_VI: Bjelovar-Bilogora Hạt
+NAME_ZH: 別洛瓦爾-比洛戈拉縣
+NE_ID: 1159312549

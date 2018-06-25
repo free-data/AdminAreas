@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-919
+DISS_ME: 919
+ISO_3166_2: NO-04
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 1
+NAME: Hedmark
+NAME_ALT: Hedmark fylke|Hedemarken|Heiðmörk
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.HE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: HE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO06
+FIPS_ALT: null
+WOE_ID: 2346389
+WOE_LABEL: Hedmark Fylke, NO, Norway
+WOE_NAME: Hedmark
+LATITUDE: 61.5285
+LONGITUDE: 11.2721
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3153403
+GN_NAME: Hedmark fylke
+GNS_ID: -262312
+GNS_NAME: Hedmark
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO06
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50616
+NAME_AR: هيدمارك
+NAME_BN: হেডমার্ক
+NAME_DE: Hedmark
+NAME_EN: Hedmark
+NAME_ES: Hedmark
+NAME_FR: comté de Hedmark
+NAME_EL: Χέντμαρκ
+NAME_HI: हेडमार्क
+NAME_HU: Hedmark megye
+NAME_ID: Hedmark
+NAME_IT: Hedmark
+NAME_JA: ヘードマルク県
+NAME_KO: 헤드마르크 주
+NAME_NL: Hedmark
+NAME_PL: Hedmark
+NAME_PT: Hedmark
+NAME_RU: Хедмарк
+NAME_SV: Hedmark fylke
+NAME_TR: Hedmark
+NAME_VI: Hedmark
+NAME_ZH: 海德马克郡
+NE_ID: 1159309675

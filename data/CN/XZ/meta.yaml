@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CHN-1662
+DISS_ME: 1662
+ISO_3166_2: CN-54
+WIKIPEDIA: null
+ISO_A2: CN
+ADM0_SR: 1
+NAME: Xizang
+NAME_ALT: Tibet|Xīzàng
+NAME_LOCAL: 西藏自治區|西藏自治区
+TYPE: Zìzhìqu
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: CN.XZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Southwest China
+REGION_COD: 5
+PROVNUM_NE: 48
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: XZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: CH14
+FIPS_ALT: null
+WOE_ID: 12578004
+WOE_LABEL: Tibet, CN, China
+WOE_NAME: Xizang
+LATITUDE: 31.4515
+LONGITUDE: 88.4137
+SOV_A3: CH1
+ADM0_A3: CHN
+ADM0_LABEL: 2
+ADMIN: China
+GEONUNIT: China
+GU_A3: CHN
+GN_ID: 1279685
+GN_NAME: Tibet Autonomous Region
+GNS_ID: -1934604
+GNS_NAME: Xizang Zizhiqu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CN.14
+REGION_SUB: Western
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CH14
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q17269
+NAME_AR: منطقة التبت ذاتية الحكم
+NAME_BN: তিব্বত স্বায়ত্তশাসিত অঞ্চল
+NAME_DE: Tibet
+NAME_EN: Tibet
+NAME_ES: Tíbet
+NAME_FR: Tibet
+NAME_EL: Θιβέτ
+NAME_HI: बोड स्वायत्त क्षेत्र
+NAME_HU: Tibeti Autonóm Terület
+NAME_ID: Tibet
+NAME_IT: regione autonoma del Tibet
+NAME_JA: チベット自治区
+NAME_KO: 티베트 자치구
+NAME_NL: Tibetaanse Autonome Regio
+NAME_PL: Tybetański Region Autonomiczny
+NAME_PT: Região Autônoma do Tibete
+NAME_RU: Тибетский автономный район
+NAME_SV: Autonoma regionen Tibet
+NAME_TR: Tibet Özerk Bölgesi
+NAME_VI: Khu tự trị Tây Tạng
+NAME_ZH: 西藏自治区
+NE_ID: 1159312655

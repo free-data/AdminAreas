@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2028
+DISS_ME: 2028
+ISO_3166_2: GB-DAL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Darlington
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Darl'ton
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKD1
+FIPS_ALT: UKD1
+WOE_ID: 12696152
+WOE_LABEL: null
+WOE_NAME: Darlington Borough
+LATITUDE: 54.5202
+LONGITUDE: -1.53938
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333141
+GN_NAME: Borough of Darlington
+GNS_ID: 6077583
+GNS_NAME: Darlington, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.D1
+REGION_SUB: Durham
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1171024
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Borough of Darlington
+NAME_EN: Darlington
+NAME_ES: null
+NAME_FR: Darlington
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Darlington
+NAME_JA: ダーリントン
+NAME_KO: 달링턴 구
+NAME_NL: Darlington
+NAME_PL: Darlington
+NAME_PT: Darlington
+NAME_RU: Дарлингтон
+NAME_SV: Darlington
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 達靈頓區
+NE_ID: 1159312845

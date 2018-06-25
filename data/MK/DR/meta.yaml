@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2953
+DISS_ME: 2953
+ISO_3166_2: MK-28
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Drugovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.DR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20068
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK30
+FIPS_ALT: null
+WOE_ID: 24550764
+WOE_LABEL: null
+WOE_NAME: Drugovo Municipality
+LATITUDE: 41.4293
+LONGITUDE: 20.9119
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863851
+GN_NAME: Opstina Drugovo
+GNS_ID: 9075616
+GNS_NAME: Drugovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK30
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1996439
+NAME_AR: بلدية دروغوفو
+NAME_BN: দ্রুগোভো পৌরসভা
+NAME_DE: Opština Drugovo
+NAME_EN: Drugovo Municipality
+NAME_ES: Municipalidad de Drugovo
+NAME_FR: Drougovo
+NAME_EL: Δήμος Ντρουγκόβου
+NAME_HI: ड्रुगोवो नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Drugovo
+NAME_IT: Drugovo
+NAME_JA: ドルゴヴォ
+NAME_KO: 드루고보 시
+NAME_NL: Drugovo
+NAME_PL: Gmina Drugovo
+NAME_PT: Município de Drugovo
+NAME_RU: Другово
+NAME_SV: Drugovo
+NAME_TR: Drugvo Belediyesi
+NAME_VI: Đô thị tự trị Drugovo
+NAME_ZH: 德魯戈沃區
+NE_ID: 1159314523

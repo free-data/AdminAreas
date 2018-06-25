@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-910
+DISS_ME: 910
+ISO_3166_2: NO-15
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 5
+NAME: Møre og Romsdal
+NAME_ALT: Moere og Romsdal fylk|Møre|Romsdal
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: MR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO08
+FIPS_ALT: null
+WOE_ID: 2346391
+WOE_LABEL: More og Romsdal, NO, Norway
+WOE_NAME: Møre og Romsdal
+LATITUDE: 62.5471
+LONGITUDE: 8.35107
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3145495
+GN_NAME: More og Romsdal fylke
+GNS_ID: -271233
+GNS_NAME: More og Romsdal
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50627
+NAME_AR: موره ورومسدال
+NAME_BN: null
+NAME_DE: Møre og Romsdal
+NAME_EN: Møre og Romsdal
+NAME_ES: Møre og Romsdal
+NAME_FR: Comté de Møre og Romsdal
+NAME_EL: null
+NAME_HI: मोर ओग रोंस्डल
+NAME_HU: Møre og Romsdal megye
+NAME_ID: Møre og Romsdal
+NAME_IT: Møre og Romsdal
+NAME_JA: ムーレ・オ・ロムスダール県
+NAME_KO: 뫼레오그롬스달 주
+NAME_NL: Møre og Romsdal
+NAME_PL: Møre og Romsdal
+NAME_PT: Møre og Romsdal
+NAME_RU: Мёре-ог-Ромсдал
+NAME_SV: Møre og Romsdal fylke
+NAME_TR: Møre og Romsdal
+NAME_VI: Møre og Romsdal
+NAME_ZH: 默勒-鲁姆斯达尔郡
+NE_ID: 1159311109

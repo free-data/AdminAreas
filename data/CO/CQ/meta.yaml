@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1403
+DISS_ME: 1403
+ISO_3166_2: CO-CAQ
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Caquetá
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Intendencia
+TYPE_EN: Intendancy
+CODE_LOCAL: null
+CODE_HASC: CO.CQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 31
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: CQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO08
+FIPS_ALT: null
+WOE_ID: 2345054
+WOE_LABEL: Caqueta, CO, Colombia
+WOE_NAME: Caquetá
+LATITUDE: 0.615494
+LONGITUDE: -73.8097
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3687479
+GN_NAME: Departamento del Caqueta
+GNS_ID: -579696
+GNS_NAME: Caqueta, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q13985
+NAME_AR: إدارة كاكيتا
+NAME_BN: কাকুয়েটা বিভাগ
+NAME_DE: Departamento de Caquetá
+NAME_EN: Caquetá Department
+NAME_ES: Caquetá
+NAME_FR: Caquetá
+NAME_EL: Κακουετά
+NAME_HI: कैकेटा विभाग
+NAME_HU: Caquetá megye
+NAME_ID: Departemen Caquetá
+NAME_IT: dipartimento di Caquetá
+NAME_JA: カケタ県
+NAME_KO: 카케타 주
+NAME_NL: Caquetá
+NAME_PL: Caquetá
+NAME_PT: Caquetá
+NAME_RU: Какета
+NAME_SV: Caquetá
+NAME_TR: Caquetá
+NAME_VI: Caquetá
+NAME_ZH: 卡克塔省
+NE_ID: 1159310141

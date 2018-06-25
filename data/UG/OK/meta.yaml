@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3081
+DISS_ME: 3081
+ISO_3166_2: UG-316
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Koboko
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.OK
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: UGA-NIL
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGD4
+FIPS_ALT: null
+WOE_ID: 56190212
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 3.51005
+LONGITUDE: 30.9725
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056289
+GN_NAME: Koboko District
+GNS_ID: 10540251
+GNS_NAME: Koboko District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.D4
+REGION_SUB: null
+SUB_CODE: UG21
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1318857
+NAME_AR: إقليم كوبوكو
+NAME_BN: কুবুকা জেলা
+NAME_DE: Distrikt Koboko
+NAME_EN: Koboko District
+NAME_ES: Distrito de Koboko
+NAME_FR: Koboko
+NAME_EL: Κομπόκο
+NAME_HI: कोबोको जिला
+NAME_HU: null
+NAME_ID: Distrik Koboko
+NAME_IT: Koboko
+NAME_JA: コボコ県
+NAME_KO: 코보코 구
+NAME_NL: Koboko
+NAME_PL: Dystrykt Koboko
+NAME_PT: Distrito de Koboko
+NAME_RU: Кобоко
+NAME_SV: Koboko distriktet
+NAME_TR: Koboko District
+NAME_VI: Quận Koboko
+NAME_ZH: 科博科區
+NE_ID: 1159313663

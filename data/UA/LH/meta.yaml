@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-329
+DISS_ME: 329
+ISO_3166_2: UA-09
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Luhans'k
+NAME_ALT: Luhansk|Lugansk|Luhans'ka Oblast'|Voroshilovgrad
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.LH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LH
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP14
+FIPS_ALT: UP14
+WOE_ID: 2347546
+WOE_LABEL: Luhansk Oblast, UA, Ukraine
+WOE_NAME: Luhans'k
+LATITUDE: 48.9084
+LONGITUDE: 39.0033
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 702657
+GN_NAME: Luhans'ka Oblast'
+GNS_ID: -1045161
+GNS_NAME: Luhans'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP14
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q171965
+NAME_AR: لوهانسك أوبلاست
+NAME_BN: লুহানস্ক ওব্লাস্ট
+NAME_DE: Oblast Luhansk
+NAME_EN: Luhansk Oblast
+NAME_ES: Óblast de Lugansk
+NAME_FR: Oblast de Louhansk
+NAME_EL: Λουχάνσκ Ομπλάστ
+NAME_HI: लुहान्स्क ओब्लास्ट
+NAME_HU: Luhanszki terület
+NAME_ID: Oblast Luhansk
+NAME_IT: Oblast' di Luhans'k
+NAME_JA: ルハーンシク州
+NAME_KO: 루한스크 주
+NAME_NL: Oblast Loehansk
+NAME_PL: Obwód ługański
+NAME_PT: Oblast de Lugansk
+NAME_RU: Луганская область
+NAME_SV: Luhansk oblast
+NAME_TR: Luhansk Oblastı
+NAME_VI: Luhansk
+NAME_ZH: 盧甘斯克州
+NE_ID: 1159309633

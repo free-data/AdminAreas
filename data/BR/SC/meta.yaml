@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-614
+DISS_ME: 614
+ISO_3166_2: BR-SC
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Santa Catarina
+NAME_ALT: Santa Catharina
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: BR.SC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: S.C.
+POSTAL: SC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 14
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR26
+FIPS_ALT: null
+WOE_ID: 2344867
+WOE_LABEL: Santa Catarina, BR, Brazil
+WOE_NAME: Santa Catarina
+LATITUDE: -27.0392
+LONGITUDE: -51.1586
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3450387
+GN_NAME: Estado de Santa Catarina
+GNS_ID: -668106
+GNS_NAME: Santa Catarina, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BR26
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q41115
+NAME_AR: سانتا كاتارينا
+NAME_BN: স্যান্টা ক্যাটারিনা
+NAME_DE: Santa Catarina
+NAME_EN: Santa Catarina
+NAME_ES: Santa Catarina
+NAME_FR: Santa Catarina
+NAME_EL: Σάντα Καταρίνα
+NAME_HI: सांता कातारीना
+NAME_HU: Santa Catarina
+NAME_ID: Santa Catarina
+NAME_IT: Santa Catarina
+NAME_JA: サンタカタリーナ州
+NAME_KO: 산타카타리나 주
+NAME_NL: Santa Catarina
+NAME_PL: Santa Catarina
+NAME_PT: Santa Catarina
+NAME_RU: Санта-Катарина
+NAME_SV: Santa Catarina
+NAME_TR: Santa Catarina
+NAME_VI: Santa Catarina
+NAME_ZH: 圣卡塔琳娜州
+NE_ID: 1159307915

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-616
+DISS_ME: 616
+ISO_3166_2: PY-10
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Alto Paraná
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.AA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: AA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA01
+FIPS_ALT: null
+WOE_ID: 2346448
+WOE_LABEL: Alto ParanÃ¡, PY, Paraguay
+WOE_NAME: Alto Paraná
+LATITUDE: -25.3757
+LONGITUDE: -54.9426
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3439440
+GN_NAME: Departamento del Alto Parana
+GNS_ID: -909961
+GNS_NAME: Alto Parana, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA01
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q682654
+NAME_AR: ألتو بارانا
+NAME_BN: আলটো পারানা
+NAME_DE: Departamento Alto Paraná
+NAME_EN: Alto Paraná Department
+NAME_ES: Alto Paraná
+NAME_FR: Alto Paraná
+NAME_EL: Άνω Παρανά
+NAME_HI: अल्टो पराना
+NAME_HU: Alto Paraná megye
+NAME_ID: Departemen Alto Paraná
+NAME_IT: Alto Paraná
+NAME_JA: アルト・パラナ県
+NAME_KO: 알토파라나 주
+NAME_NL: Alto Paraná
+NAME_PL: Górna Parana
+NAME_PT: Alto Paraná
+NAME_RU: Альто-Парана
+NAME_SV: Alto Paraná
+NAME_TR: Alto Parana
+NAME_VI: Alto Paraná
+NAME_ZH: 上巴拉那省
+NE_ID: 1159307801

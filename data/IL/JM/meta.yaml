@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ISR-3058
+DISS_ME: 3058
+ISO_3166_2: IL-JM
+WIKIPEDIA: null
+ISO_A2: IL
+ADM0_SR: 1
+NAME: Jerusalem
+NAME_ALT: Al-Quds|Yerushalayim
+NAME_LOCAL: null
+TYPE: Mehoz
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: IL.JM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JM
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: IS06
+FIPS_ALT: null
+WOE_ID: 2345796
+WOE_LABEL: Yerushalayim, IL, Israel
+WOE_NAME: Jerusalem
+LATITUDE: 31.7397
+LONGITUDE: 35.0176
+SOV_A3: ISR
+ADM0_A3: ISR
+ADM0_LABEL: 2
+ADMIN: Israel
+GEONUNIT: Israel
+GU_A3: ISR
+GN_ID: 293198
+GN_NAME: Jerusalem District
+GNS_ID: -781745
+GNS_NAME: Yerushalayim, Mehoz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IL.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: heb
+GNS_ADM1: IS06
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q192232
+NAME_AR: منطقة القدس
+NAME_BN: null
+NAME_DE: Bezirk Jerusalem
+NAME_EN: Jerusalem District
+NAME_ES: Distrito de Jerusalén
+NAME_FR: district de Jérusalem
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Jeruzsálemi körzet
+NAME_ID: Distrik Yerusalem
+NAME_IT: distretto di Gerusalemme
+NAME_JA: エルサレム地区
+NAME_KO: 예루살렘 구
+NAME_NL: Jeruzalem
+NAME_PL: Dystrykt Jerozolimy
+NAME_PT: Jerusalém
+NAME_RU: Иерусалимский округ
+NAME_SV: Jerusalem
+NAME_TR: Kudüs Bölgesi
+NAME_VI: Quận Jerusalem
+NAME_ZH: 耶路撒冷区
+NE_ID: 1159314195

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5622
+DISS_ME: 5622
+ISO_3166_2: UG-422
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Mitooma
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.MM
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-STH
+PROVNUM_NE: 20026
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGG6
+FIPS_ALT: null
+WOE_ID: -20070414
+WOE_LABEL: Bushenyi, UG, Uganda
+WOE_NAME: Bushenyi
+LATITUDE: -0.636828
+LONGITUDE: 30.0476
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 8030586
+GN_NAME: Mitoma District
+GNS_ID: 11074829
+GNS_NAME: Mitoma District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.G6
+REGION_SUB: null
+SUB_CODE: UG24
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3539414
+NAME_AR: إقليم ميتووما
+NAME_BN: মিতোমা জেলা
+NAME_DE: Distrikt Mitooma
+NAME_EN: Mitooma District
+NAME_ES: Distrito de Mitooma
+NAME_FR: Mitooma
+NAME_EL: Μιτοόμα
+NAME_HI: मिटूमा जिला
+NAME_HU: null
+NAME_ID: Distrik Mitooma
+NAME_IT: Mitooma
+NAME_JA: ミトマ県
+NAME_KO: 미토마 구
+NAME_NL: Mitooma
+NAME_PL: Dystrykt Mitooma
+NAME_PT: Mitooma
+NAME_RU: Митоома
+NAME_SV: Mitoomadistriktet
+NAME_TR: Mitooma District
+NAME_VI: Quận Mitooma
+NAME_ZH: 米托馬區
+NE_ID: 1159317365

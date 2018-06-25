@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1629
+DISS_ME: 1629
+ISO_3166_2: MD-AN
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Anenii Noi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD59
+FIPS_ALT: null
+WOE_ID: 55948205
+WOE_LABEL: Anenii Noi, MD, Moldova
+WOE_NAME: Anenii Noi
+LATITUDE: 46.8817
+LONGITUDE: 29.1922
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617715
+GN_NAME: Raionul Anenii Noi
+GNS_ID: -2276968
+GNS_NAME: Anenii Noi, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.59
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD59
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q769224
+NAME_AR: مقاطعة أنيني نوي
+NAME_BN: আনেনি নোই জেলা
+NAME_DE: Rajon Anenii Noi
+NAME_EN: Anenii Noi District
+NAME_ES: Distrito de Anenii Noi
+NAME_FR: Raion d'Anenii Noi
+NAME_EL: Ανένιι Νόι
+NAME_HI: अननीई नोई जिला
+NAME_HU: Anenii Noi járás
+NAME_ID: Raionul Anenii Noi
+NAME_IT: distretto di Anenii Noi
+NAME_JA: アネニイ・ノイ県
+NAME_KO: 아네니노이 구
+NAME_NL: Anenii Noi
+NAME_PL: Rejon Anenii Noi
+NAME_PT: Anenii Noi
+NAME_RU: Новоаненский район
+NAME_SV: Anenii Noi
+NAME_TR: Anenii Noi District
+NAME_VI: Quận Anenii Noi
+NAME_ZH: 新阿內尼區
+NE_ID: 1159312591

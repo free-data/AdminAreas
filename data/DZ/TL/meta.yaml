@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2147
+DISS_ME: 2147
+ISO_3166_2: DZ-13
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Tlemcen
+NAME_ALT: Tilimsene|Tlemsane|Tilimsen|Tremecém
+NAME_LOCAL: تلمسان
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.TL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: TL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG15
+FIPS_ALT: null
+WOE_ID: 2344589
+WOE_LABEL: Tlemcen, DZ, Algeria
+WOE_NAME: Tlemcen
+LATITUDE: 34.7431
+LONGITUDE: -1.49045
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2475683
+GN_NAME: Wilaya de Tlemcen
+GNS_ID: -490294
+GNS_NAME: Tlemcen
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG15
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q233632
+NAME_AR: ولاية تلمسان
+NAME_BN: তলেমচেন প্রদেশ
+NAME_DE: Tlemcen
+NAME_EN: Tlemcen Province
+NAME_ES: Provincia de Tlemecén
+NAME_FR: wilaya de Tlemcen
+NAME_EL: Τλεμσέν
+NAME_HI: त्लेम्सेन प्रांत
+NAME_HU: Tilimszán tartomány
+NAME_ID: Provinsi Tilimsan
+NAME_IT: provincia di Tlemcen
+NAME_JA: トレムセン県
+NAME_KO: 틀렘센 주
+NAME_NL: Tlemcen
+NAME_PL: Prowincja Tilimsan
+NAME_PT: Tlemcen
+NAME_RU: Тлемсен
+NAME_SV: Tlemcen
+NAME_TR: Tlemsan Vilayeti
+NAME_VI: Tlemcen
+NAME_ZH: 特莱姆森省
+NE_ID: 1159312007

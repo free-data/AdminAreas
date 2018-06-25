@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2126
+DISS_ME: 2126
+ISO_3166_2: GB-FLN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Flintshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority (wales)
+TYPE_EN: Unitary Authority (wales)
+CODE_LOCAL: null
+CODE_HASC: GB.FL
+NOTE: null
+HASC_MAYBE: null
+REGION: West Wales and the Valleys
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: FL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKY1
+FIPS_ALT: UKY1
+WOE_ID: 12602220
+WOE_LABEL: null
+WOE_NAME: Flintshire County
+LATITUDE: 53.1815
+LONGITUDE: -3.14709
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Wales
+GU_A3: WLS
+GN_ID: 2649298
+GN_NAME: County of Flintshire
+GNS_ID: -2596318
+GNS_NAME: Flintshire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Y1
+REGION_SUB: North Wales
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q505610
+NAME_AR: null
+NAME_BN: স্যার ওয়াই ফ্লিন্ট
+NAME_DE: Flintshire
+NAME_EN: Flintshire
+NAME_ES: Flintshire
+NAME_FR: Flintshire
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Flintshire
+NAME_ID: Flintshire
+NAME_IT: Flintshire
+NAME_JA: フリントシャー
+NAME_KO: 플린트셔
+NAME_NL: Flintshire
+NAME_PL: Flintshire
+NAME_PT: Flintshire
+NAME_RU: Флинтшир
+NAME_SV: Flintshire
+NAME_TR: null
+NAME_VI: Flintshire
+NAME_ZH: 弗林特郡
+NE_ID: 1159312721

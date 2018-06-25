@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5025
+DISS_ME: 5025
+ISO_3166_2: BS-SW
+WIKIPEDIA: http://en.wikipedia.org/wiki/Spanish_Wells
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Spanish Wells
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.SW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: SW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF53
+FIPS_ALT: null
+WOE_ID: 24551256
+WOE_LABEL: null
+WOE_NAME: Spanish Wells
+LATITUDE: 25.5237
+LONGITUDE: -76.8334
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030558
+GN_NAME: Spanish Wells District
+GNS_ID: 11057071
+GNS_NAME: Spanish Wells District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF53
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1771681
+NAME_AR: سبانش، ويلز
+NAME_BN: স্প্যানিশ ওয়েলস
+NAME_DE: Spanish Wells
+NAME_EN: Spanish Wells
+NAME_ES: Spanish Wells
+NAME_FR: Spanish Wells
+NAME_EL: Σπάνις Γουέλς
+NAME_HI: स्पेनिश वेल्स
+NAME_HU: null
+NAME_ID: Spanish Wells
+NAME_IT: Spanish Wells
+NAME_JA: スパニッシュ・ウェルズ
+NAME_KO: 스패니시웰스
+NAME_NL: Spanish Wells
+NAME_PL: Spanish Wells
+NAME_PT: Spanish Wells
+NAME_RU: Спэниш-Уэллс
+NAME_SV: Spanish Wells District
+NAME_TR: Spanish Wells
+NAME_VI: Spanish Wells
+NAME_ZH: null
+NE_ID: 1159316267

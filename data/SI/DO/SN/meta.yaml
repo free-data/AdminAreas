@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-987
+DISS_ME: 987
+ISO_3166_2: SI-119
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Šentjernej
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.DO.SN
+NOTE: null
+HASC_MAYBE: null
+REGION: Jugovzhodna Slovenija
+REGION_COD: null
+PROVNUM_NE: 59
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIB4
+FIPS_ALT: null
+WOE_ID: -55848372
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.8143
+LONGITUDE: 15.3503
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239197
+GN_NAME: Obcina Sentjernej
+GNS_ID: 243881
+GNS_NAME: Sentjernej, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.B4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI20
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1016812
+NAME_AR: شينتيرني
+NAME_BN: সেন্টজারনেজ পৌরসভা
+NAME_DE: Šentjernej
+NAME_EN: Šentjernej Municipality
+NAME_ES: Municipalidad del Šentjernej
+NAME_FR: Šentjernej
+NAME_EL: Κοινότητα Σέντζεμετζ
+NAME_HI: सेंजेर्नेज
+NAME_HU: null
+NAME_ID: Kotamadya Šentjernej
+NAME_IT: Šentjernej
+NAME_JA: シェントイェルニェイ
+NAME_KO: 셴체르네이
+NAME_NL: Šentjernej
+NAME_PL: Gmina Šentjernej
+NAME_PT: Šentjernej
+NAME_RU: Шентджернедж
+NAME_SV: Šentjernej
+NAME_TR: Sentjernej Belediyesi
+NAME_VI: Šentjernej
+NAME_ZH: 申特耶爾內伊
+NE_ID: 1159310775

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4915
+DISS_ME: 4915
+ISO_3166_2: HU-KM
+WIKIPEDIA: http://en.wikipedia.org/wiki/Kecskem%C3%A9t
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Kecskemét
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.KM
+NOTE: null
+HASC_MAYBE: null
+REGION: Great Southern Plain
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU31
+FIPS_ALT: null
+WOE_ID: 56043634
+WOE_LABEL: KecskemÃ©t, HU, Hungary
+WOE_NAME: Kecskemét
+LATITUDE: 46.9282
+LONGITUDE: 19.6684
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -3055744
+GN_NAME: Bacs-Kiskun megye
+GNS_ID: -857487
+GNS_NAME: Kecskemet Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Bács-Kiskun
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU31
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q171357
+NAME_AR: كيكسكيميت
+NAME_BN: কেক্সকেমিট
+NAME_DE: Kecskemét
+NAME_EN: Kecskemét
+NAME_ES: Kecskemét
+NAME_FR: Kecskemét
+NAME_EL: Κετσκέμετ
+NAME_HI: कएक्सकेमेट
+NAME_HU: Kecskemét
+NAME_ID: Kecskemét
+NAME_IT: Kecskemét
+NAME_JA: ケチケメート
+NAME_KO: 케치케메트
+NAME_NL: Kecskemét
+NAME_PL: Kecskemét
+NAME_PT: Kecskemét
+NAME_RU: Кечкемет
+NAME_SV: Kecskemét
+NAME_TR: Kecskemét
+NAME_VI: Kecskemét
+NAME_ZH: 凯奇凯梅特
+NE_ID: 1159316059

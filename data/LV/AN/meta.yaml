@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5734
+DISS_ME: 5734
+ISO_3166_2: LV-004
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Aknistes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: Zemgale
+REGION_COD: LV.JK
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG38
+FIPS_ALT: null
+WOE_ID: -2346026
+WOE_LABEL: Jekabpils Rajons, LV, Latvia
+WOE_NAME: Jekabpils
+LATITUDE: 56.1592
+LONGITUDE: 25.7883
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628338
+GN_NAME: Aknistes Novads
+GNS_ID: 10979245
+GNS_NAME: Aknistes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.38
+REGION_SUB: Zemgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG38
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q865658
+NAME_AR: بلدية أكنيسته
+NAME_BN: আকনিস্তে পৌরসভা
+NAME_DE: Bezirk Aknīste
+NAME_EN: Aknīste Municipality
+NAME_ES: Municipalidad de Aknīste
+NAME_FR: Commune d'Aknīste
+NAME_EL: Ακνίστε
+NAME_HI: एक्निस्ते नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Aknīste
+NAME_IT: Comune di Aknīste
+NAME_JA: アクニーステ
+NAME_KO: 아크니스테 시
+NAME_NL: Aknīstes novads
+NAME_PL: Gmina Aknīste
+NAME_PT: Município de Akniste
+NAME_RU: Акнистский край
+NAME_SV: Aknīstes novads
+NAME_TR: Akniste Belediyesi
+NAME_VI: Đô thị tự trị Akniste
+NAME_ZH: 艾克尼斯泰自治市
+NE_ID: 1159317611

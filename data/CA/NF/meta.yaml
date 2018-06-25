@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CAN-686
+DISS_ME: 686
+ISO_3166_2: CA-NL
+WIKIPEDIA: http://en.wikipedia.org/wiki/Newfoundland_and_Labrador
+ISO_A2: CA
+ADM0_SR: 6
+NAME: Newfoundland and Labrador
+NAME_ALT: Newfoundland|Terre-Neuve|Terre-Neuve-et-Labrador
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CA.NF
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern Canada
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: N.L.
+POSTAL: NL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 25
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: CA05
+FIPS_ALT: null
+WOE_ID: 2344919
+WOE_LABEL: Newfoundland and Labrador, CA, Canada
+WOE_NAME: Newfoundland and Labrador
+LATITUDE: 48.6598
+LONGITUDE: -56.2169
+SOV_A3: CAN
+ADM0_A3: CAN
+ADM0_LABEL: 2
+ADMIN: Canada
+GEONUNIT: Canada
+GU_A3: CAN
+GN_ID: 6354959
+GN_NAME: Newfoundland and Labrador
+GNS_ID: -570103
+GNS_NAME: Newfoundland and Labrador, Province of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CA.05
+REGION_SUB: Atlantic Canada
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CA05
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q2003
+NAME_AR: نيوفاوندلاند واللابرادور
+NAME_BN: নিউফাউন্ডল্যান্ড এবং ল্যাব্রাডর
+NAME_DE: Neufundland und Labrador
+NAME_EN: Newfoundland and Labrador
+NAME_ES: Terranova y Labrador
+NAME_FR: Terre-Neuve-et-Labrador
+NAME_EL: Νέα Γη και Λαμπραντόρ
+NAME_HI: न्यूफाउंडलैंड और लैब्राडोर
+NAME_HU: Új-Fundland és Labrador
+NAME_ID: Newfoundland dan Labrador
+NAME_IT: Terranova e Labrador
+NAME_JA: ニューファンドランド・ラブラドール州
+NAME_KO: 뉴펀들랜드 래브라도 주
+NAME_NL: Newfoundland en Labrador
+NAME_PL: Nowa Fundlandia i Labrador
+NAME_PT: Terra Nova e Labrador
+NAME_RU: Ньюфаундленд и Лабрадор
+NAME_SV: Newfoundland och Labrador
+NAME_TR: Newfoundland ve Labrador
+NAME_VI: Newfoundland và Labrador
+NAME_ZH: 紐芬蘭與拉布拉多
+NE_ID: 1159308713

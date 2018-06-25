@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PAN-1336
+DISS_ME: 1336
+ISO_3166_2: PA-2
+WIKIPEDIA: null
+ISO_A2: PA
+ADM0_SR: 1
+NAME: Coclé
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PA.CC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: PM03
+FIPS_ALT: null
+WOE_ID: 2346553
+WOE_LABEL: CoclÃ©, PA, Panama
+WOE_NAME: Coclé
+LATITUDE: 8.57708
+LONGITUDE: -80.4314
+SOV_A3: PAN
+ADM0_A3: PAN
+ADM0_LABEL: 2
+ADMIN: Panama
+GEONUNIT: Panama
+GU_A3: PAN
+GN_ID: 3712162
+GN_NAME: Provincia de Cocle
+GNS_ID: -159273
+GNS_NAME: Cocle, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PA.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: PM03
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q825799
+NAME_AR: مقاطعة كوكلتي
+NAME_BN: কোক্লে প্রদেশ
+NAME_DE: Provinz Coclé
+NAME_EN: Coclé Province
+NAME_ES: Provincia de Coclé
+NAME_FR: Coclé
+NAME_EL: Κοκλέ
+NAME_HI: कोसे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Coclé
+NAME_IT: provincia di Coclé
+NAME_JA: コクレ県
+NAME_KO: 코클레 주
+NAME_NL: Coclé
+NAME_PL: Coclé
+NAME_PT: Coclé
+NAME_RU: Кокле
+NAME_SV: Coclé
+NAME_TR: Coclé Province
+NAME_VI: Tỉnh Coclé
+NAME_ZH: 科克萊省
+NE_ID: 1159310099

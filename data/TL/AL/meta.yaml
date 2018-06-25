@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-544
+DISS_ME: 544
+ISO_3166_2: TL-AL
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Aileu
+NAME_ALT: Alieau
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.AL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT01
+FIPS_ALT: CG02
+WOE_ID: 24549899
+WOE_LABEL: Aileu, TL, East Timor
+WOE_NAME: Aileu
+LATITUDE: -8.69661
+LONGITUDE: 125.619
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1651815
+GN_NAME: Distrito Aileu
+GNS_ID: -2669954
+GNS_NAME: Aileu, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.AL
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT01
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q405100
+NAME_AR: بلدية ايلو
+NAME_BN: আইলিউ পৌরসভা
+NAME_DE: Gemeinde Aileu
+NAME_EN: Aileu municipality
+NAME_ES: Aileu
+NAME_FR: Aileu
+NAME_EL: Αϊλέου
+NAME_HI: एइलू नगरपालिका
+NAME_HU: null
+NAME_ID: Aileu
+NAME_IT: distretto di Aileu
+NAME_JA: アイレウ県
+NAME_KO: 아일레우 현
+NAME_NL: Aileu
+NAME_PL: Dystrykt Aileu
+NAME_PT: Aileu
+NAME_RU: Айлеу
+NAME_SV: Aileu
+NAME_TR: Aileu Belediyesi
+NAME_VI: Aileu
+NAME_ZH: 阿伊萊烏縣
+NE_ID: 1159307853

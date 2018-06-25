@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2267
+DISS_ME: 2267
+ISO_3166_2: TR-54
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Sakarya
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.SK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU54
+FIPS_ALT: null
+WOE_ID: 2347306
+WOE_LABEL: Sakarya, TR, Turkey
+WOE_NAME: Sakarya
+LATITUDE: 40.6596
+LONGITUDE: 30.4439
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 740352
+GN_NAME: Sakarya
+GNS_ID: -768756
+GNS_NAME: Sakarya Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.54
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU54
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q83069
+NAME_AR: صقاريا
+NAME_BN: সা্কায়া প্রদেশ
+NAME_DE: Sakarya
+NAME_EN: Sakarya Province
+NAME_ES: Provincia de Sakarya
+NAME_FR: Sakarya
+NAME_EL: Επαρχία Σαγγάριου
+NAME_HI: सकरया  प्रोविंस
+NAME_HU: Sakarya
+NAME_ID: Provinsi Sakarya
+NAME_IT: provincia di Sakarya
+NAME_JA: サカリヤ県
+NAME_KO: 사카리아 주
+NAME_NL: Sakarya
+NAME_PL: Sakarya
+NAME_PT: Sakarya
+NAME_RU: Сакарья
+NAME_SV: Sakarya
+NAME_TR: Sakarya
+NAME_VI: Sakarya
+NAME_ZH: 萨卡里亚省
+NE_ID: 1159312367

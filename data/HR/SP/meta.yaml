@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1604
+DISS_ME: 1604
+ISO_3166_2: HR-12
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Brodsko-Posavska
+NAME_ALT: Slavonski Brod-Posavina
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.SP
+NOTE: null
+HASC_MAYBE: HR.PS
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR11
+FIPS_ALT: null
+WOE_ID: 12577981
+WOE_LABEL: PoÅ¾eÅ¡ko-slavonska, HR, Croatia
+WOE_NAME: Brodsko-Posavska
+LATITUDE: 45.3863
+LONGITUDE: 17.6849
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337512
+GN_NAME: Brodsko-Posavska Zupanija
+GNS_ID: 9031081
+GNS_NAME: Pozesko-Slavonska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR11
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58111
+NAME_AR: مقاطعة بوزيغا-سلافونيا
+NAME_BN: পোজেগা-স্লাভনিয়া কাউন্টি
+NAME_DE: Gespanschaft Požega-Slawonien
+NAME_EN: Požega-Slavonia County
+NAME_ES: Požega-Eslavonia
+NAME_FR: Comitat de Požega-Slavonie
+NAME_EL: Ποζέγκα-Σλαβονία
+NAME_HI: पोजेगा-स्लावोनिया काउंटी
+NAME_HU: Pozsega-Szlavónia megye
+NAME_ID: Kabupaten Požega-Slavonia
+NAME_IT: regione di Požega e della Slavonia
+NAME_JA: ポジェガ＝スラヴォニア郡
+NAME_KO: 포제가슬라보니아 주
+NAME_NL: Požega-Slavonië
+NAME_PL: Požeško-slavonska županija
+NAME_PT: Condado de Požega-Eslavônia
+NAME_RU: Пожежско-Славонская жупания
+NAME_SV: Požega-Slavoniens län
+NAME_TR: Požega-Slavonija
+NAME_VI: Hạt Pozega-Slavonia
+NAME_ZH: 波熱加-斯拉沃尼亞縣
+NE_ID: 1159312541

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: FJI-2618
+DISS_ME: 2618
+ISO_3166_2: FJ-E
+WIKIPEDIA: null
+ISO_A2: FJ
+ADM0_SR: 5
+NAME: Eastern
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: FJ.EA
+NOTE: null
+HASC_MAYBE: FJ.EA
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: FJ02
+FIPS_ALT: null
+WOE_ID: 2345336
+WOE_LABEL: Eastern, FJ, Fiji
+WOE_NAME: Eastern
+LATITUDE: -20.6657
+LONGITUDE: -178.72
+SOV_A3: FJI
+ADM0_A3: FJI
+ADM0_LABEL: 5
+ADMIN: Fiji
+GEONUNIT: Fiji
+GU_A3: FJI
+GN_ID: 4036647
+GN_NAME: Eastern Division
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: FJ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q182169
+NAME_AR: القسم الشرقي، فيجي
+NAME_BN: ইস্টার্ন ডিভিশন
+NAME_DE: Eastern Division
+NAME_EN: Eastern Division
+NAME_ES: División Este
+NAME_FR: Division orientale
+NAME_EL: Ίστερν Ντιβίζιον
+NAME_HI: पूर्वी मंडल
+NAME_HU: null
+NAME_ID: Divisi Timur
+NAME_IT: divisione Orientale
+NAME_JA: 東部地域
+NAME_KO: 동부 구
+NAME_NL: Eastern
+NAME_PL: Dystrykt Wschodni
+NAME_PT: Divisão do Leste
+NAME_RU: Восточный округ
+NAME_SV: Östra divisionen
+NAME_TR: Eastern Division
+NAME_VI: Khu vực Đông
+NAME_ZH: 东部大区
+NE_ID: 1159313273

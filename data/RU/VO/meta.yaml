@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2359
+DISS_ME: 2359
+ISO_3166_2: RU-VLG
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Vologda
+NAME_ALT: Vologodskaya Oblast
+NAME_LOCAL: Вологодская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.VO
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwestern
+REGION_COD: null
+PROVNUM_NE: 20077
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: VO
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS85
+FIPS_ALT: null
+WOE_ID: 2346934
+WOE_LABEL: Vologodskaya Oblast, RU, Russia
+WOE_NAME: Vologda
+LATITUDE: 59.6397
+LONGITUDE: 40.9333
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 472454
+GN_NAME: Vologodskaya Oblast'
+GNS_ID: -3034708
+GNS_NAME: Vologodskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.85
+REGION_SUB: Northern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS85
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2015
+NAME_AR: فولوغدا أوبلاست
+NAME_BN: ভোলোগদা ওব্লাস্ট
+NAME_DE: Oblast Wologda
+NAME_EN: Vologda Oblast
+NAME_ES: Óblast de Vólogda
+NAME_FR: oblast de Vologda
+NAME_EL: Περιφέρεια Βόλογκντα
+NAME_HI: वोलोडा ओब्लास्ट
+NAME_HU: Vologdai terület
+NAME_ID: Oblast Vologda
+NAME_IT: oblast' di Vologda
+NAME_JA: ヴォログダ州
+NAME_KO: 볼로그다 주
+NAME_NL: Oblast Vologda
+NAME_PL: Obwód wołogodzki
+NAME_PT: Oblast de Vologda
+NAME_RU: Вологодская область
+NAME_SV: Vologda oblast
+NAME_TR: Vologda Oblastı
+NAME_VI: Vologda
+NAME_ZH: 沃洛格达州
+NE_ID: 1159313131

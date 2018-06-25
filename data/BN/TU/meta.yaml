@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BRN-1184
+DISS_ME: 1184
+ISO_3166_2: BN-TU
+WIKIPEDIA: null
+ISO_A2: BN
+ADM0_SR: 1
+NAME: Tutong
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Daerah-Daerah
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BN.TU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: TU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 12
+FIPS: BX04
+FIPS_ALT: null
+WOE_ID: 20069848
+WOE_LABEL: Tutong, BN, Brunei
+WOE_NAME: Tutong
+LATITUDE: 4.64496
+LONGITUDE: 114.671
+SOV_A3: BRN
+ADM0_A3: BRN
+ADM0_LABEL: 2
+ADMIN: Brunei
+GEONUNIT: Brunei
+GU_A3: BRN
+GN_ID: 1820068
+GN_NAME: Tutong District
+GNS_ID: -1338014
+GNS_NAME: Tutong District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BN.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: BX04
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q40398
+NAME_AR: مقاطعة توتونغ
+NAME_BN: তুতং জেলা
+NAME_DE: Tutong
+NAME_EN: Tutong District
+NAME_ES: Distrito de Tutong
+NAME_FR: Tutong
+NAME_EL: Τουτόνγκ
+NAME_HI: टूटोंग जिला
+NAME_HU: null
+NAME_ID: Distrik Tutong
+NAME_IT: distretto di Tutong
+NAME_JA: ツトン地区
+NAME_KO: 투통 구
+NAME_NL: Tutong
+NAME_PL: Dystrykt Tutong
+NAME_PT: Tutong
+NAME_RU: Тутонг
+NAME_SV: Tutong District
+NAME_TR: Tutong District
+NAME_VI: Quận Tutong
+NAME_ZH: 都东县
+NE_ID: 1159310051

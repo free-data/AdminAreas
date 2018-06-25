@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GRC-2989
+DISS_ME: 2989
+ISO_3166_2: GR-H
+WIKIPEDIA: null
+ISO_A2: GR
+ADM0_SR: 3
+NAME: Stereá Elláda
+NAME_ALT: Greece Central
+NAME_LOCAL: Κεντρική Ελλάδα
+TYPE: Diamerismata
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GR.GC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: GC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: GR33
+FIPS_ALT: null
+WOE_ID: 12577888
+WOE_LABEL: Sterea Ellada, GR, Greece
+WOE_NAME: Stereá Elláda
+LATITUDE: 38.6373
+LONGITUDE: 22.6102
+SOV_A3: GRC
+ADM0_A3: GRC
+ADM0_LABEL: 2
+ADMIN: Greece
+GEONUNIT: Greece
+GU_A3: GRC
+GN_ID: 6697800
+GN_NAME: Central Greece
+GNS_ID: 11316080
+GNS_NAME: Stereas Elladas, Perifereia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GR.ESYE24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: GR63
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q199580
+NAME_AR: وسط اليونان
+NAME_BN: null
+NAME_DE: Mittelgriechenland
+NAME_EN: Central Greece Region
+NAME_ES: Grecia Central
+NAME_FR: Grèce-Centrale
+NAME_EL: Περιφέρεια Στερεάς Ελλάδας
+NAME_HI: मध्य ग्रीस क्षेत्र
+NAME_HU: Közép-Görögország
+NAME_ID: Yunani Tengah
+NAME_IT: Grecia Centrale
+NAME_JA: 中央ギリシャ
+NAME_KO: 중앙그리스 주
+NAME_NL: Centraal-Griekenland
+NAME_PL: Region Grecja Środkowa
+NAME_PT: Grécia Central
+NAME_RU: Центральная Греция
+NAME_SV: Grekiska fastlandet
+NAME_TR: Orta Yunanistan
+NAME_VI: Trung Hy Lạp
+NAME_ZH: 中希臘
+NE_ID: 1159314261

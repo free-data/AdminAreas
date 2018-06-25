@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-328
+DISS_ME: 328
+ISO_3166_2: UA-63
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Kharkiv
+NAME_ALT: Charkow|Jarkov|Karkov|Khar'kov
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP07
+FIPS_ALT: null
+WOE_ID: 2347540
+WOE_LABEL: Kharkiv Oblast, UA, Ukraine
+WOE_NAME: Kharkiv
+LATITUDE: 49.4655
+LONGITUDE: 36.4612
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 706482
+GN_NAME: Kharkivs'ka Oblast'
+GNS_ID: -1041322
+GNS_NAME: Kharkivs'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q170666
+NAME_AR: خاركيف أوبلاست
+NAME_BN: কারকিভ ওব্লাস্ট
+NAME_DE: Oblast Charkiw
+NAME_EN: Kharkiv Oblast
+NAME_ES: Óblast de Járkov
+NAME_FR: Oblast de Kharkiv
+NAME_EL: Καρκίβ Ομπλάστ
+NAME_HI: खार्किव ओब्लास्ट
+NAME_HU: Harkivi terület
+NAME_ID: Oblast Kharkiv
+NAME_IT: Oblast' di Charkiv
+NAME_JA: ハルキウ州
+NAME_KO: 하르키우 주
+NAME_NL: Oblast Charkov
+NAME_PL: Obwód charkowski
+NAME_PT: Oblast de Kharkiv
+NAME_RU: Харьковская область
+NAME_SV: Charkiv oblast
+NAME_TR: Harkiv Oblastı
+NAME_VI: Kharkiv
+NAME_ZH: 哈爾科夫州
+NE_ID: 1159309631

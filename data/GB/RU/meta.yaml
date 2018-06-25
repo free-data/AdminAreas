@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2075
+DISS_ME: 2075
+ISO_3166_2: GB-RIC
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Richmond upon Thames
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.RU
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: R u Tham
+POSTAL: RU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKL1
+WOE_ID: 12695836
+WOE_LABEL: null
+WOE_NAME: London Borough of Richmond upon Thames
+LATITUDE: 51.4072
+LONGITUDE: -0.298542
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077629
+GNS_NAME: Richmond upon Thames, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q32515
+NAME_AR: ريتشموند، لندن
+NAME_BN: null
+NAME_DE: London Borough of Richmond upon Thames
+NAME_EN: London Borough of Richmond upon Thames
+NAME_ES: Richmond upon Thames
+NAME_FR: Richmond upon Thames
+NAME_EL: Ρίτσμοντ
+NAME_HI: रिचमंड अपॉन टेम्स बरो
+NAME_HU: Richmond upon Thames kerület
+NAME_ID: null
+NAME_IT: Borgo londinese di Richmond upon Thames
+NAME_JA: リッチモンド・アポン・テムズ・ロンドン特別区
+NAME_KO: 리치먼드어폰템스 구
+NAME_NL: Richmond upon Thames
+NAME_PL: London Borough of Richmond upon Thames
+NAME_PT: Richmond upon Thames
+NAME_RU: Ричмонд-апон-Темс
+NAME_SV: London Borough of Richmond upon Thames
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 泰晤士河畔列治文區
+NE_ID: 1159312969

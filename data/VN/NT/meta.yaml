@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-481
+DISS_ME: 481
+ISO_3166_2: VN-36
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Ninh Thuận
+NAME_ALT: Ninh Thuan
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.NT
+NOTE: null
+HASC_MAYBE: null
+REGION: Đông Nam Bộ
+REGION_COD: VNM-NTN
+PROVNUM_NE: 28
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM60
+FIPS_ALT: null
+WOE_ID: 2347744
+WOE_LABEL: Ninh Thuan, VN, Vietnam
+WOE_NAME: Ninh Thuận
+LATITUDE: 11.6242
+LONGITUDE: 108.925
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1559971
+GN_NAME: Tinh Ninh Thuan
+GNS_ID: -3736200
+GNS_NAME: Ninh Thuan, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.60
+REGION_SUB: null
+SUB_CODE: VM68
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM60
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36903
+NAME_AR: محافظة ننه توان
+NAME_BN: নিহ্ন থুয়ান
+NAME_DE: Ninh Thuận
+NAME_EN: Ninh Thuận
+NAME_ES: Ninh Thuận
+NAME_FR: Province de Ninh Thuận
+NAME_EL: Νινχ Θουάν
+NAME_HI: निन्ह थुआन
+NAME_HU: null
+NAME_ID: Provinsi Ninh Thuan
+NAME_IT: provincia di Ninh Thuan
+NAME_JA: ニントゥアン省
+NAME_KO: 닌투언 성
+NAME_NL: Ninh Thuận
+NAME_PL: Prowincja Ninh Thuận
+NAME_PT: Ninh Thuan
+NAME_RU: Ниньтхуан
+NAME_SV: Ninh Thuan
+NAME_TR: Ninh Thuận
+NAME_VI: Ninh Thuận
+NAME_ZH: 寧順省
+NE_ID: 1159308293

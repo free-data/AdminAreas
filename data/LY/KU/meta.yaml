@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2965
+DISS_ME: 2965
+ISO_3166_2: LY-KF
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Al Kufrah
+NAME_ALT: al-Kufra
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.KU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY65
+FIPS_ALT: null
+WOE_ID: 2346123
+WOE_LABEL: Al Kufrah, LY, Libya
+WOE_NAME: Al Kufrah
+LATITUDE: 23.7231
+LONGITUDE: 22.0744
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 88932
+GN_NAME: Al Kufrah
+GNS_ID: -3161574
+GNS_NAME: Kufrah, Sha`biyat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.65
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY65
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q48200
+NAME_AR: شعبية الكفرة
+NAME_BN: কুফ্রা জেলা
+NAME_DE: Munizip al-Kufra
+NAME_EN: Kufra District
+NAME_ES: Al Kufrah
+NAME_FR: Al-Koufrah
+NAME_EL: Κούφρα
+NAME_HI: कुफरा जिला
+NAME_HU: Kufra tartomány
+NAME_ID: Al Kufrah
+NAME_IT: distretto di Cufra
+NAME_JA: クフラ県
+NAME_KO: 알쿠프라 주
+NAME_NL: Al Kufrah
+NAME_PL: Al-Kufra
+NAME_PT: Al Kufrah
+NAME_RU: Эль-Куфра
+NAME_SV: Al Kufrah
+NAME_TR: El Kufra ili
+NAME_VI: Quận Kufra
+NAME_ZH: 庫夫拉省
+NE_ID: 1159314113

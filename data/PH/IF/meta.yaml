@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2551
+DISS_ME: 2551
+ISO_3166_2: PH-IFU
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ifugao
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Ifugao
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.IF
+NOTE: null
+HASC_MAYBE: null
+REGION: Cordillera Administrative Region (CAR)
+REGION_COD: PH-15
+PROVNUM_NE: 20086
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: IF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP27
+FIPS_ALT: RP27
+WOE_ID: 2346682
+WOE_LABEL: null
+WOE_NAME: Ifugao
+LATITUDE: 16.8291
+LONGITUDE: 121.214
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1711331
+GN_NAME: Province of Ifugao
+GNS_ID: -2428126
+GNS_NAME: Ifugao, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.27
+REGION_SUB: Ifugao
+SUB_CODE: RP14
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP27
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13812
+NAME_AR: ايفوغايو
+NAME_BN: ইফুগাও
+NAME_DE: Ifugao
+NAME_EN: Ifugao
+NAME_ES: Ifugao
+NAME_FR: Ifugao
+NAME_EL: Ιφουγκάο
+NAME_HI: इफ़ुगाओ प्रान्त
+NAME_HU: null
+NAME_ID: Ifugao
+NAME_IT: Provincia di Ifugao
+NAME_JA: イフガオ州
+NAME_KO: 이푸가오 주
+NAME_NL: Ifugao
+NAME_PL: Ifugao
+NAME_PT: Ifugão
+NAME_RU: Ифугао
+NAME_SV: Ifugao
+NAME_TR: Ifugao
+NAME_VI: Ifugao
+NAME_ZH: 伊富高省
+NE_ID: 1159313483

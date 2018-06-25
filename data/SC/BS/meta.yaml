@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SYC-5204
+DISS_ME: 5204
+ISO_3166_2: SC-07
+WIKIPEDIA: null
+ISO_A2: SC
+ADM0_SR: 4
+NAME: Baie Sainte Anne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SC.BS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 16
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549888
+WOE_LABEL: null
+WOE_NAME: Baie Ste. Anne
+LATITUDE: -4.32918
+LONGITUDE: 55.76
+SOV_A3: SYC
+ADM0_A3: SYC
+ADM0_LABEL: 5
+ADMIN: Seychelles
+GEONUNIT: Seychelles
+GU_A3: SYC
+GN_ID: 241438
+GN_NAME: Baie Sainte Anne
+GNS_ID: -1322406
+GNS_NAME: Baie Sainte Anne
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SC.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: SE07
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q803716
+NAME_AR: باي سينت آن
+NAME_BN: বাইয়ে সেন্টে আন্যে
+NAME_DE: Baie Sainte Anne
+NAME_EN: Baie Sainte Anne
+NAME_ES: Baie Sainte Anne
+NAME_FR: Baie Sainte Anne
+NAME_EL: Μπάε Σάιντε Άννι
+NAME_HI: बाई सैन्ते ऐने
+NAME_HU: null
+NAME_ID: Baie Sainte Anne
+NAME_IT: Baie Sainte Anne
+NAME_JA: バイエ・セント・アンセ
+NAME_KO: 베생트안 구
+NAME_NL: Baie Sainte Anne
+NAME_PL: Baie Sainte Anne
+NAME_PT: Baie Ste. Anne
+NAME_RU: Бе-Сент-Анн
+NAME_SV: Baie Sainte Anne
+NAME_TR: Baie Sainte Anne
+NAME_VI: Baie Sainte Anne
+NAME_ZH: 貝聖安那區
+NE_ID: 1159316617

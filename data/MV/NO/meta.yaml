@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5227
+DISS_ME: 5227
+ISO_3166_2: MV-25
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Noonu
+NAME_ALT: Miladhunmadulu Dhekunuburi
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: D
+CODE_HASC: MV.NO
+NOTE: null
+HASC_MAYBE: null
+REGION: North
+REGION_COD: MV-NO
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: N
+POSTAL: N
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070315
+WOE_LABEL: Noonu, MV, Maldives
+WOE_NAME: Noonu
+LATITUDE: 5.78713
+LONGITUDE: 73.3837
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1281937
+GN_NAME: Noonu Atoll
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.43
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2406322
+NAME_AR: نونو أتول
+NAME_BN: নুনু এটল
+NAME_DE: Noonu
+NAME_EN: Noonu Atoll
+NAME_ES: Atolón Noonu
+NAME_FR: Noonu
+NAME_EL: Νοόνου Ατόλ
+NAME_HI: नूनू एटोल
+NAME_HU: Déli-Miladummadulu-atoll
+NAME_ID: Atol Noonu
+NAME_IT: Atollo Noonu
+NAME_JA: ヌーヌ環礁
+NAME_KO: 누누 환초
+NAME_NL: Noonu-atol
+NAME_PL: Noonu
+NAME_PT: Noonu Atoll
+NAME_RU: Ноону
+NAME_SV: Noonu Atoll
+NAME_TR: Noonu Atoll
+NAME_VI: Noonu Atoll
+NAME_ZH: 諾努環礁
+NE_ID: 1159316665

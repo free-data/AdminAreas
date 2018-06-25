@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2259
+DISS_ME: 2259
+ISO_3166_2: BG-08
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Dobrich
+NAME_ALT: Tolbukhin
+NAME_LOCAL: Добрич
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.DO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: DO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU40
+FIPS_ALT: BU37|BU40
+WOE_ID: 20070050
+WOE_LABEL: Dobrich, BG, Bulgaria
+WOE_NAME: Dobrich
+LATITUDE: 43.6874
+LONGITUDE: 27.9018
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 726419
+GN_NAME: Oblast Dobrich
+GNS_ID: -839089
+GNS_NAME: Dobrich, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.40
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU40
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q907395
+NAME_AR: محافظة دوبريتش
+NAME_BN: ডোবরিক প্রদেশ
+NAME_DE: Oblast Dobritsch
+NAME_EN: Dobrich Province
+NAME_ES: Dobrich
+NAME_FR: Dobritch
+NAME_EL: Ντόμπριτς
+NAME_HI: डोब्रिच प्रांत
+NAME_HU: Dobrics megye
+NAME_ID: Provinsi Dobrich
+NAME_IT: distretto di Dobrič
+NAME_JA: ドブリチ州
+NAME_KO: 도브리치 주
+NAME_NL: Dobritsj
+NAME_PL: Obwód Dobricz
+NAME_PT: Dobrich
+NAME_RU: Добричская область
+NAME_SV: Dobritj
+NAME_TR: Dobriç ili
+NAME_VI: Dobrich
+NAME_ZH: 多布里奇州
+NE_ID: 1159312457

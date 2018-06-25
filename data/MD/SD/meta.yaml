@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1646
+DISS_ME: 1646
+ISO_3166_2: MD-SD
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Şoldăneşti
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD86
+FIPS_ALT: null
+WOE_ID: 55948199
+WOE_LABEL: Soldanesti, MD, Moldova
+WOE_NAME: Şoldăneşti
+LATITUDE: 47.8423
+LONGITUDE: 28.6952
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 858808
+GN_NAME: Raionul Soldanesti
+GNS_ID: 9008231
+GNS_NAME: Soldanesti, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.86
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: MD86
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q865639
+NAME_AR: مقاطعة شولدانيشتي
+NAME_BN: সোল্ডানেস্তি জেলা
+NAME_DE: Rajon Șoldănești
+NAME_EN: Șoldănești District
+NAME_ES: Distrito de Șoldănești
+NAME_FR: Raion de Șoldănești
+NAME_EL: Επαρχία Σολντανέστι
+NAME_HI: सोल्डानेस्ती जिला
+NAME_HU: null
+NAME_ID: Raionul Şoldăneşti
+NAME_IT: distretto di Şoldăneşti
+NAME_JA: ソルダネシュティ県
+NAME_KO: 숄더네슈티 구
+NAME_NL: Șoldănești
+NAME_PL: Rejon Şoldăneşti
+NAME_PT: Şoldăneşti
+NAME_RU: Шолданештский район
+NAME_SV: Şoldăneşti
+NAME_TR: Soldanesti Dstric
+NAME_VI: Quận Soldanesti
+NAME_ZH: 紹爾德內什蒂區
+NE_ID: 1159312621

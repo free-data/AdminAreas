@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3396
+DISS_ME: 3396
+ISO_3166_2: NZ-GIS
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Gisborne District
+NAME_ALT: Tūranga nui a Kiwa|East Coast
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: NZ.GI
+NOTE: null
+HASC_MAYBE: null
+REGION: North Island
+REGION_COD: NZ-N
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: GI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 17
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZF1
+FIPS_ALT: NZ31
+WOE_ID: 15021761
+WOE_LABEL: Gisborne, NZ, New Zealand
+WOE_NAME: Gisborne
+LATITUDE: -38.3442
+LONGITUDE: 177.93
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2190767
+GN_NAME: Gisborne
+GNS_ID: 11483128
+GNS_NAME: Gisborne
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.F1
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q140246
+NAME_AR: إقليم جيسبورن
+NAME_BN: গিসবন অঞ্চল
+NAME_DE: Gisborne Region
+NAME_EN: Gisborne region
+NAME_ES: Gisborne
+NAME_FR: Gisborne
+NAME_EL: Γκίσμπερν
+NAME_HI: जिस्बॉर्न क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Gisborne
+NAME_IT: Gisborne
+NAME_JA: ギズボーン地方
+NAME_KO: 기즈번 지방
+NAME_NL: Gisborne
+NAME_PL: Gisborne
+NAME_PT: Gisborne
+NAME_RU: Гисборн
+NAME_SV: Gisborne
+NAME_TR: Gisborne Bölgesi
+NAME_VI: Khu vực Gisborne
+NAME_ZH: 吉斯伯恩大区
+NE_ID: 1159314927

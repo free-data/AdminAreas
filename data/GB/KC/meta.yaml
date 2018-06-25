@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2072
+DISS_ME: 2072
+ISO_3166_2: GB-KEC
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Kensington and Chelsea
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough (royal)
+TYPE_EN: London Borough (royal)
+CODE_LOCAL: null
+CODE_HASC: GB.KC
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Ken&Chel
+POSTAL: KC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 22
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKG4
+WOE_ID: 12695812
+WOE_LABEL: null
+WOE_NAME: Royal Borough of Kensington and Chelsea
+LATITUDE: 51.4919
+LONGITUDE: -0.179557
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077599
+GNS_NAME: Kensington and Chelsea, Royal London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q188801
+NAME_AR: كينسينغتون وتشيلسي
+NAME_BN: কেনসিংটন ও চেলসি
+NAME_DE: Royal Borough of Kensington and Chelsea
+NAME_EN: Royal Borough of Kensington and Chelsea
+NAME_ES: Kensington y Chelsea
+NAME_FR: borough royal de Kensington et Chelsea
+NAME_EL: null
+NAME_HI: केंसिंग्टन ऐंड चेल्सी बरो
+NAME_HU: Royal Borough of Kensington and Chelsea
+NAME_ID: Kensington dan Chelsea
+NAME_IT: Kensington e Chelsea
+NAME_JA: ケンジントン・アンド・チェルシー王室特別区
+NAME_KO: 켄징턴 첼시 구
+NAME_NL: Kensington en Chelsea
+NAME_PL: Royal Borough of Kensington and Chelsea
+NAME_PT: Kensington e Chelsea
+NAME_RU: Кенсингтон и Челси
+NAME_SV: Royal Borough of Kensington and Chelsea
+NAME_TR: null
+NAME_VI: Khu hoàng gia Kensington và Chelsea
+NAME_ZH: 肯辛頓-切爾西區
+NE_ID: 1159312943

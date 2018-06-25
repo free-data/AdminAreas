@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1976
+DISS_ME: 1976
+ISO_3166_2: DO-28
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Monseñor Nouel
+NAME_ALT: Monsenor Novel
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.MN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 34
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR31
+FIPS_ALT: null
+WOE_ID: 2345199
+WOE_LABEL: MonseÃ±or Nouel, DO, Dominican Republic
+WOE_NAME: Monseñor Nouel
+LATITUDE: 18.9242
+LONGITUDE: -70.4081
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3496274
+GN_NAME: Provincia de Monsenor Nouel
+GNS_ID: -3362873
+GNS_NAME: Monsenor Nouel, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.31
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR31
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1295496
+NAME_AR: مقاطعة مونسينور نويل
+NAME_BN: মন্সেনর ন্যুয়েল প্রদেশ
+NAME_DE: Monseñor Nouel
+NAME_EN: Monseñor Nouel Province
+NAME_ES: Monseñor Nouel
+NAME_FR: Monseñor Nouel
+NAME_EL: Μονσενιόρ Νουέλ
+NAME_HI: मोंसेन्योर नूएल प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Monseñor Nouel
+NAME_IT: provincia di Monseñor Nouel
+NAME_JA: モンセニョール・ノウエル州
+NAME_KO: 몬세뇨르노우엘 주
+NAME_NL: Monseñor Nouel
+NAME_PL: Prowincja Monseñor Nouel
+NAME_PT: Monseñor Nouel
+NAME_RU: Монсеньор-Новэль
+NAME_SV: Monseñor Nouel
+NAME_TR: Monsenor Nouel Province
+NAME_VI: Monseñor Nouel
+NAME_ZH: 主教·瑙黎省
+NE_ID: 1159311723

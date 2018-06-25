@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEL-3477
+DISS_ME: 3477
+ISO_3166_2: BE-WLX
+WIKIPEDIA: null
+ISO_A2: BE
+ADM0_SR: 1
+NAME: Luxembourg
+NAME_ALT: Luxemburg
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BE.LX
+NOTE: null
+HASC_MAYBE: null
+REGION: Walloon
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 7153302
+WOE_LABEL: Luxemburg, BE, Belgium
+WOE_NAME: Luxembourg
+LATITUDE: 49.9637
+LONGITUDE: 5.50117
+SOV_A3: BEL
+ADM0_A3: BEL
+ADM0_LABEL: 2
+ADMIN: Belgium
+GEONUNIT: Walloon Region
+GU_A3: BWR
+GN_ID: 2791993
+GN_NAME: Province du Luxembourg
+GNS_ID: -1964436
+GNS_NAME: Luxembourg
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BE.WLX
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: BE14
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q2032
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Distrikt Luxemburg
+NAME_EN: Luxembourg District
+NAME_ES: distrito de Luxemburgo
+NAME_FR: district de Luxembourg
+NAME_EL: Διαμέρισμα του Λουξεμβούργου
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Distrik Luksemburg
+NAME_IT: distretto di Lussemburgo
+NAME_JA: ルクセンブルク広域行政区
+NAME_KO: 룩셈부르크 구
+NAME_NL: District Luxemburg
+NAME_PL: Dystrykt Luksemburg
+NAME_PT: Luxemburgo
+NAME_RU: Люксембург
+NAME_SV: Luxembourg
+NAME_TR: Lüksemburg ili
+NAME_VI: null
+NAME_ZH: 盧森堡區
+NE_ID: 1159315373

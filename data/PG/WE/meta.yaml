@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1248
+DISS_ME: 1248
+ISO_3166_2: PG-WPD
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 5
+NAME: Western
+NAME_ALT: Fly
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.WE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: WE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP06
+FIPS_ALT: null
+WOE_ID: 2346586
+WOE_LABEL: Western, PG, Papua New Guinea
+WOE_NAME: Western
+LATITUDE: -7.48919
+LONGITUDE: 142.01
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2083549
+GN_NAME: Western Province
+GNS_ID: -2203525
+GNS_NAME: Western Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP06
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q849790
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Western Province
+NAME_EN: Western Province
+NAME_ES: Provincia Occidental
+NAME_FR: Province de l'Ouest
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Provinsi Barat
+NAME_IT: provincia Occidentale
+NAME_JA: 西部州
+NAME_KO: 서부 주
+NAME_NL: Western
+NAME_PL: Prowincja Zachodnia
+NAME_PT: Província Ocidental
+NAME_RU: Западная провинция
+NAME_SV: Western Province
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 西部省
+NE_ID: 1159309867

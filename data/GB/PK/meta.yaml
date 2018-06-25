@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2018
+DISS_ME: 2018
+ISO_3166_2: GB-PKN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Perthshire and Kinross
+NAME_ALT: Perth and Kinross
+NAME_LOCAL: null
+TYPE: Unitary District
+TYPE_EN: Unitary District
+CODE_LOCAL: null
+CODE_HASC: GB.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 22
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKW1
+FIPS_ALT: UKW1
+WOE_ID: 12696206
+WOE_LABEL: null
+WOE_NAME: Perth and Kinross
+LATITUDE: 56.571
+LONGITUDE: -3.88225
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Scotland
+GU_A3: SCT
+GN_ID: 3333234
+GN_NAME: Perth and Kinross
+GNS_ID: 6077676
+GNS_NAME: Perth and Kinross
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.W1
+REGION_SUB: Tayside
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q207679
+NAME_AR: بيرث وكينروس
+NAME_BN: পার্থ ও কিনরোস
+NAME_DE: Perth and Kinross
+NAME_EN: Perth and Kinross
+NAME_ES: Perth and Kinross
+NAME_FR: Perth and Kinross
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Perth e Kinross
+NAME_JA: パース・アンド・キンロス
+NAME_KO: 퍼스 킨로스
+NAME_NL: Perth and Kinross
+NAME_PL: Perth and Kinross
+NAME_PT: Perth and Kinross
+NAME_RU: Перт-энд-Кинросс
+NAME_SV: Perth and Kinross
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 珀斯-金罗斯
+NE_ID: 1159313047

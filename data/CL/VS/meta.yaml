@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: CHL-2699
+DISS_ME: 2699
+ISO_3166_2: CL-VS
+WIKIPEDIA: null
+ISO_A2: CL
+ADM0_SR: 1
+NAME: Valparaíso
+NAME_ALT: Aconcagua
+NAME_LOCAL: null
+TYPE: Región
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CL.VS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: VS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: CI01
+FIPS_ALT: null
+WOE_ID: 2345018
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: -32.4884
+LONGITUDE: -70.936
+SOV_A3: CHL
+ADM0_A3: CHL
+ADM0_LABEL: 2
+ADMIN: Chile
+GEONUNIT: Chile
+GU_A3: CHL
+GN_ID: 3868621
+GN_NAME: Region de Valparaiso
+GNS_ID: -904025
+GNS_NAME: Valparaiso, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CL.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CI01
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q219458
+NAME_AR: إقليم فالبارايسو
+NAME_BN: বালপারাইসো অঞ্চল
+NAME_DE: Región de Valparaíso
+NAME_EN: Valparaíso Region
+NAME_ES: Región de Valparaíso
+NAME_FR: Région de Valparaíso
+NAME_EL: Βαλπαραΐσο
+NAME_HI: वेलपरैसो क्षेत्र
+NAME_HU: Valparaíso régió
+NAME_ID: Wilayah Valparaíso
+NAME_IT: regione di Valparaíso
+NAME_JA: バルパライソ州
+NAME_KO: 발파라이소 주
+NAME_NL: Valparaíso
+NAME_PL: Valparaíso
+NAME_PT: Região de Valparaíso
+NAME_RU: Вальпараисо
+NAME_SV: Región de Valparaíso
+NAME_TR: Valparaíso bölgesi
+NAME_VI: Khu vực Valparaíso
+NAME_ZH: 瓦尔帕莱索大区
+NE_ID: 1159313633

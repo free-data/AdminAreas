@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-5585
+DISS_ME: 5585
+ISO_3166_2: TZ-30
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Simiyu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ31
+FIPS_ALT: null
+WOE_ID: -2347366
+WOE_LABEL: Shinyanga, TZ, Tanzania
+WOE_NAME: Shinyanga
+LATITUDE: -2.96688
+LONGITUDE: 34.2172
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: -99
+GN_NAME: null
+GNS_ID: 11665995
+GNS_NAME: Simiyu, Mkoa wa
+GN_LEVEL: 0
+GN_REGION: null
+GN_A1_CODE: TZ.
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ31
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q2787568
+NAME_AR: اقليم سيميو
+NAME_BN: সিমিয়ো অঞ্চল
+NAME_DE: Region Simiyu
+NAME_EN: Simiyu Region
+NAME_ES: Región del Simiyu
+NAME_FR: Simiyu
+NAME_EL: Περιφέρεια Σιμίγιου
+NAME_HI: सिमिऊ प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Simiyu
+NAME_IT: Regione del Simiyu
+NAME_JA: シミユ州
+NAME_KO: 시미유 주
+NAME_NL: Simiya
+NAME_PL: Region Simiyu
+NAME_PT: Região de Simiyu
+NAME_RU: Симию
+NAME_SV: Simiyu
+NAME_TR: Simiyu Region
+NAME_VI: Khu vực Simiyu
+NAME_ZH: null
+NE_ID: 1159317329

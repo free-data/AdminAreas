@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-1060
+DISS_ME: 1060
+ISO_3166_2: RS-04
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Južno-Banatski
+NAME_ALT: South Banat
+NAME_LOCAL: Јужнобанатски
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.JN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB02
+FIPS_ALT: null
+WOE_ID: 29389222
+WOE_LABEL: Juzhni Banat, RS, Serbia
+WOE_NAME: Južno-Banatski
+LATITUDE: 45.0065
+LONGITUDE: 20.9652
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Vojvodina
+GU_A3: SRV
+GN_ID: 7581797
+GN_NAME: Juzhno Banatski Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q720030
+NAME_AR: مقاطعة جنوب بانات
+NAME_BN: সাউথ বানাত জেলা
+NAME_DE: Okrug Južni Banat
+NAME_EN: South Banat District
+NAME_ES: Distrito de Banato del Sur
+NAME_FR: Banat méridional
+NAME_EL: Νότιο Μπανάτ
+NAME_HI: दक्षिणी बनाट ज़िला
+NAME_HU: Dél-bánsági körzet
+NAME_ID: Distrik Banat Selatan
+NAME_IT: Distretto del Banato Meridionale
+NAME_JA: 南バナト郡
+NAME_KO: 남바나트 구
+NAME_NL: Zuid-Banaat
+NAME_PL: Okręg południowobanacki
+NAME_PT: Distrito Sul de Banat
+NAME_RU: Южно-Банатский округ
+NAME_SV: Södra Banatet
+NAME_TR: Güney Banat İlçesi
+NAME_VI: Quận Nam Banat
+NAME_ZH: 南巴納特州
+NE_ID: 1159310651

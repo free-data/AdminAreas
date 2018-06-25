@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2200
+DISS_ME: 2200
+ISO_3166_2: DZ-02
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Chlef
+NAME_ALT: El Asnam|Orléansville|Ech Cheliff
+NAME_LOCAL: ولاية الشلف
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG41
+FIPS_ALT: null
+WOE_ID: 2344611
+WOE_LABEL: Chlef, DZ, Algeria
+WOE_NAME: Chlef
+LATITUDE: 36.2337
+LONGITUDE: 1.21078
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2501296
+GN_NAME: Wilaya de Chlef
+GNS_ID: -464573
+GNS_NAME: Chlef
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG41
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q231752
+NAME_AR: ولاية الشلف
+NAME_BN: ক্লেফ প্রদেশ
+NAME_DE: Chlef
+NAME_EN: Chlef Province
+NAME_ES: Provincia de Chlef
+NAME_FR: wilaya de Chlef
+NAME_EL: Σλεφ
+NAME_HI: छलेफ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Syilf
+NAME_IT: provincia di Chlef
+NAME_JA: シュレフ県
+NAME_KO: 슐레프 주
+NAME_NL: Chlef
+NAME_PL: Prowincja Asz-Szalif
+NAME_PT: Chlef
+NAME_RU: Эш-Шелифф
+NAME_SV: Chlef
+NAME_TR: Şelf Vilayeti
+NAME_VI: Chlef
+NAME_ZH: 谢里夫省
+NE_ID: 1159311937

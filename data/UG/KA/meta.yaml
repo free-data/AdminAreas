@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3375
+DISS_ME: 3375
+ISO_3166_2: UG-404
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kabale
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.KA
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: null
+PROVNUM_NE: 20030
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG34
+FIPS_ALT: null
+WOE_ID: 20070418
+WOE_LABEL: Kabale, UG, Uganda
+WOE_NAME: Kabale
+LATITUDE: -1.23122
+LONGITUDE: 30.0088
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443336
+GN_NAME: Kabale District
+GNS_ID: 9050378
+GNS_NAME: Kabale District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG34
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3526470
+NAME_AR: مقاطعة كابالي
+NAME_BN: কাবালে জেলা
+NAME_DE: Distrikt Kabale
+NAME_EN: Kabale District
+NAME_ES: Distrito de Kabale
+NAME_FR: Kabale
+NAME_EL: Καμπάλε
+NAME_HI: कबाले जिला
+NAME_HU: null
+NAME_ID: Distrik Kabale
+NAME_IT: Kabale
+NAME_JA: カバレ県
+NAME_KO: 카발레 구
+NAME_NL: Kabale
+NAME_PL: Kabale District
+NAME_PT: Kabale
+NAME_RU: Кабале
+NAME_SV: Kabale dirstriktet
+NAME_TR: Kabale District
+NAME_VI: Quận Kabale
+NAME_ZH: 卡巴萊區
+NE_ID: 1159315087

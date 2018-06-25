@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1247
+DISS_ME: 1247
+ISO_3166_2: PG-WHM
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 1
+NAME: Western Highlands
+NAME_ALT: Planalto Ocidental
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.WL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: WH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 17
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP16
+FIPS_ALT: null
+WOE_ID: 2346596
+WOE_LABEL: Western Highlands, PG, Papua New Guinea
+WOE_NAME: Western Highlands
+LATITUDE: -5.77031
+LONGITUDE: 144.404
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2083551
+GN_NAME: Western Highlands Province
+GNS_ID: -2203523
+GNS_NAME: Western Highlands Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP16
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q849807
+NAME_AR: مقاطعة الهضاب الغربية
+NAME_BN: ওয়েস্টার্ন হাইল্যান্ড প্রদেশ
+NAME_DE: Western Highlands Province
+NAME_EN: Western Highlands Province
+NAME_ES: Tierras Altas Occidentales
+NAME_FR: Hautes-Terres occidentales
+NAME_EL: Δυτικά Υψίπεδα
+NAME_HI: पश्चिमी हाइलैंड्स प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Dataran Tinggi Barat
+NAME_IT: provincia degli Altopiani Occidentali
+NAME_JA: 西部山岳州
+NAME_KO: 웨스턴하일랜즈 주
+NAME_NL: Western Highlands
+NAME_PL: Western Highlands
+NAME_PT: Western Highlands
+NAME_RU: Уэстерн-Хайлендс
+NAME_SV: Western Highlands
+NAME_TR: Western Highlands Province
+NAME_VI: Tỉnh Western Highlands
+NAME_ZH: 西高地省
+NE_ID: 1159309919

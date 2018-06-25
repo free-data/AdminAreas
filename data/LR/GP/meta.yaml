@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LBR-1459
+DISS_ME: 1459
+ISO_3166_2: LR-X1~
+WIKIPEDIA: null
+ISO_A2: LR
+ADM0_SR: 1
+NAME: Gbapolu
+NAME_ALT: Gbarpolu
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LR.GP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LI21
+FIPS_ALT: null
+WOE_ID: -2346101
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 7.51706
+LONGITUDE: -10.1841
+SOV_A3: LBR
+ADM0_A3: LBR
+ADM0_LABEL: 2
+ADMIN: Liberia
+GEONUNIT: Liberia
+GU_A3: LBR
+GN_ID: 2593119
+GN_NAME: Gbarpolu County
+GNS_ID: 6261160
+GNS_NAME: Gbarpolu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LR.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: LI21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q592251
+NAME_AR: مقاطعة غباربولو
+NAME_BN: গ্যবারপলু কাউন্টি
+NAME_DE: Gbarpolu County
+NAME_EN: Gbarpolu County
+NAME_ES: Gbarpolu
+NAME_FR: Comté de Gbarpolu
+NAME_EL: Γκπαρπόλου
+NAME_HI: बारपोलू काउंटी
+NAME_HU: null
+NAME_ID: Gbarpolu County
+NAME_IT: contea di Gbarpolu
+NAME_JA: バルポル郡
+NAME_KO: 바르폴루 주
+NAME_NL: Gbarpolu
+NAME_PL: Hrabstwo Gbarpolu
+NAME_PT: Gbarpolu
+NAME_RU: Гбарполу
+NAME_SV: Gbarpolu County
+NAME_TR: Gbarpolu County
+NAME_VI: Hạt Gbarpolu
+NAME_ZH: 巴波卢县
+NE_ID: 1159310089

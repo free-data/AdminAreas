@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1988
+DISS_ME: 1988
+ISO_3166_2: DO-12
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: La Romana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.RO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR12
+FIPS_ALT: null
+WOE_ID: 2345182
+WOE_LABEL: Romana, DO, Dominican Republic
+WOE_NAME: La Romana
+LATITUDE: 18.5221
+LONGITUDE: -68.9869
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3500955
+GN_NAME: Provincia de La Romana
+GNS_ID: -3358190
+GNS_NAME: La Romana, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR12
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1140742
+NAME_AR: محافظة لا رومانا
+NAME_BN: লা রোমানা প্রদেশ
+NAME_DE: La Romana
+NAME_EN: La Romana Province
+NAME_ES: La Romana
+NAME_FR: La Romana
+NAME_EL: Λα Ρομάνα
+NAME_HI: ला रोमाना प्रांत
+NAME_HU: null
+NAME_ID: Provinsi La Romana
+NAME_IT: provincia di La Romana
+NAME_JA: ラ・ロマーナ州
+NAME_KO: 라로마나 주
+NAME_NL: La Romana
+NAME_PL: Prowincja La Romana
+NAME_PT: La Romana
+NAME_RU: Ла-Романа
+NAME_SV: La Romana
+NAME_TR: La Romano Province
+NAME_VI: La Romana
+NAME_ZH: 羅馬納省
+NE_ID: 1159311745

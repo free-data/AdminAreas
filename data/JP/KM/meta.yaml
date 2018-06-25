@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1830
+DISS_ME: 1830
+ISO_3166_2: JP-43
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Kumamoto
+NAME_ALT: null
+NAME_LOCAL: 熊本県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.KM
+NOTE: null
+HASC_MAYBE: JP.NI
+REGION: Kyushu
+REGION_COD: JPN-KYS
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA21
+FIPS_ALT: JA29
+WOE_ID: 2345870
+WOE_LABEL: Kumamoto Prefecture, JP, Japan
+WOE_NAME: Kumamoto
+LATITUDE: 32.588
+LONGITUDE: 130.834
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1858419
+GN_NAME: Kumamoto-ken
+GNS_ID: -234759
+GNS_NAME: Kumamoto-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA21
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q130308
+NAME_AR: كوماموتو
+NAME_BN: কুমামোতো প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Kumamoto
+NAME_EN: Kumamoto Prefecture
+NAME_ES: Prefectura de Kumamoto
+NAME_FR: Préfecture de Kumamoto
+NAME_EL: Κουμαμότο
+NAME_HI: कुमामोटो प्रान्त
+NAME_HU: Kumamoto prefektúra
+NAME_ID: Prefektur Kumamoto
+NAME_IT: prefettura di Kumamoto
+NAME_JA: 熊本県
+NAME_KO: 구마모토 현
+NAME_NL: Kumamoto
+NAME_PL: Prefektura Kumamoto
+NAME_PT: Kumamoto
+NAME_RU: Кумамото
+NAME_SV: Kumamoto prefektur
+NAME_TR: Kumamoto
+NAME_VI: Kumamoto
+NAME_ZH: 熊本縣
+NE_ID: 1159311901

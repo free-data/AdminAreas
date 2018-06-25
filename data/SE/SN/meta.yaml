@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-3429
+DISS_ME: 3429
+ISO_3166_2: SE-M
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 1
+NAME: Skåne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.SN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW11
+FIPS_ALT: SW27
+WOE_ID: 20070561
+WOE_LABEL: Skane, SE, Sweden
+WOE_NAME: Skåne
+LATITUDE: 55.9073
+LONGITUDE: 13.5193
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 3337385
+GN_NAME: Skane Laen
+GNS_ID: 6233462
+GNS_NAME: Skane Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.27
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: SW27
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103659
+NAME_AR: محافظة اسكونه
+NAME_BN: স্কান কাউন্টি
+NAME_DE: Skåne län
+NAME_EN: Skåne County
+NAME_ES: Provincia de Escania
+NAME_FR: Comté de Scanie
+NAME_EL: κομητεία της Σκωνες
+NAME_HI: स्कॉने लैन
+NAME_HU: Skåne megye
+NAME_ID: County Skåne
+NAME_IT: contea della Scania
+NAME_JA: スコーネ県
+NAME_KO: 스코네 주
+NAME_NL: Skåne län
+NAME_PL: Skania
+NAME_PT: Escânia
+NAME_RU: Сконе
+NAME_SV: Skåne län
+NAME_TR: Skåne ili
+NAME_VI: hạt Skåne
+NAME_ZH: 斯科讷省
+NE_ID: 1159315465

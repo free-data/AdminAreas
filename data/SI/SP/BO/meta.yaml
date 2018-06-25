@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1023
+DISS_ME: 1023
+ISO_3166_2: SI-006
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Bovec
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SP.BO
+NOTE: null
+HASC_MAYBE: null
+REGION: Goriška
+REGION_COD: null
+PROVNUM_NE: 76
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI06
+FIPS_ALT: null
+WOE_ID: -55848391
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3725
+LONGITUDE: 13.6184
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239100
+GN_NAME: Obcina Bovec
+GNS_ID: 243503
+GNS_NAME: Bovec, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q3259688
+NAME_AR: بلدية بوفيتش
+NAME_BN: বোভেক পৌরসভা
+NAME_DE: Gemeinde Bovec
+NAME_EN: Bovec Municipality
+NAME_ES: Municipalidad del Bovec
+NAME_FR: Municipalité de Bovec
+NAME_EL: Μποβέκ
+NAME_HI: बोवेक नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Bovec
+NAME_IT: Comune di Bovec
+NAME_JA: ボヴェツ
+NAME_KO: 보베츠 지방 자치제
+NAME_NL: Bovec
+NAME_PL: Gmina Bovec
+NAME_PT: Bovec
+NAME_RU: Бовец
+NAME_SV: Bovec kommun
+NAME_TR: Bovec Belediyesi
+NAME_VI: Đô thị tự trị Bovec
+NAME_ZH: null
+NE_ID: 1159310855

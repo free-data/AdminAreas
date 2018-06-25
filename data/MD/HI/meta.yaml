@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1639
+DISS_ME: 1639
+ISO_3166_2: MD-HI
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Hîncesti
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.HI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: HI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD77
+FIPS_ALT: null
+WOE_ID: 55948191
+WOE_LABEL: Hincesti, MD, Moldova
+WOE_NAME: Hîncesti
+LATITUDE: 46.8298
+LONGITUDE: 28.416
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 858803
+GN_NAME: Raionul Hincesti
+GNS_ID: 9008197
+GNS_NAME: Hincesti, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: MD77
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q878297
+NAME_AR: مقاطعة هينسيستي
+NAME_BN: হিনকেস্তি জেলা
+NAME_DE: Rajon Hîncești
+NAME_EN: Hîncești District
+NAME_ES: Distrito de Hînceşti
+NAME_FR: Raion de Hîncești
+NAME_EL: Χινκέστι
+NAME_HI: हिंसेस्टी  जिला
+NAME_HU: null
+NAME_ID: Raionul Hînceşti
+NAME_IT: distretto di Hînceşti
+NAME_JA: ヒンチェシュティ県
+NAME_KO: 흔체슈티 구
+NAME_NL: Hîncești
+NAME_PL: Rejon Hînceşti
+NAME_PT: Hînceşti
+NAME_RU: Хынчештский район
+NAME_SV: Hînceşti
+NAME_TR: Hinceşti District
+NAME_VI: Quận Hincesti
+NAME_ZH: 亨切什蒂區
+NE_ID: 1159312607

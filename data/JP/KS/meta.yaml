@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: JPN-3501
+DISS_ME: 3501
+ISO_3166_2: JP-46
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 5
+NAME: Kagoshima
+NAME_ALT: null
+NAME_LOCAL: 鹿児島県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.KS
+NOTE: null
+HASC_MAYBE: JP.NR
+REGION: Kyushu
+REGION_COD: JPN-KYS
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 9
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA18
+FIPS_ALT: JA28
+WOE_ID: 2345867
+WOE_LABEL: Kagoshima Prefecture, JP, Japan
+WOE_NAME: Kagoshima
+LATITUDE: 29.4572
+LONGITUDE: 129.601
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1860825
+GN_NAME: Kagoshima-ken
+GNS_ID: -231556
+GNS_NAME: Kagoshima-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA18
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q15701
+NAME_AR: كاغوشيما
+NAME_BN: কাগোশিমা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Kagoshima
+NAME_EN: Kagoshima Prefecture
+NAME_ES: Prefectura de Kagoshima
+NAME_FR: Préfecture de Kagoshima
+NAME_EL: Περιφέρεια Καγκοσίμα
+NAME_HI: कागोशिमा प्रीफेक्चर
+NAME_HU: Kagosima prefektúra
+NAME_ID: Prefektur Kagoshima
+NAME_IT: prefettura di Kagoshima
+NAME_JA: 鹿児島県
+NAME_KO: 가고시마현
+NAME_NL: Kagoshima
+NAME_PL: Prefektura Kagoshima
+NAME_PT: Kagoshima
+NAME_RU: Кагосима
+NAME_SV: Kagoshima prefektur
+NAME_TR: Kagoşima ili
+NAME_VI: Kagoshima
+NAME_ZH: 鹿儿岛县
+NE_ID: 1159315225

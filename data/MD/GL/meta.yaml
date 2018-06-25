@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1621
+DISS_ME: 1621
+ISO_3166_2: MD-GL
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Glodeni
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.GL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD76
+FIPS_ALT: null
+WOE_ID: 55948190
+WOE_LABEL: Glodeni, MD, Moldova
+WOE_NAME: Glodeni
+LATITUDE: 47.7495
+LONGITUDE: 27.5658
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 618260
+GN_NAME: Raionul Glodeni
+GNS_ID: -2276394
+GNS_NAME: Glodeni, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.76
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD76
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q860716
+NAME_AR: مقاطعة غلوديني
+NAME_BN: গ্লুডেনি জেলা
+NAME_DE: Rajon Glodeni
+NAME_EN: Glodeni District
+NAME_ES: Distrito de Glodeni
+NAME_FR: Raion de Glodeni
+NAME_EL: Γκλοντένι
+NAME_HI: ग्लोडेनी जिला
+NAME_HU: null
+NAME_ID: Raionul Glodeni
+NAME_IT: distretto di Glodeni
+NAME_JA: グロデニ県
+NAME_KO: 글로데니 구
+NAME_NL: Glodeni
+NAME_PL: Rejon Glodeni
+NAME_PT: Glodeni
+NAME_RU: Глодянский район
+NAME_SV: Glodeni
+NAME_TR: Glodeni District
+NAME_VI: Quận Glodeni
+NAME_ZH: 格洛代尼區
+NE_ID: 1159312575

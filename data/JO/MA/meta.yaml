@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-850
+DISS_ME: 850
+ISO_3166_2: JO-MA
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Mafraq
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO15
+FIPS_ALT: JO10
+WOE_ID: 2345930
+WOE_LABEL: Al Mafraq, JO, Jordan
+WOE_NAME: Mafraq
+LATITUDE: 32.2481
+LONGITUDE: 37.6195
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 250583
+GN_NAME: Al Mafraq
+GNS_ID: -970219
+GNS_NAME: Al Mafraq
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO15
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q854871
+NAME_AR: المفرق
+NAME_BN: মাফ্রাক গভর্নোরেট
+NAME_DE: Gouvernement Mafraq
+NAME_EN: Mafraq Governorate
+NAME_ES: Gobernación de Mafraq
+NAME_FR: Gouvernorat de Mafraq
+NAME_EL: Μάφρακ
+NAME_HI: माफराक गवर्नरेट
+NAME_HU: Mafrak kormányzóság
+NAME_ID: Mafraq Governorate
+NAME_IT: governatorato di Mafraq
+NAME_JA: マフラク県
+NAME_KO: 마프라크 주
+NAME_NL: Mafrak
+NAME_PL: Al-Mafrak
+NAME_PT: Mafraq
+NAME_RU: Эль-Мафрак
+NAME_SV: Mafraq
+NAME_TR: Mafraq Yönetimi
+NAME_VI: Tỉnh Mafraq
+NAME_ZH: 馬弗拉克省
+NE_ID: 1159309315

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2146
+DISS_ME: 2146
+ISO_3166_2: DZ-22
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Sidi Bel Abbès
+NAME_ALT: Sidi-Bel-Abbes
+NAME_LOCAL: ولاية سيدي بلعباس
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.SB
+NOTE: null
+HASC_MAYBE: DZ.OR|DZA-SBA
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 39
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: SB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG30
+FIPS_ALT: AG09
+WOE_ID: 2344601
+WOE_LABEL: Sidi Bel Abbes, DZ, Algeria
+WOE_NAME: Sidi Bel Abbès
+LATITUDE: 34.8335
+LONGITUDE: -0.586496
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2481001
+GN_NAME: Wilaya de Sidi Bel Abbes
+GNS_ID: -484956
+GNS_NAME: Sidi Bel Abbes
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG30
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q235714
+NAME_AR: ولاية سيدي بلعباس
+NAME_BN: সিদি বেল আব্বেস প্রদেশ
+NAME_DE: Sidi Bel Abbès
+NAME_EN: Sidi Bel Abbès Province
+NAME_ES: Provincia de Sidi Bel Abbes
+NAME_FR: wilaya de Sidi Bel Abbès
+NAME_EL: Σίντι Μπελ Άμπες
+NAME_HI: सिदी बेल अब्बास प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Sidi Bil `Abbas
+NAME_IT: provincia di Sidi Bel Abbes
+NAME_JA: シディ・ベル・アッベス県
+NAME_KO: 시디벨아베스 주
+NAME_NL: Sidi-bel-Abbès
+NAME_PL: Prowincja Sidi Bu-l-Abbas
+NAME_PT: Sidi Bel Abbès
+NAME_RU: Сиди-Бель-Аббес
+NAME_SV: Sidi Bel Abbès
+NAME_TR: Sidi Belabbas Vilayeti
+NAME_VI: Sidi Bel Abbes
+NAME_ZH: 西迪贝勒阿巴斯省
+NE_ID: 1159312003

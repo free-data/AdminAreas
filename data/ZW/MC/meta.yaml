@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: ZWE-524
+DISS_ME: 524
+ISO_3166_2: ZW-MC
+WIKIPEDIA: null
+ISO_A2: ZW
+ADM0_SR: 1
+NAME: Mashonaland Central
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZW.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 19
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: ZI03
+FIPS_ALT: null
+WOE_ID: 2347812
+WOE_LABEL: Mashonaland Central, ZW, Zimbabwe
+WOE_NAME: Mashonaland Central
+LATITUDE: -16.8822
+LONGITUDE: 31.3922
+SOV_A3: ZWE
+ADM0_A3: ZWE
+ADM0_LABEL: 2
+ADMIN: Zimbabwe
+GEONUNIT: Zimbabwe
+GU_A3: ZWE
+GN_ID: 886843
+GN_NAME: Mashonaland Central Province
+GNS_ID: -2315775
+GNS_NAME: Mashonaland Central Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZW.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZI03
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q596156
+NAME_AR: مقاطعة ماشونالاند الوسطى
+NAME_BN: ম্যাশোনাল্যান্ড কেন্দ্রীয় প্রদেশ
+NAME_DE: Provinz Mashonaland Central
+NAME_EN: Mashonaland Central Province
+NAME_ES: Mashonalandia Central
+NAME_FR: Mashonaland central
+NAME_EL: Κεντρική Μασοναλάνδη
+NAME_HI: मशोनालैंड मध्य प्रांत
+NAME_HU: null
+NAME_ID: Mashonaland Pusat
+NAME_IT: provincia del Mashonaland Centrale
+NAME_JA: 中央マショナランド州
+NAME_KO: 중앙마쇼날랜드 주
+NAME_NL: Mashonaland Central
+NAME_PL: Maszona Środkowa
+NAME_PT: Mashonaland Central
+NAME_RU: Центральный Машоналенд
+NAME_SV: Mashonaland Central
+NAME_TR: Mashonaland Merkez
+NAME_VI: Tỉnh Miền Trung Mashonaland
+NAME_ZH: 中馬紹納蘭省
+NE_ID: 1159307817

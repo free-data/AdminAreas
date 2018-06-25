@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-950
+DISS_ME: 950
+ISO_3166_2: SI-032
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Grosuplje
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 107
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI32
+FIPS_ALT: null
+WOE_ID: 55848349
+WOE_LABEL: Grosuplje, SI, Slovenia
+WOE_NAME: Grosuplje
+LATITUDE: 45.9421
+LONGITUDE: 14.6714
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3199522
+GN_NAME: Obcina Grosuplje
+GNS_ID: -82416
+GNS_NAME: Grosuplje, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: SI32
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q13377778
+NAME_AR: بلدية غروسوبلي
+NAME_BN: গ্রোসুপজে পৌরসভা
+NAME_DE: Gemeinde Grosuplje
+NAME_EN: Grosuplje Municipality
+NAME_ES: Municipalidad del Grosuplje
+NAME_FR: Municipalité de Grosuplje
+NAME_EL: Γκροσουπλτζέ
+NAME_HI: ग्रोसुप्लिए नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Grosuplje
+NAME_IT: Grosuplje
+NAME_JA: グロースプリェ
+NAME_KO: 그로수플예 지방 자치제
+NAME_NL: Grosuplje
+NAME_PL: Gmina Grosuplje
+NAME_PT: Município de Grosuplje
+NAME_RU: Гросупле
+NAME_SV: Grosuplje kommun
+NAME_TR: Grospulje Belediyesi
+NAME_VI: Đô thị tự trị Grosuplje
+NAME_ZH: 格羅蘇普列鎮
+NE_ID: 1159310693

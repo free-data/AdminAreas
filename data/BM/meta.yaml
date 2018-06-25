@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 5
+LABELRANK: 6
+SOVEREIGNT: United Kingdom
+SOV_A3: GB1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Dependency
+ADMIN: Bermuda
+ADM0_A3: BMU
+GEOU_DIF: 0
+GEOUNIT: Bermuda
+GU_A3: BMU
+SU_DIF: 0
+SUBUNIT: Bermuda
+SU_A3: BMU
+BRK_DIFF: 0
+NAME: Bermuda
+NAME_LONG: Bermuda
+BRK_A3: BMU
+BRK_NAME: Bermuda
+BRK_GROUP: null
+ABBREV: Berm.
+POSTAL: BM
+FORMAL_EN: The Bermudas or Somers Isles
+FORMAL_FR: null
+NAME_CIAWF: Bermuda
+NOTE_ADM0: U.K.
+NOTE_BRK: null
+NAME_SORT: Bermuda
+NAME_ALT: null
+MAPCOLOR7: 6
+MAPCOLOR8: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+POP_EST: 70864
+POP_RANK: 8
+GDP_MD_EST: 5198
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2013
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: BD
+ISO_A2: BM
+ISO_A3: BMU
+ISO_A3_EH: BMU
+ISO_N3: 060
+UN_A3: 060
+WB_A2: BM
+WB_A3: BMU
+WOE_ID: 23424756
+WOE_ID_EH: 23424756
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BMU
+ADM0_A3_US: BMU
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Northern America
+REGION_WB: North America
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 5
+TINY: 4
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320705
+WIKIDATAID: Q23635
+NAME_AR: برمودا
+NAME_BN: বারমুডা
+NAME_DE: Bermuda
+NAME_EN: Bermuda
+NAME_ES: Bermudas
+NAME_FR: Bermudes
+NAME_EL: Βερμούδες
+NAME_HI: बरमूडा
+NAME_HU: Bermuda
+NAME_ID: Bermuda
+NAME_IT: Bermuda
+NAME_JA: バミューダ諸島
+NAME_KO: 버뮤다
+NAME_NL: Bermuda
+NAME_PL: Bermudy
+NAME_PT: Bermudas
+NAME_RU: Бермудские Острова
+NAME_SV: Bermuda
+NAME_TR: Bermuda
+NAME_VI: Bermuda
+NAME_ZH: 百慕大

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1985
+DISS_ME: 1985
+ISO_3166_2: DO-01
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Distrito Nacional
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: National District
+CODE_LOCAL: null
+CODE_HASC: DO.NC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: NC
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 17
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR34
+FIPS_ALT: DR
+WOE_ID: 2345176
+WOE_LABEL: Distrito Nacional, DO, Dominican Republic
+WOE_NAME: Distrito Nacional
+LATITUDE: 18.4746
+LONGITUDE: -69.9376
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3496024
+GN_NAME: Distrito Nacional
+GNS_ID: -3363123
+GNS_NAME: Nacional, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR34
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2499228
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Distrito Nacional
+NAME_EN: Distrito Nacional
+NAME_ES: Distrito Nacional
+NAME_FR: Distrito Nacional
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: ドミニカ共和国国家地区
+NAME_KO: 국가 지구
+NAME_NL: Distrito Nacional
+NAME_PL: null
+NAME_PT: Distrito Nacional
+NAME_RU: null
+NAME_SV: null
+NAME_TR: Distrito Nacional
+NAME_VI: null
+NAME_ZH: 國家特區
+NE_ID: 1159311743

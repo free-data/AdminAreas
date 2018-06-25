@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3087
+DISS_ME: 3087
+ISO_3166_2: UG-320
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Maracha
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.MH
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: UGA-NIL
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGD7
+FIPS_ALT: null
+WOE_ID: 20070412
+WOE_LABEL: Arua, UG, Uganda
+WOE_NAME: Maracha
+LATITUDE: 3.2292
+LONGITUDE: 30.9101
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056292
+GN_NAME: Maracha District
+GNS_ID: 10540254
+GNS_NAME: Maracha District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.D7
+REGION_SUB: null
+SUB_CODE: UG21
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q588927
+NAME_AR: مقاطعة مارشا
+NAME_BN: মারাকায় জেলা
+NAME_DE: Maracha-Distrikt
+NAME_EN: Maracha District
+NAME_ES: Distrito de Nyadri
+NAME_FR: Maracha
+NAME_EL: Μαράτσα
+NAME_HI: मारचा जिला
+NAME_HU: null
+NAME_ID: Distrik Maracha
+NAME_IT: Maracha
+NAME_JA: マラチャ県
+NAME_KO: 마라차 구
+NAME_NL: Maracha
+NAME_PL: Dystrykt Maracha
+NAME_PT: Maraacha
+NAME_RU: Марача
+NAME_SV: Marachadistriktet
+NAME_TR: Maracha District
+NAME_VI: Quận Maracha
+NAME_ZH: null
+NE_ID: 1159313675

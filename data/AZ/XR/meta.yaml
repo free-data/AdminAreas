@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1680
+DISS_ME: 1680
+ISO_3166_2: AZ-GYG
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Xanlar
+NAME_ALT: Khanlar
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.XR
+NOTE: null
+HASC_MAYBE: null
+REGION: Ganja-Gazakh Economic Region
+REGION_COD: AZ-02
+PROVNUM_NE: 54
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: XR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ62
+FIPS_ALT: null
+WOE_ID: 20070268
+WOE_LABEL: Xanlar, AZ, Azerbaijan
+WOE_NAME: Xanlar
+LATITUDE: 40.4627
+LONGITUDE: 46.295
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 585967
+GN_NAME: Goygol Rayon
+GNS_ID: -2706947
+GNS_NAME: Goygol Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.62
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ62
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q388087
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Göygöl
+NAME_EN: Goygol District
+NAME_ES: Göygöl
+NAME_FR: Göygöl
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Khanlar
+NAME_IT: distretto di Göygöl
+NAME_JA: ギョイギョル県
+NAME_KO: 괴이괼 구
+NAME_NL: Göygöl
+NAME_PL: Rejon Göygöl
+NAME_PT: Goygol
+NAME_RU: Гёйгёльский район
+NAME_SV: Xanlar Rayonu
+NAME_TR: Göygöl Rayonu
+NAME_VI: Goygol
+NAME_ZH: 漢拉爾區
+NE_ID: 1159312225

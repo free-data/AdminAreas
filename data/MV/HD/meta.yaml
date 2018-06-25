@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5224
+DISS_ME: 5224
+ISO_3166_2: MV-23
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Haa Dhaalu
+NAME_ALT: Thiladhunmathi Dhekunuburi
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: B
+CODE_HASC: MV.HD
+NOTE: null
+HASC_MAYBE: null
+REGION: Upper North
+REGION_COD: MV-UN
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: HDh
+POSTAL: HDh
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070318
+WOE_LABEL: Haa Dhaalu, MV, Maldives
+WOE_NAME: Haa Dhaalu
+LATITUDE: 6.62205
+LONGITUDE: 73.0473
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1282293
+GN_NAME: Haa Dhaalu Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2360368
+NAME_AR: آتول ها دال
+NAME_BN: হা ধালু আতোল
+NAME_DE: Haa Dhaalu
+NAME_EN: Haa Dhaalu Atoll
+NAME_ES: Atolón Haa Dhaalu
+NAME_FR: Haa Dhaalu
+NAME_EL: Χαά Νταάλου Ατόλ
+NAME_HI: हा धालू एटोल
+NAME_HU: Déli-Tiladummati-atoll
+NAME_ID: Atol Haa Dhaalu
+NAME_IT: Atollo Haa Dhaalu
+NAME_JA: 南ティラドゥンマティー環礁区
+NAME_KO: 하달루 환초
+NAME_NL: Haa Dhaalu-atol
+NAME_PL: Haa Dhaalu
+NAME_PT: Haa Dhaalu Atoll
+NAME_RU: Хаа-Дхаалу
+NAME_SV: Haa Dhaalu-atollen
+NAME_TR: Haa Dhaalu Atoll
+NAME_VI: Haa Dhaalu Atoll
+NAME_ZH: null
+NE_ID: 1159316659

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1616
+DISS_ME: 1616
+ISO_3166_2: MD-OC
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Ocniţa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.OC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: OC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD81
+FIPS_ALT: null
+WOE_ID: 55948195
+WOE_LABEL: Ocnita, MD, Moldova
+WOE_NAME: Ocniţa
+LATITUDE: 48.4024
+LONGITUDE: 27.5685
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617656
+GN_NAME: Raionul Ocnita
+GNS_ID: -2277032
+GNS_NAME: Ocnita, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.81
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD81
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q266444
+NAME_AR: مقاطعة أونيتا
+NAME_BN: ওকনিতা জেলা
+NAME_DE: Rajon Ocnița
+NAME_EN: Ocnița District
+NAME_ES: Distrito de Ocniţa
+NAME_FR: Raion d'Ocnița
+NAME_EL: Οκνίτα
+NAME_HI: ऑकनिटा जिला
+NAME_HU: null
+NAME_ID: Raionul Ocniţa
+NAME_IT: distretto di Ocniţa
+NAME_JA: オクニタ県
+NAME_KO: 오크니차 구
+NAME_NL: Ocnița
+NAME_PL: Rejon Ocniţa
+NAME_PT: Ocniţa
+NAME_RU: Окницкий район
+NAME_SV: Raionul Ocniţa
+NAME_TR: Ornita District
+NAME_VI: Quận Ocnita
+NAME_ZH: 奧克尼察區
+NE_ID: 1159312565

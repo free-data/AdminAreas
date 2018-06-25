@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 3
+LABELRANK: 6
+SOVEREIGNT: Saint Lucia
+SOV_A3: LCA
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Saint Lucia
+ADM0_A3: LCA
+GEOU_DIF: 0
+GEOUNIT: Saint Lucia
+GU_A3: LCA
+SU_DIF: 0
+SUBUNIT: Saint Lucia
+SU_A3: LCA
+BRK_DIFF: 0
+NAME: Saint Lucia
+NAME_LONG: Saint Lucia
+BRK_A3: LCA
+BRK_NAME: Saint Lucia
+BRK_GROUP: null
+ABBREV: S.L.
+POSTAL: LC
+FORMAL_EN: Saint Lucia
+FORMAL_FR: null
+NAME_CIAWF: Saint Lucia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: St. Lucia
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 4
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+POP_EST: 164994
+POP_RANK: 9
+GDP_MD_EST: 2083
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: ST
+ISO_A2: LC
+ISO_A3: LCA
+ISO_A3_EH: LCA
+ISO_N3: 662
+UN_A3: 662
+WB_A2: LC
+WB_A3: LCA
+WOE_ID: 23424951
+WOE_ID_EH: 23424951
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: LCA
+ADM0_A3_US: LCA
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Caribbean
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 11
+LONG_LEN: 11
+ABBREV_LEN: 4
+TINY: 4
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 9.5
+NE_ID: 1159321019
+WIKIDATAID: Q760
+NAME_AR: سانت لوسيا
+NAME_BN: সেন্ট লুসিয়া
+NAME_DE: St. Lucia
+NAME_EN: Saint Lucia
+NAME_ES: Santa Lucía
+NAME_FR: Sainte-Lucie
+NAME_EL: Αγία Λουκία
+NAME_HI: सेंट लूसिया
+NAME_HU: Saint Lucia
+NAME_ID: Saint Lucia
+NAME_IT: Saint Lucia
+NAME_JA: セントルシア
+NAME_KO: 세인트루시아
+NAME_NL: Saint Lucia
+NAME_PL: Saint Lucia
+NAME_PT: Santa Lúcia
+NAME_RU: Сент-Люсия
+NAME_SV: Saint Lucia
+NAME_TR: Saint Lucia
+NAME_VI: Saint Lucia
+NAME_ZH: 圣卢西亚

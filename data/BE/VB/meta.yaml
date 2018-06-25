@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEL-3475
+DISS_ME: 3475
+ISO_3166_2: BE-VBR
+WIKIPEDIA: null
+ISO_A2: BE
+ADM0_SR: 1
+NAME: Flemish Brabant
+NAME_ALT: Vlaams Brabant|Flamish-Brabant|Brabant flamand
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BE.VB
+NOTE: null
+HASC_MAYBE: null
+REGION: Flemish
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: null
+FIPS_ALT: BE12
+WOE_ID: 22525998
+WOE_LABEL: Vlaams Brabant, BE, Belgium
+WOE_NAME: Flemish Brabant
+LATITUDE: 50.8709
+LONGITUDE: 4.53709
+SOV_A3: BEL
+ADM0_A3: BEL
+ADM0_LABEL: 2
+ADMIN: Belgium
+GEONUNIT: Flemish Region
+GU_A3: BFR
+GN_ID: 3333250
+GN_NAME: Provincie Vlaams-Brabant
+GNS_ID: 6079473
+GNS_NAME: Brabant Flamand
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BE.VBR
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: BE13
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1118
+NAME_AR: برابانت فلاماند
+NAME_BN: ফ্লেমিশ ব্র্যাবেন্ট
+NAME_DE: Flämisch-Brabant
+NAME_EN: Flemish Brabant
+NAME_ES: Brabante Flamenco
+NAME_FR: Brabant flamand
+NAME_EL: Φλαμανδική Μπραμπάντ
+NAME_HI: फ्लेमिश ब्रबेंट
+NAME_HU: Flamand-Brabant
+NAME_ID: Flemish Brabant
+NAME_IT: provincia del Brabante Fiammingo
+NAME_JA: フラームス＝ブラバント州
+NAME_KO: 플람스브라반트 주
+NAME_NL: Vlaams-Brabant
+NAME_PL: Prowincja Brabancja Flamandzka
+NAME_PT: Brabante Flamengo
+NAME_RU: Фламандский Брабант
+NAME_SV: Flamländska Brabant
+NAME_TR: Flaman Brabant
+NAME_VI: Vlaams-Brabant
+NAME_ZH: 弗拉芒-布拉班特省
+NE_ID: 1159315383

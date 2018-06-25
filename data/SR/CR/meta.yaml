@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SUR-71
+DISS_ME: 71
+ISO_3166_2: SR-CR
+WIKIPEDIA: null
+ISO_A2: SR
+ADM0_SR: 1
+NAME: Coronie
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrikt
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: SR.CR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 6
+FIPS: NS12
+FIPS_ALT: null
+WOE_ID: 2346408
+WOE_LABEL: Coronie, SR, Suriname
+WOE_NAME: Coronie
+LATITUDE: 5.64121
+LONGITUDE: -56.2504
+SOV_A3: SUR
+ADM0_A3: SUR
+ADM0_LABEL: 2
+ADMIN: Suriname
+GEONUNIT: Suriname
+GU_A3: SUR
+GN_ID: 3384397
+GN_NAME: Distrikt Coronie
+GNS_ID: -913806
+GNS_NAME: Coronie, Distrikt
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SR.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NS12
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1130141
+NAME_AR: ضاحية كوروني
+NAME_BN: করোনে জেলা
+NAME_DE: Coronie
+NAME_EN: Coronie District
+NAME_ES: Coronie
+NAME_FR: Coronie
+NAME_EL: Κορονίε
+NAME_HI: कोरोनी ज़िला
+NAME_HU: null
+NAME_ID: Distrik Coronie
+NAME_IT: distretto di Coronie
+NAME_JA: コロニー
+NAME_KO: 코로니 구
+NAME_NL: Coronie
+NAME_PL: Coronie
+NAME_PT: Coronie
+NAME_RU: Корони
+NAME_SV: Coronie
+NAME_TR: Coronie
+NAME_VI: Quận Coronie
+NAME_ZH: 科罗尼区
+NE_ID: 1159307999

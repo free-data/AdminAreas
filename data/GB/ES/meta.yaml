@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2677
+DISS_ME: 2677
+ISO_3166_2: GB-ESX
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: East Sussex
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: GB.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: South East
+REGION_COD: null
+PROVNUM_NE: 20076
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: E. Sussex
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKE2
+FIPS_ALT: UKE2
+WOE_ID: 12602167
+WOE_LABEL: null
+WOE_NAME: East Sussex
+LATITUDE: 50.9537
+LONGITUDE: 0.372063
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2650328
+GN_NAME: East Sussex
+GNS_ID: -2595283
+GNS_NAME: East Sussex, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.E2
+REGION_SUB: East Sussex
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23293
+NAME_AR: شرق ساسكس
+NAME_BN: ইস্ট সাসেক্স
+NAME_DE: East Sussex
+NAME_EN: East Sussex
+NAME_ES: Sussex Oriental
+NAME_FR: Sussex de l'Est
+NAME_EL: Ηστ Σάσσεξ
+NAME_HI: ईस्ट ससेक्स
+NAME_HU: East Sussex
+NAME_ID: East Sussex
+NAME_IT: East Sussex
+NAME_JA: イースト・サセックス
+NAME_KO: 이스트서식스 주
+NAME_NL: East Sussex
+NAME_PL: East Sussex
+NAME_PT: East Sussex
+NAME_RU: Восточный Суссекс
+NAME_SV: East Sussex
+NAME_TR: East Sussex
+NAME_VI: East Sussex
+NAME_ZH: 东萨塞克斯郡
+NE_ID: 1159313593

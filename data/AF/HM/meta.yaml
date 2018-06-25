@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1750
+DISS_ME: 1750
+ISO_3166_2: AF-HEL
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Hilmand
+NAME_ALT: Girishk|Hilmend
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.HM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: HM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF10
+FIPS_ALT: null
+WOE_ID: 2344557
+WOE_LABEL: Helmand, AF, Afghanistan
+WOE_NAME: Hilmand
+LATITUDE: 30.9278
+LONGITUDE: 63.9824
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1140043
+GN_NAME: Helmand
+GNS_ID: -3377342
+GNS_NAME: Helmand, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q173821
+NAME_AR: ولاية هلمند
+NAME_BN: হেলমান্দ প্রদেশ
+NAME_DE: Helmand
+NAME_EN: Helmand
+NAME_ES: Provincia de Helmand
+NAME_FR: Helmand
+NAME_EL: Χελμάντ
+NAME_HI: हेलमंद प्रान्त
+NAME_HU: Helmand tartomány
+NAME_ID: Provinsi Helmand
+NAME_IT: Helmand
+NAME_JA: ヘルマンド州
+NAME_KO: 헬만드 주
+NAME_NL: Helmand
+NAME_PL: Helmand
+NAME_PT: Helmand
+NAME_RU: Гильменд
+NAME_SV: Helmand
+NAME_TR: Helmend Vilayeti
+NAME_VI: Helmand
+NAME_ZH: 赫尔曼德省
+NE_ID: 1159312055

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LBN-3025
+DISS_ME: 3025
+ISO_3166_2: LB-JL
+WIKIPEDIA: null
+ISO_A2: LB
+ADM0_SR: 1
+NAME: Mount Lebanon
+NAME_ALT: Jabal Lubnan|Mont-Liban
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LB.JL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: LE05
+FIPS_ALT: null
+WOE_ID: 2346017
+WOE_LABEL: Jabal Lubnan, LB, Lebanon
+WOE_NAME: Mount Lebanon
+LATITUDE: 33.9291
+LONGITUDE: 35.6942
+SOV_A3: LBN
+ADM0_A3: LBN
+ADM0_LABEL: 5
+ADMIN: Lebanon
+GEONUNIT: Lebanon
+GU_A3: LBN
+GN_ID: 273607
+GN_NAME: Mohafazat Mont-Liban
+GNS_ID: -804755
+GNS_NAME: Mont-Liban
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LB.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: LE05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q216945
+NAME_AR: جبل لبنان
+NAME_BN: মাউন্ট লেবানন গভর্নোরেট
+NAME_DE: Libanonberg
+NAME_EN: Mount Lebanon Governorate
+NAME_ES: Gobernación del Monte Líbano
+NAME_FR: Gouvernorat du Mont-Liban
+NAME_EL: Μάουντ Λέμπανον
+NAME_HI: जबल लिबनान​ प्रान्त
+NAME_HU: Libanon-hegy kormányzóság
+NAME_ID: Kegubernuran Gunung Lebanon
+NAME_IT: governatorato del Monte Libano
+NAME_JA: 山岳レバノン県
+NAME_KO: 레바논 산 주
+NAME_NL: Libanongebergte
+NAME_PL: Gubernatorstwo Dżabal Lubnan
+NAME_PT: Monte Líbano
+NAME_RU: Горный Ливан
+NAME_SV: Libanonberget
+NAME_TR: Cebel-i Lübnan İli
+NAME_VI: Núi Liban
+NAME_ZH: 黎巴嫩山省
+NE_ID: 1159314205

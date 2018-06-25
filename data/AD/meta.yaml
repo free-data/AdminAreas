@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Andorra
+SOV_A3: AND
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Andorra
+ADM0_A3: AND
+GEOU_DIF: 0
+GEOUNIT: Andorra
+GU_A3: AND
+SU_DIF: 0
+SUBUNIT: Andorra
+SU_A3: AND
+BRK_DIFF: 0
+NAME: Andorra
+NAME_LONG: Andorra
+BRK_A3: AND
+BRK_NAME: Andorra
+BRK_GROUP: null
+ABBREV: And.
+POSTAL: AND
+FORMAL_EN: Principality of Andorra
+FORMAL_FR: null
+NAME_CIAWF: Andorra
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Andorra
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+POP_EST: 85702
+POP_RANK: 8
+GDP_MD_EST: 3327
+POP_YEAR: 2017
+LASTCENSUS: 1989
+GDP_YEAR: 2015
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: AN
+ISO_A2: AD
+ISO_A3: AND
+ISO_A3_EH: AND
+ISO_N3: 020
+UN_A3: 020
+WB_A2: AD
+WB_A3: ADO
+WOE_ID: 23424744
+WOE_ID_EH: 23424744
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: AND
+ADM0_A3_US: AND
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: 5
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159320327
+WIKIDATAID: Q228
+NAME_AR: أندورا
+NAME_BN: অ্যান্ডোরা
+NAME_DE: Andorra
+NAME_EN: Andorra
+NAME_ES: Andorra
+NAME_FR: Andorre
+NAME_EL: Ανδόρρα
+NAME_HI: अण्डोरा
+NAME_HU: Andorra
+NAME_ID: Andorra
+NAME_IT: Andorra
+NAME_JA: アンドラ
+NAME_KO: 안도라
+NAME_NL: Andorra
+NAME_PL: Andora
+NAME_PT: Andorra
+NAME_RU: Андорра
+NAME_SV: Andorra
+NAME_TR: Andorra
+NAME_VI: Andorra
+NAME_ZH: 安道尔

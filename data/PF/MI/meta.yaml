@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: PYF-4967
+DISS_ME: 4967
+ISO_3166_2: PF-X05~
+WIKIPEDIA: http://en.wikipedia.org/wiki/Marquesas_Islands
+ISO_A2: PF
+ADM0_SR: 6
+NAME: Marquesas Islands
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: PF.MI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 17
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549701
+WOE_LABEL: Marquesas Islands, PF, French Polynesia
+WOE_NAME: Marquesas Islands
+LATITUDE: -9.75565
+LONGITUDE: -139.037
+SOV_A3: FR1
+ADM0_A3: PYF
+ADM0_LABEL: 5
+ADMIN: French Polynesia
+GEONUNIT: French Polynesia
+GU_A3: PYF
+GN_ID: 4019991
+GN_NAME: Iles Marquises
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PF.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: null
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: null
+NAME_ES: null
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: null
+NAME_KO: null
+NAME_NL: null
+NAME_PL: null
+NAME_PT: null
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159316155

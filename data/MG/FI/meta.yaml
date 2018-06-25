@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MDG-5873
+DISS_ME: 5873
+ISO_3166_2: MG-F
+WIKIPEDIA: null
+ISO_A2: MG
+ADM0_SR: 1
+NAME: Haute Matsiatra
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Faritany Mizakatena
+TYPE_EN: Autonomous Province
+CODE_LOCAL: null
+CODE_HASC: MG.FI
+NOTE: Natural Earth has 22 regions (post-2009) while ISO and HASC are 6 regions (pre-2009)
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: FI
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+FIPS: MA02
+FIPS_ALT: null
+WOE_ID: 2346147
+WOE_LABEL: Fianarantsoa, MG, Madagascar
+WOE_NAME: Fianarantsoa
+LATITUDE: -21.4423
+LONGITUDE: 46.5733
+SOV_A3: MDG
+ADM0_A3: MDG
+ADM0_LABEL: 2
+ADMIN: Madagascar
+GEONUNIT: Madagascar
+GU_A3: MDG
+GN_ID: 7670905
+GN_NAME: Haute Matsiatra Region
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MG.7670905
+REGION_SUB: Fianarantsoa
+SUB_CODE: MG.FI
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: null
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: null
+NAME_ES: null
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: null
+NAME_KO: null
+NAME_NL: null
+NAME_PL: null
+NAME_PT: null
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159309821

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5240
+DISS_ME: 5240
+ISO_3166_2: MV-27
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Gaafu Alifu
+NAME_ALT: Huvadhu Atholhu Uthuruburi
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: P
+CODE_HASC: MV.GA
+NOTE: null
+HASC_MAYBE: null
+REGION: South Central
+REGION_COD: MV-SC
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: GA
+POSTAL: GA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070328
+WOE_LABEL: Gaafu Alifu, MV, Maldives
+WOE_NAME: Gaafu Alifu
+LATITUDE: 0.764412
+LONGITUDE: 73.3741
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1282329
+GN_NAME: Gaafu Alifu Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1116203
+NAME_AR: غافو أليف أتول
+NAME_BN: গোফু আলিফ আতোল
+NAME_DE: Gaafu Alif
+NAME_EN: Gaafu Alif Atoll
+NAME_ES: Atolón Gaafu Alif
+NAME_FR: Gaafu Alif
+NAME_EL: Γκαάφου Αλίφ Ατόλ
+NAME_HI: गाफु अलिफ एटोल
+NAME_HU: null
+NAME_ID: Atol Gaafu Alif
+NAME_IT: Atollo Gaafu Alif
+NAME_JA: ガーフ・アリフ環礁
+NAME_KO: 가푸알리프 환초
+NAME_NL: Gaafu Alif-atol
+NAME_PL: Gaafu Alif
+NAME_PT: Gaafu Alif Atoll
+NAME_RU: Гаафу-Алиф
+NAME_SV: Gaafu Alifu Atholhu
+NAME_TR: Gaafu Alif Atoll
+NAME_VI: Gaafu Alif Atoll
+NAME_ZH: 奧利弗蓋夫環礁
+NE_ID: 1159316695

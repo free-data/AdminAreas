@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 11
+ADM1_CODE: PYF-4964
+DISS_ME: 4964
+ISO_3166_2: PF-X02~
+WIKIPEDIA: http://en.wikipedia.org/wiki/Leeward_Islands_(Society_Islands)
+ISO_A2: PF
+ADM0_SR: 6
+NAME: Leeward Islands
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: PF.LI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 15
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549699
+WOE_LABEL: Leeward Islands, PF, French Polynesia
+WOE_NAME: Leeward Islands
+LATITUDE: -16.6692
+LONGITUDE: -151.495
+SOV_A3: FR1
+ADM0_A3: PYF
+ADM0_LABEL: 5
+ADMIN: French Polynesia
+GEONUNIT: French Polynesia
+GU_A3: PYF
+GN_ID: 4034365
+GN_NAME: Iles du Vent
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PF.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: null
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: null
+NAME_ES: null
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: null
+NAME_KO: null
+NAME_NL: null
+NAME_PL: null
+NAME_PT: null
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159316149

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: ZWE-527
+DISS_ME: 527
+ISO_3166_2: ZW-MI
+WIKIPEDIA: null
+ISO_A2: ZW
+ADM0_SR: 1
+NAME: Midlands
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZW.MI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: ZI02
+FIPS_ALT: null
+WOE_ID: 2347811
+WOE_LABEL: Midlands, ZW, Zimbabwe
+WOE_NAME: Midlands
+LATITUDE: -19.0828
+LONGITUDE: 29.4323
+SOV_A3: ZWE
+ADM0_A3: ZWE
+ADM0_LABEL: 2
+ADMIN: Zimbabwe
+GEONUNIT: Zimbabwe
+GU_A3: ZWE
+GN_ID: 886119
+GN_NAME: Midlands Province
+GNS_ID: -2316503
+GNS_NAME: Midlands
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZW.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZI02
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q456556
+NAME_AR: إقليم ميدلاندس
+NAME_BN: মিডল্যান্ডস প্রদেশ
+NAME_DE: Provinz Midlands
+NAME_EN: Midlands Province
+NAME_ES: Midlands
+NAME_FR: Province des Midlands
+NAME_EL: Μίντλαντς
+NAME_HI: मिडलैंड्स प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Midlands
+NAME_IT: provincia delle Midland
+NAME_JA: ミッドランズ州
+NAME_KO: 미들랜즈 주
+NAME_NL: Midlands
+NAME_PL: Midlands
+NAME_PT: Midlands
+NAME_RU: Мидлендс
+NAME_SV: Midlands
+NAME_TR: Midlands
+NAME_VI: Tỉnh Midlands
+NAME_ZH: 中部省
+NE_ID: 1159307823

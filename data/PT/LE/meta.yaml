@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-740
+DISS_ME: 740
+ISO_3166_2: PT-10
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Leiria
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: Centro
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: LE
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO13
+FIPS_ALT: null
+WOE_ID: 2346572
+WOE_LABEL: Leiria, PT, Portugal
+WOE_NAME: Leiria
+LATITUDE: 39.7583
+LONGITUDE: -8.75857
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2267094
+GN_NAME: Distrito de Leiria
+GNS_ID: -2167878
+GNS_NAME: Leiria, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q244512
+NAME_AR: محافظة ليريا
+NAME_BN: লেইরাইয়া  জেলা
+NAME_DE: Distrikt Leiria
+NAME_EN: Leiria District
+NAME_ES: Distrito de Leiria
+NAME_FR: District de Leiria
+NAME_EL: Λειρία
+NAME_HI: लीरिया जिला
+NAME_HU: Leiria
+NAME_ID: Distrik Leiria
+NAME_IT: distretto di Leiria
+NAME_JA: レイリア県
+NAME_KO: 레이리아 현
+NAME_NL: Leiria
+NAME_PL: Dystrykt Leiria
+NAME_PT: Distrito de Leiria
+NAME_RU: Лейрия
+NAME_SV: Leiria
+NAME_TR: Leiria District
+NAME_VI: Leiria
+NAME_ZH: 萊里亞區
+NE_ID: 1159310561

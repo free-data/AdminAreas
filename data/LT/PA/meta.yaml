@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LTU-1071
+DISS_ME: 1071
+ISO_3166_2: LT-PN
+WIKIPEDIA: null
+ISO_A2: LT
+ADM0_SR: 1
+NAME: Panevezio
+NAME_ALT: Panevėžys|Ponewiesch|Ponewjesh|Poneviezli
+NAME_LOCAL: null
+TYPE: Apskritis
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LT.PA
+NOTE: NUTS code LT005
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: LH60
+FIPS_ALT: null
+WOE_ID: 55848086
+WOE_LABEL: Panevezys County, LT, Lithuania
+WOE_NAME: Panevezio
+LATITUDE: 56.0725
+LONGITUDE: 24.9143
+SOV_A3: LTU
+ADM0_A3: LTU
+ADM0_LABEL: 5
+ADMIN: Lithuania
+GEONUNIT: Lithuania
+GU_A3: LTU
+GN_ID: 864480
+GN_NAME: Panevezio Apskritis
+GNS_ID: 9084748
+GNS_NAME: Panevezio Apskritis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LT.60
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: LH60
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q188085
+NAME_AR: مقاطعة بانيفيزيس
+NAME_BN: প্যানেভেজিস কাউন্টি
+NAME_DE: Bezirk Panevėžys
+NAME_EN: Panevėžys County
+NAME_ES: Provincia de Panevėžys
+NAME_FR: Apskritis de Panevėžys
+NAME_EL: Επαρχία Πανεβεζίς
+NAME_HI: पेनेवेज़िस काउंटी
+NAME_HU: null
+NAME_ID: County Panevėžys
+NAME_IT: contea di Panevėžys
+NAME_JA: パネヴェジース県
+NAME_KO: 파네베지스 주
+NAME_NL: Panevėžys
+NAME_PL: Okręg poniewieski
+NAME_PT: Panevėžys
+NAME_RU: Паневежский уезд
+NAME_SV: Panevėžys
+NAME_TR: Panevezys County
+NAME_VI: Hạt Panevezys
+NAME_ZH: 帕涅韋日斯縣
+NE_ID: 1159311037

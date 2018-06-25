@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5184
+DISS_ME: 5184
+ISO_3166_2: MU-FL
+WIKIPEDIA: http://en.wikipedia.org/wiki/Flacq_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Flacq
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.FL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346229
+WOE_LABEL: Flacq, MU, Mauritius
+WOE_NAME: Flacq
+LATITUDE: -20.2173
+LONGITUDE: 57.7206
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934522
+GN_NAME: Flacq District
+GNS_ID: -1355007
+GNS_NAME: Flacq District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.13
+REGION_SUB: Flacq
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MP13
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q911651
+NAME_AR: مقاطعة فلاسك
+NAME_BN: ফ্লাকা জেলা
+NAME_DE: Flacq
+NAME_EN: Flacq District
+NAME_ES: Distrito de Flacq
+NAME_FR: Flacq
+NAME_EL: Φλακ
+NAME_HI: फ्लैक जिला
+NAME_HU: null
+NAME_ID: Distrik Flacq
+NAME_IT: Flacq
+NAME_JA: フラック県
+NAME_KO: 플라크 구
+NAME_NL: Flacq
+NAME_PL: Flacq
+NAME_PT: Flacq
+NAME_RU: Флак
+NAME_SV: Flacq
+NAME_TR: Flacq Bölgesi
+NAME_VI: Quận Flacq
+NAME_ZH: 弗拉克區
+NE_ID: 1159316573

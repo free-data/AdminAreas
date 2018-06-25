@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5236
+DISS_ME: 5236
+ISO_3166_2: MV-12
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Meemu
+NAME_ALT: Mulak Atholhu
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: K
+CODE_HASC: MV.ME
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: MV-CE
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: M
+POSTAL: M
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070323
+WOE_LABEL: Meemu, MV, Maldives
+WOE_NAME: Meemu
+LATITUDE: 2.94938
+LONGITUDE: 73.5688
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1281985
+GN_NAME: Meemu Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2210716
+NAME_AR: ميمو أتول
+NAME_BN: মেমো আটল
+NAME_DE: Mulaku-Atoll
+NAME_EN: Meemu Atoll
+NAME_ES: Atolón Meemu
+NAME_FR: Atoll Mulaku
+NAME_EL: Μέμου Ατόλ
+NAME_HI: मीमु एटोल
+NAME_HU: Mulaku-atoll
+NAME_ID: Atol Meemu
+NAME_IT: Atollo Meemu
+NAME_JA: ミーム環礁
+NAME_KO: 미무 환초
+NAME_NL: Meemu-atol
+NAME_PL: Meemu
+NAME_PT: Meemu Atoll
+NAME_RU: Меему
+NAME_SV: Meemu Atholhu
+NAME_TR: Meemu Atoll
+NAME_VI: Meemu Atoll
+NAME_ZH: null
+NE_ID: 1159316687

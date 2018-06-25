@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LTU-1072
+DISS_ME: 1072
+ISO_3166_2: LT-SA
+WIKIPEDIA: null
+ISO_A2: LT
+ADM0_SR: 1
+NAME: Šiauliai
+NAME_ALT: Šiauliai|Schaulen|Shavli
+NAME_LOCAL: null
+TYPE: Apskritis
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LT.SH
+NOTE: NUTS code LT006
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: LH61
+FIPS_ALT: null
+WOE_ID: 55848079
+WOE_LABEL: Siauliai County, LT, Lithuania
+WOE_NAME: Šiauliai
+LATITUDE: 55.9585
+LONGITUDE: 23.2677
+SOV_A3: LTU
+ADM0_A3: LTU
+ADM0_LABEL: 5
+ADMIN: Lithuania
+GEONUNIT: Lithuania
+GU_A3: LTU
+GN_ID: 864481
+GN_NAME: Siauliu Apskritis
+GNS_ID: 9084749
+GNS_NAME: Siauliu Apskritis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LT.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: LH61
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q186410
+NAME_AR: مقاطعة شياولياي
+NAME_BN: সিয়াউলিয়াই কাউন্টি
+NAME_DE: Bezirk Šiauliai
+NAME_EN: Šiauliai County
+NAME_ES: Provincia de Šiauliai
+NAME_FR: Apskritis de Šiauliai
+NAME_EL: Επαρχία Σιαουλιάι
+NAME_HI: सिऔलिआई काउंटी
+NAME_HU: null
+NAME_ID: County Šiauliai
+NAME_IT: contea di Šiauliai
+NAME_JA: シャウレイ県
+NAME_KO: 샤울랴이 주
+NAME_NL: Šiauliai
+NAME_PL: Okręg szawelski
+NAME_PT: Šiauliai
+NAME_RU: Шяуляйский уезд
+NAME_SV: Šiauliai
+NAME_TR: Siauliai County
+NAME_VI: Hạt siauliai
+NAME_ZH: 希奧利艾縣
+NE_ID: 1159311039

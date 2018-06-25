@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1296
+DISS_ME: 1296
+ISO_3166_2: AR-L
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: La Pampa
+NAME_ALT: El Pampa|Eva Perln
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.LP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: LP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR11
+FIPS_ALT: null
+WOE_ID: 2344685
+WOE_LABEL: La Pampa, AR, Argentina
+WOE_NAME: La Pampa
+LATITUDE: -37.3861
+LONGITUDE: -65.8386
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3849574
+GN_NAME: Provincia de La Pampa
+GNS_ID: -997311
+GNS_NAME: La Pampa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR11
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44795
+NAME_AR: لا بامبا
+NAME_BN: লা পাম্পা প্রদেশ
+NAME_DE: Provinz La Pampa
+NAME_EN: La Pampa
+NAME_ES: Provincia de La Pampa
+NAME_FR: La Pampa
+NAME_EL: Λα Πάμπα
+NAME_HI: ला पम्पा
+NAME_HU: null
+NAME_ID: Provinsi La Pampa
+NAME_IT: provincia di La Pampa
+NAME_JA: ラ・パンパ州
+NAME_KO: 라팜파 주
+NAME_NL: La Pampa
+NAME_PL: La Pampa
+NAME_PT: La Pampa
+NAME_RU: Ла-Пампа
+NAME_SV: La Pampa
+NAME_TR: La Pampa eyaleti
+NAME_VI: La Pampa
+NAME_ZH: 拉潘帕省
+NE_ID: 1159309761

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 5
+LABELRANK: 4
+SOVEREIGNT: United States of America
+SOV_A3: US1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Dependency
+ADMIN: American Samoa
+ADM0_A3: ASM
+GEOU_DIF: 0
+GEOUNIT: American Samoa
+GU_A3: ASM
+SU_DIF: 0
+SUBUNIT: American Samoa
+SU_A3: ASM
+BRK_DIFF: 0
+NAME: American Samoa
+NAME_LONG: American Samoa
+BRK_A3: ASM
+BRK_NAME: American Samoa
+BRK_GROUP: null
+ABBREV: Am. Samoa
+POSTAL: AS
+FORMAL_EN: American Samoa
+FORMAL_FR: null
+NAME_CIAWF: American Samoa
+NOTE_ADM0: U.S.A.
+NOTE_BRK: null
+NAME_SORT: American Samoa
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+POP_EST: 51504
+POP_RANK: 8
+GDP_MD_EST: 711
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2013
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: AQ
+ISO_A2: AS
+ISO_A3: ASM
+ISO_A3_EH: ASM
+ISO_N3: 016
+UN_A3: 016
+WB_A2: AS
+WB_A3: ASM
+WOE_ID: 23424746
+WOE_ID_EH: 23424746
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ASM
+ADM0_A3_US: ASM
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Oceania
+REGION_UN: Oceania
+SUBREGION: Polynesia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 14
+LONG_LEN: 14
+ABBREV_LEN: 9
+TINY: 3
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321357
+WIKIDATAID: Q16641
+NAME_AR: ساموا الأمريكية
+NAME_BN: আমেরিকান সামোয়া
+NAME_DE: Amerikanisch-Samoa
+NAME_EN: American Samoa
+NAME_ES: Samoa Estadounidense
+NAME_FR: Samoa américaines
+NAME_EL: Αμερικανική Σαμόα
+NAME_HI: अमेरिकी समोआ
+NAME_HU: Amerikai Szamoa
+NAME_ID: Samoa Amerika
+NAME_IT: Samoa Americane
+NAME_JA: アメリカ領サモア
+NAME_KO: 아메리칸사모아
+NAME_NL: Amerikaans-Samoa
+NAME_PL: Samoa Amerykańskie
+NAME_PT: Samoa Americana
+NAME_RU: Американское Самоа
+NAME_SV: Amerikanska Samoa
+NAME_TR: Amerikan Samoası
+NAME_VI: Samoa thuộc Mỹ
+NAME_ZH: 美屬薩摩亞

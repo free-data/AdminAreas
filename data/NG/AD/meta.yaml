@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: NGA-2881
+DISS_ME: 2881
+ISO_3166_2: NG-AD
+WIKIPEDIA: null
+ISO_A2: NG
+ADM0_SR: 1
+NAME: Adamawa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: NG.AD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: AD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 2
+FIPS: NI35
+FIPS_ALT: null
+WOE_ID: 2346363
+WOE_LABEL: Adamawa, NG, Nigeria
+WOE_NAME: Adamawa
+LATITUDE: 9.47906
+LONGITUDE: 12.5768
+SOV_A3: NGA
+ADM0_A3: NGA
+ADM0_LABEL: 2
+ADMIN: Nigeria
+GEONUNIT: Nigeria
+GU_A3: NGA
+GN_ID: 2565342
+GN_NAME: Adamawa State
+GNS_ID: 29565
+GNS_NAME: Adamawa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NG.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: NI35
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q337514
+NAME_AR: ولاية آدماوة
+NAME_BN: আডামাওয়া অঙ্গরাজ্য
+NAME_DE: Adamawa
+NAME_EN: Adamawa State
+NAME_ES: Adamawa
+NAME_FR: État d'Adamawa
+NAME_EL: Ανταμάβα
+NAME_HI: अदामावा राज्य
+NAME_HU: null
+NAME_ID: Adamawa
+NAME_IT: Adamawa
+NAME_JA: アダマワ州
+NAME_KO: 아다마와 주
+NAME_NL: Adamawa
+NAME_PL: Adamawa
+NAME_PT: Adamawa
+NAME_RU: Адамава
+NAME_SV: Adamawa
+NAME_TR: Adamawa Eyaleti
+NAME_VI: Bang Adamawa
+NAME_ZH: 阿達馬瓦
+NE_ID: 1159313845

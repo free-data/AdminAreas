@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2777
+DISS_ME: 2777
+ISO_3166_2: GB-STS
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Staffordshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: GB.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: null
+PROVNUM_NE: 20031
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKM9
+FIPS_ALT: UKN1
+WOE_ID: 12602189
+WOE_LABEL: null
+WOE_NAME: Staffordshire
+LATITUDE: 52.9024
+LONGITUDE: -2.01517
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2637141
+GN_NAME: Staffordshire
+GNS_ID: -2608511
+GNS_NAME: Staffordshire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.M9
+REGION_SUB: Staffordshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23105
+NAME_AR: ستافوردشاير
+NAME_BN: স্ট্যাফোর্ডশায়ার
+NAME_DE: Staffordshire
+NAME_EN: Staffordshire
+NAME_ES: Staffordshire
+NAME_FR: Staffordshire
+NAME_EL: Στάφορντσαϊρ
+NAME_HI: स्टैफ़र्डशायर
+NAME_HU: Staffordshire
+NAME_ID: Staffordshire
+NAME_IT: Staffordshire
+NAME_JA: スタッフォードシャー
+NAME_KO: 스태퍼드셔 주
+NAME_NL: Staffordshire
+NAME_PL: Staffordshire
+NAME_PT: Staffordshire
+NAME_RU: Стаффордшир
+NAME_SV: Staffordshire
+NAME_TR: Staffordshire
+NAME_VI: Staffordshire
+NAME_ZH: 斯塔福德郡
+NE_ID: 1159314801

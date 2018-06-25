@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PAN-3454
+DISS_ME: 3454
+ISO_3166_2: PA-NB
+WIKIPEDIA: null
+ISO_A2: PA
+ADM0_SR: 6
+NAME: Ngöbe Buglé
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comarca Indígena
+TYPE_EN: Indigenous Territory
+CODE_LOCAL: null
+CODE_HASC: PA.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 14
+DATARANK: 8
+ABBREV: null
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: PM01
+FIPS_ALT: PM07
+WOE_ID: 28358287
+WOE_LABEL: NgÃ¶be BuglÃ©, PA, Panama
+WOE_NAME: Ngöbe Buglé
+LATITUDE: 8.68
+LONGITUDE: -81.7558
+SOV_A3: PAN
+ADM0_A3: PAN
+ADM0_LABEL: 2
+ADMIN: Panama
+GEONUNIT: Panama
+GU_A3: PAN
+GN_ID: 7303688
+GN_NAME: Ngoebe-Bugle
+GNS_ID: 11058143
+GNS_NAME: Ngobe-Bugle, Comarca de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PA.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: PM12
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1129783
+NAME_AR: نجوب-بولجي كوماركا
+NAME_BN: নাগুবে বিউগল  কুমাকা
+NAME_DE: Ngöbe-Buglé
+NAME_EN: Ngöbe-Buglé Comarca
+NAME_ES: Ngäbe-Buglé
+NAME_FR: Ngöbe-Buglé
+NAME_EL: Νγκόμπε-Μπουγκλέ
+NAME_HI: गोब-ब्यूगल कोमारका
+NAME_HU: null
+NAME_ID: Ngöbe-Buglé Comarca
+NAME_IT: Ngäbe-Buglé
+NAME_JA: ノベ・ブグレ自治区
+NAME_KO: 응가베부글레 특구
+NAME_NL: Ngöbe-Buglé
+NAME_PL: Ngöbe-Buglé
+NAME_PT: Ngöbe-Buglé
+NAME_RU: Нгобе-Бугле
+NAME_SV: Ngöbe-Buglé
+NAME_TR: Ngöbe-Buglé County
+NAME_VI: Ngobe-Buglé Comarca
+NAME_ZH: 恩戈貝布格勒自治區
+NE_ID: 1159311389

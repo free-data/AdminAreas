@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: POL-3139
+DISS_ME: 3139
+ISO_3166_2: PL-WN
+WIKIPEDIA: null
+ISO_A2: PL
+ADM0_SR: 1
+NAME: Warmian-Masurian
+NAME_ALT: Warminsko-Mazurskie
+NAME_LOCAL: null
+TYPE: Województwo
+TYPE_EN: Voivodeship|Province
+CODE_LOCAL: null
+CODE_HASC: PL.WN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20015
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: WN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: PL85
+FIPS_ALT: PL30|PL85
+WOE_ID: 12577948
+WOE_LABEL: Warmian-Masurian, PL, Poland
+WOE_NAME: Warmian-Masurian
+LATITUDE: 53.8526
+LONGITUDE: 20.9711
+SOV_A3: POL
+ADM0_A3: POL
+ADM0_LABEL: 2
+ADMIN: Poland
+GEONUNIT: Poland
+GU_A3: POL
+GN_ID: 858791
+GN_NAME: Wojewodztwo Warminsko-Mazurskie
+GNS_ID: 9007892
+GNS_NAME: Warminsko-Mazurskie, Wojewodztwo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PL.85
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: PL85
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q54184
+NAME_AR: محافظة فارميا-مازوريا
+NAME_BN: ওয়ারমিয়া-মাসুরিয়ান ভয়ভোডেশিপ
+NAME_DE: Woiwodschaft Ermland-Masuren
+NAME_EN: Warmian-Masurian Voivodeship
+NAME_ES: Voivodato de Varmia y Masuria
+NAME_FR: Voïvodie de Varmie-Mazurie
+NAME_EL: βοϊβοδάτο Βαρμίας-Μαζουρίας
+NAME_HI: वार्मियन-मसुरियन वाइवोडीशिप
+NAME_HU: Varmia-Mazúriai vajdaság
+NAME_ID: Provinsi Warmia-Mazury
+NAME_IT: voivodato della Varmia-Masuria
+NAME_JA: ヴァルミア＝マズールィ県
+NAME_KO: 바르미아마주리 주
+NAME_NL: Ermland-Mazurië
+NAME_PL: województwo warmińsko-mazurskie
+NAME_PT: Voivodia da Vármia-Masúria
+NAME_RU: Варминско-Мазурское воеводство
+NAME_SV: Ermland-Masuriens vojvodskap
+NAME_TR: Varmiya-Mazurya Voyvodalığı
+NAME_VI: Warmińsko-Mazurskie
+NAME_ZH: 瓦爾米亞-馬祖里省
+NE_ID: 1159314675

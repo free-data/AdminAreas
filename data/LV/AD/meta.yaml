@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5754
+DISS_ME: 5754
+ISO_3166_2: LV-011
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Ādaži
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.AD
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG34
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.108
+LONGITUDE: 24.3855
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628327
+GN_NAME: Adazu Novads
+GNS_ID: 10978993
+GNS_NAME: Adazu Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.34
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG34
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3019837
+NAME_AR: بلدية آداجي
+NAME_BN: আদাজি পৌরসভা
+NAME_DE: Bezirk Ādaži
+NAME_EN: Ādaži Municipality
+NAME_ES: Municipalidad de Ādaži
+NAME_FR: Ādaži
+NAME_EL: Αντάζι
+NAME_HI: अदाज़ी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Ādaži
+NAME_IT: Comune di Ādaži
+NAME_JA: アーダジ
+NAME_KO: 아다지 시
+NAME_NL: Ādažu novads
+NAME_PL: Gmina Ādaži
+NAME_PT: Município de Adazi
+NAME_RU: Адажский край
+NAME_SV: Ādažu novads
+NAME_TR: Adazi Belediyesi
+NAME_VI: Đô thị tự trị Adazi
+NAME_ZH: null
+NE_ID: 1159317647

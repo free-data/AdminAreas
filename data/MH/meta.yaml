@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 6
+SOVEREIGNT: Marshall Islands
+SOV_A3: MHL
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Marshall Islands
+ADM0_A3: MHL
+GEOU_DIF: 0
+GEOUNIT: Marshall Islands
+GU_A3: MHL
+SU_DIF: 0
+SUBUNIT: Marshall Islands
+SU_A3: MHL
+BRK_DIFF: 0
+NAME: Marshall Is.
+NAME_LONG: Marshall Islands
+BRK_A3: MHL
+BRK_NAME: Marshall Is.
+BRK_GROUP: null
+ABBREV: M. Is.
+POSTAL: MH
+FORMAL_EN: Republic of the Marshall Islands
+FORMAL_FR: null
+NAME_CIAWF: Marshall Islands
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Marshall Islands
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 3
+POP_EST: 74539
+POP_RANK: 8
+GDP_MD_EST: 180
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: RM
+ISO_A2: MH
+ISO_A3: MHL
+ISO_A3_EH: MHL
+ISO_N3: 584
+UN_A3: 584
+WB_A2: MH
+WB_A3: MHL
+WOE_ID: 23424932
+WOE_ID_EH: 23424932
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: MHL
+ADM0_A3_US: MHL
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Oceania
+REGION_UN: Oceania
+SUBREGION: Micronesia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 12
+LONG_LEN: 16
+ABBREV_LEN: 6
+TINY: 2
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321057
+WIKIDATAID: Q709
+NAME_AR: جزر مارشال
+NAME_BN: মার্শাল দ্বীপপুঞ্জ
+NAME_DE: Marshallinseln
+NAME_EN: Marshall Islands
+NAME_ES: Islas Marshall
+NAME_FR: îles Marshall
+NAME_EL: Νησιά Μάρσαλ
+NAME_HI: मार्शल द्वीपसमूह
+NAME_HU: Marshall-szigetek
+NAME_ID: Kepulauan Marshall
+NAME_IT: Isole Marshall
+NAME_JA: マーシャル諸島
+NAME_KO: 마셜 제도
+NAME_NL: Marshalleilanden
+NAME_PL: Wyspy Marshalla
+NAME_PT: Ilhas Marshall
+NAME_RU: Маршалловы Острова
+NAME_SV: Marshallöarna
+NAME_TR: Marshall Adaları
+NAME_VI: Quần đảo Marshall
+NAME_ZH: 馬紹爾群島

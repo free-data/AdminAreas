@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-174
+DISS_ME: 174
+ISO_3166_2: CH-TG
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Thurgau
+NAME_ALT: Thurgovie|Turgovia|Turg¢via
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.TG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 35
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: TG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ19
+FIPS_ALT: null
+WOE_ID: 2347101
+WOE_LABEL: Canton of Thurgau, CH, Switzerland
+WOE_NAME: Thurgau
+LATITUDE: 47.5858
+LONGITUDE: 9.14593
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2658372
+GN_NAME: Kanton Thurgau
+GNS_ID: -2554452
+GNS_NAME: Thurgau, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.TG
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: SZ19
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12713
+NAME_AR: كانتون تورغاو
+NAME_BN: থোগাও
+NAME_DE: Kanton Thurgau
+NAME_EN: Thurgau
+NAME_ES: Turgovia
+NAME_FR: canton de Thurgovie
+NAME_EL: Θέργκο
+NAME_HI: ठूरगाउ कैन्टन
+NAME_HU: Thurgau kanton
+NAME_ID: Kanton Thurgau
+NAME_IT: Canton Turgovia
+NAME_JA: トゥールガウ州
+NAME_KO: 투르가우 주
+NAME_NL: Thurgau
+NAME_PL: Turgowia
+NAME_PT: Turgóvia
+NAME_RU: Тургау
+NAME_SV: Thurgau
+NAME_TR: Thurgau
+NAME_VI: Thurgau
+NAME_ZH: 圖爾高州
+NE_ID: 1159307681

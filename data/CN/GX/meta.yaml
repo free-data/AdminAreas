@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CHN-1152
+DISS_ME: 1152
+ISO_3166_2: CN-45
+WIKIPEDIA: null
+ISO_A2: CN
+ADM0_SR: 5
+NAME: Guangxi
+NAME_ALT: Guangxi Zhuang|Guangxi Zhuàngzú
+NAME_LOCAL: 廣西壯族自治區|广西壮族自治区
+TYPE: Zìzhìqu
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: CN.GX
+NOTE: null
+HASC_MAYBE: null
+REGION: South Central China
+REGION_COD: 4
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: GX
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: CH16
+FIPS_ALT: null
+WOE_ID: 12578006
+WOE_LABEL: Guangxi, CN, China
+WOE_NAME: Guangxi
+LATITUDE: 23.7451
+LONGITUDE: 108.756
+SOV_A3: CH1
+ADM0_A3: CHN
+ADM0_LABEL: 2
+ADMIN: China
+GEONUNIT: China
+GU_A3: CHN
+GN_ID: 1809867
+GN_NAME: Guangxi Zhuangzu Zizhiqu
+GNS_ID: -1907151
+GNS_NAME: Guangxi Zhuangzu Zizhiqu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CN.16
+REGION_SUB: Western
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CH16
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q15176
+NAME_AR: قوانغشي
+NAME_BN: কুয়াংশি
+NAME_DE: Guangxi
+NAME_EN: Guangxi Zhuang Autonomous Region
+NAME_ES: Guangxi
+NAME_FR: Guangxi
+NAME_EL: Κουανγκσί
+NAME_HI: गुआंगशी
+NAME_HU: Kuanghszi-Csuang Autonóm Terület
+NAME_ID: Guangxi
+NAME_IT: Guangxi
+NAME_JA: 広西チワン族自治区
+NAME_KO: 광시 좡족 자치구
+NAME_NL: Guangxi
+NAME_PL: Kuangsi
+NAME_PT: Guangxi
+NAME_RU: Гуанси-Чжуанский автономный район
+NAME_SV: Guangxi
+NAME_TR: Guangxi Zhuang Özerk Bölgesi
+NAME_VI: Quảng Tây
+NAME_ZH: 广西壮族自治区
+NE_ID: 1159310341

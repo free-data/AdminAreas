@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COG-2185
+DISS_ME: 2185
+ISO_3166_2: CG-15
+WIKIPEDIA: null
+ISO_A2: CG
+ADM0_SR: 1
+NAME: Cuvette-Ouest
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CG.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 3
+MAPCOLOR13: 10
+FIPS: CF10
+FIPS_ALT: CF14
+WOE_ID: 55998384
+WOE_LABEL: null
+WOE_NAME: Cuvette-Ouest
+LATITUDE: 0.0348606
+LONGITUDE: 14.558
+SOV_A3: COG
+ADM0_A3: COG
+ADM0_LABEL: 2
+ADMIN: Republic of the Congo
+GEONUNIT: Republic of Congo
+GU_A3: COG
+GN_ID: 2593118
+GN_NAME: Cuvette-Ouest
+GNS_ID: 6261159
+GNS_NAME: Cuvette-Ouest
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CG.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: CF14
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q125711
+NAME_AR: أدارة كوفيت-كويست
+NAME_BN: কুবেতে বিভাগ
+NAME_DE: Cuvette-Ouest
+NAME_EN: Cuvette-Ouest Department
+NAME_ES: Cuvette-Oeste
+NAME_FR: Cuvette-Ouest
+NAME_EL: Κυβέτ-Ουέστ
+NAME_HI: कुवेटे-आउस्ट विभाग
+NAME_HU: null
+NAME_ID: Cuvette-Ouest
+NAME_IT: Dipartimento di Cuvette-Ovest
+NAME_JA: 西キュヴェト地方
+NAME_KO: 퀴베트우에스트 주
+NAME_NL: Cuvette-Ouest
+NAME_PL: Departament Cuvette-Ouest
+NAME_PT: Cuvette-Ouest
+NAME_RU: Западный Кювет
+NAME_SV: Cuvette-Ouest
+NAME_TR: Batı Cuvette
+NAME_VI: Khu vực hành chính Cuvette-Ouest
+NAME_ZH: 西盆地省
+NE_ID: 1159311299

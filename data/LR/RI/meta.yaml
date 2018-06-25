@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LBR-792
+DISS_ME: 792
+ISO_3166_2: LR-RI
+WIKIPEDIA: null
+ISO_A2: LR
+ADM0_SR: 1
+NAME: River Cess
+NAME_ALT: Rivercess
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LR.RI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LI18
+FIPS_ALT: null
+WOE_ID: 2346112
+WOE_LABEL: null
+WOE_NAME: River Cess
+LATITUDE: 5.82919
+LONGITUDE: -9.39724
+SOV_A3: LBR
+ADM0_A3: LBR
+ADM0_LABEL: 2
+ADMIN: Liberia
+GEONUNIT: Liberia
+GU_A3: LBR
+GN_ID: 2588492
+GN_NAME: River Cess County
+GNS_ID: 292624
+GNS_NAME: River Cess County
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LR.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: LI18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q955095
+NAME_AR: مقاطعة ريفرسيس
+NAME_BN: রিভারকেস কাউন্টি
+NAME_DE: River Cess County
+NAME_EN: Rivercess County
+NAME_ES: Condado de Rivercess
+NAME_FR: Comté de River Cess
+NAME_EL: Ρίβερκες
+NAME_HI: रिवरसेस काउंटी
+NAME_HU: null
+NAME_ID: Rivercess County
+NAME_IT: contea di River Cess
+NAME_JA: リバーセス郡
+NAME_KO: 리버세스 주
+NAME_NL: River Cess
+NAME_PL: Hrabstwo River Cess
+NAME_PT: River Cess
+NAME_RU: Ривер-Сесс
+NAME_SV: River Cess County
+NAME_TR: Rivercess County
+NAME_VI: Hạt Rivercess
+NAME_ZH: 里弗塞斯縣
+NE_ID: 1159308935

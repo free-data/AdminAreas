@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2231
+DISS_ME: 2231
+ISO_3166_2: BG-20
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Sliven
+NAME_ALT: Slivno
+NAME_LOCAL: Сливен
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20027
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU56
+FIPS_ALT: BU31|BU56
+WOE_ID: 20070049
+WOE_LABEL: Sliven, BG, Bulgaria
+WOE_NAME: Sliven
+LATITUDE: 42.7164
+LONGITUDE: 26.2373
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 864557
+GN_NAME: Oblast Sliven
+GNS_ID: 9085986
+GNS_NAME: Sliven, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.56
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BU56
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q113120
+NAME_AR: محافظة اسليون
+NAME_BN: স্লিভেন প্রদেশ
+NAME_DE: Oblast Sliwen
+NAME_EN: Sliven Province
+NAME_ES: Sliven
+NAME_FR: Sliven
+NAME_EL: Σλίβεν
+NAME_HI: स्लिवेन प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Sliven
+NAME_IT: distretto di Sliven
+NAME_JA: スリヴェン州
+NAME_KO: 슬리벤 주
+NAME_NL: Sliven
+NAME_PL: Obwód Sliwen
+NAME_PT: Sliven
+NAME_RU: Сливенская область
+NAME_SV: Sliven
+NAME_TR: Sliven ili
+NAME_VI: Sliven
+NAME_ZH: 斯利文州
+NE_ID: 1159312465

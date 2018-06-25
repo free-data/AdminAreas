@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2761
+DISS_ME: 2761
+ISO_3166_2: GB-LCE
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Leicester
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.LC
+NOTE: null
+HASC_MAYBE: null
+REGION: East Midlands
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Leic'ter
+POSTAL: LC
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKH4
+FIPS_ALT: UKH4
+WOE_ID: 12696154
+WOE_LABEL: null
+WOE_NAME: Leicester City
+LATITUDE: 52.6114
+LONGITUDE: -1.1183
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333165
+GN_NAME: City of Leicester
+GNS_ID: 6077607
+GNS_NAME: Leicester, City of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.H4
+REGION_SUB: Leicestershire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q83065
+NAME_AR: لستر
+NAME_BN: লিচেস্টার
+NAME_DE: Leicester
+NAME_EN: Leicester
+NAME_ES: Leicester
+NAME_FR: Leicester
+NAME_EL: Λέστερ
+NAME_HI: लीसेस्टर
+NAME_HU: Leicester
+NAME_ID: Leicester
+NAME_IT: Leicester
+NAME_JA: レスター
+NAME_KO: 레스터
+NAME_NL: Leicester
+NAME_PL: Leicester
+NAME_PT: Leicester
+NAME_RU: Лестер
+NAME_SV: Leicester
+NAME_TR: Leicester
+NAME_VI: Leicester
+NAME_ZH: 莱斯特
+NE_ID: 1159314769

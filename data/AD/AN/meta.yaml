@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: AND-4876
+DISS_ME: 4876
+ISO_3166_2: AD-07
+WIKIPEDIA: http://en.wikipedia.org/wiki/Andorra_la_Vella
+ISO_A2: AD
+ADM0_SR: 3
+NAME: Andorra la Vella
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: AD.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 20
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: AN07
+FIPS_ALT: null
+WOE_ID: 20070553
+WOE_LABEL: Andorra la Vella, AD, Andorra
+WOE_NAME: Andorra la Vella
+LATITUDE: 42.5128
+LONGITUDE: 1.51066
+SOV_A3: AND
+ADM0_A3: AND
+ADM0_LABEL: 5
+ADMIN: Andorra
+GEONUNIT: Andorra
+GU_A3: AND
+GN_ID: 3041566
+GN_NAME: Parroquia d'Andorra la Vella
+GNS_ID: -1394436
+GNS_NAME: Andorra la Vella
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AD.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AN07
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2522163
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: Andorra la Vella
+NAME_ES: Andorra la Vella
+NAME_FR: Andorre-la-Vieille
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: parrocchia di Andorra la Vella
+NAME_JA: null
+NAME_KO: null
+NAME_NL: Parochie Andorra la Vella
+NAME_PL: null
+NAME_PT: Andorra-a-Velha
+NAME_RU: Андорра-ла-Велья
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159315671

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1475
+DISS_ME: 1475
+ISO_3166_2: TD-OD
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ouadda%C3%AF_Region
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Ouaddaï
+NAME_ALT: Ouaddai|Ouadaï
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.OA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: OA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD12
+FIPS_ALT: null
+WOE_ID: 2344956
+WOE_LABEL: Ouaddai, TD, Chad
+WOE_NAME: Ouaddaï
+LATITUDE: 13.4714
+LONGITUDE: 21.1068
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 242246
+GN_NAME: Ouaddai Region
+GNS_ID: -1102511
+GNS_NAME: Ouaddai, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD12
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q841338
+NAME_AR: منطقة وداي
+NAME_BN: উয়াডায় অঞ্চল
+NAME_DE: Region Wadai
+NAME_EN: Ouaddaï Region
+NAME_ES: Región de Ouaddaï
+NAME_FR: Ouaddaï
+NAME_EL: Ουαντάι
+NAME_HI: उडाई क्षेत्र
+NAME_HU: null
+NAME_ID: Region Ouaddaï
+NAME_IT: regione di Ouaddaï
+NAME_JA: ワダイ州
+NAME_KO: 와다이 주
+NAME_NL: Ouaddaï
+NAME_PL: Region Wadaj
+NAME_PT: Ouaddaï
+NAME_RU: Ваддай
+NAME_SV: Ouaddaï
+NAME_TR: Ouaddaï Bölgesi
+NAME_VI: Khu vực Ouaddai
+NAME_ZH: 瓦達伊區
+NE_ID: 1159310387

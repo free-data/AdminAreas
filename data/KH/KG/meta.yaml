@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1785
+DISS_ME: 1785
+ISO_3166_2: KH-4
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Kâmpóng Chhnang
+NAME_ALT: Kompong Chnang
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB03
+FIPS_ALT: null
+WOE_ID: 2344929
+WOE_LABEL: Kampong Chhnang, KH, Cambodia
+WOE_NAME: Kâmpóng Chhnang
+LATITUDE: 12.1624
+LONGITUDE: 104.548
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1831166
+GN_NAME: Khett Kampong Chhnang
+GNS_ID: -1023768
+GNS_NAME: Kampong Chhnang, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q877468
+NAME_AR: مقاطعة كامبونغ تشنانغ
+NAME_BN: কাম্পাং চাং প্রদেশ
+NAME_DE: Kampong Chhnang
+NAME_EN: Kampong Chhnang Province
+NAME_ES: Kompung Chinang
+NAME_FR: province de Kampong Chhnang
+NAME_EL: Κάμπονγκ Τσνάνγκ
+NAME_HI: कैम्पोंग चनैंग प्रांत
+NAME_HU: null
+NAME_ID: Kampong Chhnang
+NAME_IT: provincia di Kampong Chhnang
+NAME_JA: コンポンチュナン州
+NAME_KO: 캄퐁치낭 주
+NAME_NL: Kampong Chhnang
+NAME_PL: Prowincja Kampong Chhnang
+NAME_PT: Kampong Chhnang
+NAME_RU: Кампонгчнанг
+NAME_SV: Kampong Chhnang
+NAME_TR: Kampong Chhang Province
+NAME_VI: Kampong Chhnang
+NAME_ZH: 磅清扬省
+NE_ID: 1159311565

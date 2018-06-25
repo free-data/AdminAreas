@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BLR-2340
+DISS_ME: 2340
+ISO_3166_2: BY-MA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Mogilev_Region
+ISO_A2: BY
+ADM0_SR: 1
+NAME: Mogilev
+NAME_ALT: Могилёв|Mahiljow|Mogilev|Mahilyowskaya Voblasts'
+NAME_LOCAL: Mahilëuskaja voblasc'
+TYPE: Voblasts'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: BY.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: BO06
+FIPS_ALT: BO|BO06
+WOE_ID: 2344833
+WOE_LABEL: Mahilyowskaya Voblasts', BY, Belarus
+WOE_NAME: Mahilyow
+LATITUDE: 53.8241
+LONGITUDE: 30.4041
+SOV_A3: BLR
+ADM0_A3: BLR
+ADM0_LABEL: 2
+ADMIN: Belarus
+GEONUNIT: Belarus
+GU_A3: BLR
+GN_ID: 625073
+GN_NAME: Mahilyowskaya Voblasts'
+GNS_ID: -1946395
+GNS_NAME: Mahilyowskaya Voblasts'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BY.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: BO06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q189822
+NAME_AR: موغيليوف أوبلاست
+NAME_BN: মুগিলেভ অঞ্চল
+NAME_DE: Woblast Mahiljou
+NAME_EN: Mogilev Region
+NAME_ES: Provincia de Maguilov
+NAME_FR: Voblast de Moguilev
+NAME_EL: Μογκίλεφ
+NAME_HI: मोगिलेव क्षेत्र
+NAME_HU: Mahiljovi terület
+NAME_ID: Provinsi Mahilyow
+NAME_IT: Regione di Mahilëŭ
+NAME_JA: マヒリョウ州
+NAME_KO: 마힐료우 주
+NAME_NL: Oblast Mahiljow
+NAME_PL: Obwód mohylewski
+NAME_PT: Voblast de Mahilou
+NAME_RU: Могилёвская область
+NAME_SV: Mahiljoŭs voblast
+NAME_TR: Mahilyov Voblastı
+NAME_VI: Khu vực Mogilev
+NAME_ZH: 莫吉廖夫州
+NE_ID: 1159312997

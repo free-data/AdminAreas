@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2244
+DISS_ME: 2244
+ISO_3166_2: BG-23
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Sofia
+NAME_ALT: Sofiya|Sofija
+NAME_LOCAL: Sofija
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.SF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU58
+FIPS_ALT: BU30|BU58
+WOE_ID: 20070061
+WOE_LABEL: Sofiya, BG, Bulgaria
+WOE_NAME: Sofia
+LATITUDE: 42.288
+LONGITUDE: 23.606
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 727012
+GN_NAME: Sofiya
+GNS_ID: -838488
+GNS_NAME: Sofiya, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.58
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU58
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q202904
+NAME_AR: مقاطعة صوفيا
+NAME_BN: সোফিয়া প্রদেশ
+NAME_DE: Oblast Sofia
+NAME_EN: Sofia Province
+NAME_ES: Sofía
+NAME_FR: Sofia
+NAME_EL: Σόφια
+NAME_HI: सोफिया प्रांत
+NAME_HU: null
+NAME_ID: Oblast Sofia
+NAME_IT: distretto di Sofia
+NAME_JA: ソフィア州
+NAME_KO: 소피아 주
+NAME_NL: Sofia
+NAME_PL: Obwód sofijski
+NAME_PT: Sófia
+NAME_RU: Софийская область
+NAME_SV: Sofijska oblast
+NAME_TR: Sofya ili
+NAME_VI: Tỉnh Sofia
+NAME_ZH: 索菲亞州
+NE_ID: 1159312483

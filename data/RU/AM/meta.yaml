@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2609
+DISS_ME: 2609
+ISO_3166_2: RU-AMU
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Amur
+NAME_ALT: Amurskaya Oblast
+NAME_LOCAL: Амурская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.AM
+NOTE: null
+HASC_MAYBE: null
+REGION: Far Eastern
+REGION_COD: null
+PROVNUM_NE: 20056
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: AM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS05
+FIPS_ALT: null
+WOE_ID: 2346888
+WOE_LABEL: Amurskaya Oblast, RU, Russia
+WOE_NAME: Amur
+LATITUDE: 52.9236
+LONGITUDE: 128.354
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 2027748
+GN_NAME: Amurskaya Oblast'
+GNS_ID: -2877323
+GNS_NAME: Amurskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.05
+REGION_SUB: Far Eastern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS05
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q6886
+NAME_AR: أمور أوبلاست
+NAME_BN: আমুর ওব্লাস্ট
+NAME_DE: Oblast Amur
+NAME_EN: Amur Oblast
+NAME_ES: Amur
+NAME_FR: Oblast de l'Amour
+NAME_EL: Περιφέρεια Αμούρ
+NAME_HI: आमुर ओब्लास्ट
+NAME_HU: Amuri terület
+NAME_ID: Oblast Amur
+NAME_IT: oblast' dell'Amur
+NAME_JA: アムール州
+NAME_KO: 아무르 주
+NAME_NL: Oblast Amoer
+NAME_PL: Obwód amurski
+NAME_PT: Oblast de Amur
+NAME_RU: Амурская область
+NAME_SV: Amur oblast
+NAME_TR: Amur Oblastı
+NAME_VI: Amur
+NAME_ZH: 阿穆尔州
+NE_ID: 1159313603

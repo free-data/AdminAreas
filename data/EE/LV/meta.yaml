@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: EST-1658
+DISS_ME: 1658
+ISO_3166_2: EE-59
+WIKIPEDIA: null
+ISO_A2: EE
+ADM0_SR: 1
+NAME: Lääne-Viru
+NAME_ALT: Laeaene-Viru|Lääne-Virumaa|Lääne-Viru maakond
+NAME_LOCAL: null
+TYPE: Maakond
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: EE.LV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 10
+FIPS: EN08
+FIPS_ALT: null
+WOE_ID: 2345282
+WOE_LABEL: Laane-Viru County, EE, Estonia
+WOE_NAME: Lääne-Viru
+LATITUDE: 59.229
+LONGITUDE: 26.3773
+SOV_A3: EST
+ADM0_A3: EST
+ADM0_LABEL: 2
+ADMIN: Estonia
+GEONUNIT: Estonia
+GU_A3: EST
+GN_ID: 590854
+GN_NAME: Laane-Virumaa
+GNS_ID: -2623109
+GNS_NAME: Laane-Virumaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EE.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: EN08
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q189952
+NAME_AR: مقاطعة لين-فيرو
+NAME_BN: লাআনে-ভিরু কাউন্টি
+NAME_DE: Kreis Lääne-Viru
+NAME_EN: Lääne-Viru County
+NAME_ES: Condado de Lääne-Viru
+NAME_FR: Comté de Viru-Ouest
+NAME_EL: Επαρχία Λέενε-Βίρου
+NAME_HI: लाएन-विरु काउंटी
+NAME_HU: Lääne-Virumaa
+NAME_ID: County Lääne-Viru
+NAME_IT: Lääne-Virumaa
+NAME_JA: レーネ＝ヴィル県
+NAME_KO: 래네비루 주
+NAME_NL: Lääne-Virumaa
+NAME_PL: Lääne-Virumaa
+NAME_PT: Lääne-Virumaa
+NAME_RU: Ляэне-Вирумаа
+NAME_SV: Lääne-Virumaa
+NAME_TR: Lääne-Viru ili
+NAME_VI: Hạt Laane-Viru
+NAME_ZH: 西維魯縣
+NE_ID: 1159313083

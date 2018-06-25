@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2269
+DISS_ME: 2269
+ISO_3166_2: TR-26
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Eskisehir
+NAME_ALT: Eskişehir
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20070
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU26
+FIPS_ALT: null
+WOE_ID: 2347283
+WOE_LABEL: EskiÅŸehir, TR, Turkey
+WOE_NAME: Eskisehir
+LATITUDE: 39.6297
+LONGITUDE: 31.0894
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 315201
+GN_NAME: Eskisehir
+GNS_ID: -748686
+GNS_NAME: Eskisehir Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU26
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q483053
+NAME_AR: إسكي شهر
+NAME_BN: এস্কিসেহির প্রদেশ
+NAME_DE: Eskişehir
+NAME_EN: Eskişehir Province
+NAME_ES: Provincia de Eskişehir
+NAME_FR: Eskişehir
+NAME_EL: Επαρχία Εσκί Σεχίρ
+NAME_HI: एस्कीसेहिर प्रांत
+NAME_HU: Eskişehir
+NAME_ID: Provinsi Eskişehir
+NAME_IT: provincia di Eskişehir
+NAME_JA: エスキシェヒル県
+NAME_KO: 에스키셰히르 주
+NAME_NL: Eskişehir
+NAME_PL: Eskişehir
+NAME_PT: Eskişehir
+NAME_RU: Эскишехир
+NAME_SV: Eskişehir
+NAME_TR: Eskişehir
+NAME_VI: Eskişehir
+NAME_ZH: 埃斯基谢希尔省
+NE_ID: 1159312371

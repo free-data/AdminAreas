@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2245
+DISS_ME: 2245
+ISO_3166_2: BG-14
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Pernik
+NAME_ALT: null
+NAME_LOCAL: Перник
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.PN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: PN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU49
+FIPS_ALT: BU30|BU49
+WOE_ID: 20070058
+WOE_LABEL: Pernik, BG, Bulgaria
+WOE_NAME: Pernik
+LATITUDE: 42.6064
+LONGITUDE: 22.8519
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 728331
+GN_NAME: Pernik
+GNS_ID: -837157
+GNS_NAME: Pernik, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.49
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU49
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012234
+NAME_AR: محافظة برنيك
+NAME_BN: পসর্নিক প্রদেশ
+NAME_DE: Oblast Pernik
+NAME_EN: Pernik Province
+NAME_ES: Pernik
+NAME_FR: Pernik
+NAME_EL: Πέρνικ
+NAME_HI: पर्निक प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Pernik
+NAME_IT: distretto di Pernik
+NAME_JA: ペルニク州
+NAME_KO: 페르니크 주
+NAME_NL: Pernik
+NAME_PL: Obwód Pernik
+NAME_PT: Pernik
+NAME_RU: Перникская область
+NAME_SV: Pernik
+NAME_TR: Pernik ili
+NAME_VI: Pernik
+NAME_ZH: 佩爾尼克州
+NE_ID: 1159312485

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-4858
+DISS_ME: 4858
+ISO_3166_2: TD-MO
+WIKIPEDIA: http://en.wikipedia.org/wiki/Mayo-Kebbi_Ouest_Region
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Mayo-Kebbi Ouest
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.MW
+NOTE: null
+HASC_MAYBE: TD.MK|TCD-MKE
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: MO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 16
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD20
+FIPS_ALT: null
+WOE_ID: 56013484
+WOE_LABEL: Mayo-Kebbi Ouest, TD, Chad
+WOE_NAME: Mayo-Kebbi Ouest
+LATITUDE: 9.26179
+LONGITUDE: 14.7357
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 7603253
+GN_NAME: Mayo-Kebbi West Region
+GNS_ID: 10624970
+GNS_NAME: Mayo-Kebbi Ouest
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD20
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q910393
+NAME_AR: منطقة مايو كيبي الغربي
+NAME_BN: মায়ো কেব্বি ওয়েস্ট অঞ্চল
+NAME_DE: Region Mayo-Kebbi Ouest
+NAME_EN: Mayo-Kebbi Ouest Region
+NAME_ES: Región de Mayo-Kebbi Oeste
+NAME_FR: Mayo-Kebbi Ouest
+NAME_EL: Μάγιο-Κέμπι Ουέστ
+NAME_HI: मेयो-केबी आउस्ट क्षेत्र
+NAME_HU: null
+NAME_ID: Region Mayo-Kebbi Ouest
+NAME_IT: regione di Mayo-Kebbi Ovest
+NAME_JA: 西マヨ・ケッビ州
+NAME_KO: 마요케비우에스트 주
+NAME_NL: Mayo-Kebbi Ouest
+NAME_PL: Region Mayo-Kebbi Ouest
+NAME_PT: Mayo-Kebbi Ouest
+NAME_RU: Западное Майо-Кеби
+NAME_SV: Mayo-Kebbi Ouest
+NAME_TR: Mayo-Kebbi Ouest Bölgesi
+NAME_VI: Khu vực Mayo-Kebbi Ouest
+NAME_ZH: 西凱比河區
+NE_ID: 1159311767

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-108
+DISS_ME: 108
+ISO_3166_2: TN-11
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Tunis
+NAME_ALT: Tounis|Tunis City|Tūnus|Túnez|Túnis|Tunisi|Tūnis
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.TU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: TU
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS36
+FIPS_ALT: null
+WOE_ID: 2347256
+WOE_LABEL: Tunis, TN, Tunisia
+WOE_NAME: Tunis
+LATITUDE: 36.7791
+LONGITUDE: 10.1724
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2464464
+GN_NAME: Gouvernorat de Tunis
+GNS_ID: -731707
+GNS_NAME: Tunis, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS36
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q328109
+NAME_AR: ولاية تونس
+NAME_BN: null
+NAME_DE: Gouvernorat Tunis
+NAME_EN: Tunis Governorate
+NAME_ES: Gobernación de Túnez
+NAME_FR: gouvernorat de Tunis
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Kegubernuran Tunis
+NAME_IT: governatorato di Tunisi
+NAME_JA: チュニス県
+NAME_KO: 튀니스 주
+NAME_NL: Tunis
+NAME_PL: Gubernatorstwo Tunis
+NAME_PT: Túnis
+NAME_RU: Тунис
+NAME_SV: Tunis
+NAME_TR: Tunus ili
+NAME_VI: null
+NAME_ZH: 突尼斯省
+NE_ID: 1159309379

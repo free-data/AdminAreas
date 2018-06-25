@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: EST-1657
+DISS_ME: 1657
+ISO_3166_2: EE-49
+WIKIPEDIA: null
+ISO_A2: EE
+ADM0_SR: 1
+NAME: Jõgeva
+NAME_ALT: Jogeva|Jõgevamaa|Jõgeva maakond
+NAME_LOCAL: null
+TYPE: Maakond
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: EE.JN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 10
+FIPS: EN05
+FIPS_ALT: null
+WOE_ID: 2345280
+WOE_LABEL: Jogeva County, EE, Estonia
+WOE_NAME: Jõgeva
+LATITUDE: 58.7313
+LONGITUDE: 26.5975
+SOV_A3: EST
+ADM0_A3: EST
+ADM0_LABEL: 2
+ADMIN: Estonia
+GEONUNIT: Estonia
+GU_A3: EST
+GN_ID: 591901
+GN_NAME: Jogevamaa
+GNS_ID: -2622030
+GNS_NAME: Jogevamaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EE.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: EN05
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q189974
+NAME_AR: مقاطعة يوجيفا
+NAME_BN: জোগেভা
+NAME_DE: Kreis Jõgeva
+NAME_EN: Jõgeva County
+NAME_ES: Condado de Jõgeva
+NAME_FR: Comté de Jõgeva
+NAME_EL: Επαρχία Γιογκέβα
+NAME_HI: जोगेवा काउंटी
+NAME_HU: Jõgevamaa
+NAME_ID: County Jõgeva
+NAME_IT: Jõgevamaa
+NAME_JA: ヨゲヴァ県
+NAME_KO: 여게바 주
+NAME_NL: Jõgevamaa
+NAME_PL: Jõgevamaa
+NAME_PT: Jõgevamaa
+NAME_RU: Йыгевамаа
+NAME_SV: Jõgevamaa
+NAME_TR: Jõgeva ili
+NAME_VI: Hạt Jogeva
+NAME_ZH: 約格瓦縣
+NE_ID: 1159313081

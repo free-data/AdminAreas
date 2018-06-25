@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1288
+DISS_ME: 1288
+ISO_3166_2: EC-Y
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Pastaza
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC17
+FIPS_ALT: null
+WOE_ID: 2345218
+WOE_LABEL: Pastaza, EC, Ecuador
+WOE_NAME: Pastaza
+LATITUDE: -1.84655
+LONGITUDE: -76.8768
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3653392
+GN_NAME: Provincia del Pastaza
+GNS_ID: -931637
+GNS_NAME: Pastaza, Provincia del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q214814
+NAME_AR: مقاطعة باستازا
+NAME_BN: পাস্তাজা প্রদেশ
+NAME_DE: Provinz Pastaza
+NAME_EN: Pastaza Province
+NAME_ES: Provincia de Pastaza
+NAME_FR: Pastaza
+NAME_EL: Παστάσα
+NAME_HI: पासताज़ा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Pastaza
+NAME_IT: provincia del Pastaza
+NAME_JA: パスタサ県
+NAME_KO: 파스타사 주
+NAME_NL: Pastaza
+NAME_PL: Prowincja Pastaza
+NAME_PT: Pastaza
+NAME_RU: Пастаса
+NAME_SV: Pastaza
+NAME_TR: Pastaza Province
+NAME_VI: Tỉnh Pastaza
+NAME_ZH: 帕斯塔薩省
+NE_ID: 1159309999

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5385
+DISS_ME: 5385
+ISO_3166_2: IT-PO
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 5
+NAME: Prato
+NAME_ALT: Tuscany|Toscane|Toskana
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 59
+CODE_HASC: IT.PO
+NOTE: ITE
+HASC_MAYBE: null
+REGION: Toscana
+REGION_COD: IT-52
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: PO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 5
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT16
+FIPS_ALT: null
+WOE_ID: 15022639
+WOE_LABEL: null
+WOE_NAME: Prato
+LATITUDE: 43.8965
+LONGITUDE: 11.0826
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 6458618
+GN_NAME: Provincia di Prato
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.PO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16250
+NAME_AR: مقاطعة براتو
+NAME_BN: প্রাটো-এর প্রদেশ
+NAME_DE: Provinz Prato
+NAME_EN: Province of Prato
+NAME_ES: Prato
+NAME_FR: Province de Prato
+NAME_EL: Πράτο
+NAME_HI: प्राटो प्रांत
+NAME_HU: Prato megye
+NAME_ID: Provinsi Prato
+NAME_IT: provincia di Prato
+NAME_JA: プラート県
+NAME_KO: 프라토 현
+NAME_NL: Prato
+NAME_PL: Prowincja Prato
+NAME_PT: Prato
+NAME_RU: Прато
+NAME_SV: Prato
+NAME_TR: Prato ili
+NAME_VI: Prato
+NAME_ZH: 普拉托省
+NE_ID: 1159317001

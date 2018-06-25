@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2233
+DISS_ME: 2233
+ISO_3166_2: BG-24
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Stara Zagora
+NAME_ALT: null
+NAME_LOCAL: Стара Загора
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.SZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20026
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SZ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU59
+FIPS_ALT: BU31|BU59
+WOE_ID: 20070054
+WOE_LABEL: Stara Zagora, BG, Bulgaria
+WOE_NAME: Stara Zagora
+LATITUDE: 42.4759
+LONGITUDE: 25.5689
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 864559
+GN_NAME: Oblast Stara Zagora
+GNS_ID: 9085993
+GNS_NAME: Stara Zagora, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.59
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BU59
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012583
+NAME_AR: مقاطعة ستارا زاغورا
+NAME_BN: স্টারা জাগোরা প্রদেশ
+NAME_DE: Oblast Stara Sagora
+NAME_EN: Stara Zagora Province
+NAME_ES: Stara Zagora
+NAME_FR: Stara Zagora
+NAME_EL: Στάρα Ζαγόρα
+NAME_HI: स्टारा ज़गोरा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Stara Zagora
+NAME_IT: distretto di Stara Zagora
+NAME_JA: スタラ・ザゴラ州
+NAME_KO: 스타라자고라 주
+NAME_NL: Stara Zagora
+NAME_PL: Obwód Stara Zagora
+NAME_PT: Stara Zagora
+NAME_RU: Старозагорская область
+NAME_SV: Stara Zagora
+NAME_TR: Eski Zağra ili
+NAME_VI: Stara Zagora
+NAME_ZH: 舊扎戈拉州
+NE_ID: 1159312469

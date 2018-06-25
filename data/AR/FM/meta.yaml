@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1307
+DISS_ME: 1307
+ISO_3166_2: AR-P
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Formosa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.FM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: FM
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR09
+FIPS_ALT: null
+WOE_ID: 2344683
+WOE_LABEL: Formosa, AR, Argentina
+WOE_NAME: Formosa
+LATITUDE: -24.9146
+LONGITUDE: -59.9494
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3433896
+GN_NAME: Provincia de Formosa
+GNS_ID: -989584
+GNS_NAME: Formosa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR09
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44761
+NAME_AR: محافظة فورموزا
+NAME_BN: ফারমোসা প্রদেশ
+NAME_DE: Provinz Formosa
+NAME_EN: Formosa Province
+NAME_ES: Provincia de Formosa
+NAME_FR: Formosa
+NAME_EL: Φορμόσα
+NAME_HI: फ़ॉरमोसा प्रान्त
+NAME_HU: Formosa tartomány
+NAME_ID: Provinsi Formosa
+NAME_IT: provincia di Formosa
+NAME_JA: フォルモサ州
+NAME_KO: 포르모사 주
+NAME_NL: Formosa
+NAME_PL: Formosa
+NAME_PT: Formosa
+NAME_RU: Формоса
+NAME_SV: Formosa
+NAME_TR: Formosa eyaleti
+NAME_VI: Formosa
+NAME_ZH: 福爾摩沙省
+NE_ID: 1159309785

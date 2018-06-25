@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1349
+DISS_ME: 1349
+ISO_3166_2: SV-SS
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: San Salvador
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES10
+FIPS_ALT: null
+WOE_ID: 2345301
+WOE_LABEL: San Salvador, SV, El Salvador
+WOE_NAME: San Salvador
+LATITUDE: 13.713
+LONGITUDE: -89.1488
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3583360
+GN_NAME: Departamento de San Salvador
+GNS_ID: -1148083
+GNS_NAME: San Salvador
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES10
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1543219
+NAME_AR: إدارة سان سلفادور
+NAME_BN: সান সাল্ভাদর বিভাগ
+NAME_DE: Departamento San Salvador
+NAME_EN: San Salvador Department
+NAME_ES: San Salvador
+NAME_FR: département de San Salvador
+NAME_EL: Διαμέρισμα Σαν Σαλβαδόρ
+NAME_HI: सान-साल्वाडोर
+NAME_HU: San Salvador megye
+NAME_ID: Departemen San Salvador
+NAME_IT: dipartimento di San Salvador
+NAME_JA: サン・サルバドル県
+NAME_KO: 산살바도르 주
+NAME_NL: San Salvador
+NAME_PL: San Salvador
+NAME_PT: San Salvador
+NAME_RU: Сан-Сальвадор
+NAME_SV: San Salvador
+NAME_TR: San Salvador
+NAME_VI: Khu vực hành chính San Salvador
+NAME_ZH: 聖薩爾瓦多省
+NE_ID: 1159309049

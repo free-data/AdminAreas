@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-669
+DISS_ME: 669
+ISO_3166_2: NI-CO
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Chontales
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU04
+FIPS_ALT: null
+WOE_ID: 2346420
+WOE_LABEL: Chontales, NI, Nicaragua
+WOE_NAME: Chontales
+LATITUDE: 12.0292
+LONGITUDE: -85.1156
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3620368
+GN_NAME: Departamento de Chontales
+GNS_ID: -1110643
+GNS_NAME: Chontales
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q498443
+NAME_AR: إدارة تشونتاليس
+NAME_BN: কুন্টালেস বিভাগ
+NAME_DE: Departamento Chontales
+NAME_EN: Chontales Department
+NAME_ES: Departamento de Chontales
+NAME_FR: département de Chontales
+NAME_EL: Τσοντάλες
+NAME_HI: कोन्टेल्स विभाग
+NAME_HU: Chontales megye
+NAME_ID: Departemen Chontales
+NAME_IT: dipartimento di Chontales
+NAME_JA: チョンタレス県
+NAME_KO: 촌탈레스 주
+NAME_NL: Chontales
+NAME_PL: Chontales
+NAME_PT: Chontales
+NAME_RU: Чонталес
+NAME_SV: Chontales
+NAME_TR: Chontales
+NAME_VI: Khu vực hành chính Chontales
+NAME_ZH: 瓊塔萊斯省
+NE_ID: 1159309091

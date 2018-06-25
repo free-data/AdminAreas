@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MNG-3331
+DISS_ME: 3331
+ISO_3166_2: MN-1
+WIKIPEDIA: null
+ISO_A2: MN
+ADM0_SR: 1
+NAME: Ulaanbaatar
+NAME_ALT: Oulan-Bator|Ulan Bator|Ulan Bator Choto
+NAME_LOCAL: null
+TYPE: Hot
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: MN.UB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: UB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 6
+FIPS: MG20
+FIPS_ALT: null
+WOE_ID: 20070016
+WOE_LABEL: Ulaanbaatar, MN, Mongolia
+WOE_NAME: Ulaanbaatar
+LATITUDE: 47.9597
+LONGITUDE: 106.967
+SOV_A3: MNG
+ADM0_A3: MNG
+ADM0_LABEL: 2
+ADMIN: Mongolia
+GEONUNIT: Mongolia
+GU_A3: MNG
+GN_ID: 2028461
+GN_NAME: Ulaanbaatar Hot
+GNS_ID: -2353540
+GNS_NAME: Ulaanbaatar Hot
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MN.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: MG20
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q23430
+NAME_AR: أولان باتور
+NAME_BN: উলানবাটর
+NAME_DE: Ulaanbaatar
+NAME_EN: Ulaanbaatar
+NAME_ES: Ulán Bator
+NAME_FR: Oulan-Bator
+NAME_EL: Ουλάν Μπατόρ
+NAME_HI: उलान बतोर
+NAME_HU: Ulánbátor
+NAME_ID: Ulan Bator
+NAME_IT: Ulan Bator
+NAME_JA: ウランバートル
+NAME_KO: 울란바토르
+NAME_NL: Ulaanbaatar
+NAME_PL: Ułan Bator
+NAME_PT: Ulan Bator
+NAME_RU: Улан-Батор
+NAME_SV: Ulan Bator
+NAME_TR: Ulan Batur
+NAME_VI: Ulaanbaatar
+NAME_ZH: 乌兰巴托
+NE_ID: 1159315433

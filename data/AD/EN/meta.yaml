@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: AND-4880
+DISS_ME: 4880
+ISO_3166_2: AD-03
+WIKIPEDIA: http://en.wikipedia.org/wiki/Encamp
+ISO_A2: AD
+ADM0_SR: 3
+NAME: Encamp
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: AD.EN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: AN03
+FIPS_ALT: null
+WOE_ID: 20070558
+WOE_LABEL: Encamp, AD, Andorra
+WOE_NAME: Encamp
+LATITUDE: 42.5381
+LONGITUDE: 1.6441
+SOV_A3: AND
+ADM0_A3: AND
+ADM0_LABEL: 5
+ADMIN: Andorra
+GEONUNIT: Andorra
+GU_A3: AND
+GN_ID: 3040684
+GN_NAME: Parroquia d'Encamp
+GNS_ID: -1395328
+GNS_NAME: Encamp, Parroquia d'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AD.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AN03
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q24269
+NAME_AR: انكامب
+NAME_BN: একেম্প
+NAME_DE: Encamp
+NAME_EN: Encamp
+NAME_ES: Encamp
+NAME_FR: Encamp
+NAME_EL: Ενκάμ
+NAME_HI: एन्कम्प पल्ली
+NAME_HU: Encamp közösség
+NAME_ID: Encamp
+NAME_IT: parrocchia di Encamp
+NAME_JA: アンカム教区
+NAME_KO: 엥캄
+NAME_NL: Encamp
+NAME_PL: Encamp
+NAME_PT: Encamp
+NAME_RU: Энкамп
+NAME_SV: Encamp
+NAME_TR: Encamp
+NAME_VI: Encamp
+NAME_ZH: 恩坎普
+NE_ID: 1159315985

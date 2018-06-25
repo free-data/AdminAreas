@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-946
+DISS_ME: 946
+ISO_3166_2: SI-022
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Dol pri Ljubljani
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.DL
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 110
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 17
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI22
+FIPS_ALT: null
+WOE_ID: -55848364
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.0996
+LONGITUDE: 14.6741
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239115
+GN_NAME: Obcina Dol pri Ljubljani
+GNS_ID: 243531
+GNS_NAME: Dol pri Ljubljani, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI22
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q998557
+NAME_AR: بلدية دول بري ليوبلياني
+NAME_BN: ডল প্রি লুব্লাজনি পৌরসভা
+NAME_DE: Dol pri Ljubljani
+NAME_EN: Dol pri Ljubljani Municipality
+NAME_ES: Dol pri Ljubljani
+NAME_FR: Dol pri Ljubljani
+NAME_EL: Ντολ πρι Λουμπλτζάνι
+NAME_HI: डोल प्री लुब्लियानी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Dol pri Ljubljani
+NAME_IT: Dol pri Ljubljani
+NAME_JA: ドル・プリ・リュブリャニ
+NAME_KO: 돌프리류블랴니
+NAME_NL: Dol pri Ljubljani
+NAME_PL: Gmina Dol pri Ljubljani
+NAME_PT: Dol pri Ljubljani
+NAME_RU: Доль-при-Любляне
+NAME_SV: Dol pri Ljubljani
+NAME_TR: Dol pri Ljubljani Belediyesi
+NAME_VI: Dol pri Ljubljani
+NAME_ZH: null
+NE_ID: 1159310683

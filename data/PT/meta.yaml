@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: Portugal
+SOV_A3: PRT
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Portugal
+ADM0_A3: PRT
+GEOU_DIF: 0
+GEOUNIT: Portugal
+GU_A3: PRT
+SU_DIF: 1
+SUBUNIT: Portugal
+SU_A3: PR1
+BRK_DIFF: 0
+NAME: Portugal
+NAME_LONG: Portugal
+BRK_A3: PR1
+BRK_NAME: Portugal
+BRK_GROUP: null
+ABBREV: Port.
+POSTAL: P
+FORMAL_EN: Portuguese Republic
+FORMAL_FR: null
+NAME_CIAWF: Portugal
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Portugal
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+POP_EST: 10839514
+POP_RANK: 14
+GDP_MD_EST: 297100
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: PO
+ISO_A2: PT
+ISO_A3: PRT
+ISO_A3_EH: PRT
+ISO_N3: 620
+UN_A3: 620
+WB_A2: PT
+WB_A3: PRT
+WOE_ID: 23424925
+WOE_ID_EH: 23424925
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: PRT
+ADM0_A3_US: PRT
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321187
+WIKIDATAID: Q45
+NAME_AR: البرتغال
+NAME_BN: পর্তুগাল
+NAME_DE: Portugal
+NAME_EN: Portugal
+NAME_ES: Portugal
+NAME_FR: Portugal
+NAME_EL: Πορτογαλία
+NAME_HI: पुर्तगाल
+NAME_HU: Portugália
+NAME_ID: Portugal
+NAME_IT: Portogallo
+NAME_JA: ポルトガル
+NAME_KO: 포르투갈
+NAME_NL: Portugal
+NAME_PL: Portugalia
+NAME_PT: Portugal
+NAME_RU: Португалия
+NAME_SV: Portugal
+NAME_TR: Portekiz
+NAME_VI: Bồ Đào Nha
+NAME_ZH: 葡萄牙

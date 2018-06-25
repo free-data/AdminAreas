@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1277
+DISS_ME: 1277
+ISO_3166_2: EC-B
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Bolivar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.BO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC03
+FIPS_ALT: null
+WOE_ID: 2345204
+WOE_LABEL: Bolivar, EC, Ecuador
+WOE_NAME: Bolivar
+LATITUDE: -1.67621
+LONGITUDE: -79.1205
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3660130
+GN_NAME: Provincia de Bolivar
+GNS_ID: -924866
+GNS_NAME: Bolivar, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q261165
+NAME_AR: مقاطعة بوليفار
+NAME_BN: বলিভার প্রদেশ
+NAME_DE: Provinz Bolívar
+NAME_EN: Bolívar Province
+NAME_ES: Provincia de Bolívar
+NAME_FR: Bolívar
+NAME_EL: Επαρχία Μπολίβαρ
+NAME_HI: बोलीवार प्रांत
+NAME_HU: Bolívar tartomány
+NAME_ID: Provinsi Bolívar
+NAME_IT: provincia di Bolívar
+NAME_JA: ボリーバル県
+NAME_KO: 볼리바르 주
+NAME_NL: Bolívar
+NAME_PL: Prowincja Bolívar
+NAME_PT: Bolívar
+NAME_RU: Боливар
+NAME_SV: Bolívar
+NAME_TR: Bolivar Province
+NAME_VI: Tỉnh Bolívar
+NAME_ZH: 玻利瓦尔省
+NE_ID: 1159309979

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-600
+DISS_ME: 600
+ISO_3166_2: BR-MS
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Mato Grosso do Sul
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: BR.MS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: M.Gro.
+POSTAL: MS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 18
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR11
+FIPS_ALT: null
+WOE_ID: 2344853
+WOE_LABEL: Mato Grosso do Sul, BR, Brazil
+WOE_NAME: Mato Grosso do Sul
+LATITUDE: -20.6756
+LONGITUDE: -54.5502
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3457415
+GN_NAME: Estado de Mato Grosso do Sul
+GNS_ID: -654593
+GNS_NAME: Mato Grosso do Sul, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: BR11
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q43319
+NAME_AR: ماتو غروسو دو سول
+NAME_BN: মাতো গ্রোস দো সৌল
+NAME_DE: Mato Grosso do Sul
+NAME_EN: Mato Grosso do Sul
+NAME_ES: Mato Grosso del Sur
+NAME_FR: Mato Grosso do Sul
+NAME_EL: Μάτο Γκρόσσο ντο Σούλ
+NAME_HI: मातो ग्रोसो दो सुल
+NAME_HU: Mato Grosso do Sul
+NAME_ID: Mato Grosso do Sul
+NAME_IT: Mato Grosso do Sul
+NAME_JA: マットグロッソ・ド・スル州
+NAME_KO: 마투그로수두술 주
+NAME_NL: Mato Grosso do Sul
+NAME_PL: Mato Grosso do Sul
+NAME_PT: Mato Grosso do Sul
+NAME_RU: Мату-Гросу-ду-Сул
+NAME_SV: Mato Grosso do Sul
+NAME_TR: Mato Grosso do Sul
+NAME_VI: Mato Grosso do Sul
+NAME_ZH: 南马托格罗索州
+NE_ID: 1159307905

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ALB-1525
+DISS_ME: 1525
+ISO_3166_2: AL-GJ
+WIKIPEDIA: null
+ISO_A2: AL
+ADM0_SR: 1
+NAME: Gjirokastër
+NAME_ALT: Gjinokastër|Argirocastro|Argyrocastro|Argyrokastron
+NAME_LOCAL: null
+TYPE: Qark|Region
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: AL.GK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: GK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: AL45
+FIPS_ALT: AL06
+WOE_ID: 29389559
+WOE_LABEL: Gjirokaster, AL, Albania
+WOE_NAME: Gjirokastër
+LATITUDE: 40.1927
+LONGITUDE: 20.1868
+SOV_A3: ALB
+ADM0_A3: ALB
+ADM0_LABEL: 5
+ADMIN: Albania
+GEONUNIT: Albania
+GU_A3: ALB
+GN_ID: 865733
+GN_NAME: Qarku i Gjirokastres
+GNS_ID: 9124408
+GNS_NAME: Gjirokastres, Qarku i
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AL.45
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: AL45
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q193454
+NAME_AR: مقاطعة غيروكاستر
+NAME_BN: গিজারকাসার কাউন্টি
+NAME_DE: Qark Gjirokastra
+NAME_EN: Gjirokastër County
+NAME_ES: Condado de Gjirokastër
+NAME_FR: préfecture de Gjirokastër
+NAME_EL: Περιφέρεια Αργυροκάστρου
+NAME_HI: घिरोकसतेर प्रांत
+NAME_HU: Gjirokastra megye
+NAME_ID: Gjirokastër County
+NAME_IT: prefettura di Argirocastro
+NAME_JA: ジロカストラ州
+NAME_KO: 지로카스터르 주
+NAME_NL: Gjirokastër
+NAME_PL: Obwód Gjirokastra
+NAME_PT: Gjirokastër
+NAME_RU: Гирокастра
+NAME_SV: Gjirokastër prefektur
+NAME_TR: Ergiri ili
+NAME_VI: Gjirokastër
+NAME_ZH: 吉羅卡斯特州
+NE_ID: 1159309451

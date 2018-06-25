@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2605
+DISS_ME: 2605
+ISO_3166_2: RU-TY
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tuva
+NAME_ALT: Respublika Tyva|Republic of Tuva|Tyva|Tuvinskaya A.S.S.R.|Republic of Tyva
+NAME_LOCAL: Республика Тыва
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.TU
+NOTE: null
+HASC_MAYBE: null
+REGION: Siberian
+REGION_COD: null
+PROVNUM_NE: 20068
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS79
+FIPS_ALT: null
+WOE_ID: 2346879
+WOE_LABEL: Tyva, RU, Russia
+WOE_NAME: Tuva
+LATITUDE: 51.6051
+LONGITUDE: 93.9927
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1488873
+GN_NAME: Respublika Tyva
+GNS_ID: -3022957
+GNS_NAME: Tyva, Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.79
+REGION_SUB: East Siberian
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS79
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q960
+NAME_AR: توفا
+NAME_BN: তুভা প্রজাতন্ত্র
+NAME_DE: Tuwa
+NAME_EN: Tuva Republic
+NAME_ES: Tuvá
+NAME_FR: Touva
+NAME_EL: Δημοκρατία της Τιβά
+NAME_HI: तूवा
+NAME_HU: Tuva
+NAME_ID: Tuva
+NAME_IT: Tuva
+NAME_JA: トゥヴァ共和国
+NAME_KO: 투바 공화국
+NAME_NL: Toeva
+NAME_PL: Tuwa
+NAME_PT: Tuva
+NAME_RU: Тыва
+NAME_SV: Tuva
+NAME_TR: Tuva Cumhuriyeti
+NAME_VI: Tuva
+NAME_ZH: 图瓦共和国
+NE_ID: 1159313613

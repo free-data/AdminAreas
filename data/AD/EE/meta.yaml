@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: AND-4881
+DISS_ME: 4881
+ISO_3166_2: AD-08
+WIKIPEDIA: http://en.wikipedia.org/wiki/Escaldes-Engordany
+ISO_A2: AD
+ADM0_SR: 3
+NAME: Escaldes-Engordany
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: AD.EE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 18
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: AN08
+FIPS_ALT: null
+WOE_ID: 20070554
+WOE_LABEL: Escaldes-Engordany, AD, Andorra
+WOE_NAME: Escaldes-Engordany
+LATITUDE: 42.495
+LONGITUDE: 1.59428
+SOV_A3: AND
+ADM0_A3: AND
+ADM0_LABEL: 5
+ADMIN: Andorra
+GEONUNIT: Andorra
+GU_A3: AND
+GN_ID: 3338529
+GN_NAME: Parroquia d'Escaldes-Engordany
+GNS_ID: 9038716
+GNS_NAME: Escaldes-Engordany
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AD.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: AN08
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q24286
+NAME_AR: إسكالديس أنجوردني
+NAME_BN: এস্ক্যাল্ডেস-এঙ্গোরোদ
+NAME_DE: Escaldes-Engordany
+NAME_EN: Escaldes-Engordany
+NAME_ES: Escaldes-Engordany
+NAME_FR: Escaldes-Engordany
+NAME_EL: Εσκάλντες-Ενγκορντάνι
+NAME_HI: एस्कल्देस-एङोर्दन्य पल्ली
+NAME_HU: Escaldes-Engordany közösség
+NAME_ID: Escaldes-Engordany
+NAME_IT: parrocchia di Escaldes-Engordany
+NAME_JA: エスカルデス＝エンゴルダニ教区
+NAME_KO: 에스칼데스엥고르다뉴
+NAME_NL: Escaldes-Engordany
+NAME_PL: Escaldes-Engordany
+NAME_PT: Escaldes-Engordany
+NAME_RU: Эскальдес-Энгордань
+NAME_SV: Escaldes-Engordany
+NAME_TR: Escaldes-Engordany
+NAME_VI: Escaldes-Engordany
+NAME_ZH: 萊塞斯卡爾德-恩戈爾達
+NE_ID: 1159315987

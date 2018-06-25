@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5713
+DISS_ME: 5713
+ISO_3166_2: LV-100
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Vainodes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.VD
+NOTE: null
+HASC_MAYBE: null
+REGION: Kurzeme
+REGION_COD: K
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: K
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGD7
+FIPS_ALT: null
+WOE_ID: -2346029
+WOE_LABEL: Kuldigas Rajons, LV, Latvia
+WOE_NAME: Kurzeme
+LATITUDE: 56.432
+LONGITUDE: 21.8331
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628307
+GN_NAME: Vainodes Novads
+GNS_ID: 10970052
+GNS_NAME: Vainodes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.D7
+REGION_SUB: Kurzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG86
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q511151
+NAME_AR: بلدية فاينود
+NAME_BN: ভিনোদ পৌরসভা
+NAME_DE: Bezirk Vaiņode
+NAME_EN: Vaiņode Municipality
+NAME_ES: Municipalidad de Vaiņode
+NAME_FR: Vaiņode
+NAME_EL: Βαϊνόντε
+NAME_HI: वैनोद नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Vaiņode
+NAME_IT: Vaiņode
+NAME_JA: ヴァイニョデ基礎自治体
+NAME_KO: 바이뇨데 시
+NAME_NL: Vaiņodes novads
+NAME_PL: Gmina Vaiņode
+NAME_PT: Município de Vainode
+NAME_RU: Вайнёдский край
+NAME_SV: Vaiņodes novads
+NAME_TR: Wainode Belediyesi
+NAME_VI: Đô thị tự trị Vainode
+NAME_ZH: 瓦伊諾迪斯自治市
+NE_ID: 1159317575

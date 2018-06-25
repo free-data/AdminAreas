@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-451
+DISS_ME: 451
+ISO_3166_2: VN-53
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Đông Bắc
+NAME_ALT: North East
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: VN.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: VNM-BTH
+PROVNUM_NE: 48
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM72
+FIPS_ALT: null
+WOE_ID: 20070084
+WOE_LABEL: Bac Kan, VN, Vietnam
+WOE_NAME: Đông Bắc
+LATITUDE: 22.1476
+LONGITUDE: 105.874
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1905669
+GN_NAME: Tinh Bac Kan
+GNS_ID: 411213
+GNS_NAME: Bac Kan, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.72
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: VM72
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1194516
+NAME_AR: شمال شرق
+NAME_BN: উত্তর-পূর্ব ভিয়েতনাম
+NAME_DE: Nordost-Vietnam
+NAME_EN: Northeast Vietnam
+NAME_ES: Región Nordeste
+NAME_FR: Nord-est
+NAME_EL: Νόρθιστ
+NAME_HI: उत्तरपूर्व
+NAME_HU: null
+NAME_ID: Vietnam Timur Laut
+NAME_IT: Dong Bac
+NAME_JA: 東北部
+NAME_KO: 베트남 동북부 지방
+NAME_NL: Northeast Vietnam
+NAME_PL: Region Północno-Wschodni
+NAME_PT: Nordeste
+NAME_RU: Северо-Восточный Вьетнам
+NAME_SV: Dong Bac
+NAME_TR: Kuzeydoğu Vietnam
+NAME_VI: Vùng Đông Bắc
+NAME_ZH: 東北部
+NE_ID: 1159308323

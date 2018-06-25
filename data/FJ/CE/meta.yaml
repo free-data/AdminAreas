@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: FJI-2617
+DISS_ME: 2617
+ISO_3166_2: FJ-C
+WIKIPEDIA: null
+ISO_A2: FJ
+ADM0_SR: 5
+NAME: Central
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: FJ.CE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: FJ01
+FIPS_ALT: null
+WOE_ID: 2345335
+WOE_LABEL: Central, FJ, Fiji
+WOE_NAME: Central
+LATITUDE: -18.3823
+LONGITUDE: 178.132
+SOV_A3: FJI
+ADM0_A3: FJI
+ADM0_LABEL: 5
+ADMIN: Fiji
+GEONUNIT: Fiji
+GU_A3: FJI
+GN_ID: 2205272
+GN_NAME: Central Division
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: FJ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1053789
+NAME_AR: القسم المركزي
+NAME_BN: সেন্ট্রাল ডিভিশন
+NAME_DE: Central Division
+NAME_EN: Central Division
+NAME_ES: División Central
+NAME_FR: Division centrale
+NAME_EL: Σέντραλ Ντιβίζιον
+NAME_HI: केंद्रीय प्रभाग
+NAME_HU: null
+NAME_ID: Central Division
+NAME_IT: divisione Centrale
+NAME_JA: 中央地域
+NAME_KO: 중부 구
+NAME_NL: Central
+NAME_PL: Dystrykt Centralny
+NAME_PT: Divisão Central
+NAME_RU: Центральный округ
+NAME_SV: Centrala divisionen
+NAME_TR: Central Division
+NAME_VI: Khu vực Trung tâm
+NAME_ZH: 中央大区
+NE_ID: 1159313275

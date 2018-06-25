@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: ZMB-518
+DISS_ME: 518
+ISO_3166_2: ZM-03
+WIKIPEDIA: null
+ISO_A2: ZM
+ADM0_SR: 1
+NAME: Eastern
+NAME_ALT: Fort Jameson
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZM.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: EA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: ZA03
+FIPS_ALT: null
+WOE_ID: 2347806
+WOE_LABEL: Eastern, ZM, Zambia
+WOE_NAME: Eastern
+LATITUDE: -13.7617
+LONGITUDE: 31.8341
+SOV_A3: ZMB
+ADM0_A3: ZMB
+ADM0_LABEL: 2
+ADMIN: Zambia
+GEONUNIT: Zambia
+GU_A3: ZMB
+GN_ID: 917388
+GN_NAME: Eastern Province
+GNS_ID: -2282596
+GNS_NAME: Eastern
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZM.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZA03
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q823810
+NAME_AR: المحافظة الشرقية، زامبيا
+NAME_BN: ইস্টার্ন প্রদেশ
+NAME_DE: Ostprovinz
+NAME_EN: Eastern Province
+NAME_ES: Provincia del Este
+NAME_FR: Province orientale
+NAME_EL: Ανατολική Επαρχία
+NAME_HI: पूर्वी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Timur
+NAME_IT: Zambia orientale
+NAME_JA: 東部州
+NAME_KO: 동부 주
+NAME_NL: Eastern
+NAME_PL: Prowincja Wschodnia
+NAME_PT: Província Oriental
+NAME_RU: Восточная Замбия
+NAME_SV: Eastern
+NAME_TR: Doğu Bölgesi
+NAME_VI: Tỉnh Phía Đông
+NAME_ZH: 东方省
+NE_ID: 1159307887

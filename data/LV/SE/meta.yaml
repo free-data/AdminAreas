@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5777
+DISS_ME: 5777
+ISO_3166_2: LV-090
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Sejas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGC6
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.198
+LONGITUDE: 24.5327
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628365
+GN_NAME: Sejas Novads
+GNS_ID: 10984966
+GNS_NAME: Sejas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.C6
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG94
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2299447
+NAME_AR: بلدية سييا
+NAME_BN: সেজা পৌরসভা
+NAME_DE: Bezirk Sēja
+NAME_EN: Sēja Municipality
+NAME_ES: Municipalidad de Sēja
+NAME_FR: Sēja
+NAME_EL: Σέτζα
+NAME_HI: सेखा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Sēja
+NAME_IT: Sēja
+NAME_JA: セーヤ
+NAME_KO: 세야 시
+NAME_NL: Sējas novads
+NAME_PL: Gmina Sēja
+NAME_PT: Município Seja
+NAME_RU: Сейский край
+NAME_SV: Sējas novads
+NAME_TR: Seja Belediyesi
+NAME_VI: Đô thị tự trị Seja
+NAME_ZH: null
+NE_ID: 1159317659

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-571
+DISS_ME: 571
+ISO_3166_2: PE-CUS
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Cusco
+NAME_ALT: Cuzco|Qosqo
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.CS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: CS
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE08
+FIPS_ALT: null
+WOE_ID: 2346475
+WOE_LABEL: Cusco, PE, Peru
+WOE_NAME: Cusco
+LATITUDE: -13.1633
+LONGITUDE: -72.2479
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3941583
+GN_NAME: Region de Cusco
+GNS_ID: -345276
+GNS_NAME: Cusco, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE08
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q205057
+NAME_AR: إقليم قوسقو
+NAME_BN: কুসকু অঞ্চল
+NAME_DE: Cusco
+NAME_EN: Cusco Región
+NAME_ES: Departamento de Cuzco
+NAME_FR: Région de Cuzco
+NAME_EL: Κούσκο
+NAME_HI: कुस्को प्रदेश
+NAME_HU: Cusco megye
+NAME_ID: Region Cusco
+NAME_IT: regione di Cusco
+NAME_JA: クスコ県
+NAME_KO: 쿠스코 주
+NAME_NL: Cuzco
+NAME_PL: Region Cuzco
+NAME_PT: Cusco
+NAME_RU: Куско
+NAME_SV: Cusco
+NAME_TR: Cusco Bölgesi
+NAME_VI: Khu vực Cusco
+NAME_ZH: 库斯科大区
+NE_ID: 1159309945

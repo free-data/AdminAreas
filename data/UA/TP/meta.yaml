@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-292
+DISS_ME: 292
+ISO_3166_2: UA-61
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Ternopil'
+NAME_ALT: Ternopol|Ternopol'
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.TP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP22
+FIPS_ALT: UP22
+WOE_ID: 2347553
+WOE_LABEL: Ternopil Oblast, UA, Ukraine
+WOE_NAME: Ternopil'
+LATITUDE: 49.4739
+LONGITUDE: 25.5438
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 691649
+GN_NAME: Ternopil's'ka Oblast'
+GNS_ID: -1056205
+GNS_NAME: Ternopil's'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP22
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q173407
+NAME_AR: تيرنوبل أوبلاست
+NAME_BN: টের্নোপিল ওব্লাস্ট
+NAME_DE: Oblast Ternopil
+NAME_EN: Ternopil Oblast
+NAME_ES: Óblast de Ternópil
+NAME_FR: Oblast de Ternopil
+NAME_EL: Τερνοπίλ Ομπλάστ
+NAME_HI: टेमोपिल ओब्लास्ट
+NAME_HU: Ternopili terület
+NAME_ID: Oblast Ternopil
+NAME_IT: Oblast' di Ternopil'
+NAME_JA: テルノーピリ州
+NAME_KO: 테르노필 주
+NAME_NL: Oblast Ternopil
+NAME_PL: Obwód tarnopolski
+NAME_PT: Oblast de Ternopil
+NAME_RU: Тернопольская область
+NAME_SV: Ternopil oblast
+NAME_TR: Ternopil Oblastı
+NAME_VI: Ternopil
+NAME_ZH: 捷爾諾波爾州
+NE_ID: 1159309603

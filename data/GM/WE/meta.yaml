@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GMB-5512
+DISS_ME: 5512
+ISO_3166_2: GM-W
+WIKIPEDIA: http://en.wikipedia.org/wiki/Western_Division_(Gambia)
+ISO_A2: GM
+ADM0_SR: 1
+NAME: West Coast
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: GM.WE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: WCR
+POSTAL: WC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: GA05
+FIPS_ALT: null
+WOE_ID: 2345447
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 13.2212
+LONGITUDE: -16.3138
+SOV_A3: GMB
+ADM0_A3: GMB
+ADM0_LABEL: 5
+ADMIN: Gambia
+GEONUNIT: null
+GU_A3: null
+GN_ID: 2411683
+GN_NAME: Western Division
+GNS_ID: -1201636
+GNS_NAME: Western
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GM.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GA05
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q846158
+NAME_AR: قسم الساحل الغربي
+NAME_BN: ওয়েস্ট কোস্ট জেলা
+NAME_DE: West Coast Region
+NAME_EN: West Coast Division
+NAME_ES: División Western
+NAME_FR: Division de West Coast
+NAME_EL: Δυτική Γκάμπια
+NAME_HI: वेस्ट कोस्ट डिवीज़न
+NAME_HU: null
+NAME_ID: Divisi Pantai Barat
+NAME_IT: divisione della West Coast
+NAME_JA: 西部地方
+NAME_KO: 웨스트코스트 구
+NAME_NL: Western
+NAME_PL: Western Division
+NAME_PT: Western
+NAME_RU: Западный район
+NAME_SV: Western Division
+NAME_TR: West Coast
+NAME_VI: Phân Vùng West Coast
+NAME_ZH: 西部區
+NE_ID: 1159317175

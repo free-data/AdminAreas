@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LBN-3022
+DISS_ME: 3022
+ISO_3166_2: LB-BI
+WIKIPEDIA: null
+ISO_A2: LB
+ADM0_SR: 1
+NAME: Beqaa
+NAME_ALT: Bekaa|El Begaa|Béqaa|La Bekaa
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LB.BQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: LE08
+FIPS_ALT: LE01
+WOE_ID: 2346013
+WOE_LABEL: Al Biqa', LB, Lebanon
+WOE_NAME: Beqaa
+LATITUDE: 34.0494
+LONGITUDE: 36.1086
+SOV_A3: LBN
+ADM0_A3: LBN
+ADM0_LABEL: 5
+ADMIN: Lebanon
+GEONUNIT: Lebanon
+GU_A3: LBN
+GN_ID: 280282
+GN_NAME: Mohafazat Beqaa
+GNS_ID: -798017
+GNS_NAME: Beqaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LB.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: LE08
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q319632
+NAME_AR: البقاع
+NAME_BN: null
+NAME_DE: Bekaa
+NAME_EN: Beqaa Governorate
+NAME_ES: Gobernación de Becá
+NAME_FR: Gouvernorat de la Bekaa
+NAME_EL: null
+NAME_HI: बेक़आ प्रान्त
+NAME_HU: Bekaa kormányzóság
+NAME_ID: Kegubernuran Beqaa
+NAME_IT: governatorato della Beqa'
+NAME_JA: ベッカー県
+NAME_KO: 베카 주
+NAME_NL: Beka
+NAME_PL: Bekaa
+NAME_PT: Beqaa
+NAME_RU: Бекаа
+NAME_SV: Guvernementet Bekaa
+NAME_TR: Bekaa ili
+NAME_VI: Beqaa
+NAME_ZH: 貝卡省
+NE_ID: 1159314197

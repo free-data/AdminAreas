@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Ireland
+SOV_A3: IRL
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Ireland
+ADM0_A3: IRL
+GEOU_DIF: 0
+GEOUNIT: Ireland
+GU_A3: IRL
+SU_DIF: 0
+SUBUNIT: Ireland
+SU_A3: IRL
+BRK_DIFF: 0
+NAME: Ireland
+NAME_LONG: Ireland
+BRK_A3: IRL
+BRK_NAME: Ireland
+BRK_GROUP: null
+ABBREV: Ire.
+POSTAL: IRL
+FORMAL_EN: Ireland
+FORMAL_FR: null
+NAME_CIAWF: Ireland
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Ireland
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 3
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+POP_EST: 5011102
+POP_RANK: 13
+GDP_MD_EST: 322000
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: EI
+ISO_A2: IE
+ISO_A3: IRL
+ISO_A3_EH: IRL
+ISO_N3: 372
+UN_A3: 372
+WB_A2: IE
+WB_A3: IRL
+WOE_ID: 23424803
+WOE_ID_EH: 23424803
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: IRL
+ADM0_A3_US: IRL
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Northern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159320877
+WIKIDATAID: Q27
+NAME_AR: جمهورية أيرلندا
+NAME_BN: প্রজাতন্ত্রী আয়ারল্যান্ড
+NAME_DE: Irland
+NAME_EN: Ireland
+NAME_ES: Irlanda
+NAME_FR: Irlande
+NAME_EL: Δημοκρατία της Ιρλανδίας
+NAME_HI: आयरलैण्ड
+NAME_HU: Írország
+NAME_ID: Republik Irlandia
+NAME_IT: Irlanda
+NAME_JA: アイルランド
+NAME_KO: 아일랜드
+NAME_NL: Ierland
+NAME_PL: Irlandia
+NAME_PT: República da Irlanda
+NAME_RU: Ирландия
+NAME_SV: Irland
+NAME_TR: İrlanda
+NAME_VI: Cộng hòa Ireland
+NAME_ZH: 爱尔兰共和国

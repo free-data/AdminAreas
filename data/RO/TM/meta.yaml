@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-280
+DISS_ME: 280
+ISO_3166_2: RO-TM
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Timis
+NAME_ALT: Timiș
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.TM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: TM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO36
+FIPS_ALT: null
+WOE_ID: 2346649
+WOE_LABEL: Timis, RO, Romania
+WOE_NAME: Timis
+LATITUDE: 45.5963
+LONGITUDE: 21.393
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 665091
+GN_NAME: Judetul Timis
+GNS_ID: -1172407
+GNS_NAME: Timis, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO36
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q185586
+NAME_AR: مقاطعة تيميش
+NAME_BN: টিমিস কাউন্টি
+NAME_DE: Kreis Timiș
+NAME_EN: Timiș County
+NAME_ES: Timiș
+NAME_FR: județ de Timiș
+NAME_EL: Τίμις
+NAME_HI: टिमिस काउंटी
+NAME_HU: Temes megye
+NAME_ID: Provinsi Timiș
+NAME_IT: distretto di Timiș
+NAME_JA: ティミシュ県
+NAME_KO: 티미슈 주
+NAME_NL: District Timiș
+NAME_PL: Okręg Temesz
+NAME_PT: Timiș
+NAME_RU: Тимиш
+NAME_SV: Timiș
+NAME_TR: Timiș ili
+NAME_VI: Hạt Timis
+NAME_ZH: 蒂米什縣
+NE_ID: 1159308793

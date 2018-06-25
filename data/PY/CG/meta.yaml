@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-617
+DISS_ME: 617
+ISO_3166_2: PY-5
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Caaguazú
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.CG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: CG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA04
+FIPS_ALT: null
+WOE_ID: 2346451
+WOE_LABEL: CaaguazÃº, PY, Paraguay
+WOE_NAME: Caaguazú
+LATITUDE: -25.2234
+LONGITUDE: -55.8821
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3439312
+GN_NAME: Departamento de Caaguazu
+GNS_ID: -910107
+GNS_NAME: Caaguazu, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA04
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q880399
+NAME_AR: كاغوازو
+NAME_BN: কাগুয়াজু
+NAME_DE: Caaguazú
+NAME_EN: Caaguazú
+NAME_ES: Caaguazú
+NAME_FR: Caaguazú
+NAME_EL: Κααγουασού
+NAME_HI: कागुआजु
+NAME_HU: Caaguazú megye
+NAME_ID: Departemen Caaguazú
+NAME_IT: Caaguazú
+NAME_JA: カアグアスー県
+NAME_KO: 카과수 주
+NAME_NL: Caaguazú
+NAME_PL: Caaguazú
+NAME_PT: Caaguazú
+NAME_RU: Каагуасу
+NAME_SV: Caaguazú
+NAME_TR: Caagazu
+NAME_VI: Caaguazú
+NAME_ZH: 卡瓜蘇省
+NE_ID: 1159307803

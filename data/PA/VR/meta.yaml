@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PAN-1341
+DISS_ME: 1341
+ISO_3166_2: PA-9
+WIKIPEDIA: null
+ISO_A2: PA
+ADM0_SR: 4
+NAME: Veraguas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PA.VR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: VR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: PM10
+FIPS_ALT: null
+WOE_ID: 2346560
+WOE_LABEL: Veraguas, PA, Panama
+WOE_NAME: Veraguas
+LATITUDE: 8.22553
+LONGITUDE: -81.1447
+SOV_A3: PAN
+ADM0_A3: PAN
+ADM0_LABEL: 2
+ADMIN: Panama
+GEONUNIT: Panama
+GU_A3: PAN
+GN_ID: 3700159
+GN_NAME: Provincia de Veraguas
+GNS_ID: -171305
+GNS_NAME: Veraguas, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PA.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: PM10
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q593137
+NAME_AR: محافظة فيراغواس
+NAME_BN: ভেরাগাস প্রদেশ
+NAME_DE: Provinz Veraguas
+NAME_EN: provincial de veraguas
+NAME_ES: Provincia de Veraguas
+NAME_FR: Veraguas
+NAME_EL: Βεραγκούας
+NAME_HI: वेरगुआस प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Veraguas
+NAME_IT: provincia di Veraguas
+NAME_JA: ベラグアス県
+NAME_KO: 베라과스 주
+NAME_NL: Veraguas
+NAME_PL: Veraguas
+NAME_PT: Veraguas
+NAME_RU: Верагуас
+NAME_SV: Veraguas
+NAME_TR: Veraguas Province
+NAME_VI: Veraguas
+NAME_ZH: 貝拉瓜斯省
+NE_ID: 1159310081

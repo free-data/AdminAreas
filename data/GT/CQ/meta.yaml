@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1960
+DISS_ME: 1960
+ISO_3166_2: GT-CQ
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Chiquimula
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.CQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CQ
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT04
+FIPS_ALT: null
+WOE_ID: 2345555
+WOE_LABEL: Chiquimula, GT, Guatemala
+WOE_NAME: Chiquimula
+LATITUDE: 14.6668
+LONGITUDE: -89.4399
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3598464
+GN_NAME: Departamento de Chiquimula
+GNS_ID: -1132874
+GNS_NAME: Chiquimula
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT04
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q753037
+NAME_AR: إدارة تشيكيمولا
+NAME_BN: কিকুইমোলা বিভাগ
+NAME_DE: Departamento Chiquimula
+NAME_EN: Chiquimula Department
+NAME_ES: Chiquimula
+NAME_FR: département de Chiquimula
+NAME_EL: Τσικουιμούλα
+NAME_HI: चिकिमुला विभाग
+NAME_HU: Chiquimula megye
+NAME_ID: Departemen Chiquimula
+NAME_IT: dipartimento di Chiquimula
+NAME_JA: チキムラ県
+NAME_KO: 치키물라 주
+NAME_NL: Chiquimula
+NAME_PL: Chiquimula
+NAME_PT: Chiquimula
+NAME_RU: Чикимула
+NAME_SV: Chiquimula
+NAME_TR: Chiquimula Departmanı
+NAME_VI: Chiquimula
+NAME_ZH: 奇基穆拉省
+NE_ID: 1159311673

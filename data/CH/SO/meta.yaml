@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-3426
+DISS_ME: 3426
+ISO_3166_2: CH-SO
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Solothurn
+NAME_ALT: Solothurn
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.SO
+NOTE: null
+HASC_MAYBE: CH.SO|CHE-SLT
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ18
+FIPS_ALT: null
+WOE_ID: 2347100
+WOE_LABEL: Canton of Solothurn, CH, Switzerland
+WOE_NAME: Solothurn
+LATITUDE: 47.4325
+LONGITUDE: 7.41999
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2658563
+GN_NAME: Kanton Solothurn
+GNS_ID: -2554260
+GNS_NAME: Solothurn, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.SO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: SZ18
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11929
+NAME_AR: كانتون سولوتورن
+NAME_BN: ক্যান্টন অব সোলোথাম
+NAME_DE: Kanton Solothurn
+NAME_EN: Canton of Solothurn
+NAME_ES: Soleura
+NAME_FR: canton de Soleure
+NAME_EL: Κάντον οφ Σολόθουμ
+NAME_HI: सोलोथूर्न कैन्टन
+NAME_HU: Solothurn kanton
+NAME_ID: Kanton Solothurn
+NAME_IT: Canton Soletta
+NAME_JA: ゾロトゥルン州
+NAME_KO: 졸로투른 주
+NAME_NL: Solothurn
+NAME_PL: Solura
+NAME_PT: Soleura
+NAME_RU: Золотурн
+NAME_SV: Solothurn
+NAME_TR: Solothurn
+NAME_VI: Solothurn
+NAME_ZH: 索洛圖恩州
+NE_ID: 1159314899

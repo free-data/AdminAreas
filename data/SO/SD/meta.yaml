@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: SOM-2410
+DISS_ME: 2410
+ISO_3166_2: SO-SD
+WIKIPEDIA: null
+ISO_A2: SO
+ADM0_SR: 1
+NAME: Shabeellaha Dhexe
+NAME_ALT: Sh. Dhexe| Central Shabele
+NAME_LOCAL: null
+TYPE: Gobolka
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SO.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 17
+MAPCOLOR9: 6
+MAPCOLOR13: 7
+FIPS: SO13
+FIPS_ALT: null
+WOE_ID: 2347018
+WOE_LABEL: Shabeellaha Dhexe, SO, Somalia
+WOE_NAME: Shabeellaha Dhexe
+LATITUDE: 3.00561
+LONGITUDE: 46.0549
+SOV_A3: SOM
+ADM0_A3: SOM
+ADM0_LABEL: 2
+ADMIN: Somalia
+GEONUNIT: Somalia
+GU_A3: SOX
+GN_ID: 51967
+GN_NAME: Gobolka Shabeellaha Dhexe
+GNS_ID: -3229128
+GNS_NAME: Shabeellaha Dhexe
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SO.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: SO13
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q678435
+NAME_AR: شبيلا الوسطى
+NAME_BN: মিডল শেবিলে
+NAME_DE: Shabeellaha Dhexe
+NAME_EN: Middle Shebelle
+NAME_ES: Shabeellaha Dhexe
+NAME_FR: Shabeellaha Dhexe
+NAME_EL: Μιντλ Σεμπέλε
+NAME_HI: मध्य शीबैल
+NAME_HU: null
+NAME_ID: Middle Shebelle
+NAME_IT: Medio Scebeli
+NAME_JA: 中部シェベリ州
+NAME_KO: 샤벨라하데헤 주
+NAME_NL: Shabeellaha Dhexe
+NAME_PL: Shabeellaha Dhexe
+NAME_PT: Shabeellaha Dhexe
+NAME_RU: Средняя Шабелле
+NAME_SV: Shabeellaha Dhexe
+NAME_TR: Orta Şabel
+NAME_VI: Middle Shebelle
+NAME_ZH: 中謝貝利州
+NE_ID: 1159311377

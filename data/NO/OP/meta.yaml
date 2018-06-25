@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-920
+DISS_ME: 920
+ISO_3166_2: NO-05
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 1
+NAME: Oppland
+NAME_ALT: Oppland fylke|Kristian|Opland|Upplönd
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.OP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: OP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO11
+FIPS_ALT: null
+WOE_ID: 2346394
+WOE_LABEL: Oppland Fylke, NO, Norway
+WOE_NAME: Oppland
+LATITUDE: 61.5731
+LONGITUDE: 9.24644
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3143487
+GN_NAME: Oppland fylke
+GNS_ID: -273585
+GNS_NAME: Oppland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO11
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50617
+NAME_AR: أوبلاند
+NAME_BN: অপল্যান্ড
+NAME_DE: Oppland
+NAME_EN: Oppland
+NAME_ES: Oppland
+NAME_FR: comté d'Oppland
+NAME_EL: Όπλαντ
+NAME_HI: ओपलैंड
+NAME_HU: Oppland megye
+NAME_ID: Oppland
+NAME_IT: Oppland
+NAME_JA: オップラン県
+NAME_KO: 오플란 주
+NAME_NL: Oppland
+NAME_PL: Oppland
+NAME_PT: Oppland
+NAME_RU: Оппланн
+NAME_SV: Oppland fylke
+NAME_TR: Oppland
+NAME_VI: Oppland
+NAME_ZH: 奥普兰郡
+NE_ID: 1159309677

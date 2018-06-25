@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SWZ-534
+DISS_ME: 534
+ISO_3166_2: SZ-HH
+WIKIPEDIA: null
+ISO_A2: SZ
+ADM0_SR: 1
+NAME: Hhohho
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: SZ.HH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: HH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: WZ01
+FIPS_ALT: null
+WOE_ID: 20069889
+WOE_LABEL: Hhohho, SZ, Swaziland
+WOE_NAME: Hhohho
+LATITUDE: -26.0265
+LONGITUDE: 31.322
+SOV_A3: SWZ
+ADM0_A3: SWZ
+ADM0_LABEL: 2
+ADMIN: Swaziland
+GEONUNIT: Swaziland
+GU_A3: SWZ
+GN_ID: 935085
+GN_NAME: Hhohho District
+GNS_ID: -1331555
+GNS_NAME: Hhohho
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SZ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: WZ01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q735570
+NAME_AR: مقاطعة هوهو
+NAME_BN: হোহো জেলা
+NAME_DE: Hhohho
+NAME_EN: Hhohho District
+NAME_ES: Hhohho
+NAME_FR: Hhohho
+NAME_EL: Χνόχο
+NAME_HI: होहो जिला
+NAME_HU: null
+NAME_ID: Distrik Hhohho
+NAME_IT: distretto di Hhohho
+NAME_JA: ホホ
+NAME_KO: 호호 구
+NAME_NL: Hhohho
+NAME_PL: Dystrykt Hhohho
+NAME_PT: Hhohho
+NAME_RU: Хохо
+NAME_SV: Hhohho
+NAME_TR: Hhohho District
+NAME_VI: Quận Hhohho
+NAME_ZH: 霍霍
+NE_ID: 1159307767

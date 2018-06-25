@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3104
+DISS_ME: 3104
+ISO_3166_2: UG-401
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Bundibugyo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BX
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-WST
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG28
+FIPS_ALT: null
+WOE_ID: 20070413
+WOE_LABEL: Bundibugyo, UG, Uganda
+WOE_NAME: Bundibugyo
+LATITUDE: 0.738092
+LONGITUDE: 30.0508
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: null
+GU_A3: null
+GN_ID: 443329
+GN_NAME: Bundibugyo District
+GNS_ID: 9050313
+GNS_NAME: Bundibugyo District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.28
+REGION_SUB: null
+SUB_CODE: UG25
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG28
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1362129
+NAME_AR: مقاطعة بونديبوجيو
+NAME_BN: বুন্ডিবোয়ু জেলা
+NAME_DE: Bundibugyo-Distrikt
+NAME_EN: Bundibugyo District
+NAME_ES: Distrito de Bundibugyo
+NAME_FR: Bundibugyo
+NAME_EL: Μπουντιμπούγκγιο
+NAME_HI: बंडीबूग्यो जिला
+NAME_HU: null
+NAME_ID: Distrik Bundibugyo
+NAME_IT: Bundibugyo
+NAME_JA: ブンディブギョ県
+NAME_KO: 분디부교 구
+NAME_NL: Bundibugyo
+NAME_PL: Dystrykt Bundibugyo
+NAME_PT: Distrito de Bundibugyo
+NAME_RU: Бундибугио
+NAME_SV: Bundibugyodistriktet
+NAME_TR: Bundibugyo District
+NAME_VI: Quận Bundibugyo
+NAME_ZH: 本迪布焦區
+NE_ID: 1159313713

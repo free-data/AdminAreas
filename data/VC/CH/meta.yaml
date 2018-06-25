@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: VCT-5063
+DISS_ME: 5063
+ISO_3166_2: VC-01
+WIKIPEDIA: http://en.wikipedia.org/wiki/Charlotte_Parish_(Saint_Vincent_and_the_Grenadines)
+ISO_A2: VC
+ADM0_SR: 8
+NAME: Charlotte
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: VC.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: VC01
+FIPS_ALT: null
+WOE_ID: 2347671
+WOE_LABEL: Charlotte, VC, Saint Vincent and the Grenadines
+WOE_NAME: Charlotte
+LATITUDE: 13.2825
+LONGITUDE: -61.1475
+SOV_A3: VCT
+ADM0_A3: VCT
+ADM0_LABEL: 8
+ADMIN: Saint Vincent and the Grenadines
+GEONUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+GN_ID: 3577934
+GN_NAME: Parish of Charlotte
+GNS_ID: -1204430
+GNS_NAME: Charlotte, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VC.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: VC01
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2075188
+NAME_AR: أبرشية شارلوت
+NAME_BN: চার্লট প্যারিশ
+NAME_DE: Charlotte
+NAME_EN: Charlotte Parish
+NAME_ES: Carlota
+NAME_FR: Charlotte
+NAME_EL: Καρλόττα
+NAME_HI: शेर्लोट पैरिश
+NAME_HU: null
+NAME_ID: Paroki Charlotte
+NAME_IT: parrocchia di Charlotte
+NAME_JA: シャーロット教区
+NAME_KO: 샬럿 교구
+NAME_NL: Charlotte
+NAME_PL: Charlotte
+NAME_PT: Charlottr
+NAME_RU: Шарлотта
+NAME_SV: Charlotte Parish
+NAME_TR: Charlotte Parish
+NAME_VI: Charlotte
+NAME_ZH: 夏洛特区
+NE_ID: 1159316359

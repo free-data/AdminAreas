@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1168
+DISS_ME: 1168
+ISO_3166_2: TW-TAO
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 1
+NAME: Taoyuan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Hsien
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: TW.TW.TY
+NOTE: null
+HASC_MAYBE: null
+REGION: Taiwan Province
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2347345
+WOE_LABEL: null
+WOE_NAME: Taoyuan County
+LATITUDE: 24.961
+LONGITUDE: 121.227
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1667900
+GN_NAME: Taoyuan
+GNS_ID: -2638324
+GNS_NAME: Taoyuan Xian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.TAO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW25
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q115256
+NAME_AR: مدينة تاويون
+NAME_BN: তাওউয়ান শহর
+NAME_DE: Taoyuan
+NAME_EN: Taoyuan City
+NAME_ES: Taoyuan
+NAME_FR: comté de Taoyuan
+NAME_EL: Ταογιουάν
+NAME_HI: ताओयुआन सिटी
+NAME_HU: Taojüan megye
+NAME_ID: Kabupaten Taoyuan
+NAME_IT: Taoyuan
+NAME_JA: 桃園市
+NAME_KO: 타오위안 시
+NAME_NL: Taoyuan
+NAME_PL: Taoyuan
+NAME_PT: Taoyuan
+NAME_RU: Таоюань
+NAME_SV: Taoyuan
+NAME_TR: Taoyuan
+NAME_VI: Đào Viên
+NAME_ZH: 桃園市
+NE_ID: 1159310409

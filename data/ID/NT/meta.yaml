@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1235
+DISS_ME: 1235
+ISO_3166_2: ID-NT
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Nusa Tenggara Timur
+NAME_ALT: NTT
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.NT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 33
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: NT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 19
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID18
+FIPS_ALT: null
+WOE_ID: 2345727
+WOE_LABEL: East Nusa Tenggara, ID, Indonesia
+WOE_NAME: Nusa Tenggara Timur
+LATITUDE: -8.58443
+LONGITUDE: 120.689
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1633791
+GN_NAME: Provinsi Nusa Tenggara Timur
+GNS_ID: -2689596
+GNS_NAME: Nusa Tenggara Timur, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID18
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5061
+NAME_AR: نوسا تنقارا الشرقية
+NAME_BN: পূর্ব নুসা টেঙ্গারা প্রদেশ
+NAME_DE: Nusa Tenggara Timur
+NAME_EN: East Nusa Tenggara Province
+NAME_ES: Nusatenggara Oriental
+NAME_FR: petites Îles de la Sonde orientales
+NAME_EL: Ήστ Νούσα Τενγκάρα
+NAME_HI: पूर्वी नुसा तेंगारा
+NAME_HU: null
+NAME_ID: Nusa Tenggara Timur
+NAME_IT: Nusa Tenggara Orientale
+NAME_JA: 東ヌサ・トゥンガラ州
+NAME_KO: 누사틍가라티무르 주
+NAME_NL: Oost-Nusa Tenggara
+NAME_PL: Małe Wyspy Sundajskie Wschodnie
+NAME_PT: Sonda Oriental
+NAME_RU: Восточная Нуса-Тенгара
+NAME_SV: Nusa Tenggara Timur
+NAME_TR: Doğu Nusa Tenggara
+NAME_VI: Đông Nusa Tenggara
+NAME_ZH: 東努沙登加拉省
+NE_ID: 1159309833

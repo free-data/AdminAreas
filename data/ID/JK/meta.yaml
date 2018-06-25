@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1227
+DISS_ME: 1227
+ISO_3166_2: ID-JK
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 1
+NAME: Jakarta Raya
+NAME_ALT: Jawa|Djakarta
+NAME_LOCAL: null
+TYPE: Daerah Khusus Ibukota
+TYPE_EN: Special district
+CODE_LOCAL: null
+CODE_HASC: ID.JK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID04
+FIPS_ALT: null
+WOE_ID: 2345713
+WOE_LABEL: DKI Jakarta, ID, Indonesia
+WOE_NAME: Jakarta Raya
+LATITUDE: -6.22462
+LONGITUDE: 106.837
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1642907
+GN_NAME: Daerah Khusus Ibukota Jakarta
+GNS_ID: -2679656
+GNS_NAME: Jakarta, Daerah Khusus Ibukota
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID04
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q3630
+NAME_AR: جاكرتا
+NAME_BN: জাকার্তা
+NAME_DE: Jakarta
+NAME_EN: Jakarta
+NAME_ES: Yakarta
+NAME_FR: Jakarta
+NAME_EL: Τζακάρτα
+NAME_HI: जकार्ता
+NAME_HU: Jakarta
+NAME_ID: Daerah Khusus Ibukota Jakarta
+NAME_IT: Giacarta
+NAME_JA: ジャカルタ
+NAME_KO: 자카르타
+NAME_NL: Jakarta
+NAME_PL: Dżakarta
+NAME_PT: Jacarta
+NAME_RU: Джакарта
+NAME_SV: Jakarta
+NAME_TR: Cakarta
+NAME_VI: Jakarta
+NAME_ZH: 雅加达
+NE_ID: 1159309883

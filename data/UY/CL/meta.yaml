@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-12
+DISS_ME: 12
+ISO_3166_2: UY-CL
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Cerro Largo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.CL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY03
+FIPS_ALT: null
+WOE_ID: 2347642
+WOE_LABEL: Cerro Largo, UY, Uruguay
+WOE_NAME: Cerro Largo
+LATITUDE: -32.2963
+LONGITUDE: -54.2281
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3443173
+GN_NAME: Departamento de Cerro Largo
+GNS_ID: -906157
+GNS_NAME: Cerro Largo, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q16575
+NAME_AR: سيرو لاغو
+NAME_BN: কেরু লারগু বিভাগ
+NAME_DE: Departamento Cerro Largo
+NAME_EN: Cerro Largo Department
+NAME_ES: Cerro Largo
+NAME_FR: Cerro Largo
+NAME_EL: Κέρο Λάργκο
+NAME_HI: सेरो लार्गो विभाग
+NAME_HU: Cerro Largo megye
+NAME_ID: Departemen Cerro Largo
+NAME_IT: dipartimento di Cerro Largo
+NAME_JA: セロ・ラルゴ県
+NAME_KO: 세로라르고 주
+NAME_NL: Cerro Largo
+NAME_PL: Cerro Largo
+NAME_PT: Cerro Largo
+NAME_RU: Серро-Ларго
+NAME_SV: Cerro Largo
+NAME_TR: Cerro Largo
+NAME_VI: Cerro Largo
+NAME_ZH: 塞罗拉尔戈省
+NE_ID: 1159307743

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-577
+DISS_ME: 577
+ISO_3166_2: PE-ANC
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Áncash
+NAME_ALT: Ancachs
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE02
+FIPS_ALT: null
+WOE_ID: 2346469
+WOE_LABEL: Ancash, PE, Peru
+WOE_NAME: Ancash
+LATITUDE: -9.53996
+LONGITUDE: -77.6571
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3699674
+GN_NAME: Region de Ancash
+GNS_ID: -336820
+GNS_NAME: Ancash, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE02
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q205089
+NAME_AR: إقليم أنكاش
+NAME_BN: আনকাশ অঞ্চল
+NAME_DE: Ancash
+NAME_EN: Áncash Region
+NAME_ES: Departamento de Áncash
+NAME_FR: Région d'Ancash
+NAME_EL: Ανκάς
+NAME_HI: एन्कैश क्षेत्र
+NAME_HU: Ancash megye
+NAME_ID: Region Ancash
+NAME_IT: regione di Ancash
+NAME_JA: アンカシュ県
+NAME_KO: 앙카시 주
+NAME_NL: Ancash
+NAME_PL: Region Ancash
+NAME_PT: Ancash
+NAME_RU: Анкаш
+NAME_SV: Ancash
+NAME_TR: Ancash Bölgesi
+NAME_VI: Vùng Ancash
+NAME_ZH: 安卡什大区
+NE_ID: 1159309957

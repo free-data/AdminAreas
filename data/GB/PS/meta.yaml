@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2759
+DISS_ME: 2759
+ISO_3166_2: GB-POR
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 5
+NAME: Portsmouth
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.PS
+NOTE: null
+HASC_MAYBE: null
+REGION: South East
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Portsm'h
+POSTAL: PS
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKK6
+FIPS_ALT: UKK6
+WOE_ID: 12696158
+WOE_LABEL: null
+WOE_NAME: Portsmouth City
+LATITUDE: 50.8032
+LONGITUDE: -0.979793
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333183
+GN_NAME: City of Portsmouth
+GNS_ID: 6077625
+GNS_NAME: Portsmouth, City of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.K6
+REGION_SUB: Hampshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q72259
+NAME_AR: بورتسموث
+NAME_BN: পোর্টস্‌মাথ
+NAME_DE: Portsmouth
+NAME_EN: Portsmouth
+NAME_ES: Portsmouth
+NAME_FR: Portsmouth
+NAME_EL: Πόρτσμουθ
+NAME_HI: पोर्ट्समाउथ
+NAME_HU: Portsmouth
+NAME_ID: Portsmouth
+NAME_IT: Portsmouth
+NAME_JA: ポーツマス
+NAME_KO: 포츠머스
+NAME_NL: Portsmouth
+NAME_PL: Portsmouth
+NAME_PT: Portsmouth
+NAME_RU: Портсмут
+NAME_SV: Portsmouth
+NAME_TR: Portsmouth
+NAME_VI: Portsmouth
+NAME_ZH: 朴次茅斯
+NE_ID: 1159314671

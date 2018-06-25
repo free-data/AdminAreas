@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5771
+DISS_ME: 5771
+ISO_3166_2: LV-062
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Marupes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG95
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.8913
+LONGITUDE: 23.9438
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628319
+GN_NAME: Marupes Novads
+GNS_ID: 10974821
+GNS_NAME: Marupes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.95
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG95
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2232018
+NAME_AR: بلدية ماروب
+NAME_BN: মারুপ পৌরসভা
+NAME_DE: Bezirk Mārupe
+NAME_EN: Mārupe Municipality
+NAME_ES: Municipalidad de Mārupe
+NAME_FR: Mārupes novads
+NAME_EL: Μάρουπε
+NAME_HI: मरूप नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Mārupe
+NAME_IT: Mārupe
+NAME_JA: マールペ
+NAME_KO: 마루페 시
+NAME_NL: Mārupes novads
+NAME_PL: Gmina Mārupe
+NAME_PT: Município de Marupe
+NAME_RU: Марупский край
+NAME_SV: Mārupes novads
+NAME_TR: Mareupe Belediyesi
+NAME_VI: Đô thị tự trị Marupe
+NAME_ZH: 馬魯皮斯自治市
+NE_ID: 1159317631

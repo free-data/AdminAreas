@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-3421
+DISS_ME: 3421
+ISO_3166_2: CH-FR
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Fribourg
+NAME_ALT: Freiburg|Friburg|Friburgo
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.FR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: FR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ06
+FIPS_ALT: null
+WOE_ID: 2347088
+WOE_LABEL: Canton of Fribourg, CH, Switzerland
+WOE_NAME: Fribourg
+LATITUDE: 46.8411
+LONGITUDE: 6.85219
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2660717
+GN_NAME: Canton de Fribourg
+GNS_ID: -2552079
+GNS_NAME: Fribourg, Canton de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.FR
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ06
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12640
+NAME_AR: كانتون فريبورغ
+NAME_BN: ক্যান্টন  অফ ফিরবার্গ
+NAME_DE: Kanton Freiburg
+NAME_EN: Canton of Fribourg
+NAME_ES: Friburgo
+NAME_FR: canton de Fribourg
+NAME_EL: Κάντον οφ Φρίμπουργκ
+NAME_HI: फ़्राइबूर्ग कैन्टन
+NAME_HU: Fribourg kanton
+NAME_ID: Kanton Fribourg
+NAME_IT: Canton Friburgo
+NAME_JA: フリブール州
+NAME_KO: 프리부르 주
+NAME_NL: Fribourg
+NAME_PL: Fryburg
+NAME_PT: Friburgo
+NAME_RU: Фрибур
+NAME_SV: Fribourg
+NAME_TR: Fribourg
+NAME_VI: Fribourg
+NAME_ZH: 弗里堡州
+NE_ID: 1159314889

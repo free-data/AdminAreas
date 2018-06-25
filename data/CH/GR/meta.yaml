@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-170
+DISS_ME: 170
+ISO_3166_2: CH-GR
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Graubünden
+NAME_ALT: Graubünden|Grigioni|Grischun|Grisons
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ09
+FIPS_ALT: null
+WOE_ID: 2347091
+WOE_LABEL: Canton of Graubunden, CH, Switzerland
+WOE_NAME: Graubünden
+LATITUDE: 46.6729
+LONGITUDE: 9.55953
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2660522
+GN_NAME: Kanton Graubunden
+GNS_ID: -2552275
+GNS_NAME: Graubunden, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.GR
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ09
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11925
+NAME_AR: كانتون غراوبوندن
+NAME_BN: গ্রাউবান্ডেন
+NAME_DE: Kanton Graubünden
+NAME_EN: Graubünden
+NAME_ES: Grisones
+NAME_FR: canton des Grisons
+NAME_EL: Γκραουμπούντεν
+NAME_HI: ग्राउबुन्डन कैन्टन
+NAME_HU: Graubünden kanton
+NAME_ID: Kanton Graubünden
+NAME_IT: Cantone dei Grigioni
+NAME_JA: グラウビュンデン州
+NAME_KO: 그라우뷘덴 주
+NAME_NL: Graubünden
+NAME_PL: Gryzonia
+NAME_PT: Grisões
+NAME_RU: Граубюнден
+NAME_SV: Graubünden
+NAME_TR: Graubünden
+NAME_VI: Graubünden
+NAME_ZH: 格勞賓登州
+NE_ID: 1159307675

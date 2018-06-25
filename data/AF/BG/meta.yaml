@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1741
+DISS_ME: 1741
+ISO_3166_2: AF-BDG
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Badghis
+NAME_ALT: Badghes|Badghisat|Badgis
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.BG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF02
+FIPS_ALT: null
+WOE_ID: 2344550
+WOE_LABEL: Badghis, AF, Afghanistan
+WOE_NAME: Badghis
+LATITUDE: 35.2699
+LONGITUDE: 63.8495
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1147707
+GN_NAME: Badghis
+GNS_ID: -3369597
+GNS_NAME: Badghis, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF02
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q172052
+NAME_AR: ولاية بادغيس
+NAME_BN: বদগিস প্রদেশ
+NAME_DE: Badghis
+NAME_EN: Badghis
+NAME_ES: Provincia de Bādgīs
+NAME_FR: Bâdghîs
+NAME_EL: Μπαντγκίς
+NAME_HI: बादग़ीस प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Badghis
+NAME_IT: Badghis
+NAME_JA: バードギース州
+NAME_KO: 바드기스 주
+NAME_NL: Badghis
+NAME_PL: Badghis
+NAME_PT: Badghis
+NAME_RU: Бадгис
+NAME_SV: Badghis
+NAME_TR: Badgis Vilayeti
+NAME_VI: Badghis
+NAME_ZH: 巴德吉斯省
+NE_ID: 1159312035

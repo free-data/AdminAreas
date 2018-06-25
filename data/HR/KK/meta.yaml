@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1608
+DISS_ME: 1608
+ISO_3166_2: HR-06
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Koprivničko-Križevačka
+NAME_ALT: Koprivnica-Križevci
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: KK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 22
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR06
+FIPS_ALT: null
+WOE_ID: 12577976
+WOE_LABEL: KoprivniÄko-kriÅ¾evaÄka, HR, Croatia
+WOE_NAME: Koprivničko-Križevačka
+LATITUDE: 46.1914
+LONGITUDE: 16.831
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337518
+GN_NAME: Koprivnicko-Krizevacka Zupanija
+GNS_ID: 9031063
+GNS_NAME: Koprivnicko-Krizevacka Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR06
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58026
+NAME_AR: مقاطعة كوبريفنيكا-كريزفتسي
+NAME_BN: কপ্রিভনিকা-ক্রিজেভচি কাউন্টি
+NAME_DE: Gespanschaft Koprivnica-Križevci
+NAME_EN: Koprivnica-Križevci County
+NAME_ES: Koprivnica-Križevci
+NAME_FR: Comitat de Koprivnica-Križevci
+NAME_EL: Κοπριβνίτσα-Κριζέβσκι
+NAME_HI: कोप्रिव्निका-क्रिझेव्की काउंटी
+NAME_HU: Kapronca-Körös megye
+NAME_ID: Kabupaten Koprivnica-Križevci
+NAME_IT: regione di Koprivnica e Križevci
+NAME_JA: コプリヴニツァ＝クリジェヴツィ郡
+NAME_KO: 코프리브니차크리제브치 주
+NAME_NL: Koprivnica-Križevci
+NAME_PL: Koprivničko-križevačka županija
+NAME_PT: Condado de Koprivnica-Križevci
+NAME_RU: Копривницко-Крижевацкая жупания
+NAME_SV: Koprivnica-Križevcis län
+NAME_TR: Koprivnica-Križevci
+NAME_VI: Hạt Koprivnica-Krizevci
+NAME_ZH: 科普里夫尼察-克里熱夫齊縣
+NE_ID: 1159312551

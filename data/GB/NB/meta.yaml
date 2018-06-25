@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2034
+DISS_ME: 2034
+ISO_3166_2: GB-NBL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Northumberland
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Single-Tier County
+TYPE_EN: Unitary Single-Tier County
+CODE_LOCAL: null
+CODE_HASC: GB.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 20097
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKJ6
+FIPS_ALT: UKJ6
+WOE_ID: 12602153
+WOE_LABEL: null
+WOE_NAME: Northumberland
+LATITUDE: 55.3152
+LONGITUDE: -2.07057
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2641235
+GN_NAME: Northumberland
+GNS_ID: -2604404
+GNS_NAME: Northumberland, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.J6
+REGION_SUB: Northumberland
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23079
+NAME_AR: نورثمبرلاند
+NAME_BN: নদামবারল্যান্ড
+NAME_DE: Northumberland
+NAME_EN: Northumberland
+NAME_ES: Northumberland
+NAME_FR: Northumberland
+NAME_EL: Νορθάμπερλαντ
+NAME_HI: नॉर्थम्बरलैंड
+NAME_HU: Northumberland
+NAME_ID: Northumberland
+NAME_IT: Northumberland
+NAME_JA: ノーサンバーランド
+NAME_KO: 노섬벌랜드 주
+NAME_NL: Northumberland
+NAME_PL: Northumberland
+NAME_PT: Northumberland
+NAME_RU: Нортамберленд
+NAME_SV: Northumberland
+NAME_TR: Northumberland
+NAME_VI: Northumberland
+NAME_ZH: 諾森伯蘭郡
+NE_ID: 1159312859

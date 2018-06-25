@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2298
+DISS_ME: 2298
+ISO_3166_2: TR-08
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Artvin
+NAME_ALT: Çoruh
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.AV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU08
+FIPS_ALT: null
+WOE_ID: 2347265
+WOE_LABEL: Artvin, TR, Turkey
+WOE_NAME: Artvin
+LATITUDE: 41.0175
+LONGITUDE: 41.8331
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 751816
+GN_NAME: Artvin
+GNS_ID: -735804
+GNS_NAME: Artvin Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU08
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q43745
+NAME_AR: أرتوين
+NAME_BN: আর্টভিন প্রদেশ
+NAME_DE: Artvin
+NAME_EN: Artvin Province
+NAME_ES: Provincia de Artvin
+NAME_FR: Artvin
+NAME_EL: Επαρχία Αρτβίν
+NAME_HI: आर्टविन प्रांत
+NAME_HU: Artvin
+NAME_ID: Provinsi Artvin
+NAME_IT: provincia di Artvin
+NAME_JA: アルトヴィン県
+NAME_KO: 아르트빈 주
+NAME_NL: Artvin
+NAME_PL: Artvin
+NAME_PT: Artvin
+NAME_RU: Артвин
+NAME_SV: Artvin
+NAME_TR: Artvin ili
+NAME_VI: Artvin
+NAME_ZH: 阿尔特温省
+NE_ID: 1159312345

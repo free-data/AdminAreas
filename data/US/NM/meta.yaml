@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: USA-3524
+DISS_ME: 3524
+ISO_3166_2: US-NM
+WIKIPEDIA: http://en.wikipedia.org/wiki/New_Mexico
+ISO_A2: US
+ADM0_SR: 1
+NAME: New Mexico
+NAME_ALT: NM|N.M.
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: US35
+CODE_HASC: US.NM
+NOTE: null
+HASC_MAYBE: null
+REGION: West
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: N.M.
+POSTAL: NM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 0
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: US35
+FIPS_ALT: null
+WOE_ID: 2347590
+WOE_LABEL: New Mexico, US, United States
+WOE_NAME: New Mexico
+LATITUDE: 34.5002
+LONGITUDE: -106.024
+SOV_A3: US1
+ADM0_A3: USA
+ADM0_LABEL: 2
+ADMIN: United States of America
+GEONUNIT: United States of America
+GU_A3: USA
+GN_ID: 5481136
+GN_NAME: New Mexico
+GNS_ID: -1
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: US.NM
+REGION_SUB: Mountain
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q1522
+NAME_AR: نيومكسيكو
+NAME_BN: নিউ মেক্সিকো
+NAME_DE: New Mexico
+NAME_EN: New Mexico
+NAME_ES: Nuevo México
+NAME_FR: Nouveau-Mexique
+NAME_EL: Νέο Μεξικό
+NAME_HI: नया मेक्सिको
+NAME_HU: Új-Mexikó
+NAME_ID: New Mexico
+NAME_IT: Nuovo Messico
+NAME_JA: ニューメキシコ州
+NAME_KO: 뉴멕시코주
+NAME_NL: New Mexico
+NAME_PL: Nowy Meksyk
+NAME_PT: Novo México
+NAME_RU: Нью-Мексико
+NAME_SV: New Mexico
+NAME_TR: New Mexico
+NAME_VI: New Mexico
+NAME_ZH: 新墨西哥州
+NE_ID: 1159315347

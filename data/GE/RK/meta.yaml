@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GEO-3035
+DISS_ME: 3035
+ISO_3166_2: GE-RL
+WIKIPEDIA: null
+ISO_A2: GE
+ADM0_SR: 1
+NAME: Racha-Lechkhumi-Kvemo Svaneti
+NAME_ALT: Ambrolauri
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GE.RK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: RK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 29
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: GG70
+FIPS_ALT: null
+WOE_ID: -20070380
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 42.6296
+LONGITUDE: 43.1304
+SOV_A3: GEO
+ADM0_A3: GEO
+ADM0_LABEL: 2
+ADMIN: Georgia
+GEONUNIT: Georgia
+GU_A3: GEG
+GN_ID: 865542
+GN_NAME: Racha-Lechkhumi and Kvemo Svaneti
+GNS_ID: 9113608
+GNS_NAME: Rach'a-Lechkhumi da Kvemo Svanetis Mkhare
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GE.70
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: GG70
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q38893
+NAME_AR: راتشا-ليخخومي وكفيمو سفانيتي
+NAME_BN: রচা- লেচুমি এবং কিভোম ভেনেটি
+NAME_DE: Ratscha-Letschchumi und Niederswanetien
+NAME_EN: Racha-Lechkhumi and Kvemo Svaneti
+NAME_ES: Racha-Lechjumi y Kvemo Svaneti
+NAME_FR: Racha-Lechkhumi et Kvemo Svaneti
+NAME_EL: Ράτσα-Λετσκούμι και Κβέμο Σβανέτι
+NAME_HI: रचा-लेचुखुमी और क्वेमो स्वानेती
+NAME_HU: Racsa-Lecshumi és Alsó-Szvanéti
+NAME_ID: Racha-Lechkhumi dan Kvemo Svaneti
+NAME_IT: Racha-Lechkhumi e Kvemo Svaneti
+NAME_JA: ラチャ＝レチフミおよびクヴェモ・スヴァネティ州
+NAME_KO: 라차레츠후미크베모스바네티 주
+NAME_NL: Ratsja-Letsjchoemi en Kvemo Svaneti
+NAME_PL: Racza-Leczchumi i Dolna Swanetia
+NAME_PT: Racha-Lechkhumi e Kvemo Svaneti
+NAME_RU: Рача-Лечхуми и Квемо-Сванети
+NAME_SV: Ratja-Letjchumi och Nedre Svanetien
+NAME_TR: Raca-Leçhumi ve Kvemo Svaneti
+NAME_VI: Racha-Lechkhumi và Kvemo Svaneti
+NAME_ZH: 拉恰-列其呼米-下斯瓦涅季亞州
+NE_ID: 1159314591

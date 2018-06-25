@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-545
+DISS_ME: 545
+ISO_3166_2: TL-AN
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Ainaro
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT02
+FIPS_ALT: CG02
+WOE_ID: 24549900
+WOE_LABEL: Ainaro, TL, East Timor
+WOE_NAME: Ainaro
+LATITUDE: -9.03099
+LONGITUDE: 125.551
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1651809
+GN_NAME: Distrito Ainaro
+GNS_ID: -2669962
+GNS_NAME: Ainaro, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.AN
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT02
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q405926
+NAME_AR: بلدية إينارو
+NAME_BN: আইনারো পৌরসভা
+NAME_DE: Ainaro
+NAME_EN: Ainaro Municipality
+NAME_ES: Ainaro
+NAME_FR: Ainaro
+NAME_EL: Αϊνάρο
+NAME_HI: ऐनारो नगरपालिका
+NAME_HU: null
+NAME_ID: Ainaro
+NAME_IT: distretto di Ainaro
+NAME_JA: アイナロ県
+NAME_KO: 아이나루 현
+NAME_NL: Ainaro
+NAME_PL: Dystrykt Ainaro
+NAME_PT: Ainaro
+NAME_RU: Айнару
+NAME_SV: Ainaro
+NAME_TR: Ainora Belediyesi
+NAME_VI: Ainaro
+NAME_ZH: 阿伊納羅縣
+NE_ID: 1159307855

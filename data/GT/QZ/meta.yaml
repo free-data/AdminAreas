@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1945
+DISS_ME: 1945
+ISO_3166_2: GT-QZ
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Quezaltenango
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.QZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: QZ
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT13
+FIPS_ALT: null
+WOE_ID: 2345564
+WOE_LABEL: Quetzaltenango, GT, Guatemala
+WOE_NAME: Quezaltenango
+LATITUDE: 14.7269
+LONGITUDE: -91.7831
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3590978
+GN_NAME: Departamento de Quetzaltenango
+GNS_ID: -1140400
+GNS_NAME: Quetzaltenango
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q844502
+NAME_AR: قسم كويتزالتينانغو
+NAME_BN: কুয়ােটজালেনাং বিভাগ
+NAME_DE: Departamento Quetzaltenango
+NAME_EN: Quetzaltenango Department
+NAME_ES: Quetzaltenango
+NAME_FR: département de Quetzaltenango
+NAME_EL: Κουετζαλτενάνγκο
+NAME_HI: क्वेटज़ाल्टेनैंगो विभाग
+NAME_HU: Quetzaltenango megye
+NAME_ID: Departemen Quetzaltenango
+NAME_IT: dipartimento di Quetzaltenango
+NAME_JA: ケツァルテナンゴ県
+NAME_KO: 케트살테낭고 주
+NAME_NL: Quetzaltenango
+NAME_PL: Quetzaltenango
+NAME_PT: Quetzaltenango
+NAME_RU: Кесальтенанго
+NAME_SV: Departamento de Quetzaltenango
+NAME_TR: Quetzaltenango
+NAME_VI: Quetzaltenango
+NAME_ZH: 克薩爾特南戈省
+NE_ID: 1159311641

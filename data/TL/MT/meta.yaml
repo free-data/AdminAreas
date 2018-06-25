@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-550
+DISS_ME: 550
+ISO_3166_2: TL-MT
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Manatuto
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT10
+FIPS_ALT: CG02
+WOE_ID: 24549902
+WOE_LABEL: Manatuto, TL, East Timor
+WOE_NAME: Manatuto
+LATITUDE: -8.737
+LONGITUDE: 125.968
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1636525
+GN_NAME: Distrito Manatuto
+GNS_ID: -2686591
+GNS_NAME: Manatuto, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.MT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT10
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q860630
+NAME_AR: مقاطعة ماناتوتو
+NAME_BN: মানাতুতু জেলা
+NAME_DE: Manatuto
+NAME_EN: Manatuto District
+NAME_ES: Manatuto
+NAME_FR: Manatuto
+NAME_EL: Μανατούτο
+NAME_HI: मनातुतो  जिला
+NAME_HU: null
+NAME_ID: Manatuto
+NAME_IT: distretto di Manatuto
+NAME_JA: マナトゥト県
+NAME_KO: 마나투투 현
+NAME_NL: Manatuto
+NAME_PL: Dystrykt Manatuto
+NAME_PT: Manatuto
+NAME_RU: Манатуту
+NAME_SV: Manatutodistriktet
+NAME_TR: Manatuto District
+NAME_VI: Manatuto
+NAME_ZH: 馬納圖托縣
+NE_ID: 1159307867

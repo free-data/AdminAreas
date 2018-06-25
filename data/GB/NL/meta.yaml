@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2057
+DISS_ME: 2057
+ISO_3166_2: GB-NLN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: North Lincolnshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.NL
+NOTE: null
+HASC_MAYBE: null
+REGION: Yorkshire and the Humber
+REGION_COD: null
+PROVNUM_NE: 20081
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: N Lincs
+POSTAL: NL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 18
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKJ3
+FIPS_ALT: UKJ3
+WOE_ID: 12696143
+WOE_LABEL: null
+WOE_NAME: North Lincolnshire
+LATITUDE: 53.5741
+LONGITUDE: -0.570942
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333176
+GN_NAME: North Lincolnshire
+GNS_ID: 6077618
+GNS_NAME: North Lincolnshire, District of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.J3
+REGION_SUB: Kingston upon Hull
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q175945
+NAME_AR: null
+NAME_BN: উত্তর লিংকনশায়ার
+NAME_DE: North Lincolnshire
+NAME_EN: North Lincolnshire
+NAME_ES: North Lincolnshire
+NAME_FR: Lincolnshire du Nord
+NAME_EL: Βόρειο Λινκολνσάιρ
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: North Lincolnshire
+NAME_JA: ノース・リンカンシャー
+NAME_KO: 노스링컨셔
+NAME_NL: North Lincolnshire
+NAME_PL: North Lincolnshire
+NAME_PT: North Lincolnshire
+NAME_RU: Северный Линкольншир
+NAME_SV: North Lincolnshire
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 北林肯郡
+NE_ID: 1159312909

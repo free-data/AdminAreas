@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5428
+DISS_ME: 5428
+ISO_3166_2: IT-PU
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Pesaro e Urbino
+NAME_ALT: Marches|Marca
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 61
+CODE_HASC: IT.PU
+NOTE: ITE
+HASC_MAYBE: null
+REGION: Marche
+REGION_COD: IT-57
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: PU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 15
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT10
+FIPS_ALT: null
+WOE_ID: 12591841
+WOE_LABEL: null
+WOE_NAME: Pesaro e Urbino
+LATITUDE: 43.7017
+LONGITUDE: 12.6409
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3171172
+GN_NAME: Provincia di Pesaro e Urbino
+GNS_ID: -124332
+GNS_NAME: Pesaro e Urbino Provincia
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.PU
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT10
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16241
+NAME_AR: مقاطعة بيزارو وأوربينو
+NAME_BN: পিসারো এবং উর্বিনো প্রদেশ
+NAME_DE: Provinz Pesaro und Urbino
+NAME_EN: Pesaro and Urbino Province
+NAME_ES: Pesaro y Urbino
+NAME_FR: Province de Pesaro et d'Urbino
+NAME_EL: Πέζαρο-Ουρμπίνο
+NAME_HI: पेसारो और अरबीनो प्रांत
+NAME_HU: Pesaro és Urbino megye
+NAME_ID: Provinsi Pesaro dan Urbino
+NAME_IT: provincia di Pesaro e Urbino
+NAME_JA: ペーザロ・エ・ウルビーノ県
+NAME_KO: 페사로에우르비노 현
+NAME_NL: Pesaro e Urbino
+NAME_PL: Prowincja Pesaro e Urbino
+NAME_PT: Pesaro e Urbino
+NAME_RU: Пезаро-э-Урбино
+NAME_SV: Pesaro e Urbino
+NAME_TR: Pesaro ve Urbino ili
+NAME_VI: Pesaro và Urbino
+NAME_ZH: 佩薩羅-烏爾比諾省
+NE_ID: 1159317021

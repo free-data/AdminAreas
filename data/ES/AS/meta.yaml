@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ESP-5805
+DISS_ME: 5805
+ISO_3166_2: ES-O
+WIKIPEDIA: null
+ISO_A2: ES
+ADM0_SR: 1
+NAME: Asturias
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comunidad Autónoma
+TYPE_EN: Autonomous Community
+CODE_LOCAL: null
+CODE_HASC: ES.AS
+NOTE: null
+HASC_MAYBE: null
+REGION: Asturias
+REGION_COD: ES.AS
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: AS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: SP95
+FIPS_ALT: SP34
+WOE_ID: 12578027
+WOE_LABEL: Asturias, ES, Spain
+WOE_NAME: Principado de Asturias
+LATITUDE: 43.3261
+LONGITUDE: -5.84196
+SOV_A3: ESP
+ADM0_A3: ESP
+ADM0_LABEL: 2
+ADMIN: Spain
+GEONUNIT: null
+GU_A3: null
+GN_ID: 6355236
+GN_NAME: Province of Asturias
+GNS_ID: -394971
+GNS_NAME: Principado de Asturias, Comunidad Autonoma del
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: ES.O
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: SP34
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q3934
+NAME_AR: منطقة أستورياس
+NAME_BN: আস্তুরিয়াস
+NAME_DE: Asturien
+NAME_EN: Asturias
+NAME_ES: Asturias
+NAME_FR: Asturies
+NAME_EL: Αστούριες
+NAME_HI: आस्तुरियास
+NAME_HU: Asztúria
+NAME_ID: Asturias
+NAME_IT: Asturie
+NAME_JA: アストゥリアス州
+NAME_KO: 아스투리아스 지방
+NAME_NL: Asturië
+NAME_PL: Asturia
+NAME_PT: Astúrias
+NAME_RU: Астурия
+NAME_SV: Asturien
+NAME_TR: Asturies
+NAME_VI: Asturies
+NAME_ZH: 阿斯图里亚斯
+NE_ID: 1159310635

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ETH-3132
+DISS_ME: 3132
+ISO_3166_2: ET-BE
+WIKIPEDIA: null
+ISO_A2: ET
+ADM0_SR: 1
+NAME: Benshangul-Gumaz
+NAME_ALT: Benishangul|Beni Shangul|Bénishangul|Benishangul-Gumuz|Binshangul Gumuz
+NAME_LOCAL: null
+TYPE: Kilil
+TYPE_EN: Administrative State
+CODE_LOCAL: null
+CODE_HASC: ET.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20020
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 3
+ABBREV: null
+POSTAL: BE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 13
+FIPS: ET47
+FIPS_ALT: ET43
+WOE_ID: 56013538
+WOE_LABEL: null
+WOE_NAME: Benshangul-Gumaz
+LATITUDE: 10.5396
+LONGITUDE: 35.6017
+SOV_A3: ETH
+ADM0_A3: ETH
+ADM0_LABEL: 2
+ADMIN: Ethiopia
+GEONUNIT: Ethiopia
+GU_A3: ETH
+GN_ID: 444181
+GN_NAME: Benishangul-Gumuz Region
+GNS_ID: 9087443
+GNS_NAME: Binshangul Gumuz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ET.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: amh
+GNS_ADM1: ET47
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q207635
+NAME_AR: بنيشنقول-قماز
+NAME_BN: বেনসিংগল-গামুজ অঞ্চল
+NAME_DE: Benishangul-Gumuz
+NAME_EN: Benishangul-Gumuz Region
+NAME_ES: Benishangul-Gumaz
+NAME_FR: Benishangul-Gumaz
+NAME_EL: Μπενισανγούλ Γκουμούζ
+NAME_HI: बेनिशंगुल-गुमुज़ प्रदेश
+NAME_HU: Benishangul-Gumuz
+NAME_ID: Region Benishangul-Gumaz
+NAME_IT: regione Benisciangul-Gumus
+NAME_JA: ベニシャングル・グムズ州
+NAME_KO: 베니샹굴구무즈 주
+NAME_NL: Benishangul-Gumuz
+NAME_PL: Bienszangul-Gumuz
+NAME_PT: Benishangul-Gumaz
+NAME_RU: Бенишангул-Гумуз
+NAME_SV: Benishangul-Gumuz
+NAME_TR: Benishangul-Gumuz Bölgesi
+NAME_VI: Benishangul-Gumuz
+NAME_ZH: 本尚古勒-古馬茲州
+NE_ID: 1159313861

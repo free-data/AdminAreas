@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Finland
+SOV_A3: FI1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Country
+ADMIN: Finland
+ADM0_A3: FIN
+GEOU_DIF: 0
+GEOUNIT: Finland
+GU_A3: FIN
+SU_DIF: 0
+SUBUNIT: Finland
+SU_A3: FIN
+BRK_DIFF: 0
+NAME: Finland
+NAME_LONG: Finland
+BRK_A3: FIN
+BRK_NAME: Finland
+BRK_GROUP: null
+ABBREV: Fin.
+POSTAL: FIN
+FORMAL_EN: Republic of Finland
+FORMAL_FR: null
+NAME_CIAWF: Finland
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Finland
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 1
+MAPCOLOR9: 4
+MAPCOLOR13: 6
+POP_EST: 5491218
+POP_RANK: 13
+GDP_MD_EST: 224137
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: FI
+ISO_A2: FI
+ISO_A3: FIN
+ISO_A3_EH: FIN
+ISO_N3: 246
+UN_A3: 246
+WB_A2: FI
+WB_A3: FIN
+WOE_ID: 23424812
+WOE_ID_EH: 23424812
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: FIN
+ADM0_A3_US: FIN
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Northern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159320623
+WIKIDATAID: Q33
+NAME_AR: فنلندا
+NAME_BN: ফিনল্যান্ড
+NAME_DE: Finnland
+NAME_EN: Finland
+NAME_ES: Finlandia
+NAME_FR: Finlande
+NAME_EL: Φινλανδία
+NAME_HI: फ़िनलैण्ड
+NAME_HU: Finnország
+NAME_ID: Finlandia
+NAME_IT: Finlandia
+NAME_JA: フィンランド
+NAME_KO: 핀란드
+NAME_NL: Finland
+NAME_PL: Finlandia
+NAME_PT: Finlândia
+NAME_RU: Финляндия
+NAME_SV: Finland
+NAME_TR: Finlandiya
+NAME_VI: Phần Lan
+NAME_ZH: 芬兰

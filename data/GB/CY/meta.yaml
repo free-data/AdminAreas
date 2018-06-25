@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2065
+DISS_ME: 2065
+ISO_3166_2: GB-CRY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Croydon
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.CY
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20042
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Croydon
+POSTAL: CY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKC8
+WOE_ID: 12695825
+WOE_LABEL: null
+WOE_NAME: London Borough of Croydon
+LATITUDE: 51.3625
+LONGITUDE: -0.0752612
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077582
+GNS_NAME: Croydon, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q26888
+NAME_AR: null
+NAME_BN: null
+NAME_DE: London Borough of Croydon
+NAME_EN: London Borough of Croydon
+NAME_ES: Croydon
+NAME_FR: district londonien de Croydon
+NAME_EL: null
+NAME_HI: क्रॉयडन बरो
+NAME_HU: Croydon kerület
+NAME_ID: null
+NAME_IT: Croydon
+NAME_JA: クロイドン・ロンドン特別区
+NAME_KO: 크로이던 구
+NAME_NL: Croydon
+NAME_PL: London Borough of Croydon
+NAME_PT: Croydon
+NAME_RU: Кройдон
+NAME_SV: London Borough of Croydon
+NAME_TR: null
+NAME_VI: Khu Croydon của Luân Đôn
+NAME_ZH: 克羅伊登區
+NE_ID: 1159312927

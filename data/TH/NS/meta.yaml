@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-411
+DISS_ME: 411
+ISO_3166_2: TH-60
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Nakhon Sawan
+NAME_ALT: null
+NAME_LOCAL: จังหวัดนครสวรรค์
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.NS
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 42
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH16
+FIPS_ALT: null
+WOE_ID: 2347143
+WOE_LABEL: Nakhon Sawan, TH, Thailand
+WOE_NAME: Nakhon Sawan
+LATITUDE: 15.6943
+LONGITUDE: 100.25
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1608526
+GN_NAME: Changwat Nakhon Sawan
+GNS_ID: -3251561
+GNS_NAME: Nakhon Sawan, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q239844
+NAME_AR: محافظة ناخون ساوان
+NAME_BN: নাখন সাবান
+NAME_DE: Nakhon Sawan
+NAME_EN: Nakhon Sawan
+NAME_ES: Provincia de Nakhon Sawan
+NAME_FR: Nakhon Sawan
+NAME_EL: Νάκχον Σαβάν
+NAME_HI: नखोन सवन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Nakhon Sawan
+NAME_IT: provincia di Nakhon Sawan
+NAME_JA: ナコーンサワン県
+NAME_KO: 나콘사완 주
+NAME_NL: Changwat Nakhon Sawan
+NAME_PL: Prowincja Nakhon Sawan
+NAME_PT: Nakhon Sawan
+NAME_RU: Накхонсаван
+NAME_SV: Nakhon Sawan
+NAME_TR: Nakhon Sawan
+NAME_VI: Nakhon Sawan
+NAME_ZH: 北欖坡府
+NE_ID: 1159308185

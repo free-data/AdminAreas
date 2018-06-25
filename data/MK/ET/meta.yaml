@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2958
+DISS_ME: 2958
+ISO_3166_2: MK-76
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Tetovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.ET
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ET
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MKA6
+FIPS_ALT: null
+WOE_ID: 24550862
+WOE_LABEL: Tetovo Municipality, MK, Macedonia
+WOE_NAME: Tetovo
+LATITUDE: 42.0484
+LONGITUDE: 20.8947
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863907
+GN_NAME: Opstina Tetovo
+GNS_ID: 9075776
+GNS_NAME: Tetovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.E8
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK98
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3245456
+NAME_AR: بلدية تيتوفو
+NAME_BN: তেতোভো পৌরসভা
+NAME_DE: Opština Tetovo
+NAME_EN: Tetovo Municipality
+NAME_ES: Municipalidad de Tetovo
+NAME_FR: Municipalité de Tetovo
+NAME_EL: Δήμος Τετόβου
+NAME_HI: टेटवो नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Tetovo
+NAME_IT: Municipio di Tetovo
+NAME_JA: テトヴォ
+NAME_KO: 테토보 시
+NAME_NL: Tetovo
+NAME_PL: Gmina Tetowo
+NAME_PT: Município Tetovo
+NAME_RU: Тетово
+NAME_SV: Tetovo
+NAME_TR: Kalkandelen Belediyesi
+NAME_VI: Đô thị tự trị Tetovo
+NAME_ZH: 特托沃區
+NE_ID: 1159314535

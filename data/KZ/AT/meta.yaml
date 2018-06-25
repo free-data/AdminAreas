@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KAZ-3195
+DISS_ME: 3195
+ISO_3166_2: KZ-AKT
+WIKIPEDIA: null
+ISO_A2: KZ
+ADM0_SR: 1
+NAME: Aqtöbe
+NAME_ALT: Aktyubinsk
+NAME_LOCAL: null
+TYPE: Oblasy
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KZ.AT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AT
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: KZ04
+FIPS_ALT: null
+WOE_ID: 2345980
+WOE_LABEL: Aqtobe, KZ, Kazakhstan
+WOE_NAME: Aqtöbe
+LATITUDE: 48.0288
+LONGITUDE: 58.9373
+SOV_A3: KAZ
+ADM0_A3: KAZ
+ADM0_LABEL: 2
+ADMIN: Kazakhstan
+GEONUNIT: Kazakhstan
+GU_A3: KAZ
+GN_ID: 610688
+GN_NAME: Aktyubinskaya Oblast'
+GNS_ID: -2333861
+GNS_NAME: Aktyubinskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KZ.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: KZ04
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q485437
+NAME_AR: أوبليس أكتوبي
+NAME_BN: আকতুবে অঞ্চল
+NAME_DE: Aqtöbe
+NAME_EN: Aktobe Region
+NAME_ES: Provincia de Aktobe
+NAME_FR: Oblys d'Aqtöbe
+NAME_EL: Περιφέρεια Ακτόμπε
+NAME_HI: अकतोबे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Aqtöbe
+NAME_IT: regione di Aqtöbe
+NAME_JA: アクトベ州
+NAME_KO: 악퇴베 주
+NAME_NL: Oblast Aqtöbe
+NAME_PL: Obwód aktobski
+NAME_PT: Aqtöbe
+NAME_RU: Актюбинская область
+NAME_SV: Aqtöbe
+NAME_TR: Aktöbe eyaleti
+NAME_VI: Aktobe
+NAME_ZH: 阿克托貝州
+NE_ID: 1159314713

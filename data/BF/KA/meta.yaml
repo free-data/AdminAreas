@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2815
+DISS_ME: 2815
+ISO_3166_2: BF-KAD
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Kadiogo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.KA
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre
+REGION_COD: null
+PROVNUM_NE: 20034
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: KA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV53
+FIPS_ALT: UV24
+WOE_ID: 2347619
+WOE_LABEL: Kadiogo, BF, Burkina Faso
+WOE_NAME: Kadiogo
+LATITUDE: 12.3267
+LONGITUDE: -1.4662
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2359923
+GN_NAME: Kadiogo Province
+GNS_ID: -1718848
+GNS_NAME: Kadiogo, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV81
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1074530
+NAME_AR: مقاطعة كاديوغو
+NAME_BN: কাডিওগো প্রদেশ
+NAME_DE: Kadiogo
+NAME_EN: Kadiogo Province
+NAME_ES: Provincia de Kadiogo
+NAME_FR: Kadiogo
+NAME_EL: Καντιόγκο
+NAME_HI: कडीओगो प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Kadiogo
+NAME_IT: provincia di Kadiogo
+NAME_JA: カディオゴ県
+NAME_KO: 카디오고 현
+NAME_NL: Kadiogo
+NAME_PL: Prowincja Kadiogo
+NAME_PT: Kadiogo
+NAME_RU: Кадиого
+NAME_SV: Kadiogo Province
+NAME_TR: Kadigo Province
+NAME_VI: Kadiogo
+NAME_ZH: 卡焦戈省
+NE_ID: 1159313903

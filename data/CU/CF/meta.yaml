@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CUB-1319
+DISS_ME: 1319
+ISO_3166_2: CU-06
+WIKIPEDIA: null
+ISO_A2: CU
+ADM0_SR: 1
+NAME: Cienfuegos
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CU.CF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CF
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: CU08
+FIPS_ALT: null
+WOE_ID: 2345112
+WOE_LABEL: Cienfuegos, CU, Cuba
+WOE_NAME: Cienfuegos
+LATITUDE: 22.3253
+LONGITUDE: -80.4831
+SOV_A3: CUB
+ADM0_A3: CUB
+ADM0_LABEL: 2
+ADMIN: Cuba
+GEONUNIT: Cuba
+GU_A3: CUB
+GN_ID: 3564120
+GN_NAME: Provincia de Cienfuegos
+GNS_ID: -1618073
+GNS_NAME: Cienfuegos
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CU.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CU08
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q115444
+NAME_AR: سينفويغوس
+NAME_BN: সিয়েনফুয়েগোস প্রদেশ
+NAME_DE: Provinz Cienfuegos
+NAME_EN: Cienfuegos Province
+NAME_ES: Provincia de Cienfuegos
+NAME_FR: province de Cienfuegos
+NAME_EL: Σιενφουέγος
+NAME_HI: सिएनफ्यूगोस प्रांत
+NAME_HU: Cienfuegos
+NAME_ID: Provinsi Cienfuegos
+NAME_IT: provincia di Cienfuegos
+NAME_JA: シエンフエーゴス州
+NAME_KO: 시엔푸에고스 주
+NAME_NL: Cienfuegos
+NAME_PL: Prowincja Cienfuegos
+NAME_PT: Cienfuegos
+NAME_RU: Сьенфуэгос
+NAME_SV: Provincia de Cienfuegos
+NAME_TR: Cienfuegos ili
+NAME_VI: Cienfuegos
+NAME_ZH: 西恩富戈斯省
+NE_ID: 1159310363

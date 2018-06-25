@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1836
+DISS_ME: 1836
+ISO_3166_2: JP-36
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Tokushima
+NAME_ALT: Tokusima
+NAME_LOCAL: 徳島県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.TS
+NOTE: null
+HASC_MAYBE: JP.SZ
+REGION: Shikoku
+REGION_COD: JPN-SHK
+PROVNUM_NE: 45
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA39
+FIPS_ALT: JA37
+WOE_ID: 2345888
+WOE_LABEL: Tokushima Prefecture, JP, Japan
+WOE_NAME: Tokushima
+LATITUDE: 33.8546
+LONGITUDE: 134.2
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1850157
+GN_NAME: Tokushima-ken
+GNS_ID: -246216
+GNS_NAME: Tokushima-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA39
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q160734
+NAME_AR: توكوشيما
+NAME_BN: তোকুশিমা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Tokushima
+NAME_EN: Tokushima Prefecture
+NAME_ES: Prefectura de Tokushima
+NAME_FR: Préfecture de Tokushima
+NAME_EL: Τοκουσίμα
+NAME_HI: तोकुशीमा प्रीफेक्चर
+NAME_HU: Tokusima prefektúra
+NAME_ID: Prefektur Tokushima
+NAME_IT: prefettura di Tokushima
+NAME_JA: 徳島県
+NAME_KO: 도쿠시마 현
+NAME_NL: Tokushima
+NAME_PL: Prefektura Tokushima
+NAME_PT: Tokushima
+NAME_RU: Токусима
+NAME_SV: Tokushima prefektur
+NAME_TR: Tokushima
+NAME_VI: Tokushima
+NAME_ZH: 德岛县
+NE_ID: 1159311909

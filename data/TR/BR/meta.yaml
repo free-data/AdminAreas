@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-5521
+DISS_ME: 5521
+ISO_3166_2: TR-74
+WIKIPEDIA: http://en.wikipedia.org/wiki/Bart%C4%B1n_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Bartın
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ZO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU87
+FIPS_ALT: null
+WOE_ID: 20070187
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 41.5857
+LONGITUDE: 32.4688
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 862467
+GN_NAME: Bartin
+GNS_ID: 9034891
+GNS_NAME: Bartin Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.87
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: TU87
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q83342
+NAME_AR: بارتين
+NAME_BN: বারতিন প্রদেশ
+NAME_DE: Bartın
+NAME_EN: Bartın Province
+NAME_ES: Bartın
+NAME_FR: Bartın
+NAME_EL: Επαρχία Μπαρτίν
+NAME_HI: बार्टिन प्रांत
+NAME_HU: Bartın
+NAME_ID: Provinsi Bartın
+NAME_IT: provincia di Bartın
+NAME_JA: バルトゥン県
+NAME_KO: 바르틴 주
+NAME_NL: Bartın
+NAME_PL: Bartın
+NAME_PT: Bartın
+NAME_RU: Бартын
+NAME_SV: Bartın
+NAME_TR: Bartın
+NAME_VI: Bartın
+NAME_ZH: 巴尔滕省
+NE_ID: 1159317191

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-3505
+DISS_ME: 3505
+ISO_3166_2: PE-CAL
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 6
+NAME: Callao
+NAME_ALT: Region
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Departamento
+CODE_LOCAL: null
+CODE_HASC: PE.CL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 5
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE07
+FIPS_ALT: null
+WOE_ID: 2346474
+WOE_LABEL: Provincia Constitucional del Callao, PE, Peru
+WOE_NAME: Callao
+LATITUDE: -12.0859
+LONGITUDE: -77.2248
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3946080
+GN_NAME: Region de Callao
+GNS_ID: -339268
+GNS_NAME: Callao, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q2634400
+NAME_AR: مقاطعة كالاو
+NAME_BN: null
+NAME_DE: null
+NAME_EN: Callao Province
+NAME_ES: Provincia Constitucional del Callao
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Callao tartomány
+NAME_ID: null
+NAME_IT: provincia di Callao
+NAME_JA: カヤオ特別区
+NAME_KO: null
+NAME_NL: Callao
+NAME_PL: null
+NAME_PT: Província Constitucional de Callao
+NAME_RU: Кальяо
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159314971

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CIV-3437
+DISS_ME: 3437
+ISO_3166_2: CI-10
+WIKIPEDIA: null
+ISO_A2: CI
+ADM0_SR: 1
+NAME: Denguélé
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CI.DE
+NOTE: Expired 2015.11.27, requires updating.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: DE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: IV23
+FIPS_ALT: null
+WOE_ID: 55966993
+WOE_LABEL: null
+WOE_NAME: Denguélé
+LATITUDE: 9.52894
+LONGITUDE: -7.37781
+SOV_A3: CIV
+ADM0_A3: CIV
+ADM0_LABEL: 2
+ADMIN: Ivory Coast
+GEONUNIT: Ivory Coast
+GU_A3: CIV
+GN_ID: 2597328
+GN_NAME: Denguele
+GNS_ID: 9149763
+GNS_NAME: Denguele, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CI.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: IV77
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q729010
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Denguélé
+NAME_EN: Denguélé Region
+NAME_ES: Denguélé
+NAME_FR: Denguélé
+NAME_EL: Περιοχή του Ντενγκελέ
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: regione di Denguélé
+NAME_JA: デンゲレ州
+NAME_KO: 뎅겔레 주
+NAME_NL: Denguélé
+NAME_PL: null
+NAME_PT: Denguélé
+NAME_RU: Денгеле
+NAME_SV: Denguélé
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 登盖莱区
+NE_ID: 1159315099

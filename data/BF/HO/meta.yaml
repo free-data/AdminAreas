@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2799
+DISS_ME: 2799
+ISO_3166_2: BF-HOU
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Houet
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.HO
+NOTE: null
+HASC_MAYBE: null
+REGION: Hauts-Bassins
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: HO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV51
+FIPS_ALT: UV23
+WOE_ID: 2347618
+WOE_LABEL: Houet, BF, Burkina Faso
+WOE_NAME: Houet
+LATITUDE: 11.3355
+LONGITUDE: -4.18998
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2360075
+GN_NAME: Province du Houet
+GNS_ID: -1718695
+GNS_NAME: Houet, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.51
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV87
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1074161
+NAME_AR: محافظة هويت
+NAME_BN: হুয়েত প্রদেশ
+NAME_DE: Houet
+NAME_EN: Houet Province
+NAME_ES: Provincia de Houet
+NAME_FR: Houet
+NAME_EL: Χουέτ
+NAME_HI: हूएट प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Houet
+NAME_IT: provincia di Houet
+NAME_JA: ウエ県
+NAME_KO: 우에 현
+NAME_NL: Houet
+NAME_PL: Prowincja Houet
+NAME_PT: Houet
+NAME_RU: Уэ
+NAME_SV: Province du Houet
+NAME_TR: Houet Province
+NAME_VI: Houet
+NAME_ZH: 烏埃省
+NE_ID: 1159313871

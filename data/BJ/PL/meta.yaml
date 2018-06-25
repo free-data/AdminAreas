@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEN-2179
+DISS_ME: 2179
+ISO_3166_2: BJ-PL
+WIKIPEDIA: null
+ISO_A2: BJ
+ADM0_SR: 1
+NAME: Plateau
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BJ.PL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: BN17
+FIPS_ALT: BN05
+WOE_ID: 55967669
+WOE_LABEL: Plateau, BJ, Benin
+WOE_NAME: Plateau
+LATITUDE: 7.15213
+LONGITUDE: 2.60483
+SOV_A3: BEN
+ADM0_A3: BEN
+ADM0_LABEL: 5
+ADMIN: Benin
+GEONUNIT: Benin
+GU_A3: BEN
+GN_ID: 2597277
+GN_NAME: Plateau Department
+GNS_ID: 9146021
+GNS_NAME: Plateau, Departement du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BJ.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: BN17
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q32108
+NAME_AR: إدارة بلاتو
+NAME_BN: প্লাতেও বিভাগ
+NAME_DE: Plateau
+NAME_EN: Plateau Department
+NAME_ES: Plateau
+NAME_FR: Plateau
+NAME_EL: Γεωγραφικό Διαμέρισμα Πλατό
+NAME_HI: पठार विभाग
+NAME_HU: Plateau
+NAME_ID: Departemen Plateau
+NAME_IT: dipartimento dell'Altopiano
+NAME_JA: プラトー県
+NAME_KO: 플라토 주
+NAME_NL: Plateau
+NAME_PL: Departament Plateau
+NAME_PT: Plateau
+NAME_RU: Плато
+NAME_SV: Plateau
+NAME_TR: Plateau Departmanı
+NAME_VI: Khu hành chính Plateau
+NAME_ZH: 高原省
+NE_ID: 1159311495

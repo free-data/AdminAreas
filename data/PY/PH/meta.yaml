@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-605
+DISS_ME: 605
+ISO_3166_2: PY-15
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Presidente Hayes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.PH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: PH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA16
+FIPS_ALT: null
+WOE_ID: 2346461
+WOE_LABEL: Presidente Hayes, PY, Paraguay
+WOE_NAME: Presidente Hayes
+LATITUDE: -23.4234
+LONGITUDE: -58.9417
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3437443
+GN_NAME: Departamento de Presidente Hayes
+GNS_ID: -912241
+GNS_NAME: Presidente Hayes, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q750551
+NAME_AR: بريزيدنت هايز
+NAME_BN: প্রেসিডেন্টে হায়েস
+NAME_DE: Departamento Presidente Hayes
+NAME_EN: Presidente Hayes Department
+NAME_ES: Presidente Hayes
+NAME_FR: Presidente Hayes
+NAME_EL: Πρεσιδέντε Άγιες
+NAME_HI: प्रेसिदेंते हेयेस
+NAME_HU: Presidente Hayes megye
+NAME_ID: Departemen Presidente Hayes
+NAME_IT: Presidente Hayes
+NAME_JA: プレシデンテ・アジェス県
+NAME_KO: 프레시덴테아예스 주
+NAME_NL: Presidente Hayes
+NAME_PL: Presidente Hayes
+NAME_PT: Presidente Hayes
+NAME_RU: Пресиденте-Аес
+NAME_SV: Presidente Hayes
+NAME_TR: Presidente Hayes
+NAME_VI: Presidente Hayes
+NAME_ZH: 阿耶斯總統省
+NE_ID: 1159307783

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-5567
+DISS_ME: 5567
+ISO_3166_2: AZ-KAN
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Kangarli
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: Naxçıvan Autonomous Republic
+REGION_COD: AZ-10
+PROVNUM_NE: 72
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ74
+FIPS_ALT: AJ|
+WOE_ID: 24550720
+WOE_LABEL: null
+WOE_NAME: Sarur
+LATITUDE: 39.4039
+LONGITUDE: 45.1447
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 8014931
+GN_NAME: Kangarli Rayon
+GNS_ID: 189634
+GNS_NAME: Kangarli Rayonu
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: AZ.8014931
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ74
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q734030
+NAME_AR: كنجة
+NAME_BN: কানগারলি জেলা
+NAME_DE: Kəngərli
+NAME_EN: Kangarli District
+NAME_ES: Kangarli
+NAME_FR: Kangarli
+NAME_EL: Κανγκαρλί
+NAME_HI: कंगारली जिला
+NAME_HU: null
+NAME_ID: Kangarli
+NAME_IT: Distretto di Kəngərli
+NAME_JA: ­キャンギャルリ県
+NAME_KO: 켄겔리 구
+NAME_NL: Kəngərli
+NAME_PL: Rejon Kəngərli
+NAME_PT: Kangarli
+NAME_RU: Кенгерлинский район
+NAME_SV: Kangarli Rayon
+NAME_TR: Kengerli Rayonu
+NAME_VI: Kangarli
+NAME_ZH: 坎加利區
+NE_ID: 1159317291

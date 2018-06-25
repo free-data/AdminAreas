@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MRT-2791
+DISS_ME: 2791
+ISO_3166_2: MR-04
+WIKIPEDIA: null
+ISO_A2: MR
+ADM0_SR: 1
+NAME: Gorgol
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Wilayat|Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: MR.GO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 1
+FIPS: MR04
+FIPS_ALT: null
+WOE_ID: 2346244
+WOE_LABEL: Gorgol, MR, Mauritania
+WOE_NAME: Gorgol
+LATITUDE: 16.0296
+LONGITUDE: -12.8565
+SOV_A3: MRT
+ADM0_A3: MRT
+ADM0_LABEL: 2
+ADMIN: Mauritania
+GEONUNIT: Mauritania
+GU_A3: MRT
+GN_ID: 2379384
+GN_NAME: Gorgol
+GNS_ID: -1400959
+GNS_NAME: Gorgol, Wilaya du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MR.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MR04
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q859831
+NAME_AR: ولاية كوركول
+NAME_BN: গোরগল অঞ্চল
+NAME_DE: Gorgol
+NAME_EN: Gorgol Region
+NAME_ES: Gorgol
+NAME_FR: Gorgol
+NAME_EL: Γκοργκόλ
+NAME_HI: गोर्गोल प्रदेश
+NAME_HU: null
+NAME_ID: Gorgol
+NAME_IT: regione di Gorgol
+NAME_JA: ゴルゴル州
+NAME_KO: 고르골 주
+NAME_NL: Gorgol
+NAME_PL: Kurkul
+NAME_PT: Gorgol
+NAME_RU: Горголь
+NAME_SV: Gorgol
+NAME_TR: Gorgol Region
+NAME_VI: Khu vực Gorgol
+NAME_ZH: 戈爾戈勒省
+NE_ID: 1159314029

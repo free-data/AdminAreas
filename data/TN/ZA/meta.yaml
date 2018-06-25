@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-120
+DISS_ME: 120
+ISO_3166_2: TN-22
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Zaghouan
+NAME_ALT: Tunis South|Zachouan|Zaguan|Zaghwān|Saghuan
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.ZA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: ZA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS37
+FIPS_ALT: null
+WOE_ID: 2347257
+WOE_LABEL: Zaghwan, TN, Tunisia
+WOE_NAME: Zaghouan
+LATITUDE: 36.3427
+LONGITUDE: 9.96916
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2464038
+GN_NAME: Gouvernorat de Zaghouan
+GNS_ID: -732133
+GNS_NAME: Zaghouan, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS37
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q27916
+NAME_AR: ولاية زغوان
+NAME_BN: জাঘুয়ান গভর্নোরেট
+NAME_DE: Gouvernement Zaghouan
+NAME_EN: Zaghouan Governorate
+NAME_ES: Gobernación de Zaghouan
+NAME_FR: gouvernorat de Zaghouan
+NAME_EL: Ζαγκουάν
+NAME_HI: ज़घूअन गवर्नरेट
+NAME_HU: null
+NAME_ID: Governorat Zaghouan
+NAME_IT: governatorato di Zaghouan
+NAME_JA: ザグアン県
+NAME_KO: 자구완
+NAME_NL: Zaghouan
+NAME_PL: Gubernatorstwo Zaghwan
+NAME_PT: Zaghouan
+NAME_RU: Загван
+NAME_SV: Zaghouan
+NAME_TR: Zağvan ili
+NAME_VI: Tỉnh Zaghouan
+NAME_ZH: 宰格萬省
+NE_ID: 1159308461

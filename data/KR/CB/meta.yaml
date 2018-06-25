@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: KOR-2499
+DISS_ME: 2499
+ISO_3166_2: KR-45
+WIKIPEDIA: http://en.wikipedia.org/wiki/North_Jeolla_Province
+ISO_A2: KR
+ADM0_SR: 5
+NAME: North Jeolla
+NAME_ALT: Chollabuk-Do|Cholla-bukto|Jeonrabugdo|North Cholla|Zenra Hoku-do
+NAME_LOCAL: 전라북도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: 35
+CODE_HASC: KR.CB
+NOTE: 35 (NSO Code)
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 12
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: KS03
+FIPS_ALT: null
+WOE_ID: 2345964
+WOE_LABEL: Jeollabuk-Do, KR, South Korea
+WOE_NAME: Jeollabuk-do
+LATITUDE: 35.679
+LONGITUDE: 127.081
+SOV_A3: KOR
+ADM0_A3: KOR
+ADM0_LABEL: 4
+ADMIN: South Korea
+GEONUNIT: South Korea
+GU_A3: KOR
+GN_ID: 1845789
+GN_NAME: Jeollabuk-do
+GNS_ID: -706574
+GNS_NAME: Jeonbuk
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KR.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KS03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q41157
+NAME_AR: مقاطعة جولا الشمالية
+NAME_BN: উত্তর জেওলা
+NAME_DE: Jeollabuk-do
+NAME_EN: North Jeolla Province
+NAME_ES: Jeolla del Norte
+NAME_FR: Jeolla du Nord
+NAME_EL: Τζόλαμπουκ-ντο
+NAME_HI: उत्तरी जेओला प्रांत
+NAME_HU: Észak-Csolla
+NAME_ID: Jeolla Utara
+NAME_IT: Nord Jeolla
+NAME_JA: 全羅北道
+NAME_KO: 전라북도
+NAME_NL: Jeollabuk-do
+NAME_PL: Jeolla Północna
+NAME_PT: Jeolla do Norte
+NAME_RU: Чолла-Пукто
+NAME_SV: Nordjeolla
+NAME_TR: Kuzey Jeolla Province
+NAME_VI: Jeolla Bắc
+NAME_ZH: 全羅北道
+NE_ID: 1159313521

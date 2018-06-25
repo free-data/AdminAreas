@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3284
+DISS_ME: 3284
+ISO_3166_2: LA-VI
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Vientiane
+NAME_ALT: Viangchan
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.VI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: VI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA27
+FIPS_ALT: LA11
+WOE_ID: 20070164
+WOE_LABEL: Viangchan, LA, Laos
+WOE_NAME: Vientiane
+LATITUDE: 18.9186
+LONGITUDE: 102.156
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1652238
+GN_NAME: Viangchan
+GNS_ID: -2669331
+GNS_NAME: Viangchan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.27
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LA27
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q720066
+NAME_AR: محافظة فيينتيان
+NAME_BN: null
+NAME_DE: Vientiane
+NAME_EN: Vientiane Province
+NAME_ES: Provincia de Vientián
+NAME_FR: Province de Vientiane
+NAME_EL: null
+NAME_HI: व्यिंचन प्रान्त
+NAME_HU: Vientián tartomány
+NAME_ID: Provinsi Vientiane
+NAME_IT: provincia di Vientiane
+NAME_JA: ヴィエンチャン県
+NAME_KO: 비엔티안 주
+NAME_NL: Vientiane
+NAME_PL: Prowincja Wientian
+NAME_PT: Vientiane
+NAME_RU: Вьентьян
+NAME_SV: Vientiane
+NAME_TR: null
+NAME_VI: Viêng Chăn
+NAME_ZH: 万象省
+NE_ID: 1159315183

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5729
+DISS_ME: 5729
+ISO_3166_2: LV-046
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Kokneses
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.KO
+NOTE: null
+HASC_MAYBE: null
+REGION: Zemgale
+REGION_COD: LV.JK
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG82
+FIPS_ALT: null
+WOE_ID: -2346026
+WOE_LABEL: Jekabpils Rajons, LV, Latvia
+WOE_NAME: Jekabpils
+LATITUDE: 56.7031
+LONGITUDE: 25.4447
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628357
+GN_NAME: Kokneses Novads
+GNS_ID: 10982364
+GNS_NAME: Kokneses Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.82
+REGION_SUB: Zemgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG82
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q865682
+NAME_AR: بلدية كوكنيس
+NAME_BN: ককনিস পৌরসভা
+NAME_DE: Bezirk Koknese
+NAME_EN: Koknese Municipality
+NAME_ES: Municipalidad de Koknese
+NAME_FR: Koknese
+NAME_EL: Κοκνέσε
+NAME_HI: कोकनीज़ नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Koknese
+NAME_IT: Comune di Koknese
+NAME_JA: クアクネセ
+NAME_KO: 코크네세 시
+NAME_NL: Kokneses novads
+NAME_PL: Gmina Koknese
+NAME_PT: Município de Koknese
+NAME_RU: Кокнесский край
+NAME_SV: Kokneses novads
+NAME_TR: Koknese Belediyesi
+NAME_VI: Đô thị tự trị Koknese
+NAME_ZH: null
+NE_ID: 1159317599

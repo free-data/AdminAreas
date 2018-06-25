@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CZE-1598
+DISS_ME: 1598
+ISO_3166_2: CZ-KR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9_Region
+ISO_A2: CZ
+ADM0_SR: 1
+NAME: Královéhradecký
+NAME_ALT: Königsgrätz| Hradec Králové
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CZ.HK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: CZE-VYC
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: HK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: EZ82
+FIPS_ALT: EZ82
+WOE_ID: 20070466
+WOE_LABEL: KrÃ¡lovÃ©hradeckÃ½, CZ, Czech Republic
+WOE_NAME: Královéhradecký
+LATITUDE: 50.3723
+LONGITUDE: 15.8838
+SOV_A3: CZE
+ADM0_A3: CZE
+ADM0_LABEL: 5
+ADMIN: Czech Republic
+GEONUNIT: Czech Republic
+GU_A3: CZE
+GN_ID: 3339540
+GN_NAME: Kralovehradecky kraj
+GNS_ID: 9044929
+GNS_NAME: Kralovehradecky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CZ.82
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: EZ82
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q193295
+NAME_AR: إقليم هرادتس كرالوفه
+NAME_BN: হারডেক ক্রালোভ অঞ্চল
+NAME_DE: Královéhradecký kraj
+NAME_EN: Hradec Králové Region
+NAME_ES: Región de Hradec Králové
+NAME_FR: région de Hradec Králové
+NAME_EL: Περιφέρεια Χράντετς Κράλοβε
+NAME_HI: ह्रदेक क्रालोव प्रदेश
+NAME_HU: Hradec Králové-i kerület
+NAME_ID: Daerah Hradec Kralove
+NAME_IT: regione di Hradec Králové
+NAME_JA: フラデツ・クラーロヴェー州
+NAME_KO: 흐라데츠크랄로베 주
+NAME_NL: Hradec Králové
+NAME_PL: Kraj hradecki
+NAME_PT: Hradec Králové
+NAME_RU: Краловеградецкий край
+NAME_SV: Hradec Králové
+NAME_TR: Hradec Králové ili
+NAME_VI: Hradec Králové
+NAME_ZH: 赫拉德茨-克拉洛韋州
+NE_ID: 1159312683

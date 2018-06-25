@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2589
+DISS_ME: 2589
+ISO_3166_2: PH-BUK
+WIKIPEDIA: http://en.wikipedia.org/wiki/Bukidnon
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Bukidnon
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Mindanao (Region X)
+REGION_COD: PH-10
+PROVNUM_NE: 20072
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP12
+FIPS_ALT: null
+WOE_ID: 2346667
+WOE_LABEL: null
+WOE_NAME: Bukidnon
+LATITUDE: 7.99493
+LONGITUDE: 125.002
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1723105
+GN_NAME: Province of Bukidnon
+GNS_ID: -2416250
+GNS_NAME: Bukidnon, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.12
+REGION_SUB: Bukidnon
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP12
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13753
+NAME_AR: بوكيدنون
+NAME_BN: বুকিদনোন
+NAME_DE: Bukidnon
+NAME_EN: Bukidnon
+NAME_ES: Bukidnon
+NAME_FR: province de Bukidnon
+NAME_EL: Μπούκιντνον
+NAME_HI: बुकिदनोन प्रान्त
+NAME_HU: null
+NAME_ID: Bukidnon
+NAME_IT: Provincia di Bukidnon
+NAME_JA: ブキドノン州
+NAME_KO: 부키드논 주
+NAME_NL: Bukidnon
+NAME_PL: Bukidnon
+NAME_PT: Bukidnon
+NAME_RU: Букиднон
+NAME_SV: Bukidnon
+NAME_TR: Bukidnon
+NAME_VI: Bukidnon
+NAME_ZH: 布基农省
+NE_ID: 1159313401

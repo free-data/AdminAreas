@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2904
+DISS_ME: 2904
+ISO_3166_2: MK-63
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Probištip
+NAME_ALT: Probistip
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.PT
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 20060
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK83
+FIPS_ALT: null
+WOE_ID: 24550800
+WOE_LABEL: Probistip Municipality, MK, Macedonia
+WOE_NAME: Probistip
+LATITUDE: 41.9372
+LONGITUDE: 22.174
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863889
+GN_NAME: Opstina Probistip
+GNS_ID: 9075753
+GNS_NAME: Probistip, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.83
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK83
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2270414
+NAME_AR: بلدية بروتشتيب
+NAME_BN: প্রবিস্টিপ পৌরসভা
+NAME_DE: Opština Probištip
+NAME_EN: Probištip Municipality
+NAME_ES: Municipalidad de Probištip
+NAME_FR: Probichtip
+NAME_EL: Δήμος Πρόμπιστιπ
+NAME_HI: प्रोबिस्टिप नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Probištip
+NAME_IT: Probištip
+NAME_JA: プロビシュティプ
+NAME_KO: 프로비슈티프 시
+NAME_NL: Probištip
+NAME_PL: Gmina Probištip
+NAME_PT: Município de Probistip
+NAME_RU: Пробиштип
+NAME_SV: Probistip kommun
+NAME_TR: Probistip Belediyesi
+NAME_VI: Probistip Đô thị tự trị
+NAME_ZH: 普羅比什蒂普區
+NE_ID: 1159314415

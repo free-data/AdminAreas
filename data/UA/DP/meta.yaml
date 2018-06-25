@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-326
+DISS_ME: 326
+ISO_3166_2: UA-12
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Dnipropetrovs'k
+NAME_ALT: Dnipropetrovsk|Dniepropietrovsk|Dnjepropetrowsk
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.DP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP04
+FIPS_ALT: null
+WOE_ID: 2347537
+WOE_LABEL: Dnipropetrovsk Oblast, UA, Ukraine
+WOE_NAME: Dnipropetrovs'k
+LATITUDE: 48.6313
+LONGITUDE: 34.9555
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 709929
+GN_NAME: Dnipropetrovska Oblast'
+GNS_ID: -1037866
+GNS_NAME: Dnipropetrovs'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP04
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q170672
+NAME_AR: دنيبروبتروفسك أوبلاست
+NAME_BN: নিপ্রপেত্রভস্ক ওব্লাস্ট
+NAME_DE: Oblast Dnipropetrowsk
+NAME_EN: Dnipropetrovsk Oblast
+NAME_ES: Óblast de Dnipropetrovsk
+NAME_FR: Oblast de Dnipropetrovsk
+NAME_EL: Ντνιπροπετρόβσκ
+NAME_HI: नीप्रोपेट्रोव्स्क ओब्लास्ट
+NAME_HU: Dnyipropetrovszki terület
+NAME_ID: Oblast Dnipropetrovsk
+NAME_IT: Oblast' di Dnipropetrovs'k
+NAME_JA: ドニプロペトロウシク州
+NAME_KO: 드니프로페트로우스크 주
+NAME_NL: Oblast Dnjepropetrovsk
+NAME_PL: Obwód dniepropetrowski
+NAME_PT: Oblast de Dnipropetrovsk
+NAME_RU: Днепропетровская область
+NAME_SV: Dnipropetrovsk oblast
+NAME_TR: Dnipropetrovsk Oblastı
+NAME_VI: Dnipropetrovsk
+NAME_ZH: 第聂伯罗彼得罗夫斯克州
+NE_ID: 1159309625

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1300
+DISS_ME: 1300
+ISO_3166_2: AR-K
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Catamarca
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR02
+FIPS_ALT: null
+WOE_ID: 2344676
+WOE_LABEL: Catamarca, AR, Argentina
+WOE_NAME: Catamarca
+LATITUDE: -26.7709
+LONGITUDE: -67.0086
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3862286
+GN_NAME: Provincia de Catamarca
+GNS_ID: -981017
+GNS_NAME: Catamarca
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR02
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44756
+NAME_AR: كاتاماركا
+NAME_BN: কাতামারকা প্রদেশ
+NAME_DE: Provinz Catamarca
+NAME_EN: Catamarca Province
+NAME_ES: Provincia de Catamarca
+NAME_FR: Catamarca
+NAME_EL: Καταμάρκα
+NAME_HI: कैटमार्का
+NAME_HU: Catamarca tartomány
+NAME_ID: Provinsi Catamarca
+NAME_IT: provincia di Catamarca
+NAME_JA: カタマルカ州
+NAME_KO: 카타마르카 주
+NAME_NL: Catamarca
+NAME_PL: Catamarca
+NAME_PT: Catamarca
+NAME_RU: Катамарка
+NAME_SV: Catamarca
+NAME_TR: Catamarca eyaleti
+NAME_VI: Catamarca
+NAME_ZH: 卡塔马卡省
+NE_ID: 1159309769

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: KOR-5129
+DISS_ME: 5129
+ISO_3166_2: KR-50
+WIKIPEDIA: http://en.wikipedia.org/wiki/Sejong_City
+ISO_A2: KR
+ADM0_SR: 1
+NAME: Sejong
+NAME_ALT: null
+NAME_LOCAL: 세종특별자치시
+TYPE: Teukbyeol-jachisi
+TYPE_EN: Special self-governing city
+CODE_LOCAL: null
+CODE_HASC: KR.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: KS22
+FIPS_ALT: null
+WOE_ID: -2345973
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 36.4974
+LONGITUDE: 127.229
+SOV_A3: KOR
+ADM0_A3: KOR
+ADM0_LABEL: 2
+ADMIN: South Korea
+GEONUNIT: South Korea
+GU_A3: KOR
+GN_ID: 8394437
+GN_NAME: Sejong
+GNS_ID: 11618031
+GNS_NAME: Sejong-teukbyeoljachisi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KR.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KS22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q20929
+NAME_AR: مدينة سيجونغ
+NAME_BN: সেজং শহর
+NAME_DE: Sejong
+NAME_EN: Sejong City
+NAME_ES: Sejong
+NAME_FR: Sejong
+NAME_EL: Σετζόνγκ
+NAME_HI: सेजोंग सिटी
+NAME_HU: Szedzsong
+NAME_ID: Kota Sejong
+NAME_IT: Città di Sejong
+NAME_JA: 世宗特別自治市
+NAME_KO: 세종특별자치시
+NAME_NL: Sejong
+NAME_PL: Sedżong
+NAME_PT: Cidade de Sejong
+NAME_RU: Седжон
+NAME_SV: Sejong City
+NAME_TR: Sejong
+NAME_VI: Sejong
+NAME_ZH: 世宗特別自治市
+NE_ID: 1159316481

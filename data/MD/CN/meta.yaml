@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1631
+DISS_ME: 1631
+ISO_3166_2: MD-CT
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Cantemir
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD65
+FIPS_ALT: null
+WOE_ID: 55948182
+WOE_LABEL: null
+WOE_NAME: Cantemir
+LATITUDE: 46.262
+LONGITUDE: 28.3107
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 618142
+GN_NAME: Raionul Cantemir
+GNS_ID: -2276514
+GNS_NAME: Cantemir, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.65
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD65
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q684183
+NAME_AR: مقاطعة كانتيمير
+NAME_BN: কান্তেমির জেলা
+NAME_DE: Rajon Cantemir
+NAME_EN: Cantemir District
+NAME_ES: Distrito de Cantemir
+NAME_FR: raion de Cantemir
+NAME_EL: Καντεμίρ
+NAME_HI: कैन्तेमिर जिला
+NAME_HU: Cantemir járás
+NAME_ID: Raionul Cantemir
+NAME_IT: distretto di Cantemir
+NAME_JA: カンテミール県
+NAME_KO: 칸테미르 구
+NAME_NL: Cantemir
+NAME_PL: Rejon Cantemir
+NAME_PT: Cantemir
+NAME_RU: Кантемирский район
+NAME_SV: Cantemir
+NAME_TR: Cantemir District
+NAME_VI: Quận Cantemir
+NAME_ZH: 岡代米爾區
+NE_ID: 1159312595

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1268
+DISS_ME: 1268
+ISO_3166_2: EC-L
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Loja
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.LJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: LJ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC12
+FIPS_ALT: null
+WOE_ID: 2345213
+WOE_LABEL: Loja, EC, Ecuador
+WOE_NAME: Loja
+LATITUDE: -4.15948
+LONGITUDE: -79.8079
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3654665
+GN_NAME: Provincia de Loja
+GNS_ID: -930355
+GNS_NAME: Loja, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC12
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q504238
+NAME_AR: مقاطعة لوخا
+NAME_BN: লোজা প্রদেশ
+NAME_DE: Provinz Loja
+NAME_EN: Loja Province
+NAME_ES: Provincia de Loja
+NAME_FR: province de Loja
+NAME_EL: Επαρχία Λόχα
+NAME_HI: लोजा प्रांत
+NAME_HU: Loja tartomány
+NAME_ID: Provinsi Loja
+NAME_IT: provincia di Loja
+NAME_JA: ロハ県
+NAME_KO: 로하 주
+NAME_NL: Loja
+NAME_PL: Prowincja Loja
+NAME_PT: Loja
+NAME_RU: Лоха
+NAME_SV: Loja
+NAME_TR: Loja province
+NAME_VI: Tỉnh Loja
+NAME_ZH: 洛哈省
+NE_ID: 1159309975

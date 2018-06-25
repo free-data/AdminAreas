@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: BHR-4927
+DISS_ME: 4927
+ISO_3166_2: BH-17
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ash_Sham%C4%81l%C4%AByah_Governorate
+ISO_A2: BH
+ADM0_SR: 1
+NAME: Ash Shamālīyah
+NAME_ALT: Al Muhafazah ash Shamaliyah‎|Northern
+NAME_LOCAL: لمحافظة الشمالية
+TYPE: Muhafazah
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: BH.NN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 56051603
+WOE_LABEL: Northern, BH, Bahrain
+WOE_NAME: Northern
+LATITUDE: 26.1624
+LONGITUDE: 50.4868
+SOV_A3: BHR
+ADM0_A3: BHR
+ADM0_LABEL: 2
+ADMIN: Bahrain
+GEONUNIT: Bahrain
+GU_A3: BHR
+GN_ID: 7090974
+GN_NAME: Northern Governorate
+GNS_ID: 10584322
+GNS_NAME: Ash Shamaliyah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BH.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: BA19
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q840445
+NAME_AR: شمالية
+NAME_BN: null
+NAME_DE: null
+NAME_EN: Northern Governorate
+NAME_ES: Norte
+NAME_FR: Gouvernorat septentrional
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Északi kormányzóság
+NAME_ID: Kegubernuran Utara
+NAME_IT: Governatorato Settentrionale
+NAME_JA: 北部県
+NAME_KO: 북부 주
+NAME_NL: Noord
+NAME_PL: Al-Muhafazat asz-Szimalijja
+NAME_PT: Província do Norte
+NAME_RU: Северная мухафаза
+NAME_SV: Northern Governorate
+NAME_TR: Kuzey Valiliği
+NAME_VI: null
+NAME_ZH: 北方省
+NE_ID: 1159316083

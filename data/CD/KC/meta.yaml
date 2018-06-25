@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1872
+DISS_ME: 1872
+ISO_3166_2: CD-KW
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 1
+NAME: Kasaï-Occidental
+NAME_ALT: Kasai West|West Kasai|West Kassai
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.KC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 3
+ABBREV: null
+POSTAL: KC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 16
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: CG03
+FIPS_ALT: null
+WOE_ID: 2344979
+WOE_LABEL: Kasai-Occidental, CD, Democratic Republic of Congo
+WOE_NAME: Kasaï-Occidental
+LATITUDE: -4.87578
+LONGITUDE: 21.7144
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 214139
+GN_NAME: Province du Kasai-Occidental
+GNS_ID: -2046898
+GNS_NAME: Kasai-Occidental
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG03
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q130576
+NAME_AR: كاساي الغربية
+NAME_BN: কাসোাই-ওক্সিডেন্টাল
+NAME_DE: Kasaï-Occidental
+NAME_EN: Kasaï-Occidental
+NAME_ES: Kasai Occidental
+NAME_FR: Kasaï occidental
+NAME_EL: Κασάι-Οξιντένταλ
+NAME_HI: कासाइ-पश्चिमी प्रान्त
+NAME_HU: Nyugat-Kasai tartomány
+NAME_ID: Kasai-Occidental
+NAME_IT: provincia del Kasai Occidentale
+NAME_JA: 西カサイ州
+NAME_KO: 카사이옥시당탈 주
+NAME_NL: West-Kasaï
+NAME_PL: Kasai Zachodnie
+NAME_PT: Kasaï Ocidental
+NAME_RU: Западное Касаи
+NAME_SV: Kasaï-Occidental
+NAME_TR: Batı Kasai
+NAME_VI: Kasai-Occidental
+NAME_ZH: 西开赛省
+NE_ID: 1159311351

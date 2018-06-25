@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-187
+DISS_ME: 187
+ISO_3166_2: SE-N
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 1
+NAME: Halland
+NAME_ALT: Hallands län
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW06
+FIPS_ALT: null
+WOE_ID: 2347049
+WOE_LABEL: Halland, SE, Sweden
+WOE_NAME: Halland
+LATITUDE: 56.9745
+LONGITUDE: 12.8007
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2708794
+GN_NAME: Hallands Laen
+GNS_ID: -2485885
+GNS_NAME: Hallands Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW06
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103691
+NAME_AR: محافظة هاللاند
+NAME_BN: হল্যান্ড কাউন্টি
+NAME_DE: Hallands län
+NAME_EN: Halland County
+NAME_ES: Provincia de Halland
+NAME_FR: Comté de Halland
+NAME_EL: κομητεία της Ηαλαντς
+NAME_HI: हल्लान्द लैन
+NAME_HU: Halland megye
+NAME_ID: Daerah Halland
+NAME_IT: contea di Halland
+NAME_JA: ハッランド県
+NAME_KO: 할란드 주
+NAME_NL: Hallands län
+NAME_PL: Hallands län
+NAME_PT: condado da Halland
+NAME_RU: Халланд
+NAME_SV: Hallands län
+NAME_TR: Halland ili
+NAME_VI: hạt Halland
+NAME_ZH: 哈兰省
+NE_ID: 1159308763

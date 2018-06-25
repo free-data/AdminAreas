@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2377
+DISS_ME: 2377
+ISO_3166_2: RU-VOR
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Voronezh
+NAME_ALT: Voronezhskaya Oblast
+NAME_LOCAL: Воронежская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.VR
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20050
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: VR
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS86
+FIPS_ALT: null
+WOE_ID: 2346935
+WOE_LABEL: Voronezhskaya Oblast, RU, Russia
+WOE_NAME: Voronezh
+LATITUDE: 50.7774
+LONGITUDE: 40.5223
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 472039
+GN_NAME: Voronezhskaya Oblast'
+GNS_ID: -3035179
+GNS_NAME: Voronezhskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.86
+REGION_SUB: Central Black Earth
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS86
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3447
+NAME_AR: فورونيج أوبلاست
+NAME_BN: ভোরওনেঝ ওব্লাস্ট
+NAME_DE: Oblast Woronesch
+NAME_EN: Voronezh Oblast
+NAME_ES: Óblast de Vorónezh
+NAME_FR: oblast de Voronej
+NAME_EL: Περιφέρεια Βορόνεζ
+NAME_HI: वोरोनेज़ ओब्लास्ट
+NAME_HU: Voronyezsi terület
+NAME_ID: Oblast Voronezh
+NAME_IT: oblast' di Voronež
+NAME_JA: ヴォロネジ州
+NAME_KO: 보로네시 주
+NAME_NL: Oblast Voronezj
+NAME_PL: Obwód woroneski
+NAME_PT: Oblast de Voronej
+NAME_RU: Воронежская область
+NAME_SV: Voronezj oblast
+NAME_TR: Voronej Oblastı
+NAME_VI: Voronezh
+NAME_ZH: 沃罗涅日州
+NE_ID: 1159313191

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: USA-3556
+DISS_ME: 3556
+ISO_3166_2: US-DC
+WIKIPEDIA: http://en.wikipedia.org/wiki/Washington,_D.C.
+ISO_A2: US
+ADM0_SR: 1
+NAME: District of Columbia
+NAME_ALT: DC|D.C.
+NAME_LOCAL: null
+TYPE: Federal District
+TYPE_EN: Federal District
+CODE_LOCAL: US11
+CODE_HASC: US.DC
+NOTE: null
+HASC_MAYBE: null
+REGION: South
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: D.C.
+POSTAL: DC
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: US11
+FIPS_ALT: null
+WOE_ID: 2347567
+WOE_LABEL: District of Columbia, US, United States
+WOE_NAME: District of Columbia
+LATITUDE: 38.8922
+LONGITUDE: -77.0113
+SOV_A3: US1
+ADM0_A3: USA
+ADM0_LABEL: 2
+ADMIN: United States of America
+GEONUNIT: United States of America
+GU_A3: USA
+GN_ID: 4138106
+GN_NAME: District of Columbia
+GNS_ID: -1
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: US.DC
+REGION_SUB: South Atlantic
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q61
+NAME_AR: واشنطن العاصمة
+NAME_BN: ওয়াশিংটন
+NAME_DE: Washington
+NAME_EN: Washington
+NAME_ES: Washington D. C.
+NAME_FR: Washington
+NAME_EL: Ουάσινγκτον
+NAME_HI: वॉशिंगटन डी॰ सी॰
+NAME_HU: Washington
+NAME_ID: Washington
+NAME_IT: Washington
+NAME_JA: ワシントンD.C.
+NAME_KO: 워싱턴 D.C.
+NAME_NL: Washington D.C.
+NAME_PL: Waszyngton
+NAME_PT: Washington
+NAME_RU: Вашингтон
+NAME_SV: Washington
+NAME_TR: Washington
+NAME_VI: Washington
+NAME_ZH: 華盛頓哥倫比亞特區
+NE_ID: 1159315327

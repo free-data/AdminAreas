@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: EST-1654
+DISS_ME: 1654
+ISO_3166_2: EE-37
+WIKIPEDIA: null
+ISO_A2: EE
+ADM0_SR: 5
+NAME: Harju
+NAME_ALT: Harjumaa|Harju maakond
+NAME_LOCAL: null
+TYPE: Maakond
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: EE.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 10
+FIPS: EN01
+FIPS_ALT: null
+WOE_ID: 2345276
+WOE_LABEL: Harju County, EE, Estonia
+WOE_NAME: Harju
+LATITUDE: 59.3206
+LONGITUDE: 25.1734
+SOV_A3: EST
+ADM0_A3: EST
+ADM0_LABEL: 2
+ADMIN: Estonia
+GEONUNIT: Estonia
+GU_A3: EST
+GN_ID: 592170
+GN_NAME: Harjumaa
+GNS_ID: -2621754
+GNS_NAME: Harjumaa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EE.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: EN01
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q180200
+NAME_AR: مقاطعة هاريو
+NAME_BN: হার্জু কাউন্টি
+NAME_DE: Kreis Harju
+NAME_EN: Harju County
+NAME_ES: Condado de Harju
+NAME_FR: comté de Harju
+NAME_EL: Επαρχία Χάργιου
+NAME_HI: हरजू काउंटी
+NAME_HU: Harjumaa
+NAME_ID: County Harju
+NAME_IT: Harjumaa
+NAME_JA: ハリュ県
+NAME_KO: 하리우 주
+NAME_NL: Harjumaa
+NAME_PL: Harjumaa
+NAME_PT: Harjumaa
+NAME_RU: Харьюмаа
+NAME_SV: Harjumaa
+NAME_TR: Harju ili
+NAME_VI: Harju
+NAME_ZH: 哈留縣
+NE_ID: 1159313075

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 4
+SOVEREIGNT: Eritrea
+SOV_A3: ERI
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Eritrea
+ADM0_A3: ERI
+GEOU_DIF: 0
+GEOUNIT: Eritrea
+GU_A3: ERI
+SU_DIF: 0
+SUBUNIT: Eritrea
+SU_A3: ERI
+BRK_DIFF: 0
+NAME: Eritrea
+NAME_LONG: Eritrea
+BRK_A3: ERI
+BRK_NAME: Eritrea
+BRK_GROUP: null
+ABBREV: Erit.
+POSTAL: ER
+FORMAL_EN: State of Eritrea
+FORMAL_FR: null
+NAME_CIAWF: Eritrea
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Eritrea
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 1
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+POP_EST: 5918919
+POP_RANK: 13
+GDP_MD_EST: 9169
+POP_YEAR: 2017
+LASTCENSUS: 1984
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: ER
+ISO_A2: ER
+ISO_A3: ERI
+ISO_A3_EH: ERI
+ISO_N3: 232
+UN_A3: 232
+WB_A2: ER
+WB_A3: ERI
+WOE_ID: 23424806
+WOE_ID_EH: 23424806
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ERI
+ADM0_A3_US: ERI
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320581
+WIKIDATAID: Q986
+NAME_AR: إرتريا
+NAME_BN: ইরিত্রিয়া
+NAME_DE: Eritrea
+NAME_EN: Eritrea
+NAME_ES: Eritrea
+NAME_FR: Érythrée
+NAME_EL: Ερυθραία
+NAME_HI: इरित्रिया
+NAME_HU: Eritrea
+NAME_ID: Eritrea
+NAME_IT: Eritrea
+NAME_JA: エリトリア
+NAME_KO: 에리트레아
+NAME_NL: Eritrea
+NAME_PL: Erytrea
+NAME_PT: Eritreia
+NAME_RU: Эритрея
+NAME_SV: Eritrea
+NAME_TR: Eritre
+NAME_VI: Eritrea
+NAME_ZH: 厄立特里亚

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GEO-3039
+DISS_ME: 3039
+ISO_3166_2: GE-SK
+WIKIPEDIA: null
+ISO_A2: GE
+ADM0_SR: 1
+NAME: Shida Kartli
+NAME_ALT: Gori
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GE.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: GG73
+FIPS_ALT: null
+WOE_ID: -20070403
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 42.1586
+LONGITUDE: 43.9997
+SOV_A3: GEO
+ADM0_A3: GEO
+ADM0_LABEL: 5
+ADMIN: Georgia
+GEONUNIT: null
+GU_A3: GEO
+GN_ID: 865540
+GN_NAME: Shida Kartli
+GNS_ID: 9113606
+GNS_NAME: Shida Kartlis Mkhare
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GE.73
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: GG73
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q200047
+NAME_AR: شيدا كارتلي
+NAME_BN: সিদা কার্টলি
+NAME_DE: Innerkartlien
+NAME_EN: Shida Kartli
+NAME_ES: Shida Kartli
+NAME_FR: Kartlie intérieure
+NAME_EL: Σίντα Καρτλί
+NAME_HI: शिडा कर्टली
+NAME_HU: Felső-Kartli
+NAME_ID: Shida Kartli
+NAME_IT: Shida Kartli
+NAME_JA: シダ・カルトリ州
+NAME_KO: 시다카르틀리 주
+NAME_NL: Sjida Kartli
+NAME_PL: Wewnętrzna Kartlia
+NAME_PT: Shida Kartli
+NAME_RU: Верхняя Карталиния
+NAME_SV: Inre Kartlien
+NAME_TR: Şida Kartli
+NAME_VI: Shida Kartli
+NAME_ZH: 什達-卡特利州
+NE_ID: 1159314577

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-1505
+DISS_ME: 1505
+ISO_3166_2: RS-16
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Zlatiborski
+NAME_ALT: Zlatibor
+NAME_LOCAL: Златиборски
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.ZL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: ZL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: BK00
+FIPS_ALT: null
+WOE_ID: 29389216
+WOE_LABEL: Zlatibor, RS, Serbia
+WOE_NAME: Zlatiborski
+LATITUDE: 43.6263
+LONGITUDE: 19.7284
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Serbia
+GU_A3: SRS
+GN_ID: 7581912
+GN_NAME: Zlatiborski Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q478278
+NAME_AR: مقاطعة زلاتيبور
+NAME_BN: জাতিবোর জেলা
+NAME_DE: Okrug Zlatibor
+NAME_EN: Zlatibor District
+NAME_ES: Distrito de Zlatibor
+NAME_FR: Zlatibor
+NAME_EL: Οκρούγκ Ζλάτιμπορ
+NAME_HI: ज़लातिबोर जिला
+NAME_HU: Zlatibor körzet
+NAME_ID: Distrik Zlatibor
+NAME_IT: Distretto di Zlatibor
+NAME_JA: ズラティボル郡
+NAME_KO: 즐라티보르 구
+NAME_NL: Zlatibor
+NAME_PL: Okręg zlatiborski
+NAME_PT: Distrito de Zlatibor
+NAME_RU: Златиборский округ
+NAME_SV: Zlatibor
+NAME_TR: Zlatibor District
+NAME_VI: Quận Zlatibor
+NAME_ZH: 茲拉提波爾州
+NE_ID: 1159310647

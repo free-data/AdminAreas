@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-752
+DISS_ME: 752
+ISO_3166_2: PT-06
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Coimbra
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: Centro
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO07
+FIPS_ALT: null
+WOE_ID: 2346567
+WOE_LABEL: Coimbra, PT, Portugal
+WOE_NAME: Coimbra
+LATITUDE: 40.1645
+LONGITUDE: -8.32193
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2740636
+GN_NAME: Distrito de Coimbra
+GNS_ID: -2163276
+GNS_NAME: Coimbra, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q244517
+NAME_AR: محافظة كويمبرا
+NAME_BN: কমব্রা জেলা
+NAME_DE: Distrikt Coimbra
+NAME_EN: Coimbra District
+NAME_ES: Distrito de Coímbra
+NAME_FR: District de Coimbra
+NAME_EL: Κόιμπρα
+NAME_HI: कोइम्ब्रा जिला
+NAME_HU: Coimbra
+NAME_ID: Distrik Coimbra
+NAME_IT: distretto di Coimbra
+NAME_JA: コインブラ県
+NAME_KO: 코임브라 현
+NAME_NL: Coimbra
+NAME_PL: Dystrykt Coimbra
+NAME_PT: Distrito de Coimbra
+NAME_RU: Коимбра
+NAME_SV: Coimbra
+NAME_TR: Coimbra District
+NAME_VI: Coimbra
+NAME_ZH: 科英布拉區
+NE_ID: 1159310581

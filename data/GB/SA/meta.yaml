@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2009
+DISS_ME: 2009
+ISO_3166_2: GB-SAY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: South Ayrshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary District
+TYPE_EN: Unitary District
+CODE_LOCAL: null
+CODE_HASC: GB.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: South Western
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKW4
+FIPS_ALT: UKW4
+WOE_ID: 12696209
+WOE_LABEL: null
+WOE_NAME: South Ayrshire
+LATITUDE: 55.2304
+LONGITUDE: -4.73841
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Scotland
+GU_A3: SCT
+GN_ID: 3333235
+GN_NAME: South Ayrshire
+GNS_ID: 6077677
+GNS_NAME: South Ayrshire
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.W4
+REGION_SUB: South Strathclyde
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q209131
+NAME_AR: null
+NAME_BN: সাউথ আরশায়ার
+NAME_DE: South Ayrshire
+NAME_EN: South Ayrshire
+NAME_ES: South Ayrshire
+NAME_FR: South Ayrshire
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Ayrshire Meridionale
+NAME_JA: サウス・エアシャー
+NAME_KO: 사우스에어셔
+NAME_NL: South Ayrshire
+NAME_PL: South Ayrshire
+NAME_PT: South Ayrshire
+NAME_RU: Южный Эйршир
+NAME_SV: South Ayrshire
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 南艾尔郡
+NE_ID: 1159313027

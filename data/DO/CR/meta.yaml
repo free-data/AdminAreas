@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1984
+DISS_ME: 1984
+ISO_3166_2: DO-21
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: San Cristóbal
+NAME_ALT: Trujillo
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.CR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR33
+FIPS_ALT: null
+WOE_ID: 2345201
+WOE_LABEL: San Cristobal, DO, Dominican Republic
+WOE_NAME: San Cristóbal
+LATITUDE: 18.5126
+LONGITUDE: -70.1914
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3493186
+GN_NAME: Provincia de San Cristobal
+GNS_ID: -3365964
+GNS_NAME: San Cristobal, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.33
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR33
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1366107
+NAME_AR: محافظة سان كريستوبال
+NAME_BN: স্যান ক্রিস্টোবাল প্রদেশ
+NAME_DE: San Cristóbal
+NAME_EN: San Cristóbal Province
+NAME_ES: San Cristóbal
+NAME_FR: San Cristóbal
+NAME_EL: Επαρχία Σαν Κριστόμπαλ
+NAME_HI: सैन क्रिस्टोबल प्रांत
+NAME_HU: null
+NAME_ID: Provinsi San Cristóbal
+NAME_IT: provincia di San Cristóbal
+NAME_JA: サン・クリストバル州
+NAME_KO: 산크리스토발 주
+NAME_NL: San Cristóbal
+NAME_PL: Prowincja San Cristóbal
+NAME_PT: San Cristóbal
+NAME_RU: Сан-Кристобаль
+NAME_SV: San Cristóbal
+NAME_TR: San Cristobal Province
+NAME_VI: San Cristóbal
+NAME_ZH: 聖克里斯多堡省
+NE_ID: 1159311741

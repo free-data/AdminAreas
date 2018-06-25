@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GAB-2622
+DISS_ME: 2622
+ISO_3166_2: GA-4
+WIKIPEDIA: null
+ISO_A2: GA
+ADM0_SR: 1
+NAME: Ngounié
+NAME_ALT: N'Gounié
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GA.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: GB04
+FIPS_ALT: null
+WOE_ID: 2345452
+WOE_LABEL: Ngounie, GA, Gabon
+WOE_NAME: Ngounié
+LATITUDE: -1.48647
+LONGITUDE: 11.1859
+SOV_A3: GAB
+ADM0_A3: GAB
+ADM0_LABEL: 5
+ADMIN: Gabon
+GEONUNIT: Gabon
+GU_A3: GAB
+GN_ID: 2397466
+GN_NAME: Province de la Ngounie
+GNS_ID: -1328853
+GNS_NAME: Ngounie
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GA.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GB04
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q823774
+NAME_AR: محافظة نغوني
+NAME_BN: গোউনিয়ে প্রদেশ
+NAME_DE: Ngounié
+NAME_EN: Ngounié Province
+NAME_ES: Provincia de Ngounié
+NAME_FR: Ngounié
+NAME_EL: Νγκουνιέ
+NAME_HI: गौनी प्रांत
+NAME_HU: null
+NAME_ID: Ngounié
+NAME_IT: provincia di Ngounié
+NAME_JA: ングニエ州
+NAME_KO: 응구니에 주
+NAME_NL: Ngounié
+NAME_PL: Ngounié
+NAME_PT: Ngounié
+NAME_RU: Нгуни
+NAME_SV: Province de la Ngounié
+NAME_TR: Ngounié
+NAME_VI: Ngounié
+NAME_ZH: 恩古涅省
+NE_ID: 1159313339

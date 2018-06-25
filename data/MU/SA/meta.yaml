@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5195
+DISS_ME: 5195
+ISO_3166_2: MU-SA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Savanne_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Savanne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346236
+WOE_LABEL: Savanne, MU, Mauritius
+WOE_NAME: Savanne
+LATITUDE: -20.464
+LONGITUDE: 57.5211
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934017
+GN_NAME: Savanne District
+GNS_ID: -1355564
+GNS_NAME: Savanne District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.20
+REGION_SUB: Savanne
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MP20
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1053600
+NAME_AR: مقاطعة سافاني
+NAME_BN: সাবানে জেলা
+NAME_DE: Savanne
+NAME_EN: Savanne District
+NAME_ES: Distrito de Savanne
+NAME_FR: Savanne
+NAME_EL: Σαβάν
+NAME_HI: सवाने जिला
+NAME_HU: null
+NAME_ID: Distrik Savanne
+NAME_IT: Savanne
+NAME_JA: サバンナ県
+NAME_KO: 사반 구
+NAME_NL: Savanne
+NAME_PL: Savanne
+NAME_PT: Savanne
+NAME_RU: Саван
+NAME_SV: Savanne
+NAME_TR: Savanne Bölgesi
+NAME_VI: Quận Savanne
+NAME_ZH: 薩凡納區
+NE_ID: 1159316583

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: UMI-5179
+DISS_ME: 5179
+ISO_3166_2: UM-79
+WIKIPEDIA: null
+ISO_A2: UM
+ADM0_SR: 8
+NAME: Wake Atoll
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: UM.WQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 11
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: WQ450
+FIPS_ALT: null
+WOE_ID: 23424991
+WOE_LABEL: null
+WOE_NAME: Wake Atoll
+LATITUDE: 19.2863
+LONGITUDE: 166.643
+SOV_A3: US1
+ADM0_A3: UMI
+ADM0_LABEL: 6
+ADMIN: United States Minor Outlying Islands
+GEONUNIT: Wake Atoll
+GU_A3: WQI
+GN_ID: 4041685
+GN_NAME: Wake Island
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UM.450
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q43296
+NAME_AR: جزيرة ويك
+NAME_BN: ওয়েক দ্বীপপুঞ্জ
+NAME_DE: Wake
+NAME_EN: Wake Island
+NAME_ES: Isla Wake
+NAME_FR: Wake
+NAME_EL: Νήσος Ουέηκ
+NAME_HI: वेक द्वीप
+NAME_HU: Wake-sziget
+NAME_ID: Pulau Wake
+NAME_IT: Isola di Wake
+NAME_JA: ウェーク島
+NAME_KO: 웨이크 섬
+NAME_NL: Wake
+NAME_PL: Wake
+NAME_PT: Ilha Wake
+NAME_RU: Уэйк
+NAME_SV: Wake
+NAME_TR: Wake Adası
+NAME_VI: Đảo Wake
+NAME_ZH: 威克島
+NE_ID: 1159316557

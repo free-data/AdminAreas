@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1506
+DISS_ME: 1506
+ISO_3166_2: ME-08
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Herceg Novi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.HN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: HN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: HR03
+FIPS_ALT: null
+WOE_ID: 29389246
+WOE_LABEL: Herceg Novi, ME, Montenegro
+WOE_NAME: Herceg Novi
+LATITUDE: 42.4041
+LONGITUDE: 18.6027
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3199393
+GN_NAME: Opstina Herceg Novi
+GNS_ID: -82628
+GNS_NAME: Herceg Novi, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3317366
+NAME_AR: بلدية هرسك نوفي
+NAME_BN: হারচেগ নোভি পৌরসভা
+NAME_DE: Gemeinde Herceg Novi
+NAME_EN: Herceg Novi Municipality
+NAME_ES: Municipio de Herceg Novi
+NAME_FR: Municipalité d'Herceg Novi
+NAME_EL: Χερκέγκ Νόβι
+NAME_HI: हर्जेग नोवी नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Herceg Novi
+NAME_IT: Comune di Herceng Novi
+NAME_JA: ヘルツェグ・ノヴィ
+NAME_KO: 헤르체그노비
+NAME_NL: Herceg Novi
+NAME_PL: Herceg Novi
+NAME_PT: Herceg-Novi
+NAME_RU: Херцег-Нови
+NAME_SV: Herceg Novi kommun
+NAME_TR: Herceg Novi Belediye
+NAME_VI: Đô thị tự trị Herceg Novi
+NAME_ZH: null
+NE_ID: 1159310611

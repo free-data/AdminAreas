@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDS-147
+DISS_ME: 147
+ISO_3166_2: SS-BN
+WIKIPEDIA: null
+ISO_A2: SS
+ADM0_SR: 1
+NAME: Northern Bahr el Ghazal
+NAME_ALT: North Bahr-al-Gazal| North Bahr el Ghazal| Shamal Bahr al Ghazal
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SS.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: Bahr al Ghazal
+REGION_COD: SDN-BAG
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: N. BaG.
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 20
+MAPCOLOR9: 3
+MAPCOLOR13: 5
+FIPS: OD05
+FIPS_ALT: SU06
+WOE_ID: 20069897
+WOE_LABEL: Shamal Bahr al Ghazal, SD, Sudan
+WOE_NAME: North Bahr-al-Ghazal
+LATITUDE: 8.90381
+LONGITUDE: 27.535
+SOV_A3: SDS
+ADM0_A3: SDS
+ADM0_LABEL: 2
+ADMIN: S. Sudan
+GEONUNIT: South Sudan
+GU_A3: SDS
+GN_ID: 408665
+GN_NAME: Northern Bahr el Ghazal
+GNS_ID: 315440
+GNS_NAME: Northern Bahr el Ghazal State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SS.05
+REGION_SUB: null
+SUB_CODE: SU32
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: OD05
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q491111
+NAME_AR: شمال بحر الغزال
+NAME_BN: নর্দান বাহ্র এল ঘেসাল
+NAME_DE: Northern Bahr el Ghazal
+NAME_EN: Northern Bahr el Ghazal
+NAME_ES: Bahr al-Gazal del Norte
+NAME_FR: Bahr el Ghazal du Nord
+NAME_EL: Βόρειο Μπαχρ ελ Γκαζάλ
+NAME_HI: उत्तरी बहर एल ग़ज़ल
+NAME_HU: null
+NAME_ID: Bahrul Ghazal Utara
+NAME_IT: Bahr al-Ghazal Settentrionale
+NAME_JA: 北バハル・アル・ガザール州
+NAME_KO: 북바르알가잘 주
+NAME_NL: Northern Bahr el Ghazal
+NAME_PL: Bahr el Ghazal Północny
+NAME_PT: Bahr al-Ghazal do Norte
+NAME_RU: Северный Бахр-эль-Газаль
+NAME_SV: Northern Bahr el Ghazal
+NAME_TR: Kuzey Bahr el Ghazal
+NAME_VI: Bắc Bahr el Ghazal
+NAME_ZH: 北加扎勒河省
+NE_ID: 1159308125

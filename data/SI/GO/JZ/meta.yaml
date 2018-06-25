@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-237
+DISS_ME: 237
+ISO_3166_2: SI-163
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Jezersko
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.GO.JZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Gorenjska
+REGION_COD: null
+PROVNUM_NE: 82
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: JZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIH5
+WOE_ID: -55848358
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3897
+LONGITUDE: 14.4871
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344894
+GN_NAME: Obcina Jezersko
+GNS_ID: 9123300
+GNS_NAME: Jezersko, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.H5
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1688771
+NAME_AR: بلدية جيزرسكو
+NAME_BN: জেজেরস্কো পৌরসভা
+NAME_DE: Jezersko
+NAME_EN: Jezersko Municipality
+NAME_ES: Municipalidad del Jezersko
+NAME_FR: Jezersko
+NAME_EL: Τζεζέρσκο
+NAME_HI: जेज़ेर्सको नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Jezersko
+NAME_IT: Jezersko
+NAME_JA: イェゼルスコ
+NAME_KO: 예제르스코
+NAME_NL: Jezersko
+NAME_PL: Gmina Jezersko
+NAME_PT: Jezersko
+NAME_RU: Езерско
+NAME_SV: Jezersko kommun
+NAME_TR: Jezersko Belediyesi
+NAME_VI: Đô thị tự trị Jezersko
+NAME_ZH: 耶泽尔斯科
+NE_ID: 1159308631

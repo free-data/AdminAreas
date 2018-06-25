@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1678
+DISS_ME: 1678
+ISO_3166_2: AZ-GAD
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Gədəbəy
+NAME_ALT: Gadabay
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.GD
+NOTE: borders an exclave of Armenia
+HASC_MAYBE: null
+REGION: Ganja-Gazakh Economic Region
+REGION_COD: AZ-02
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ19
+FIPS_ALT: null
+WOE_ID: 20070230
+WOE_LABEL: null
+WOE_NAME: Gadabay
+LATITUDE: 40.492
+LONGITUDE: 45.6429
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 627535
+GN_NAME: Gadabay Rayon
+GNS_ID: -1943932
+GNS_NAME: Gadabay Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ19
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q330749
+NAME_AR: مقاطعة غدابيغ
+NAME_BN: গেডাবে
+NAME_DE: Gədəbəy
+NAME_EN: Gədəbəy
+NAME_ES: Gədəbəy
+NAME_FR: Gədəbəy
+NAME_EL: Γκάντμπεϊ
+NAME_HI: गेडेबी
+NAME_HU: Gədəbəyi járás
+NAME_ID: Gadabay
+NAME_IT: distretto di Gədəbəy
+NAME_JA: ガダバイ県
+NAME_KO: 게데베이 구
+NAME_NL: Gədəbəy
+NAME_PL: Rejon Gədəbəy
+NAME_PT: Gadabay
+NAME_RU: Кедабекский район
+NAME_SV: Gädäbäj
+NAME_TR: Gedebey Rayonu
+NAME_VI: Gadabey
+NAME_ZH: 凱達貝克區
+NE_ID: 1159312219

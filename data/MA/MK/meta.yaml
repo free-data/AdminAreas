@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: MAR-1456
+DISS_ME: 1456
+ISO_3166_2: MA-11
+WIKIPEDIA: null
+ISO_A2: MA
+ADM0_SR: 1
+NAME: Marrakech - Tensift - Al Haouz
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: 07
+CODE_HASC: MA.MK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: MK
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 30
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: MO47
+FIPS_ALT: null
+WOE_ID: -56120056
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 31.3472
+LONGITUDE: -8.43749
+SOV_A3: MAR
+ADM0_A3: MAR
+ADM0_LABEL: 2
+ADMIN: Morocco
+GEONUNIT: Morocco
+GU_A3: MAR
+GN_ID: 2542995
+GN_NAME: Marrakech-Tensift-Al Haouz
+GNS_ID: -38835
+GNS_NAME: Marrakech-Tensift-Al Haouz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MA.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: MO47
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q477940
+NAME_AR: جهة مراكش تانسيفت الحوز
+NAME_BN: মারাকেশ টেন্সিফট এল হাঊজ
+NAME_DE: Marrakesch-Tensift-Al Haouz
+NAME_EN: Marrakesh-Tensift-El Haouz
+NAME_ES: Marrakech-Tensift-Al Hauz
+NAME_FR: Marrakech-Tensift-Al Haouz
+NAME_EL: Μαρακές-Τενσίφτ-Ελ Χαούζ
+NAME_HI: मारकेश-तेंसिफ्ट-एल हाओज़
+NAME_HU: null
+NAME_ID: Marrakech-Tensift-El Haouz
+NAME_IT: Marrakech-Tensift-El Haouz
+NAME_JA: マラケシュ＝タンシフト＝アルハウズ地方
+NAME_KO: 마라케시텐시프트엘하우즈 지방
+NAME_NL: Marrakech-Tensift-Al Haouz
+NAME_PL: Marrakesz-Tansift-Al-Hauz
+NAME_PT: Marraquexe-Tensift-Al Haouz
+NAME_RU: Марракеш-Тенсифт-Эль-Хауз
+NAME_SV: Marrakech-Tensift-Al Haouz
+NAME_TR: Marrakech-Tensift-El Haouz
+NAME_VI: Marrakesh-Tensift-El Haouz
+NAME_ZH: 馬拉喀什-坦西夫特-豪茲大區
+NE_ID: 1159310535

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NLD-3483
+DISS_ME: 3483
+ISO_3166_2: NL-NB
+WIKIPEDIA: null
+ISO_A2: NL
+ADM0_SR: 1
+NAME: Noord-Brabant
+NAME_ALT: Brabante del Norte|Brabante do Norte|Brabante settentrionale|Brabant-septentrional|Nord-Brabant|Nort
+NAME_LOCAL: null
+TYPE: Provincie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: NL.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: NL06
+FIPS_ALT: null
+WOE_ID: 2346378
+WOE_LABEL: North Brabant, NL, Netherlands
+WOE_NAME: Noord-Brabant
+LATITUDE: 51.6008
+LONGITUDE: 5.16122
+SOV_A3: NL1
+ADM0_A3: NLD
+ADM0_LABEL: 6
+ADMIN: Netherlands
+GEONUNIT: null
+GU_A3: NLD
+GN_ID: 2749990
+GN_NAME: Provincie Noord-Brabant
+GNS_ID: -2150301
+GNS_NAME: Noord-Brabant, Provincie
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NL.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NL06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1101
+NAME_AR: شمال برابنت
+NAME_BN: উত্তর ব্রাবান্ট
+NAME_DE: Provinz Nordbrabant
+NAME_EN: North Brabant
+NAME_ES: Brabante Septentrional
+NAME_FR: Brabant-Septentrional
+NAME_EL: Βόρεια Βραβάντη
+NAME_HI: उत्तरी ब्रबैंट
+NAME_HU: Észak-Brabant
+NAME_ID: Brabant Utara
+NAME_IT: Brabante Settentrionale
+NAME_JA: 北ブラバント州
+NAME_KO: 노르트브라반트 주
+NAME_NL: Noord-Brabant
+NAME_PL: Brabancja Północna
+NAME_PT: Brabante do Norte
+NAME_RU: Северный Брабант
+NAME_SV: Noord-Brabant
+NAME_TR: Kuzey Brabant
+NAME_VI: Noord-Brabant
+NAME_ZH: 北布拉班特省
+NE_ID: 1159315441

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5675
+DISS_ME: 5675
+ISO_3166_2: GB-WKF
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Wakefield
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.WK
+NOTE: null
+HASC_MAYBE: null
+REGION: Yorkshire and the Humber
+REGION_COD: GB.WY
+PROVNUM_NE: 20016
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: W York
+POSTAL: WY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKO7
+FIPS_ALT: null
+WOE_ID: -12602197
+WOE_LABEL: null
+WOE_NAME: West Yorkshire
+LATITUDE: 53.6457
+LONGITUDE: -1.39089
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333212
+GN_NAME: City and Borough of Wakefield
+GNS_ID: 6077654
+GNS_NAME: Wakefield, City and Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.O7
+REGION_SUB: West Yorkshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q763171
+NAME_AR: null
+NAME_BN: null
+NAME_DE: City of Wakefield
+NAME_EN: Wakefield
+NAME_ES: Ciudad de Wakefield
+NAME_FR: cité de Wakefield
+NAME_EL: null
+NAME_HI: null
+NAME_HU: City of Wakefield
+NAME_ID: null
+NAME_IT: City of Wakefield
+NAME_JA: シティ・オブ・ウェイクフィールド
+NAME_KO: 시티오브웨이크필드
+NAME_NL: Wakefield
+NAME_PL: City of Wakefield
+NAME_PT: Cidade de Wakefield
+NAME_RU: Уэйкфилд
+NAME_SV: Wakefield
+NAME_TR: Wakefield
+NAME_VI: null
+NAME_ZH: 韋克菲爾德市
+NE_ID: 1159317519

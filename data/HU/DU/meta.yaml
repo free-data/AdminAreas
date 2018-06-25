@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4925
+DISS_ME: 4925
+ISO_3166_2: HU-DU
+WIKIPEDIA: http://en.wikipedia.org/wiki/Duna%C3%BAjv%C3%A1ros
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Dunaújváros
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.DU
+NOTE: null
+HASC_MAYBE: null
+REGION: Central Transdanubia
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU27
+FIPS_ALT: null
+WOE_ID: 56043621
+WOE_LABEL: Vas, HU, Hungary
+WOE_NAME: Dunaújváros
+LATITUDE: 46.9489
+LONGITUDE: 18.8971
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -3053028
+GN_NAME: Fejer megye
+GNS_ID: -852504
+GNS_NAME: Dunaujvaros Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Fejér
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU27
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q187812
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Dunaújváros
+NAME_EN: Dunaújváros
+NAME_ES: Dunaújváros
+NAME_FR: Dunaújváros
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Dunaújváros
+NAME_ID: Dunaújváros
+NAME_IT: Dunaújváros
+NAME_JA: ドゥナウーイヴァーロシュ
+NAME_KO: 두너우이바로시
+NAME_NL: Dunaújváros
+NAME_PL: Dunaújváros
+NAME_PT: Dunaújváros
+NAME_RU: Дунауйварош
+NAME_SV: Dunaújváros
+NAME_TR: Dunaújváros
+NAME_VI: Dunaújváros
+NAME_ZH: 多瑙新城
+NE_ID: 1159316081

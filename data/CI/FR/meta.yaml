@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CIV-3445
+DISS_ME: 3445
+ISO_3166_2: CI-18
+WIKIPEDIA: null
+ISO_A2: CI
+ADM0_SR: 1
+NAME: Fromager
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CI.FR
+NOTE: Expired 2015.11.27, requires updating.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: FR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: IV18
+FIPS_ALT: null
+WOE_ID: 55966995
+WOE_LABEL: null
+WOE_NAME: Fromager
+LATITUDE: 6.2178
+LONGITUDE: -5.80631
+SOV_A3: CIV
+ADM0_A3: CIV
+ADM0_LABEL: 2
+ADMIN: Ivory Coast
+GEONUNIT: Ivory Coast
+GU_A3: CIV
+GN_ID: 2597330
+GN_NAME: Fromager
+GNS_ID: 9149769
+GNS_NAME: Fromager, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CI.79
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: IV79
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q818774
+NAME_AR: فروماجر
+NAME_BN: ফ্রওমাজের
+NAME_DE: Fromager
+NAME_EN: Fromager
+NAME_ES: Fromager
+NAME_FR: Fromager
+NAME_EL: Φρομάγκερ
+NAME_HI: फ्रोमगेर
+NAME_HU: null
+NAME_ID: Fromager
+NAME_IT: regione di Fromager
+NAME_JA: フロマジェ州
+NAME_KO: 프로마제 주
+NAME_NL: Fromager
+NAME_PL: Fromager
+NAME_PT: Fromager
+NAME_RU: Фромаже
+NAME_SV: Fromager
+NAME_TR: Fromager
+NAME_VI: Fromager
+NAME_ZH: 弗罗马格尔区
+NE_ID: 1159315111

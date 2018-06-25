@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-944
+DISS_ME: 944
+ISO_3166_2: SI-016
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Črna na Koroškem
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.KO.CK
+NOTE: null
+HASC_MAYBE: null
+REGION: Koroška
+REGION_COD: null
+PROVNUM_NE: 64
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI16
+FIPS_ALT: null
+WOE_ID: -55848380
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.4704
+LONGITUDE: 14.819
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239181
+GN_NAME: Obcina Crna na Koroskem
+GNS_ID: 243850
+GNS_NAME: Crna na Koroskem, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI16
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q279072
+NAME_AR: بلدية تشرنا نا كوروشكيم
+NAME_BN: কার্না না করোঁকে পৌরসভা
+NAME_DE: Črna na Koroškem
+NAME_EN: Črna na Koroškem Municipality
+NAME_ES: null
+NAME_FR: Črna na Koroškem
+NAME_EL: Κρνα να Κορόσκεμ
+NAME_HI: क्रना ना कोरोस्केम नगरपालिका
+NAME_HU: Črna na Koroškem
+NAME_ID: Kotamadya Črna na Koroškem
+NAME_IT: Črna na Koroškem
+NAME_JA: チュルナ・ナ・コロシュケム
+NAME_KO: 치르나나코로슈켐
+NAME_NL: Črna na Koroškem
+NAME_PL: Gmina Črna na Koroškem
+NAME_PT: Črna na Koroškem
+NAME_RU: Чрна-на-Корошкем
+NAME_SV: Črna na Koroškem
+NAME_TR: Crna Na Koroske Belediyesi
+NAME_VI: Đô thị tự trị Crna na Koroskem
+NAME_ZH: null
+NE_ID: 1159310679

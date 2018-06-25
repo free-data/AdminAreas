@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: MAR-3469
+DISS_ME: 3469
+ISO_3166_2: MA-16
+WIKIPEDIA: null
+ISO_A2: MA
+ADM0_SR: 1
+NAME: Oued el Dahab
+NAME_ALT: Ed Dakhla|Oued Eddahab
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: 01
+CODE_HASC: MA.OD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 5
+ABBREV: null
+POSTAL: OD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 13
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: WI00
+FIPS_ALT: null
+WOE_ID: 24549935
+WOE_LABEL: Oued Ed-Dahab, EH, Western Sahara
+WOE_NAME: Oued el Dahab
+LATITUDE: 23.0116
+LONGITUDE: -14.9815
+SOV_A3: MAR
+ADM0_A3: MAR
+ADM0_LABEL: 5
+ADMIN: Morocco
+GEONUNIT: Morocco
+GU_A3: MAR
+GN_ID: 7627603
+GN_NAME: Oued ed Dahab-Lagouira
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MA.EH
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q2410368
+NAME_AR: إقليم وادي الذهب
+NAME_BN: ওউড এড-ডাহাব প্রদেশ
+NAME_DE: Oued ed Dahab
+NAME_EN: Oued Ed-Dahab Province
+NAME_ES: Provincia de Río de Oro-Dajla
+NAME_FR: province d'Oued Ed-Dahab
+NAME_EL: Ουέντ Εντ-Νταχάμπ
+NAME_HI: ओयड एड-दाहब प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Oued Ed-Dahab
+NAME_IT: provincia di Oued Ed-Dahab
+NAME_JA: オウィド・エッ＝ダハブ州
+NAME_KO: 우에드 에드 다합 주
+NAME_NL: Oued ed Dahab
+NAME_PL: Prowincja Oued Ed-Dahab
+NAME_PT: Oued ed-Dahab provins
+NAME_RU: Уэд Эд-Дахаб
+NAME_SV: Oued ed-Dahab
+NAME_TR: Oued Ed-Dahab Province
+NAME_VI: Oued Ed-Dahab Tỉnh
+NAME_ZH: null
+NE_ID: 1159315215

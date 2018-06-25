@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3471
+DISS_ME: 3471
+ISO_3166_2: IQ-AN
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Al-Anbar
+NAME_ALT: Dulaim|Ramadi
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.AN
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ01
+FIPS_ALT: null
+WOE_ID: 2345833
+WOE_LABEL: Al Anbar, IQ, Iraq
+WOE_NAME: Al-Anbar
+LATITUDE: 33.2317
+LONGITUDE: 41.5307
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 99592
+GN_NAME: Muhafazat al Anbar
+GNS_ID: -3102113
+GNS_NAME: Al Anbar
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ01
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q187334
+NAME_AR: محافظة الأنبار
+NAME_BN: আল আনবার প্রদেশ
+NAME_DE: al-Anbar
+NAME_EN: Al Anbar Governorate
+NAME_ES: Gobernación de Ambar
+NAME_FR: Al-Anbar
+NAME_EL: Κυβερνείο Ανμπάρ
+NAME_HI: अनबार प्रान्त
+NAME_HU: Anbár kormányzóság
+NAME_ID: Kegubernuran Al Anbar
+NAME_IT: governatorato di al-Anbar
+NAME_JA: アンバール県
+NAME_KO: 안바르 주
+NAME_NL: Al-Anbar
+NAME_PL: Al-Anbar
+NAME_PT: Al-Anbar
+NAME_RU: Анбар
+NAME_SV: al-Anbar
+NAME_TR: Anbar ili
+NAME_VI: Tỉnh Al Anbar
+NAME_ZH: 安巴尔省
+NE_ID: 1159315255

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LBR-785
+DISS_ME: 785
+ISO_3166_2: LR-GB
+WIKIPEDIA: null
+ISO_A2: LR
+ADM0_SR: 1
+NAME: Grand Bassa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LR.GB
+NOTE: null
+HASC_MAYBE: LR.GB|LBR-GBA
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 8
+ABBREV: null
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LI11
+FIPS_ALT: LI03
+WOE_ID: 2346105
+WOE_LABEL: Grand Bassa, LR, Liberia
+WOE_NAME: Grand Bassa
+LATITUDE: 6.11786
+LONGITUDE: -9.72887
+SOV_A3: LBR
+ADM0_A3: LBR
+ADM0_LABEL: 2
+ADMIN: Liberia
+GEONUNIT: Liberia
+GU_A3: LBR
+GN_ID: 2276630
+GN_NAME: Grand Bassa County
+GNS_ID: -2132272
+GNS_NAME: Grand Bassa County
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LR.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: LI11
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1047895
+NAME_AR: مقاطعة غراند باسا
+NAME_BN: গ্রান্ড বাসসা কাউন্টি
+NAME_DE: Grand Bassa County
+NAME_EN: Grand Bassa County
+NAME_ES: Grand Bassa
+NAME_FR: Comté de Grand Bassa
+NAME_EL: Γκραντ Μπάσσα
+NAME_HI: ग्रैंड बासा काउंटी
+NAME_HU: null
+NAME_ID: Grand Bassa County
+NAME_IT: contea di Grand Bassa
+NAME_JA: グランドバッサ郡
+NAME_KO: 그랜드바사 주
+NAME_NL: Grand Bassa
+NAME_PL: Grand Bassa
+NAME_PT: Grand Bassa
+NAME_RU: Гранд-Баса
+NAME_SV: Grand Bassa County
+NAME_TR: Grand Bassa County
+NAME_VI: Hạt Grand Bassa
+NAME_ZH: 大巴萨县
+NE_ID: 1159308921

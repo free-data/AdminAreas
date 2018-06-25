@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1641
+DISS_ME: 1641
+ISO_3166_2: MD-LE
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Leova
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD79
+FIPS_ALT: null
+WOE_ID: 55948193
+WOE_LABEL: null
+WOE_NAME: Leova
+LATITUDE: 46.5654
+LONGITUDE: 28.4105
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617903
+GN_NAME: Raionul Leova
+GNS_ID: -2276772
+GNS_NAME: Leova, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.79
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD79
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1826662
+NAME_AR: مقاطعة ليوفا
+NAME_BN: লিওভা জেলা
+NAME_DE: Rajon Leova
+NAME_EN: Leova District
+NAME_ES: Distrito de Leova
+NAME_FR: Raion de Leova
+NAME_EL: Λεόβα
+NAME_HI: लिओवा जिला
+NAME_HU: null
+NAME_ID: Raionul Leova
+NAME_IT: distretto di Leova
+NAME_JA: レオバ県
+NAME_KO: 레오바 구
+NAME_NL: Leova
+NAME_PL: Rejon Leova
+NAME_PT: Leova
+NAME_RU: Леовский район
+NAME_SV: Leova
+NAME_TR: Leova District
+NAME_VI: Quận Leova
+NAME_ZH: 萊奧瓦區
+NE_ID: 1159312611

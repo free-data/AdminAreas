@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CUB-1368
+DISS_ME: 1368
+ISO_3166_2: CU-10
+WIKIPEDIA: null
+ISO_A2: CU
+ADM0_SR: 1
+NAME: Las Tunas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CU.LT
+NOTE: null
+HASC_MAYBE: CU.CM|CUB-LTU
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: LT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: CU13
+FIPS_ALT: CU05
+WOE_ID: 2345117
+WOE_LABEL: Las Tunas, CU, Cuba
+WOE_NAME: Las Tunas
+LATITUDE: 21.0299
+LONGITUDE: -77.0723
+SOV_A3: CUB
+ADM0_A3: CUB
+ADM0_LABEL: 2
+ADMIN: Cuba
+GEONUNIT: Cuba
+GU_A3: CUB
+GN_ID: 3550595
+GN_NAME: Las Tunas
+GNS_ID: -1631638
+GNS_NAME: Las Tunas
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CU.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CU13
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q115334
+NAME_AR: مقاطعة لاس توناس
+NAME_BN: লাস তুনাস প্রদেশ
+NAME_DE: Provinz Las Tunas
+NAME_EN: Las Tunas Province
+NAME_ES: Provincia de Las Tunas
+NAME_FR: province de Las Tunas
+NAME_EL: Λας Τούνας
+NAME_HI: लास ट्यूनास प्रांत
+NAME_HU: Las Tunas
+NAME_ID: Provinsi Las Tunas
+NAME_IT: provincia di Las Tunas
+NAME_JA: ラス・トゥーナス州
+NAME_KO: 라스투나스 주
+NAME_NL: Las Tunas
+NAME_PL: Prowincja Las Tunas
+NAME_PT: Las Tunas
+NAME_RU: Лас-Тунас
+NAME_SV: Las Tunas
+NAME_TR: Las Tunas ili
+NAME_VI: Las Tunas
+NAME_ZH: 拉斯图纳斯省
+NE_ID: 1159310357

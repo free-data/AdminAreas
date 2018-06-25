@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3388
+DISS_ME: 3388
+ISO_3166_2: TZ-17
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Mtwara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ11
+FIPS_ALT: null
+WOE_ID: 2347362
+WOE_LABEL: Mtwara, TZ, Tanzania
+WOE_NAME: Mtwara
+LATITUDE: -10.814
+LONGITUDE: 39.2212
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 877744
+GN_NAME: Mtwara Region
+GNS_ID: -2570429
+GNS_NAME: Mtwara, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ11
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q499465
+NAME_AR: إقليم متوارا
+NAME_BN: এমতাওয়ারা অঞ্চল
+NAME_DE: Mtwara
+NAME_EN: Mtwara Region
+NAME_ES: Región de Mtwara
+NAME_FR: Mtwara
+NAME_EL: Περιφέρεια Μτουάρα
+NAME_HI: मत्तवार क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Mtwara
+NAME_IT: regione di Mtwara
+NAME_JA: ムトワラ州
+NAME_KO: 므트와라 주
+NAME_NL: Mtwara
+NAME_PL: Mtwara
+NAME_PT: Mtwara
+NAME_RU: Мтвара
+NAME_SV: Mtwara
+NAME_TR: Mtwara Bölgesi
+NAME_VI: Mtwara
+NAME_ZH: 姆特瓦拉區
+NE_ID: 1159315031

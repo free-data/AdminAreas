@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LTU-936
+DISS_ME: 936
+ISO_3166_2: LT-TE
+WIKIPEDIA: null
+ISO_A2: LT
+ADM0_SR: 1
+NAME: Telšiai
+NAME_ALT: Telšiai|Telsche|Telschi|Telshe
+NAME_LOCAL: null
+TYPE: Apskritis
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LT.TL
+NOTE: NUTS code LT008
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: LH63
+FIPS_ALT: null
+WOE_ID: 55848080
+WOE_LABEL: Telsiai County, LT, Lithuania
+WOE_NAME: Telšiai
+LATITUDE: 56.0398
+LONGITUDE: 22.1086
+SOV_A3: LTU
+ADM0_A3: LTU
+ADM0_LABEL: 5
+ADMIN: Lithuania
+GEONUNIT: Lithuania
+GU_A3: LTU
+GN_ID: 864483
+GN_NAME: Telsiu Apskritis
+GNS_ID: 9084752
+GNS_NAME: Telsiu Apskritis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LT.63
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: LH63
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q188963
+NAME_AR: مقاطعة تيلسياي
+NAME_BN: তেলসিয়াই কাউন্টি
+NAME_DE: Bezirk Telšiai
+NAME_EN: Telšiai County
+NAME_ES: Provincia de Telšiai
+NAME_FR: Apskritis de Telšiai
+NAME_EL: Επαρχία Τελσιάι
+NAME_HI: तेल्सिई काउंटी
+NAME_HU: null
+NAME_ID: County Telšiai
+NAME_IT: contea di Telšiai
+NAME_JA: テルシェイ県
+NAME_KO: 텔샤이 주
+NAME_NL: Telšiai
+NAME_PL: Okręg telszański
+NAME_PT: Telšiai
+NAME_RU: Тельшяйский уезд
+NAME_SV: Telšiai
+NAME_TR: Teislai County
+NAME_VI: Hạt Telsiai
+NAME_ZH: 特爾希艾縣
+NE_ID: 1159311027

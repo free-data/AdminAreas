@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-260
+DISS_ME: 260
+ISO_3166_2: SI-084
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Nova Goriška
+NAME_ALT: Severna Primors
+NAME_LOCAL: null
+TYPE: Statisticna Regije
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: SI.SP
+NOTE: null
+HASC_MAYBE: null
+REGION: Goriška
+REGION_COD: null
+PROVNUM_NE: 95
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI84
+FIPS_ALT: null
+WOE_ID: 55848371
+WOE_LABEL: Nova Gorica, SI, Slovenia
+WOE_NAME: Nova Gorica
+LATITUDE: 45.8796
+LONGITUDE: 13.7337
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3194451
+GN_NAME: Mestna Obcina Nova Gorica
+GNS_ID: -90192
+GNS_NAME: Nova Gorica, Mestna Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.84
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: SI84
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1018
+NAME_AR: نوفا جوريتسا
+NAME_BN: null
+NAME_DE: Nova Gorica
+NAME_EN: Nova Gorica
+NAME_ES: Nova Gorica
+NAME_FR: Nova Gorica
+NAME_EL: Νόβα Γκόριτσα
+NAME_HI: null
+NAME_HU: Nova Gorica
+NAME_ID: Nova Gorica
+NAME_IT: Nova Gorica
+NAME_JA: ノヴァ・ゴリツァ
+NAME_KO: 노바고리차
+NAME_NL: Nova Gorica
+NAME_PL: Nova Gorica
+NAME_PT: Nova Gorica
+NAME_RU: Нова-Горица
+NAME_SV: Nova Gorica
+NAME_TR: Nova Gorica
+NAME_VI: Nova Gorica
+NAME_ZH: 新戈里察
+NE_ID: 1159308681

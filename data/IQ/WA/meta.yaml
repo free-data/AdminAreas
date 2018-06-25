@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3227
+DISS_ME: 3227
+ISO_3166_2: IQ-WA
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Wasit
+NAME_ALT: Kut|Kut-al-Imara
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: IZ16
+CODE_HASC: IQ.WA
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: WA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ16
+FIPS_ALT: null
+WOE_ID: 2345848
+WOE_LABEL: Wasit, IQ, Iraq
+WOE_NAME: Wasit
+LATITUDE: 32.6139
+LONGITUDE: 45.5635
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 89693
+GN_NAME: Muhafazat Wasit
+GNS_ID: -3112362
+GNS_NAME: Wasit
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q189747
+NAME_AR: واسط
+NAME_BN: ওয়াসিত প্রদেশ
+NAME_DE: al-Wasit
+NAME_EN: Wasit Governorate
+NAME_ES: Gobernación de Wasit
+NAME_FR: Wasit
+NAME_EL: Βάσιτ
+NAME_HI: वासित प्रान्त
+NAME_HU: Vászit kormányzóság
+NAME_ID: Kegubernuran Wasit
+NAME_IT: governatorato di Wasit
+NAME_JA: ワーシト県
+NAME_KO: 와시트 주
+NAME_NL: Wasit
+NAME_PL: Wasit
+NAME_PT: Wasit
+NAME_RU: Васит
+NAME_SV: Wasit
+NAME_TR: Vasit ili
+NAME_VI: Tỉnh Wasit
+NAME_ZH: 瓦西特省
+NE_ID: 1159314245

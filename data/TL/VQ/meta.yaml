@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-552
+DISS_ME: 552
+ISO_3166_2: TL-VI
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Viqueque
+NAME_ALT: Vikeke
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.VQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: VQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT13
+FIPS_ALT: CG02
+WOE_ID: 24549903
+WOE_LABEL: Viqueque, TL, East Timor
+WOE_NAME: Viqueque
+LATITUDE: -8.8247
+LONGITUDE: 126.386
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1622470
+GN_NAME: Distrito Viqueque
+GNS_ID: -2702182
+GNS_NAME: Viqueque, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.VI
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT13
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q610726
+NAME_AR: بلدية فيكيك
+NAME_BN: ভিকুয়েকুয়ে পৌরসভা
+NAME_DE: Viqueque
+NAME_EN: Viqueque Municipality
+NAME_ES: Viqueque
+NAME_FR: Viqueque
+NAME_EL: Βικέκε
+NAME_HI: विक्वेक्वे नगरपालिका
+NAME_HU: null
+NAME_ID: Viqueque
+NAME_IT: distretto di Viqueque
+NAME_JA: ヴィケケ県
+NAME_KO: 비케크 현
+NAME_NL: Viqueque
+NAME_PL: Dystrykt Viqueque
+NAME_PT: Viqueque
+NAME_RU: Викеке
+NAME_SV: Viqueque
+NAME_TR: Viqueque Belediyesi
+NAME_VI: Viqueque
+NAME_ZH: 維克克縣
+NE_ID: 1159307871

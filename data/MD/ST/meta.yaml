@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1647
+DISS_ME: 1647
+ISO_3166_2: MD-ST
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Străşeni
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 40
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD87
+FIPS_ALT: MD89
+WOE_ID: 55948202
+WOE_LABEL: Straseni, MD, Moldova
+WOE_NAME: Străşeni
+LATITUDE: 47.1828
+LONGITUDE: 28.5847
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617301
+GN_NAME: Raionul Straseni
+GNS_ID: -2277406
+GNS_NAME: Straseni, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.89
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD89
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q878308
+NAME_AR: مقاطعة ستراسيني
+NAME_BN: স্ট্রাসেনি জেলা
+NAME_DE: Rajon Strășeni
+NAME_EN: Strășeni District
+NAME_ES: Distrito de Străşeni
+NAME_FR: Raion de Strășeni
+NAME_EL: Στρασένι
+NAME_HI: स्त्रसेनी जिला
+NAME_HU: null
+NAME_ID: Raionul Străşeni
+NAME_IT: distretto di Strășeni
+NAME_JA: ストラセニ県
+NAME_KO: 스트러셰니 구
+NAME_NL: Strășeni
+NAME_PL: Rejon Străşeni
+NAME_PT: Străşeni
+NAME_RU: Страшенский район
+NAME_SV: Raionul Străşeni
+NAME_TR: Straseni District
+NAME_VI: Quận Straseni
+NAME_ZH: 斯特勒謝尼區
+NE_ID: 1159312623

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5308
+DISS_ME: 5308
+ISO_3166_2: FR-35
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 4
+NAME: Ille-et-Vilaine
+NAME_ALT: Bretaña|Brittany
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.IV
+NOTE: null
+HASC_MAYBE: null
+REGION: Bretagne
+REGION_COD: FR-E
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 15
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA2
+FIPS_ALT: null
+WOE_ID: 12597138
+WOE_LABEL: null
+WOE_NAME: Ille-et-Vilaine
+LATITUDE: 48.1428
+LONGITUDE: -1.65623
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3012849
+GN_NAME: Departement d'Ille-et-Vilaine
+GNS_ID: -1432533
+GNS_NAME: Ille-et-Vilaine, Departement d'
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA2
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12549
+NAME_AR: إيل وفيلان
+NAME_BN: ইল্লে-এট-ভিলাইন
+NAME_DE: Département Ille-et-Vilaine
+NAME_EN: Ille-et-Vilaine
+NAME_ES: Ille y Vilaine
+NAME_FR: Ille-et-Vilaine
+NAME_EL: Ιλ-ε-Βιλαίν
+NAME_HI: इल-एट-वीलेन
+NAME_HU: Ille-et-Vilaine
+NAME_ID: Ille-et-Vilaine
+NAME_IT: Ille-et-Vilaine
+NAME_JA: イル＝エ＝ヴィレーヌ県
+NAME_KO: 일에빌렌 주
+NAME_NL: Ille-et-Vilaine
+NAME_PL: Ille-et-Vilaine
+NAME_PT: Ille-et-Vilaine
+NAME_RU: Иль и Вилен
+NAME_SV: Ille-et-Vilaine
+NAME_TR: Ille-et-Vilaine
+NAME_VI: Ille-et-Vilaine
+NAME_ZH: 伊勒-维莱讷省
+NE_ID: 1159316755

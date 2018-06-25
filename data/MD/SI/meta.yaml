@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1622
+DISS_ME: 1622
+ISO_3166_2: MD-SI
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Sîngerei
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 37
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD85
+FIPS_ALT: null
+WOE_ID: 55948198
+WOE_LABEL: Singerei, MD, Moldova
+WOE_NAME: Sîngerei
+LATITUDE: 47.6929
+LONGITUDE: 28.1728
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617913
+GN_NAME: Raionul Singerei
+GNS_ID: -2276762
+GNS_NAME: Singerei, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.85
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD85
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1796621
+NAME_AR: مقاطعة سونجري
+NAME_BN: সিঙ্গেরি জেলা
+NAME_DE: Rajon Sîngerei
+NAME_EN: Sîngerei District
+NAME_ES: Distrito de Sîngerei
+NAME_FR: Raion de Sîngerei
+NAME_EL: Σίνγκερεϊ
+NAME_HI: सिंगेरी जिला
+NAME_HU: null
+NAME_ID: Raionul Sîngerei
+NAME_IT: distretto di Sîngerei
+NAME_JA: シンジェレイ県
+NAME_KO: 슨제레이 구
+NAME_NL: Sîngerei
+NAME_PL: Rejon Sîngerei
+NAME_PT: Sîngerei
+NAME_RU: Сынжерейский район
+NAME_SV: Sîngerei
+NAME_TR: Singerei District
+NAME_VI: Quận Singerei
+NAME_ZH: 森傑雷區
+NE_ID: 1159312577

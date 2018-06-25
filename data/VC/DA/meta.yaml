@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: VCT-5066
+DISS_ME: 5066
+ISO_3166_2: VC-03
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_David_Parish_(Saint_Vincent_and_the_Grenadines)
+ISO_A2: VC
+ADM0_SR: 8
+NAME: Saint David
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: VC.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: VC03
+FIPS_ALT: null
+WOE_ID: 2347673
+WOE_LABEL: Saint David, VC, Saint Vincent and the Grenadines
+WOE_NAME: Saint David
+LATITUDE: 13.3142
+LONGITUDE: -61.204
+SOV_A3: VCT
+ADM0_A3: VCT
+ADM0_LABEL: 8
+ADMIN: Saint Vincent and the Grenadines
+GEONUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+GN_ID: 3577821
+GN_NAME: Parish of Saint David
+GNS_ID: -1204543
+GNS_NAME: Saint David, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VC.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: VC03
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2412394
+NAME_AR: أبرشية القديس ديفيد
+NAME_BN: সেন্ট ডেভিড প্যারিশ
+NAME_DE: Saint David Parish
+NAME_EN: Saint David Parish
+NAME_ES: San David
+NAME_FR: Saint-David
+NAME_EL: Άγιος Δαβίδ
+NAME_HI: सेंट डेविड पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint David
+NAME_IT: parrocchia di Saint David
+NAME_JA: セント・デイヴィッド郡
+NAME_KO: 세인트데이비드 교구
+NAME_NL: Saint David
+NAME_PL: Saint David
+NAME_PT: São David
+NAME_RU: Сент-Дэвид
+NAME_SV: Saint David Parish
+NAME_TR: Saint David Parish
+NAME_VI: Saint David
+NAME_ZH: 聖大衛區
+NE_ID: 1159316357

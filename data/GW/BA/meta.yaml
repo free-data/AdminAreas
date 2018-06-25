@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNB-776
+DISS_ME: 776
+ISO_3166_2: GW-BA
+WIKIPEDIA: null
+ISO_A2: GW
+ADM0_SR: 1
+NAME: Bafatá
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Região
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GW.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Leste
+REGION_COD: GW-L
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: PU01
+FIPS_ALT: null
+WOE_ID: 2346603
+WOE_LABEL: Bafata, GW, Guinea-Bissau
+WOE_NAME: Bafatá
+LATITUDE: 12.1429
+LONGITUDE: -14.707
+SOV_A3: GNB
+ADM0_A3: GNB
+ADM0_LABEL: 5
+ADMIN: Guinea Bissau
+GEONUNIT: Guinea Bissau
+GU_A3: GNB
+GN_ID: 2375255
+GN_NAME: Bafata
+GNS_ID: -1487930
+GNS_NAME: Bafata
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GW.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: PU01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q799791
+NAME_AR: محافظة بافاتا
+NAME_BN: বোফাতা অঞ্চল
+NAME_DE: Region Bafatá
+NAME_EN: Bafatá Region
+NAME_ES: Región de Bafatá
+NAME_FR: Région Bafatá
+NAME_EL: Μπαφατά
+NAME_HI: बफाटा क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Bafatá
+NAME_IT: regione di Bafatá
+NAME_JA: バファタ州
+NAME_KO: 바파타 주
+NAME_NL: Bafatá
+NAME_PL: Region Bafatá
+NAME_PT: Bafatá
+NAME_RU: Бафата
+NAME_SV: Bafatá
+NAME_TR: Bafata Bölgesi
+NAME_VI: Khu vực Bafatá
+NAME_ZH: 巴法塔區
+NE_ID: 1159309021

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2468
+DISS_ME: 2468
+ISO_3166_2: LK-82
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Mŏṇarāgala
+NAME_ALT: Monaragala|Moneragala
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.MJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Ūva paḷāta
+REGION_COD: LK-8
+PROVNUM_NE: 20027
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: MJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE16
+FIPS_ALT: null
+WOE_ID: 23706500
+WOE_LABEL: null
+WOE_NAME: Moneragala
+LATITUDE: 6.7224
+LONGITUDE: 81.3431
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1234818
+GN_NAME: Monaragala District
+GNS_ID: -2229064
+GNS_NAME: Monaragala District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1234818
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE35
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q923420
+NAME_AR: مديرية موناراغالا
+NAME_BN: null
+NAME_DE: Moneragala
+NAME_EN: Monaragala District
+NAME_ES: Distrito de Moneragala
+NAME_FR: Moneragala
+NAME_EL: null
+NAME_HI: मोनरागल' जिला
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Distretto di Moneragala
+NAME_JA: モナラーガラ県
+NAME_KO: 모나라갈라 구
+NAME_NL: Moneragala
+NAME_PL: null
+NAME_PT: null
+NAME_RU: Монерагала
+NAME_SV: Moneragala
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 莫訥勒格勒區
+NE_ID: 1159311435

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: USA-3548
+DISS_ME: 3548
+ISO_3166_2: US-KY
+WIKIPEDIA: http://en.wikipedia.org/wiki/Kentucky
+ISO_A2: US
+ADM0_SR: 1
+NAME: Kentucky
+NAME_ALT: Commonwealth of Kentucky|KY
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: US21
+CODE_HASC: US.KY
+NOTE: null
+HASC_MAYBE: US.IN|USA-KEN
+REGION: South
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: Ky.
+POSTAL: KY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 0
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: US21
+FIPS_ALT: US18
+WOE_ID: 2347576
+WOE_LABEL: Kentucky, US, United States
+WOE_NAME: Kentucky
+LATITUDE: 37.3994
+LONGITUDE: -85.5729
+SOV_A3: US1
+ADM0_A3: USA
+ADM0_LABEL: 2
+ADMIN: United States of America
+GEONUNIT: United States of America
+GU_A3: USA
+GN_ID: 6254925
+GN_NAME: Kentucky
+GNS_ID: -1
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: US.KY
+REGION_SUB: East South Central
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q1603
+NAME_AR: كنتاكي
+NAME_BN: কেন্টাকি
+NAME_DE: Kentucky
+NAME_EN: Kentucky
+NAME_ES: Kentucky
+NAME_FR: Kentucky
+NAME_EL: Κεντάκι
+NAME_HI: केन्टकी
+NAME_HU: Kentucky
+NAME_ID: Kentucky
+NAME_IT: Kentucky
+NAME_JA: ケンタッキー州
+NAME_KO: 켄터키 주
+NAME_NL: Kentucky
+NAME_PL: Kentucky
+NAME_PT: Kentucky
+NAME_RU: Кентукки
+NAME_SV: Kentucky
+NAME_TR: Kentucky
+NAME_VI: Kentucky
+NAME_ZH: 肯塔基州
+NE_ID: 1159315313

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2283
+DISS_ME: 2283
+ISO_3166_2: TR-46
+WIKIPEDIA: http://en.wikipedia.org/wiki/Kahramanmara%C5%9F_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: K. Maras
+NAME_ALT: Kahramanmaraş
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.KM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20045
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU46
+FIPS_ALT: null
+WOE_ID: 2347300
+WOE_LABEL: KahramanmaraÅŸ, TR, Turkey
+WOE_NAME: K. Maras
+LATITUDE: 37.9278
+LONGITUDE: 37.0013
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 310858
+GN_NAME: Kahramanmaras
+GNS_ID: -755450
+GNS_NAME: Kahramanmaras Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU46
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q482834
+NAME_AR: قهرمان مرعش
+NAME_BN: কাহ্রামমানমারাস প্রদেশ
+NAME_DE: Kahramanmaraş
+NAME_EN: Kahramanmaraş Province
+NAME_ES: Provincia de Kahramanmaraş
+NAME_FR: Kahramanmaraş
+NAME_EL: Επαρχία Καχραμανμαράς
+NAME_HI: कहारामनमारास प्रांत
+NAME_HU: Kahramanmaraş
+NAME_ID: Provinsi Kahramanmaraş
+NAME_IT: provincia di Kahramanmaraş
+NAME_JA: カフラマンマラシュ県
+NAME_KO: 카라만마라슈 주
+NAME_NL: Kahramanmaraş
+NAME_PL: Kahramanmaraş
+NAME_PT: Kahramanmaraş
+NAME_RU: Кахраманмараш
+NAME_SV: Kahramanmaraş
+NAME_TR: Kahramanmaraş
+NAME_VI: Kahramanmaraş
+NAME_ZH: 卡赫拉曼马拉什省
+NE_ID: 1159312397

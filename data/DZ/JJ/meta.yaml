@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2165
+DISS_ME: 2165
+ISO_3166_2: DZ-18
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Jijel
+NAME_ALT: Djidjel| Djidjelli
+NAME_LOCAL: ولاية جيجل
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.JJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: JJ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG24
+FIPS_ALT: null
+WOE_ID: 2344596
+WOE_LABEL: Jijel, DZ, Algeria
+WOE_NAME: Jijel
+LATITUDE: 36.7106
+LONGITUDE: 5.95292
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2492910
+GN_NAME: Wilaya de Jijel
+GNS_ID: -472989
+GNS_NAME: Jijel
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG24
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q235718
+NAME_AR: ولاية جيجل
+NAME_BN: জিয়েল প্রদেশ
+NAME_DE: Jijel
+NAME_EN: Jijel Province
+NAME_ES: Provincia de Jijel
+NAME_FR: wilaya de Jijel
+NAME_EL: Τζίτζελ
+NAME_HI: जिजेल प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Jijel
+NAME_IT: provincia di Jijel
+NAME_JA: ジジェル県
+NAME_KO: 지젤 주
+NAME_NL: Jijel
+NAME_PL: Prowincja Dżidżal
+NAME_PT: Jijel
+NAME_RU: Джиджель
+NAME_SV: Jijel
+NAME_TR: Cicel Vilayeti
+NAME_VI: Jijel
+NAME_ZH: 吉杰勒省
+NE_ID: 1159312019

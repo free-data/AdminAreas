@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3165
+DISS_ME: 3165
+ISO_3166_2: HU-TO
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tolna_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Tolna
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern Transdanubia
+REGION_COD: null
+PROVNUM_NE: 20015
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU21
+FIPS_ALT: null
+WOE_ID: 12577927
+WOE_LABEL: Tolna, HU, Hungary
+WOE_NAME: Tolna
+LATITUDE: 46.5078
+LONGITUDE: 18.5198
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 3043845
+GN_NAME: Tolna megye
+GNS_ID: -868755
+GNS_NAME: Tolna Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.21
+REGION_SUB: Tolna
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q191625
+NAME_AR: مقاطعة تولنا
+NAME_BN: টোলনা কাউন্টি
+NAME_DE: Komitat Tolna
+NAME_EN: Tolna County
+NAME_ES: Tolna
+NAME_FR: Tolna
+NAME_EL: Κομητεία Τόλνα
+NAME_HI: टोलना काउंटी
+NAME_HU: Tolna megye
+NAME_ID: Tolna
+NAME_IT: provincia di Tolna
+NAME_JA: トルナ県
+NAME_KO: 톨너 주
+NAME_NL: Tolna
+NAME_PL: Komitat Tolna
+NAME_PT: Tolna
+NAME_RU: Тольна
+NAME_SV: Tolna
+NAME_TR: Tolna ili
+NAME_VI: Hạt Tolna
+NAME_ZH: 托爾瑙州
+NE_ID: 1159314645

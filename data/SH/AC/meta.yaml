@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SHN-4863
+DISS_ME: 4863
+ISO_3166_2: SH-AC
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ascension_Island
+ISO_A2: SH
+ADM0_SR: 3
+NAME: Ascension
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SH.AC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20069822
+WOE_LABEL: Ascension, SH, Saint Helena
+WOE_NAME: Ascension
+LATITUDE: -7.91916
+LONGITUDE: -14.3701
+SOV_A3: GB1
+ADM0_A3: SHN
+ADM0_LABEL: 3
+ADMIN: Saint Helena
+GEONUNIT: Saint Helena
+GU_A3: SHN
+GN_ID: 2411430
+GN_NAME: Ascension
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SH.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q46197
+NAME_AR: جزيرة أسينشين
+NAME_BN: আসেনশন দ্বীপ
+NAME_DE: Ascension
+NAME_EN: Ascension Island
+NAME_ES: Isla Ascensión
+NAME_FR: île de l'Ascension
+NAME_EL: Νήσος Αναλήψεως
+NAME_HI: असेन्शियन द्वीप
+NAME_HU: Ascension-sziget
+NAME_ID: Ascension
+NAME_IT: Isola di Ascensione
+NAME_JA: アセンション島
+NAME_KO: 어센션 섬
+NAME_NL: Ascension
+NAME_PL: Wyspa Wniebowstąpienia
+NAME_PT: Ilha de Ascensão
+NAME_RU: Остров Вознесения
+NAME_SV: Ascension
+NAME_TR: Ascension Adası
+NAME_VI: Đảo Ascension
+NAME_ZH: 阿森松岛
+NE_ID: 1159315959

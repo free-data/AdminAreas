@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-5518
+DISS_ME: 5518
+ISO_3166_2: TR-77
+WIKIPEDIA: http://en.wikipedia.org/wiki/Yalova_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Yalova
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.YL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: IB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU92
+FIPS_ALT: null
+WOE_ID: 20070182
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 40.6154
+LONGITUDE: 29.2036
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 862469
+GN_NAME: Yalova
+GNS_ID: 9034898
+GNS_NAME: Yalova Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.92
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU92
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q483083
+NAME_AR: يالوفا
+NAME_BN: ইয়ালোভা প্রদেশ
+NAME_DE: Yalova
+NAME_EN: Yalova Province
+NAME_ES: Provincia de Yalova
+NAME_FR: Yalova
+NAME_EL: Επαρχία Γιάλοβας
+NAME_HI: यलोवा प्रांत
+NAME_HU: Yalova
+NAME_ID: Provinsi Yalova
+NAME_IT: provincia di Yalova
+NAME_JA: ヤロヴァ県
+NAME_KO: 얄로바 주
+NAME_NL: Yalova
+NAME_PL: Yalova
+NAME_PT: Yalova
+NAME_RU: Ялова
+NAME_SV: Yalova
+NAME_TR: Yalova
+NAME_VI: Yalova
+NAME_ZH: 亚洛瓦省
+NE_ID: 1159317187

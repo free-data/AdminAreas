@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: ARM-1672
+DISS_ME: 1672
+ISO_3166_2: AM-GR
+WIKIPEDIA: null
+ISO_A2: AM
+ADM0_SR: 1
+NAME: Gegharkunik
+NAME_ALT: Gelark'unik'
+NAME_LOCAL: Գեղարքունիք|Гегаркуник
+TYPE: Marz
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AM.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: AM04
+FIPS_ALT: null
+WOE_ID: 20070204
+WOE_LABEL: Geghark'unik', AM, Armenia
+WOE_NAME: Gegharkunik
+LATITUDE: 40.278
+LONGITUDE: 45.3848
+SOV_A3: ARM
+ADM0_A3: ARM
+ADM0_LABEL: 2
+ADMIN: Armenia
+GEONUNIT: Armenia
+GU_A3: ARM
+GN_ID: 828261
+GN_NAME: Geghark'unik'i Marz
+GNS_ID: 330414
+GNS_NAME: Geghark'unik'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hye
+GNS_ADM1: AM04
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q199905
+NAME_AR: محافظة غغاركونيك
+NAME_BN: গেঘারকুনিক প্রদেশ
+NAME_DE: Gegharkunik
+NAME_EN: Gegharkunik Province
+NAME_ES: Geghark'unik'
+NAME_FR: Gegharkunik
+NAME_EL: Γκεγκαρκουνίκ
+NAME_HI: गेघार्कुनिक प्रांत
+NAME_HU: Gegarkounik tartomány
+NAME_ID: Provinsi Gegharkunik
+NAME_IT: Gegharkunik
+NAME_JA: ゲガルクニク地方
+NAME_KO: 게가르쿠니크 주
+NAME_NL: Gegharkoenik
+NAME_PL: Prowincja Gegharkunik
+NAME_PT: Gegharkunik
+NAME_RU: Гехаркуникская область
+NAME_SV: Gegharkunik
+NAME_TR: Geğarkunik
+NAME_VI: Gegharkunik
+NAME_ZH: 格加爾庫尼克省
+NE_ID: 1159312163

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-802
+DISS_ME: 802
+ISO_3166_2: CF-SE
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Sangha-Mbaéré
+NAME_ALT: Sangha|Sangha-Économique|Sangha M'baéré
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Economic Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 13
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT16
+FIPS_ALT: null
+WOE_ID: 2345103
+WOE_LABEL: Sangha-MbaÃ©rÃ©, CF, Central African Republic
+WOE_NAME: Sangha-Mbaéré
+LATITUDE: 3.21418
+LONGITUDE: 16.3383
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 2383204
+GN_NAME: Prefecture de la Sangha-Mbaere
+GNS_ID: -1350252
+GNS_NAME: Sangha-Mbaere, Prefecture de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT16
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q856237
+NAME_AR: محافظة سانغا مبايري الاقتصادية
+NAME_BN: সাঙ্ঘা-ম্বাইরি প্রশাসনিক অঞ্চল
+NAME_DE: Sangha-Mbaéré
+NAME_EN: Sangha-Mbaéré Economic Prefecture
+NAME_ES: Sangha-Mbaéré
+NAME_FR: Sangha-Mbaéré
+NAME_EL: Σάνγκα-Μπαέρε
+NAME_HI: संघा-एम्बेरे इकॉनोमिक प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Ekonomi Sangha-Mbaéré
+NAME_IT: prefettura di Sangha-Mbaéré
+NAME_JA: サンガ・ムバエレ州
+NAME_KO: 상가음바에레 주
+NAME_NL: Sangha-Mbaéré
+NAME_PL: Prefektura Ekonomiczna Sangha-Mbaéré
+NAME_PT: Sangha-Mbaéré
+NAME_RU: Санга-Мбаэре
+NAME_SV: Préfecture de la Sangha-Mbaéré
+NAME_TR: Sangha-Mbaéré
+NAME_VI: Tỉnh Kinh tế Sangha-Mbaéré
+NAME_ZH: 桑加-姆巴埃雷省
+NE_ID: 1159308943

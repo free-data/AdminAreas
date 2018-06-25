@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5344
+DISS_ME: 5344
+ISO_3166_2: FR-93
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Seine-Saint-Denis
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Île-de-France
+REGION_COD: FR-J
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 17
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA8
+FIPS_ALT: null
+WOE_ID: 12597156
+WOE_LABEL: null
+WOE_NAME: Seine-Saint-Denis
+LATITUDE: 48.9289
+LONGITUDE: 2.51916
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2975246
+GN_NAME: Departement de Seine-Saint-Denis
+GNS_ID: -1470225
+GNS_NAME: Seine-Saint-Denis, Departement de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.93
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA8
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12761
+NAME_AR: سين سان دوني
+NAME_BN: সেইন-সেন্ট-ডেনিস
+NAME_DE: Département Seine-Saint-Denis
+NAME_EN: Seine-Saint-Denis
+NAME_ES: Sena-Saint Denis
+NAME_FR: Seine-Saint-Denis
+NAME_EL: Σεν-Σαιν-Ντενί
+NAME_HI: सीन-सेंट-डेनिस
+NAME_HU: Seine-Saint-Denis
+NAME_ID: Seine-Saint-Denis
+NAME_IT: Senna-Saint-Denis
+NAME_JA: セーヌ＝サン＝ドニ県
+NAME_KO: 센생드니 주
+NAME_NL: Seine-Saint-Denis
+NAME_PL: Seine-Saint-Denis
+NAME_PT: Seine-Saint-Denis
+NAME_RU: Сен-Сен-Дени
+NAME_SV: Seine-Saint-Denis
+NAME_TR: Seine-Saint-Denis
+NAME_VI: Seine-Saint-Denis
+NAME_ZH: 塞纳-圣但尼省
+NE_ID: 1159316791

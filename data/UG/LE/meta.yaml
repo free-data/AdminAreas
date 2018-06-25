@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5617
+DISS_ME: 5617
+ISO_3166_2: UG-124
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Lwengo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-STB
+PROVNUM_NE: 20060
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGG5
+FIPS_ALT: null
+WOE_ID: -20070451
+WOE_LABEL: Masaka, UG, Uganda
+WOE_NAME: Masaka
+LATITUDE: -0.421045
+LONGITUDE: 31.433
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 8030580
+GN_NAME: Lwengo District
+GNS_ID: 11074815
+GNS_NAME: Lwengo District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.G5
+REGION_SUB: null
+SUB_CODE: UG12
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1114954
+NAME_AR: مقاطعة لوينغو
+NAME_BN: লেঙ্গো জেলা
+NAME_DE: Lwengo-Distrikt
+NAME_EN: Lwengo District
+NAME_ES: Distrito de Lwengo
+NAME_FR: Lwengo
+NAME_EL: Λουέγκο
+NAME_HI: ल्वेन्गो जिला
+NAME_HU: null
+NAME_ID: Distrik Lwengo
+NAME_IT: Lwengo
+NAME_JA: ルウェンゴ県
+NAME_KO: 르웽고 구
+NAME_NL: Lwengo
+NAME_PL: Dystrykt Lwengo
+NAME_PT: Lwengo
+NAME_RU: Лвенго
+NAME_SV: Lwengodistriktet
+NAME_TR: Lwengo District
+NAME_VI: Quận Lwengo
+NAME_ZH: 盧恩戈區
+NE_ID: 1159317373

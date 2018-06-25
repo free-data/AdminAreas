@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-583
+DISS_ME: 583
+ISO_3166_2: PE-UCA
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Ucayali
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.UC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: UC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE25
+FIPS_ALT: null
+WOE_ID: 2346492
+WOE_LABEL: Ucayali, PE, Peru
+WOE_NAME: Ucayali
+LATITUDE: -9.99816
+LONGITUDE: -73.2493
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3691099
+GN_NAME: Region de Ucayali
+GNS_ID: -366833
+GNS_NAME: Ucayali, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE25
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q207424
+NAME_AR: إقليم أوكايالي
+NAME_BN: ওকায়ালি অঞ্চল
+NAME_DE: Ucayali
+NAME_EN: Ucayali Region
+NAME_ES: Departamento de Ucayali
+NAME_FR: Région d'Ucayali
+NAME_EL: Ουκαγιάλι
+NAME_HI: उकायली क्षेत्र
+NAME_HU: Ucayali megye
+NAME_ID: Region Ucayali
+NAME_IT: regione di Ucayali
+NAME_JA: ウカヤリ県
+NAME_KO: 우카얄리 주
+NAME_NL: Ucayali
+NAME_PL: Region Ukajali
+NAME_PT: Ucayali
+NAME_RU: Укаяли
+NAME_SV: Ucayali
+NAME_TR: Ucayali Bölgesi
+NAME_VI: Ucayali
+NAME_ZH: 乌卡亚利大区
+NE_ID: 1159307957

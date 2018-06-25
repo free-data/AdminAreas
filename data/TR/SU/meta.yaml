@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-3017
+DISS_ME: 3017
+ISO_3166_2: TR-63
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Sanliurfa
+NAME_ALT: Şanlıurfa|Urfa
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.SU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20031
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SU
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU63
+FIPS_ALT: null
+WOE_ID: 2347314
+WOE_LABEL: ÅžanlÄ±urfa, TR, Turkey
+WOE_NAME: Sanliurfa
+LATITUDE: 37.3189
+LONGITUDE: 39.0508
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 298332
+GN_NAME: Sanliurfa
+GNS_ID: -774563
+GNS_NAME: Sanliurfa Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.63
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: heb
+GNS_ADM1: TU63
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q388469
+NAME_AR: شانلي أورفة
+NAME_BN: স্যানলুরফা প্রদেশ
+NAME_DE: Şanlıurfa
+NAME_EN: Şanlıurfa Province
+NAME_ES: Provincia de Sanliurfa
+NAME_FR: Şanlıurfa
+NAME_EL: Επαρχία Σανλιούρφα
+NAME_HI: सैन्ल्युर्फा
+NAME_HU: Şanlıurfa
+NAME_ID: Provinsi Şanlıurfa
+NAME_IT: provincia di Şanlıurfa
+NAME_JA: シャンルウルファ県
+NAME_KO: 샨리우르파 주
+NAME_NL: Şanlıurfa
+NAME_PL: Şanlıurfa
+NAME_PT: Şanlıurfa
+NAME_RU: Шанлыурфа
+NAME_SV: Şanlıurfa
+NAME_TR: Şanlıurfa
+NAME_VI: Şanlıurfa
+NAME_ZH: 尚勒乌尔法省
+NE_ID: 1159314359

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2969
+DISS_ME: 2969
+ISO_3166_2: LY-MQ
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Murzuq
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.MU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY73
+FIPS_ALT: null
+WOE_ID: 2346125
+WOE_LABEL: Murzuq, LY, Libya
+WOE_NAME: Murzuq
+LATITUDE: 24.9977
+LONGITUDE: 15.2592
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 2214602
+GN_NAME: Murzuq
+GNS_ID: -3171206
+GNS_NAME: Murzuq, Sha`biyat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.73
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY73
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q48239
+NAME_AR: شعبية مرزق
+NAME_BN: মারজুক জেলা
+NAME_DE: Munizip Murzuq
+NAME_EN: Murzuq District
+NAME_ES: Murzuk
+NAME_FR: Mourzouq
+NAME_EL: Μαρζούκ
+NAME_HI: मुरज़ूक़ डिस्ट्रिक्ट
+NAME_HU: Murzuk tartomány
+NAME_ID: Distrik Murzuq
+NAME_IT: distretto di Murzuch
+NAME_JA: ムルズク県
+NAME_KO: 무르주크 주
+NAME_NL: Murzuq
+NAME_PL: Marzuk
+NAME_PT: Murzuq
+NAME_RU: Марзук
+NAME_SV: Murzuq
+NAME_TR: Murzuq District
+NAME_VI: Quận Murzuq
+NAME_ZH: 邁爾祖格省
+NE_ID: 1159314121

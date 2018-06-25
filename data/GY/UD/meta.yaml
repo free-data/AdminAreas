@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GUY-674
+DISS_ME: 674
+ISO_3166_2: GY-UD
+WIKIPEDIA: null
+ISO_A2: GY
+ADM0_SR: 1
+NAME: Upper Demerara-Berbice
+NAME_ALT: Upper Demerara-Berbice
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GY.UD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: UD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 22
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: GY18
+FIPS_ALT: GY18
+WOE_ID: 2345612
+WOE_LABEL: Upper Takutu-Upper Essequibo, GY, Guyana
+WOE_NAME: Upper Demerara-Berbice
+LATITUDE: 2.6693
+LONGITUDE: -58.9648
+SOV_A3: GUY
+ADM0_A3: GUY
+ADM0_LABEL: 2
+ADMIN: Guyana
+GEONUNIT: Guyana
+GU_A3: GUY
+GN_ID: 3375463
+GN_NAME: Upper Takutu-Upper Essequibo Region
+GNS_ID: -923455
+GNS_NAME: Upper Takutu-Upper Essequibo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GY.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: GY19
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1309042
+NAME_AR: أبر ديميرارا-بيربيس
+NAME_BN: আপার ডেমারারা-বারবিচ
+NAME_DE: Upper Demerara-Berbice
+NAME_EN: Upper Demerara-Berbice
+NAME_ES: Alto Demerara-Berbice
+NAME_FR: Haut-Demerara-Berbice
+NAME_EL: Άπερ Ντεμεράρα-Μπερμπίκε
+NAME_HI: ऊपरी डेमरारा-बर्बिस
+NAME_HU: null
+NAME_ID: Demerara Hulu-Berbice
+NAME_IT: Alto Demerara-Berbice
+NAME_JA: アッパー・デメララ＝ベルビセ州
+NAME_KO: 어퍼데메라라버비스 주
+NAME_NL: Upper Demerara-Berbice
+NAME_PL: Upper Demerara-Berbice
+NAME_PT: Alto Demerara-Berbice
+NAME_RU: Аппер-Демерара-Бербис
+NAME_SV: Upper Demerara-Berbice
+NAME_TR: Upper Demerara- Berbice
+NAME_VI: Thượng Demerara-Berbice
+NAME_ZH: 上德梅拉拉-伯比斯區
+NE_ID: 1159308901

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-299
+DISS_ME: 299
+ISO_3166_2: RO-MS
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Mures
+NAME_ALT: Mureș
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.MS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: MS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO27
+FIPS_ALT: null
+WOE_ID: 2346640
+WOE_LABEL: Mures, RO, Romania
+WOE_NAME: Mures
+LATITUDE: 46.5856
+LONGITUDE: 24.6284
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 672628
+GN_NAME: Judetul Mures
+GNS_ID: -1164850
+GNS_NAME: Mures, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.27
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO27
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q190711
+NAME_AR: مقاطعة موريس
+NAME_BN: মুর কাউন্টি
+NAME_DE: Kreis Mureș
+NAME_EN: Mureș County
+NAME_ES: Mureș
+NAME_FR: Județ de Mureș
+NAME_EL: Μουρές
+NAME_HI: म्यूरेस काउंटी
+NAME_HU: Maros megye
+NAME_ID: Provinsi Mureș
+NAME_IT: distretto di Mureș
+NAME_JA: ムレシュ県
+NAME_KO: 무레슈 주
+NAME_NL: District Mureș
+NAME_PL: Okręg Marusza
+NAME_PT: Mureș
+NAME_RU: Муреш
+NAME_SV: Mureș
+NAME_TR: Mureș ili
+NAME_VI: Hạt Mures
+NAME_ZH: 穆列什縣
+NE_ID: 1159308809

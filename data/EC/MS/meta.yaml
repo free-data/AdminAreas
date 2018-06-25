@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1285
+DISS_ME: 1285
+ISO_3166_2: EC-S
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Morona Santiago
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.MS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC15
+FIPS_ALT: null
+WOE_ID: 2345216
+WOE_LABEL: Morona-Santiago, EC, Ecuador
+WOE_NAME: Morona Santiago
+LATITUDE: -2.4505
+LONGITUDE: -77.8071
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3654005
+GN_NAME: Provincia de Morona Santiago
+GNS_ID: -931020
+GNS_NAME: Morona Santiago, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC15
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q549522
+NAME_AR: مقاطعة مورونا سانتياغو
+NAME_BN: মোরোনা-সান্টিয়াগো প্রদেশ
+NAME_DE: Provinz Morona Santiago
+NAME_EN: Morona-Santiago Province
+NAME_ES: Provincia de Morona Santiago
+NAME_FR: Morona-Santiago
+NAME_EL: Μορόνα-Σαντιάγκο
+NAME_HI: मोरोना-सैंटियागो प्रांत
+NAME_HU: Morona Santiago tartomány
+NAME_ID: Provinsi Morona-Santiago
+NAME_IT: provincia di Morona-Santiago
+NAME_JA: モロナ・サンティアゴ県
+NAME_KO: 모로나산티아고 주
+NAME_NL: Morona-Santiago
+NAME_PL: Prowincja Morona-Santiago
+NAME_PT: Morona-Santiago
+NAME_RU: Морона-Сантьяго
+NAME_SV: Morona Santiago
+NAME_TR: Morona-Santiago
+NAME_VI: Tỉnh Morona-Santiago
+NAME_ZH: 莫罗纳-圣地亚哥省
+NE_ID: 1159309993

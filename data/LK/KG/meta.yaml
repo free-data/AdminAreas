@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2461
+DISS_ME: 2461
+ISO_3166_2: LK-61
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Kuruṇægala
+NAME_ALT: Kurunegala
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.KG
+NOTE: null
+HASC_MAYBE: LK.AD|LKA-NWS
+REGION: Vayamba paḷāta
+REGION_COD: LK-6
+PROVNUM_NE: 20021
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE12
+FIPS_ALT: null
+WOE_ID: 23706501
+WOE_LABEL: null
+WOE_NAME: Kurunegala
+LATITUDE: 7.71298
+LONGITUDE: 80.2369
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1237978
+GN_NAME: Kurunegala District
+GNS_ID: -2225897
+GNS_NAME: Kurunagala
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1237978
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE32
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q745073
+NAME_AR: مديرية كورونيغالا
+NAME_BN: কুরোনগেলা জেলা
+NAME_DE: Kurunegala
+NAME_EN: Kurunegala District
+NAME_ES: Distrito de Kurunegala
+NAME_FR: Kurunegala
+NAME_EL: Κουρουνεγκάλα
+NAME_HI: कुरुनेगल' जिला
+NAME_HU: null
+NAME_ID: Distrik Kurunegala
+NAME_IT: Distretto di Kurunegala
+NAME_JA: クルネーガラ県
+NAME_KO: 쿠루네갈라 구
+NAME_NL: Kurunegala
+NAME_PL: Dystrykt Kurunegala
+NAME_PT: Distrito de Kurunegala
+NAME_RU: Курунегала
+NAME_SV: Kurunegala
+NAME_TR: Kurunegala District
+NAME_VI: Quận Kurunegala
+NAME_ZH: 庫魯內格勒區
+NE_ID: 1159311419

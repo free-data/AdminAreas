@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BRN-1182
+DISS_ME: 1182
+ISO_3166_2: BN-BM
+WIKIPEDIA: null
+ISO_A2: BN
+ADM0_SR: 1
+NAME: Brunei and Muara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Daerah-Daerah
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BN.BM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 12
+FIPS: BX02
+FIPS_ALT: null
+WOE_ID: 20069846
+WOE_LABEL: Brunei-Muara, BN, Brunei
+WOE_NAME: Brunei and Muara
+LATITUDE: 4.90214
+LONGITUDE: 114.92
+SOV_A3: BRN
+ADM0_A3: BRN
+ADM0_LABEL: 2
+ADMIN: Brunei
+GEONUNIT: Brunei
+GU_A3: BRN
+GN_ID: 1820818
+GN_NAME: Brunei and Muara District
+GNS_ID: -1337264
+GNS_NAME: Brunei and Muara District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BN.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: BX02
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q153009
+NAME_AR: مقاطعة بروناي - موارا
+NAME_BN: ব্রুনেই মোয়ারা জেলা
+NAME_DE: Brunei-Muara
+NAME_EN: Brunei-Muara District
+NAME_ES: Brunei y Muara
+NAME_FR: Brunei-Muara
+NAME_EL: Μπρουνέι-Μουάρα
+NAME_HI: ब्रुनेई-मुरा जिला
+NAME_HU: null
+NAME_ID: Distrik Brunei-Muara
+NAME_IT: distretto di Brunei-Muara
+NAME_JA: ブルネイ・ムアラ地区
+NAME_KO: 브루네이무아라 구
+NAME_NL: Brunei en Muara
+NAME_PL: Dystrykt Brunei i Muara
+NAME_PT: Brunei e Muara
+NAME_RU: Бруней-Муара
+NAME_SV: Brunei and Muara District
+NAME_TR: Brunedi-Muara District
+NAME_VI: Quận Brunei-Muara
+NAME_ZH: 汶莱摩拉县
+NE_ID: 1159310049

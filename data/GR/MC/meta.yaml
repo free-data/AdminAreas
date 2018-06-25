@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GRC-2991
+DISS_ME: 2991
+ISO_3166_2: GR-B
+WIKIPEDIA: null
+ISO_A2: GR
+ADM0_SR: 1
+NAME: Kentriki Makedonia
+NAME_ALT: Macedonia Central
+NAME_LOCAL: Κεντρική Μακεδονία
+TYPE: Diamerismata
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GR.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20015
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 18
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: GR05
+FIPS_ALT: null
+WOE_ID: 12577884
+WOE_LABEL: Kentriki Makedonia, GR, Greece
+WOE_NAME: Kentriki Makedonia
+LATITUDE: 40.8836
+LONGITUDE: 22.8519
+SOV_A3: GRC
+ADM0_A3: GRC
+ADM0_LABEL: 2
+ADMIN: Greece
+GEONUNIT: Greece
+GU_A3: GRC
+GN_ID: 6697801
+GN_NAME: Central Macedonia
+GNS_ID: 11316075
+GNS_NAME: Kentrikis Makedonias, Perifereia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GR.ESYE12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: GR59
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q17152
+NAME_AR: مقدونيا الوسطى
+NAME_BN: সেন্ট্রাল মেসিডোনিয়া অঞ্চল
+NAME_DE: Zentralmakedonien
+NAME_EN: Central Macedonia
+NAME_ES: Macedonia Central
+NAME_FR: Macédoine-Centrale
+NAME_EL: Περιφέρεια Κεντρικής Μακεδονίας
+NAME_HI: केंद्रीय मैसेडोनिया क्षेत्र
+NAME_HU: Közép-Makedónia
+NAME_ID: Makedonia Tengah
+NAME_IT: Macedonia Centrale
+NAME_JA: 中央マケドニア
+NAME_KO: 중앙마케도니아 주
+NAME_NL: Centraal-Macedonië
+NAME_PL: Region Macedonia Środkowa
+NAME_PT: Macedônia Central
+NAME_RU: Центральная Македония
+NAME_SV: Mellersta Makedonien
+NAME_TR: Orta Makedonya
+NAME_VI: Trung Macedonia
+NAME_ZH: 中马其顿
+NE_ID: 1159314337

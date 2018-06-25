@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: MMR-3296
+DISS_ME: 3296
+ISO_3166_2: MM-11
+WIKIPEDIA: null
+ISO_A2: MM
+ADM0_SR: 1
+NAME: Kachin
+NAME_ALT: Jingphaw Mungdaw
+NAME_LOCAL: null
+TYPE: Pyine
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: MM.KC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20018
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: BM04
+FIPS_ALT: null
+WOE_ID: 2344813
+WOE_LABEL: Kachin State, MM, Myanmar
+WOE_NAME: Kachin
+LATITUDE: 25.7926
+LONGITUDE: 97.2978
+SOV_A3: MMR
+ADM0_A3: MMR
+ADM0_LABEL: 2
+ADMIN: Myanmar
+GEONUNIT: Myanmar
+GU_A3: MMR
+GN_ID: 1321702
+GN_NAME: Kachin State
+GNS_ID: -417566
+GNS_NAME: Kachin State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BM04
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q140646
+NAME_AR: ولاية كاشين
+NAME_BN: কাছিন রাজ্য
+NAME_DE: Kachin-Staat
+NAME_EN: Kachin State
+NAME_ES: Estado Kachin
+NAME_FR: État de Kachin
+NAME_EL: Κατσίν
+NAME_HI: काचीन राज्य
+NAME_HU: null
+NAME_ID: Negara Bagian Kachin
+NAME_IT: Stato Kachin
+NAME_JA: カチン州
+NAME_KO: 카친 주
+NAME_NL: Kachin
+NAME_PL: Kaczin
+NAME_PT: Kachin
+NAME_RU: Качин
+NAME_SV: Kachin
+NAME_TR: Kachin Eyaleti
+NAME_VI: Kachin
+NAME_ZH: 克钦邦
+NE_ID: 1159315217

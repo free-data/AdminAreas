@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1438
+DISS_ME: 1438
+ISO_3166_2: DM-08
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint Mark
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO08
+FIPS_ALT: null
+WOE_ID: 2345167
+WOE_LABEL: Saint Mark, DM, Dominica
+WOE_NAME: Saint Mark
+LATITUDE: 15.2217
+LONGITUDE: -61.3612
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575621
+GN_NAME: Saint Mark
+GNS_ID: -1352358
+GNS_NAME: Saint Mark
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO08
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1431115
+NAME_AR: أبرشية القديس مارك
+NAME_BN: সেন্ট মার্ক পারিশ
+NAME_DE: Saint Mark
+NAME_EN: Saint Mark Parish
+NAME_ES: Parroquia de Saint Mark
+NAME_FR: Saint-Mark
+NAME_EL: Άγιος Μάρκος
+NAME_HI: सेंट मार्क पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Mark
+NAME_IT: Parrocchia di Saint Mark
+NAME_JA: セント・マーク
+NAME_KO: 세인트마크 교구
+NAME_NL: Saint Mark
+NAME_PL: Parafia św. Marka na Dominice
+NAME_PT: Saint Mark
+NAME_RU: Приход Сент-Марк
+NAME_SV: Saint Mark
+NAME_TR: Saint Mark Parish
+NAME_VI: Giáo xứ Saint Mark
+NAME_ZH: 聖馬克堂區
+NE_ID: 1159311619

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Madagascar
+SOV_A3: MDG
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Madagascar
+ADM0_A3: MDG
+GEOU_DIF: 0
+GEOUNIT: Madagascar
+GU_A3: MDG
+SU_DIF: 0
+SUBUNIT: Madagascar
+SU_A3: MDG
+BRK_DIFF: 0
+NAME: Madagascar
+NAME_LONG: Madagascar
+BRK_A3: MDG
+BRK_NAME: Madagascar
+BRK_GROUP: null
+ABBREV: Mad.
+POSTAL: MG
+FORMAL_EN: Republic of Madagascar
+FORMAL_FR: null
+NAME_CIAWF: Madagascar
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Madagascar
+NAME_ALT: null
+MAPCOLOR7: 6
+MAPCOLOR8: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+POP_EST: 25054161
+POP_RANK: 15
+GDP_MD_EST: 36860
+POP_YEAR: 2017
+LASTCENSUS: 1993
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: MA
+ISO_A2: MG
+ISO_A3: MDG
+ISO_A3_EH: MDG
+ISO_N3: 450
+UN_A3: 450
+WB_A2: MG
+WB_A3: MDG
+WOE_ID: 23424883
+WOE_ID_EH: 23424883
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: MDG
+ADM0_A3_US: MDG
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 7
+NE_ID: 1159321051
+WIKIDATAID: Q1019
+NAME_AR: مدغشقر
+NAME_BN: মাদাগাস্কার
+NAME_DE: Madagaskar
+NAME_EN: Madagascar
+NAME_ES: Madagascar
+NAME_FR: Madagascar
+NAME_EL: Μαδαγασκάρη
+NAME_HI: मेडागास्कर
+NAME_HU: Madagaszkár
+NAME_ID: Madagaskar
+NAME_IT: Madagascar
+NAME_JA: マダガスカル
+NAME_KO: 마다가스카르
+NAME_NL: Madagaskar
+NAME_PL: Madagaskar
+NAME_PT: Madagáscar
+NAME_RU: Мадагаскар
+NAME_SV: Madagaskar
+NAME_TR: Madagaskar
+NAME_VI: Madagascar
+NAME_ZH: 马达加斯加

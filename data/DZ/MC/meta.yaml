@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2201
+DISS_ME: 2201
+ISO_3166_2: DZ-29
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Mascara
+NAME_ALT: Mouaskar
+NAME_LOCAL: ولاية معسكر
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 38
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG26
+FIPS_ALT: null
+WOE_ID: 2344598
+WOE_LABEL: Mascara, DZ, Algeria
+WOE_NAME: Mascara
+LATITUDE: 35.3625
+LONGITUDE: 0.167566
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2490095
+GN_NAME: Wilaya de Mascara
+GNS_ID: -475815
+GNS_NAME: Mascara
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG26
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q236776
+NAME_AR: ولاية معسكر
+NAME_BN: মাস্কারার প্রদেশ
+NAME_DE: Muaskar
+NAME_EN: Mascara Province
+NAME_ES: Provincia de Muaskar
+NAME_FR: wilaya de Mascara
+NAME_EL: Μάσκαρα
+NAME_HI: मस्कारा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Mascara
+NAME_IT: provincia di Mascara
+NAME_JA: マスカラ県
+NAME_KO: 마스카라 주
+NAME_NL: Mascara
+NAME_PL: Prowincja Muaskar
+NAME_PT: Mascara
+NAME_RU: Маскара
+NAME_SV: Muaskar
+NAME_TR: Muaskar Vilayeti
+NAME_VI: Mascara
+NAME_ZH: 穆阿斯凯尔省
+NE_ID: 1159311939

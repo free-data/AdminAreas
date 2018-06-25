@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5185
+DISS_ME: 5185
+ISO_3166_2: MU-GP
+WIKIPEDIA: http://en.wikipedia.org/wiki/Grand_Port_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Grand Port
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.GP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346230
+WOE_LABEL: Grand Port, MU, Mauritius
+WOE_NAME: Grand Port
+LATITUDE: -20.392
+LONGITUDE: 57.6498
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934466
+GN_NAME: Grand Port District
+GNS_ID: -1355070
+GNS_NAME: Grand Port District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.14
+REGION_SUB: Grand Port
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MP14
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q911635
+NAME_AR: مقاطعة غراند بورت
+NAME_BN: গ্র্যান্ড পোর্ট জেলা
+NAME_DE: Grand Port
+NAME_EN: Grand Port District
+NAME_ES: Distrito de Grand Port
+NAME_FR: Grand Port
+NAME_EL: Γκραντ Πορτ
+NAME_HI: ग्रैंड पोर्ट जिला
+NAME_HU: null
+NAME_ID: Distrik Grand Port
+NAME_IT: Grand Port
+NAME_JA: グラン・ポール県
+NAME_KO: 그랑포르 구
+NAME_NL: Grand Port
+NAME_PL: Grand Port
+NAME_PT: Grand Port
+NAME_RU: Гран-Порт
+NAME_SV: Grand Port
+NAME_TR: Grand Port Bölgesi
+NAME_VI: Quận Grand Port
+NAME_ZH: 大港區
+NE_ID: 1159316581

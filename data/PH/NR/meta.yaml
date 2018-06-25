@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2516
+DISS_ME: 2516
+ISO_3166_2: PH-NER
+WIKIPEDIA: http://en.wikipedia.org/wiki/Negros_Oriental
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Negros Oriental
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.NR
+NOTE: null
+HASC_MAYBE: null
+REGION: Central Visayas (Region VII)
+REGION_COD: PH-07
+PROVNUM_NE: 20061
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP46
+FIPS_ALT: null
+WOE_ID: 2346700
+WOE_LABEL: null
+WOE_NAME: Negros Oriental
+LATITUDE: 9.75662
+LONGITUDE: 123.032
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1697806
+GN_NAME: Province of Negros Oriental
+GNS_ID: -2441791
+GNS_NAME: Negros Oriental, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.46
+REGION_SUB: Negros Oriental
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP46
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13863
+NAME_AR: أورينتال نيغروس
+NAME_BN: নেগ্রোস ওরিয়েন্টাল
+NAME_DE: Negros Oriental
+NAME_EN: Negros Oriental
+NAME_ES: Negros Oriental
+NAME_FR: Negros oriental
+NAME_EL: Νέγκρος Οριένταλ
+NAME_HI: नेग्रोस ओरिएन्ताल
+NAME_HU: null
+NAME_ID: Negros Oriental
+NAME_IT: Provincia di Negros Oriental
+NAME_JA: 東ネグロス州
+NAME_KO: 동네그로스 주
+NAME_NL: Negros Oriental
+NAME_PL: Negros Oriental
+NAME_PT: Negros Oriental
+NAME_RU: Восточный Негрос
+NAME_SV: Negros Oriental
+NAME_TR: Negros Oriental
+NAME_VI: Negros Oriental
+NAME_ZH: 東內格羅省
+NE_ID: 1159313425

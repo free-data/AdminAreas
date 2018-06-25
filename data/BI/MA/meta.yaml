@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2641
+DISS_ME: 2641
+ISO_3166_2: BI-MA
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Makamba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY17
+FIPS_ALT: null
+WOE_ID: 2344910
+WOE_LABEL: Makamba, BI, Burundi
+WOE_NAME: Makamba
+LATITUDE: -4.21622
+LONGITUDE: 29.771
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 422233
+GN_NAME: Makamba Province
+GNS_ID: 6030886
+GNS_NAME: Makamba, Province de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BY17
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q823740
+NAME_AR: محافظة ماكامبا
+NAME_BN: মাকাম্বা প্রদেশ
+NAME_DE: Makamba
+NAME_EN: Makamba Province
+NAME_ES: Provincia de Makamba
+NAME_FR: province de Makamba
+NAME_EL: Μακάμπα
+NAME_HI: मकम्बा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Makamba
+NAME_IT: provincia di Makamba
+NAME_JA: マカンバ県
+NAME_KO: 마캄바 주
+NAME_NL: Makamba
+NAME_PL: Prowincja Makamba
+NAME_PT: Makamba
+NAME_RU: Макамба
+NAME_SV: Makamba
+NAME_TR: Makamba Province
+NAME_VI: Tỉnh Makamba
+NAME_ZH: 馬坎巴省
+NE_ID: 1159313325

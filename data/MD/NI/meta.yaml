@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1642
+DISS_ME: 1642
+ISO_3166_2: MD-NI
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Nisporeni
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.NI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD80
+FIPS_ALT: null
+WOE_ID: 55948194
+WOE_LABEL: Nisporeni, MD, Moldova
+WOE_NAME: Nisporeni
+LATITUDE: 47.0476
+LONGITUDE: 28.2369
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617754
+GN_NAME: Raionul Nisporeni
+GNS_ID: -2276928
+GNS_NAME: Nisporeni, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.80
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD80
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q878266
+NAME_AR: مقاطعة نيسبوريني
+NAME_BN: নিস্পরেনি জেলা
+NAME_DE: Rajon Nisporeni
+NAME_EN: Nisporeni District
+NAME_ES: Distrito de Nisporeni
+NAME_FR: Raion de Nisporeni
+NAME_EL: Νισπορένι
+NAME_HI: निस्पोरनी जिला
+NAME_HU: null
+NAME_ID: Raionul Nisporeni
+NAME_IT: distretto di Nisporeni
+NAME_JA: ニスポレニ県
+NAME_KO: 니스포레니 구
+NAME_NL: Nisporeni
+NAME_PL: Rejon Nisporeni
+NAME_PT: Nisporeni
+NAME_RU: Ниспоренский район
+NAME_SV: Nisporeni
+NAME_TR: Nisporeni District
+NAME_VI: Quận Nisporeni
+NAME_ZH: 尼斯波雷尼區
+NE_ID: 1159312613

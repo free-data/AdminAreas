@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: MMR-3275
+DISS_ME: 3275
+ISO_3166_2: MM-07
+WIKIPEDIA: null
+ISO_A2: MM
+ADM0_SR: 1
+NAME: Ayeyarwady
+NAME_ALT: Irrawaddy|Ayeyarwaddy|Ayeyawady|Irawadi|Irraouaddi|Irrauaddy
+NAME_LOCAL: null
+TYPE: Yin
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: MM.AY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: AY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: BM03
+FIPS_ALT: null
+WOE_ID: 2344812
+WOE_LABEL: Ayeyarwady, MM, Myanmar
+WOE_NAME: Ayeyarwady
+LATITUDE: 16.7457
+LONGITUDE: 95.1083
+SOV_A3: MMR
+ADM0_A3: MMR
+ADM0_LABEL: 2
+ADMIN: Myanmar
+GEONUNIT: Myanmar
+GU_A3: MMR
+GN_ID: 1321850
+GN_NAME: Ayeyarwady Division
+GNS_ID: -417417
+GNS_NAME: Ayeyarwady Division
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MM.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BM03
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q47047
+NAME_AR: مقاطعة أيياروادي
+NAME_BN: আয়েয়ার্ব্যাদি অঞ্চল
+NAME_DE: Irawadi-Region
+NAME_EN: Ayeyarwady Region
+NAME_ES: Ayeyarwady
+NAME_FR: Région d'Ayeyarwady
+NAME_EL: Επαρχία Αγιεγιαγουάντι
+NAME_HI: इरावदी मण्डल
+NAME_HU: null
+NAME_ID: Region Ayeyarwady
+NAME_IT: regione di Ayeyarwady
+NAME_JA: エーヤワディ管区
+NAME_KO: 에야와디 구
+NAME_NL: Ayeyarwady
+NAME_PL: Irawadi
+NAME_PT: Ayeyarwady
+NAME_RU: Иравади
+NAME_SV: Ayeyarwady
+NAME_TR: Ayeryarwady Bölgesi
+NAME_VI: Vùng Ayeyarwady
+NAME_ZH: 伊洛瓦底省
+NE_ID: 1159315793

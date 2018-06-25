@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SLB-3507
+DISS_ME: 3507
+ISO_3166_2: SB-CH
+WIKIPEDIA: null
+ISO_A2: SB
+ADM0_SR: 3
+NAME: Western
+NAME_ALT: Lauru
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SB.WE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: BP11
+FIPS_ALT: null
+WOE_ID: 2344837
+WOE_LABEL: Western, SB, Solomon Islands
+WOE_NAME: Western
+LATITUDE: -8.72999
+LONGITUDE: 157.551
+SOV_A3: SLB
+ADM0_A3: SLB
+ADM0_LABEL: 5
+ADMIN: Solomon Islands
+GEONUNIT: Solomon Islands
+GU_A3: SLB
+GN_ID: 2101556
+GN_NAME: Western Province
+GNS_ID: -1553599
+GNS_NAME: Western Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SB.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BP11
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q150325
+NAME_AR: المحافظة الغربية
+NAME_BN: ওয়েস্টার্ন প্রদেশ
+NAME_DE: Western
+NAME_EN: Western Province
+NAME_ES: Provincia Occidental
+NAME_FR: Province occidentale
+NAME_EL: Δυτική Επαρχία
+NAME_HI: पश्चिमी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Barat
+NAME_IT: provincia Occidentale
+NAME_JA: 西部州
+NAME_KO: 서부 주
+NAME_NL: Western
+NAME_PL: Prowincja Zachodnia
+NAME_PT: Província Ocidental
+NAME_RU: Западная провинция
+NAME_SV: Västprovinsen
+NAME_TR: Western Province
+NAME_VI: Tỉnh Phía Tây
+NAME_ZH: 西部省
+NE_ID: 1159314977

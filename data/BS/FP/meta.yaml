@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: BHS-5010
+DISS_ME: 5010
+ISO_3166_2: BS-FP
+WIKIPEDIA: http://en.wikipedia.org/wiki/City_of_Freeport
+ISO_A2: BS
+ADM0_SR: 4
+NAME: City of Freeport
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.FP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: FP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF25
+FIPS_ALT: null
+WOE_ID: 2344779
+WOE_LABEL: City of Freeport, BS, The Bahamas
+WOE_NAME: City of Freeport
+LATITUDE: 26.5339
+LONGITUDE: -78.6252
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 3572374
+GN_NAME: City of Freeport District
+GNS_ID: -1543279
+GNS_NAME: City of Freeport District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BF25
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q867573
+NAME_AR: فريبورت
+NAME_BN: ফ্রিপোর্ট
+NAME_DE: Freeport
+NAME_EN: Freeport
+NAME_ES: Freeport
+NAME_FR: Freeport
+NAME_EL: Φρίπορτ
+NAME_HI: फ्री पोर्ट
+NAME_HU: null
+NAME_ID: Freeport
+NAME_IT: Freeport
+NAME_JA: フリーポート
+NAME_KO: 프리포트
+NAME_NL: Freeport
+NAME_PL: Freeport
+NAME_PT: Freeport
+NAME_RU: Фрипорт
+NAME_SV: Freeport
+NAME_TR: Freeport
+NAME_VI: Freeport
+NAME_ZH: 自由港
+NE_ID: 1159316233

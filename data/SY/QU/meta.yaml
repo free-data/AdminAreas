@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-145
+DISS_ME: 145
+ISO_3166_2: SY-QU
+WIKIPEDIA: null
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Quneitra
+NAME_ALT: Al Qunatirah|Al Qunaytirah|Al Quneitera|El Quneitra|El Kenitra|Kunaitra|Kuneitra|Qunaytira
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.QU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: QU
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY03
+FIPS_ALT: null
+WOE_ID: 2347071
+WOE_LABEL: Al Qunaytirah, SY, Syria
+WOE_NAME: Quneitra
+LATITUDE: 33.053
+LONGITUDE: 35.9145
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 173336
+GN_NAME: Muhafazat al Qunaytirah
+GNS_ID: -2538566
+GNS_NAME: Qunaytirah, Muhafazat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY03
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q219690
+NAME_AR: محافظة القنيطرة
+NAME_BN: কুনিত্রা গভর্নোরেট
+NAME_DE: Gouvernement al-Quneitra
+NAME_EN: Quneitra Governorate
+NAME_ES: Gobernación de Quneitra
+NAME_FR: Gouvernorat de Qouneitra
+NAME_EL: Κουνέιτρα
+NAME_HI: क़ुनेइत्राह​ प्रान्त
+NAME_HU: null
+NAME_ID: Kegubernuran Quneitra
+NAME_IT: governatorato di Quneitra
+NAME_JA: クネイトラ県
+NAME_KO: 쿠네이트라 주
+NAME_NL: Quneitra
+NAME_PL: Al-Kunajtira
+NAME_PT: Quneitra
+NAME_RU: Эль-Кунейтра
+NAME_SV: al-Qunaytirah
+NAME_TR: Kuneytire
+NAME_VI: Quneitra
+NAME_ZH: 库奈特拉省
+NE_ID: 1159308449

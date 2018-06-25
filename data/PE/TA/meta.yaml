@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-575
+DISS_ME: 575
+ISO_3166_2: PE-TAC
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Tacna
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.TA
+NOTE: null
+HASC_MAYBE: PE.MQ|PER-TAC
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE23
+FIPS_ALT: PE18
+WOE_ID: 2346490
+WOE_LABEL: Tacna, PE, Peru
+WOE_NAME: Tacna
+LATITUDE: -17.5742
+LONGITUDE: -70.3423
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3928127
+GN_NAME: Region de Tacna
+GNS_ID: -364868
+GNS_NAME: Tacna, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE23
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q207413
+NAME_AR: إقليم تاكنا
+NAME_BN: তাকনা অঞ্চল
+NAME_DE: Tacna
+NAME_EN: Tacna Region
+NAME_ES: Departamento de Tacna
+NAME_FR: Région de Tacna
+NAME_EL: Τάκνα
+NAME_HI: टैक्ना क्षेत्र
+NAME_HU: Tacna megye
+NAME_ID: Region Tacna
+NAME_IT: regione di Tacna
+NAME_JA: タクナ県
+NAME_KO: 타크나 주
+NAME_NL: Tacna
+NAME_PL: Region Tacna
+NAME_PT: Tacna
+NAME_RU: Такна
+NAME_SV: Tacna
+NAME_TR: Tacna Bölge
+NAME_VI: Khu vựcTacna
+NAME_ZH: 塔克纳大区
+NE_ID: 1159309955

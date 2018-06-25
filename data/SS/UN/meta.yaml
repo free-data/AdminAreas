@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDS-869
+DISS_ME: 869
+ISO_3166_2: SS-NU
+WIKIPEDIA: null
+ISO_A2: SS
+ADM0_SR: 1
+NAME: Upper Nile
+NAME_ALT: Upper Nile|Sobat|a`Ālī an Nīl|Nil supérieur
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SS.UN
+NOTE: null
+HASC_MAYBE: null
+REGION: Upper Nile
+REGION_COD: SDN-AAN
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: U.N.
+POSTAL: UN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 5
+FIPS: OD07
+FIPS_ALT: SU01
+WOE_ID: 20069908
+WOE_LABEL: A`ali an Nil, SD, Sudan
+WOE_NAME: Upper Nile
+LATITUDE: 10.3577
+LONGITUDE: 32.5251
+SOV_A3: SDS
+ADM0_A3: SDS
+ADM0_LABEL: 2
+ADMIN: S. Sudan
+GEONUNIT: South Sudan
+GU_A3: SDS
+GN_ID: 381229
+GN_NAME: Upper Nile
+GNS_ID: -1
+GNS_NAME: Upper Nile State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SS.07
+REGION_SUB: null
+SUB_CODE: SU26
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: OD07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487702
+NAME_AR: أعالي النيل
+NAME_BN: আপার নীল
+NAME_DE: Upper Nile
+NAME_EN: Upper Nile
+NAME_ES: Alto Nilo
+NAME_FR: Nil Supérieur
+NAME_EL: Άπερ Νάιλ
+NAME_HI: ऊपरी नील
+NAME_HU: null
+NAME_ID: Nil Hulu
+NAME_IT: Alto Nilo
+NAME_JA: 上ナイル州
+NAME_KO: 상나일 주
+NAME_NL: Upper Nile
+NAME_PL: Nil Górny
+NAME_PT: Alto Nilo
+NAME_RU: Верхний Нил
+NAME_SV: Övre Nilen
+NAME_TR: Yukarı Nil Eyaleti
+NAME_VI: Thượng Nin
+NAME_ZH: 上尼罗省
+NE_ID: 1159308997

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BLR-2344
+DISS_ME: 2344
+ISO_3166_2: BY-HR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Grodno_Region
+ISO_A2: BY
+ADM0_SR: 1
+NAME: Grodno
+NAME_ALT: Гродно|Grodno|Hrodzenskaya Voblasts'
+NAME_LOCAL: Hrodzenskaja voblasc'
+TYPE: Voblasts'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: BY.HR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: BO03
+FIPS_ALT: BO
+WOE_ID: 2344832
+WOE_LABEL: Haradzyenskaya Voblasts', BY, Belarus
+WOE_NAME: Hrodna
+LATITUDE: 53.4855
+LONGITUDE: 25.0839
+SOV_A3: BLR
+ADM0_A3: BLR
+ADM0_LABEL: 2
+ADMIN: Belarus
+GEONUNIT: Belarus
+GU_A3: BLR
+GN_ID: 628035
+GN_NAME: Hrodzyenskaya Voblasts'
+GNS_ID: -1943431
+GNS_NAME: Hrodzyenskaya Voblasts'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BY.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: BO03
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q191061
+NAME_AR: أوبلاست جردونه
+NAME_BN: গ্রোদনো অঞ্চল
+NAME_DE: Woblast Hrodna
+NAME_EN: Grodno Region
+NAME_ES: Provincia de Grodno
+NAME_FR: Voblast de Hrodna
+NAME_EL: Περιφέρεια Γκροντνό
+NAME_HI: ग्रोद्नो क्षेत्र
+NAME_HU: Hrodnai terület
+NAME_ID: Provinsi Hrodna
+NAME_IT: Regione di Hrodna
+NAME_JA: フロドナ州
+NAME_KO: 흐로드나 주
+NAME_NL: Oblast Hrodna
+NAME_PL: Obwód grodzieński
+NAME_PT: Hrodna
+NAME_RU: Гродненская область
+NAME_SV: Hrodnas voblast
+NAME_TR: Hrodna Voblastı
+NAME_VI: Khu vực Grodno
+NAME_ZH: 格羅德諾州
+NE_ID: 1159313001

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5766
+DISS_ME: 5766
+ISO_3166_2: LV-051
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Keguma
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG79
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.6541
+LONGITUDE: 24.729
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628330
+GN_NAME: Keguma Novads
+GNS_ID: 10978997
+GNS_NAME: Keguma Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.79
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG79
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2072209
+NAME_AR: بلدية كغومس
+NAME_BN: কেগুমস পৌরসভা
+NAME_DE: Bezirk Ķegums
+NAME_EN: Ķegums Municipality
+NAME_ES: Municipalidad de Ķegums
+NAME_FR: Ķegums
+NAME_EL: Κοινότητα Κέγκαμς
+NAME_HI: केगुम्स नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Ķegums
+NAME_IT: Ķegums
+NAME_JA: ケグムス
+NAME_KO: 체굼스 시
+NAME_NL: Ķeguma novads
+NAME_PL: Gmina Ķegums
+NAME_PT: Município de Kegums
+NAME_RU: Кегумсский край
+NAME_SV: Ķeguma novads
+NAME_TR: Kegums Belediyesi
+NAME_VI: Đô thị tự trị Kegums
+NAME_ZH: null
+NE_ID: 1159317681

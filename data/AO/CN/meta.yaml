@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: AGO-1878
+DISS_ME: 1878
+ISO_3166_2: AO-CNO
+WIKIPEDIA: null
+ISO_A2: AO
+ADM0_SR: 1
+NAME: Cuanza Norte
+NAME_ALT: Cuanza-Nord|Kwanza Norte
+NAME_LOCAL: null
+TYPE: Província
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AO.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: AO05
+FIPS_ALT: null
+WOE_ID: 2344660
+WOE_LABEL: Cuanza Norte, AO, Angola
+WOE_NAME: Cuanza Norte
+LATITUDE: -9.6988
+LONGITUDE: 14.9458
+SOV_A3: AGO
+ADM0_A3: AGO
+ADM0_LABEL: 2
+ADMIN: Angola
+GEONUNIT: Angola
+GU_A3: AGO
+GN_ID: 2241660
+GN_NAME: Cuanza Norte Province
+GNS_ID: -2863446
+GNS_NAME: Kwanza Norte, Provincia do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AO.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: AO05
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q216834
+NAME_AR: مقاطعة كوانزا نورت
+NAME_BN: কুয়াঞ্জা নর্টে প্রদেশ
+NAME_DE: Provinz Cuanza Norte
+NAME_EN: Cuanza Norte Province
+NAME_ES: Cuanza Norte
+NAME_FR: Kwanza-Nord
+NAME_EL: Κουάνζα Νόρτε
+NAME_HI: कुआंजा नोर्टे प्रांत
+NAME_HU: null
+NAME_ID: Cuanza Norte
+NAME_IT: provincia di Cuanza Nord
+NAME_JA: クアンザ・ノルテ州
+NAME_KO: 쿠안자노르트 주
+NAME_NL: Cuanza Norte
+NAME_PL: Prowincja Kwanza Północna
+NAME_PT: Kwanza-Norte
+NAME_RU: Северная Кванза
+NAME_SV: Cuanza Norte
+NAME_TR: Cuanza Norte Bölgesi
+NAME_VI: Cuanza Norte
+NAME_ZH: 北廣薩省
+NE_ID: 1159311255

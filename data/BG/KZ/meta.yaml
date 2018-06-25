@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2237
+DISS_ME: 2237
+ISO_3166_2: BG-09
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Kardzhali
+NAME_ALT: Kurdjali|Kârdžali|Kirjali
+NAME_LOCAL: Кърджалийска
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.KZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: KZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU44
+FIPS_ALT: BU44
+WOE_ID: 20070053
+WOE_LABEL: Kurdzhali, BG, Bulgaria
+WOE_NAME: Kardzhali
+LATITUDE: 41.5377
+LONGITUDE: 25.5852
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 864553
+GN_NAME: Oblast Kurdzhali
+GNS_ID: 9085953
+GNS_NAME: Kurdzhali, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.44
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BU44
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1104675
+NAME_AR: محافظة كرجالي
+NAME_BN: কার্ডঝালি প্রদেশ
+NAME_DE: Oblast Kardschali
+NAME_EN: Kardzhali Province
+NAME_ES: Kardzhali
+NAME_FR: Kardjali
+NAME_EL: Κάρτζαλι
+NAME_HI: कर्दझली प्रांत
+NAME_HU: Kardzsali megye
+NAME_ID: Provinsi Kardzhali
+NAME_IT: distretto di Kărdžali
+NAME_JA: クルジャリ州
+NAME_KO: 커르잘리 주
+NAME_NL: Kardzjali
+NAME_PL: Obwód Kyrdżali
+NAME_PT: Kardzhali
+NAME_RU: Кырджалийская область
+NAME_SV: Kardzjali
+NAME_TR: Kırcaali ili
+NAME_VI: Kardzhali
+NAME_ZH: 克爾賈利州
+NE_ID: 1159312479

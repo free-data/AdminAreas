@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-179
+DISS_ME: 179
+ISO_3166_2: SE-F
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 1
+NAME: Jönköping
+NAME_ALT: Jönköpings län
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.JO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: JO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW08
+FIPS_ALT: null
+WOE_ID: 2347051
+WOE_LABEL: Jonkoping, SE, Sweden
+WOE_NAME: Jönköping
+LATITUDE: 57.5478
+LONGITUDE: 14.424
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2702976
+GN_NAME: Joenkoepings Laen
+GNS_ID: -2492132
+GNS_NAME: Jonkopings Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103672
+NAME_AR: محافظة يونشوبينغ
+NAME_BN: জঙ্কোপিং কাউন্টি
+NAME_DE: Jönköpings län
+NAME_EN: Jönköping County
+NAME_ES: Provincia de Jönköping
+NAME_FR: Comté de Jönköping
+NAME_EL: κομητεία της Γιέντσεπινγκ
+NAME_HI: योनशोपिंग लैन
+NAME_HU: Jönköping megye
+NAME_ID: Daerah Jönköping
+NAME_IT: contea di Jönköping
+NAME_JA: ヨンショーピング県
+NAME_KO: 옌셰핑 주
+NAME_NL: Jönköpings län
+NAME_PL: Jönköpings län
+NAME_PT: condado da Jönköping
+NAME_RU: Йёнчёпинг
+NAME_SV: Jönköpings län
+NAME_TR: Jönköping ili
+NAME_VI: hạt Jönköping
+NAME_ZH: 延雪平省
+NE_ID: 1159308751

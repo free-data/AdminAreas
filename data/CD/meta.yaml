@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: Democratic Republic of the Congo
+SOV_A3: COD
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Democratic Republic of the Congo
+ADM0_A3: COD
+GEOU_DIF: 0
+GEOUNIT: Democratic Republic of the Congo
+GU_A3: COD
+SU_DIF: 0
+SUBUNIT: Democratic Republic of the Congo
+SU_A3: COD
+BRK_DIFF: 0
+NAME: Dem. Rep. Congo
+NAME_LONG: Democratic Republic of the Congo
+BRK_A3: COD
+BRK_NAME: Democratic Republic of the Congo
+BRK_GROUP: null
+ABBREV: D.R.C.
+POSTAL: DRC
+FORMAL_EN: Democratic Republic of the Congo
+FORMAL_FR: null
+NAME_CIAWF: Congo, Democratic Republic of the
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Congo, Dem. Rep.
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 4
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+POP_EST: 83301151
+POP_RANK: 16
+GDP_MD_EST: 66010
+POP_YEAR: 2017
+LASTCENSUS: 1984
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: CG
+ISO_A2: CD
+ISO_A3: COD
+ISO_A3_EH: COD
+ISO_N3: 180
+UN_A3: 180
+WB_A2: ZR
+WB_A3: ZAR
+WOE_ID: 23424780
+WOE_ID_EH: 23424780
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: COD
+ADM0_A3_US: COD
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Middle Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 15
+LONG_LEN: 32
+ABBREV_LEN: 6
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 2
+MAX_LABEL: 7
+NE_ID: 1159320513
+WIKIDATAID: Q974
+NAME_AR: جمهورية الكونغو الديمقراطية
+NAME_BN: গণতান্ত্রিক কঙ্গো প্রজাতন্ত্র
+NAME_DE: Demokratische Republik Kongo
+NAME_EN: Democratic Republic of the Congo
+NAME_ES: República Democrática del Congo
+NAME_FR: République démocratique du Congo
+NAME_EL: Λαϊκή Δημοκρατία του Κονγκό
+NAME_HI: कांगो लोकतान्त्रिक गणराज्य
+NAME_HU: Kongói Demokratikus Köztársaság
+NAME_ID: Republik Demokratik Kongo
+NAME_IT: Repubblica Democratica del Congo
+NAME_JA: コンゴ民主共和国
+NAME_KO: 콩고 민주 공화국
+NAME_NL: Congo-Kinshasa
+NAME_PL: Demokratyczna Republika Konga
+NAME_PT: República Democrática do Congo
+NAME_RU: Демократическая Республика Конго
+NAME_SV: Kongo-Kinshasa
+NAME_TR: Demokratik Kongo Cumhuriyeti
+NAME_VI: Cộng hòa Dân chủ Congo
+NAME_ZH: 刚果民主共和国

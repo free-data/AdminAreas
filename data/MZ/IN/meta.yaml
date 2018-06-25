@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MOZ-1925
+DISS_ME: 1925
+ISO_3166_2: MZ-I
+WIKIPEDIA: null
+ISO_A2: MZ
+ADM0_SR: 1
+NAME: Inhambane
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: MZ.IN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: IN
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: MZ03
+FIPS_ALT: null
+WOE_ID: 2346313
+WOE_LABEL: Inhambane, MZ, Mozambique
+WOE_NAME: Inhambane
+LATITUDE: -21.6677
+LONGITUDE: 35.4619
+SOV_A3: MOZ
+ADM0_A3: MOZ
+ADM0_LABEL: 2
+ADMIN: Mozambique
+GEONUNIT: Mozambique
+GU_A3: MOZ
+GN_ID: 1045110
+GN_NAME: Inhambane Province
+GNS_ID: -314553
+GNS_NAME: Inhambane
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MZ.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MZ03
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q466547
+NAME_AR: محافظة إنهامبان
+NAME_BN: ইনহাম্বানে প্রদেশ
+NAME_DE: Provinz Inhambane
+NAME_EN: Inhambane Province
+NAME_ES: Inhambane
+NAME_FR: province d'Inhambane
+NAME_EL: Ινχαμπάνε
+NAME_HI: इनैम्बाने प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Inhambane
+NAME_IT: provincia di Inhambane
+NAME_JA: イニャンバネ州
+NAME_KO: 이냠바느 주
+NAME_NL: Inhambane
+NAME_PL: Inhambane
+NAME_PT: Inhambane
+NAME_RU: Иньямбане
+NAME_SV: Inhambane
+NAME_TR: Inhambane Bölgesi
+NAME_VI: Tỉnh Inhambane
+NAME_ZH: 伊尼扬巴内省
+NE_ID: 1159311161

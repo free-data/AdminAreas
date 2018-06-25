@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5109
+DISS_ME: 5109
+ISO_3166_2: KN-11
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Peter Basseterre
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.PB
+NOTE: null
+HASC_MAYBE: null
+REGION: Saint Kitts
+REGION_COD: KN-K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: PBS
+POSTAL: PB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 22
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC11
+FIPS_ALT: null
+WOE_ID: 2346974
+WOE_LABEL: Saint Peter Basseterre, KN, Saint Kitts and Nevis
+WOE_NAME: Saint Peter Basseterre
+LATITUDE: 17.3221
+LONGITUDE: -62.7065
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575168
+GN_NAME: Saint Peter Basseterre
+GNS_ID: -1359326
+GNS_NAME: Saint Peter Basseterre
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC11
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1725609
+NAME_AR: أبرشية القديس بيتر باستير
+NAME_BN: সেন্ট পিটার বিসেটরে প্যারিশ
+NAME_DE: Saint Peter Basseterre
+NAME_EN: Saint Peter Basseterre Parish
+NAME_ES: Parroquia de Saint Peter Basseterre
+NAME_FR: Saint-Peter Basseterre
+NAME_EL: Σεντ Πίτερ Μπασετέρ
+NAME_HI: सेंट पीटर बासेटेरे पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Peter Basseterre
+NAME_IT: parrocchia di Saint Peter Basseterre
+NAME_JA: セントピーター・バセテール
+NAME_KO: 세인트피터바스테르 교구
+NAME_NL: Saint Peter Basseterre
+NAME_PL: Saint Peter Basseterre
+NAME_PT: Saint Peter Basseterre
+NAME_RU: Сент-Питер-Бастер
+NAME_SV: Saint Peter Basseterre
+NAME_TR: Saint Peter Basseterre
+NAME_VI: Giáo xứ Saint Peter Basseterre
+NAME_ZH: 聖彼得巴塞特萊區
+NE_ID: 1159316447

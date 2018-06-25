@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2480
+DISS_ME: 2480
+ISO_3166_2: BT-33
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Bumthang
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.BU
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT05
+FIPS_ALT: null
+WOE_ID: 2344872
+WOE_LABEL: Bumthang, BT, Bhutan
+WOE_NAME: Bumthang
+LATITUDE: 27.7219
+LONGITUDE: 90.7042
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337278
+GN_NAME: Bumthang Dzongkhag
+GNS_ID: 220692
+GNS_NAME: Bumthang Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT05
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q463242
+NAME_AR: مقاطعة بامثانغ
+NAME_BN: বোমতাং জেলা
+NAME_DE: Bumthang
+NAME_EN: Bumthang District
+NAME_ES: Distrito de Bumthang
+NAME_FR: Bumthang
+NAME_EL: Μπουμθάνγκ
+NAME_HI: बुमथांग जिला
+NAME_HU: Bumthang körzet
+NAME_ID: Distrik Bumthang
+NAME_IT: distretto di Bumthang
+NAME_JA: ブムタン県
+NAME_KO: 붐탕 현
+NAME_NL: Bumthang
+NAME_PL: Dystrykt Bumthang
+NAME_PT: Bumthang
+NAME_RU: Бумтанг
+NAME_SV: Bumthang
+NAME_TR: Bumthang District
+NAME_VI: Bumthang
+NAME_ZH: 布姆唐宗
+NE_ID: 1159311797

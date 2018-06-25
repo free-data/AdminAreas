@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5755
+DISS_ME: 5755
+ISO_3166_2: LV-005
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Alojas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.AJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG39
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.8074
+LONGITUDE: 24.8231
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628368
+GN_NAME: Alojas Novads
+GNS_ID: 10984970
+GNS_NAME: Alojas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.39
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG39
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2989420
+NAME_AR: بلدية ألويا
+NAME_BN: আলোজা পৌরসভা
+NAME_DE: Bezirk Aloja
+NAME_EN: Aloja Municipality
+NAME_ES: Municipalidad de Aloja
+NAME_FR: Commune d'Aloja
+NAME_EL: Αλότζα
+NAME_HI: अलोहा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Aloja
+NAME_IT: Aloja
+NAME_JA: アロヤ
+NAME_KO: 알로야 시
+NAME_NL: Alojas novads
+NAME_PL: Gmina Aloja
+NAME_PT: Município de Aloja
+NAME_RU: Алойский край
+NAME_SV: Alojas novads
+NAME_TR: Aloja Belediyesi
+NAME_VI: Đô thị tự trị Aloja
+NAME_ZH: 亞洛亞自治市
+NE_ID: 1159317655

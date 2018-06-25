@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BIH-4802
+DISS_ME: 4802
+ISO_3166_2: BA-X02~
+WIKIPEDIA: null
+ISO_A2: BA
+ADM0_SR: 1
+NAME: Banja Luka
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: BA.BL.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: Repuplika Srpska
+REGION_COD: null
+PROVNUM_NE: -1
+GADM_LEVEL: -1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 29389653
+WOE_LABEL: null
+WOE_NAME: Banja Luka
+LATITUDE: 44.8146
+LONGITUDE: 17.2619
+SOV_A3: BIH
+ADM0_A3: BIH
+ADM0_LABEL: 5
+ADMIN: Bosnia and Herzegovina
+GEONUNIT: Republic Srpska
+GU_A3: BIS
+GN_ID: -99
+GN_NAME: null
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 0
+GN_REGION: null
+GN_A1_CODE: BA.
+REGION_SUB: Serbian Republic
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: null
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: null
+NAME_ES: null
+NAME_FR: null
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: null
+NAME_JA: null
+NAME_KO: null
+NAME_NL: null
+NAME_PL: null
+NAME_PT: null
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159315819

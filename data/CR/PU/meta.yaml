@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CRI-1330
+DISS_ME: 1330
+ISO_3166_2: CR-P
+WIKIPEDIA: null
+ISO_A2: CR
+ADM0_SR: 6
+NAME: Puntarenas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CR.PU
+NOTE: null
+HASC_MAYBE: CR.AL|CRI-PNT
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PU
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: CS07
+FIPS_ALT: CS01
+WOE_ID: 2345087
+WOE_LABEL: Puntarenas, CR, Costa Rica
+WOE_NAME: Puntarenas
+LATITUDE: 8.93419
+LONGITUDE: -83.2294
+SOV_A3: CRI
+ADM0_A3: CRI
+ADM0_LABEL: 2
+ADMIN: Costa Rica
+GEONUNIT: Costa Rica
+GU_A3: CRI
+GN_ID: 3622226
+GN_NAME: Provincia de Puntarenas
+GNS_ID: -1108730
+GNS_NAME: Puntarenas
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CR.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CS07
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q502170
+NAME_AR: بونتاريناس
+NAME_BN: পুন্টারেনাস প্রদেশ
+NAME_DE: Provinz Puntarenas
+NAME_EN: Puntarenas Province
+NAME_ES: Puntarenas
+NAME_FR: Puntarenas
+NAME_EL: Επαρχία Πουνταρένας
+NAME_HI: पंटारेनस प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Puntarenas
+NAME_IT: provincia di Puntarenas
+NAME_JA: プンタレナス州
+NAME_KO: 푼타레나스 주
+NAME_NL: Puntarenas
+NAME_PL: Puntarenas
+NAME_PT: Puntarenas
+NAME_RU: Пунтаренас
+NAME_SV: Puntarenas
+NAME_TR: Puntaneras Province
+NAME_VI: Puntarenas
+NAME_ZH: 蓬塔雷纳斯省
+NE_ID: 1159308015

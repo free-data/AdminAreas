@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5105
+DISS_ME: 5105
+ISO_3166_2: KN-07
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint John Figtree
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.JF
+NOTE: null
+HASC_MAYBE: null
+REGION: Nevis
+REGION_COD: KN-N
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: JFI
+POSTAL: JF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 18
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC07
+FIPS_ALT: null
+WOE_ID: 2346970
+WOE_LABEL: Saint John Figtree, KN, Saint Kitts and Nevis
+WOE_NAME: Saint John Figtree
+LATITUDE: 17.1162
+LONGITUDE: -62.5949
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575175
+GN_NAME: Saint John Figtree
+GNS_ID: -1359319
+GNS_NAME: Saint John Figtree
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC07
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q657318
+NAME_AR: أبرشية القديس جون فيغتري
+NAME_BN: সেন্ট জন ফিগট্রি প্যারিশ
+NAME_DE: Saint John Figtree
+NAME_EN: Saint John Figtree Parish
+NAME_ES: Parroquia de Saint John Figtree
+NAME_FR: Saint-John Figtree
+NAME_EL: Σεντ Τζον Φίγκτρι
+NAME_HI: सेंट जॉन फिगट्री पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint John Figtree
+NAME_IT: parrocchia di Saint John Figtree
+NAME_JA: セント・ジョン・フィグツリー教区
+NAME_KO: 세인트존피그트리 교구
+NAME_NL: Saint John Figtree
+NAME_PL: Saint John Figtree
+NAME_PT: Saint John Figtree
+NAME_RU: Сент-Джон-Фигтри
+NAME_SV: Saint John Figtree
+NAME_TR: Saint John Figtree
+NAME_VI: Giáo xứ Saint John Figtree
+NAME_ZH: 聖約翰費格特里區
+NE_ID: 1159316423

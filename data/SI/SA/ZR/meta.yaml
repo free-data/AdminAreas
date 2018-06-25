@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1007
+DISS_ME: 1007
+ISO_3166_2: SI-144
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Zrece
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.ZR
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 157
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ZR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIF3
+FIPS_ALT: null
+WOE_ID: -55848389
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3914
+LONGITUDE: 15.3705
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239205
+GN_NAME: Obcina Zrece
+GNS_ID: 243894
+GNS_NAME: Zrece, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.F3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI20
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q227163
+NAME_AR: زريس
+NAME_BN: জেরিয়ে পৌরসভা
+NAME_DE: Zreče
+NAME_EN: Zreče Municipality
+NAME_ES: Municipalidad del Zreče
+NAME_FR: Zreče
+NAME_EL: Ζρέτσε
+NAME_HI: ज़ेडरेस नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Zreče
+NAME_IT: Zreče
+NAME_JA: ズレチェ
+NAME_KO: 즈레체
+NAME_NL: Zreče
+NAME_PL: Gmina Zreče
+NAME_PT: Zreče
+NAME_RU: Жрече
+NAME_SV: Zrece kommun
+NAME_TR: Zrece Belediyesi
+NAME_VI: Zreče
+NAME_ZH: null
+NE_ID: 1159310819

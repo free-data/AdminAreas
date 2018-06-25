@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 6
+SOVEREIGNT: Seychelles
+SOV_A3: SYC
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Seychelles
+ADM0_A3: SYC
+GEOU_DIF: 0
+GEOUNIT: Seychelles
+GU_A3: SYC
+SU_DIF: 0
+SUBUNIT: Seychelles
+SU_A3: SYC
+BRK_DIFF: 0
+NAME: Seychelles
+NAME_LONG: Seychelles
+BRK_A3: SYC
+BRK_NAME: Seychelles
+BRK_GROUP: null
+ABBREV: Syc.
+POSTAL: SC
+FORMAL_EN: Republic of Seychelles
+FORMAL_FR: null
+NAME_CIAWF: Seychelles
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Seychelles
+NAME_ALT: null
+MAPCOLOR7: 5
+MAPCOLOR8: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+POP_EST: 93920
+POP_RANK: 8
+GDP_MD_EST: 2608
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: SE
+ISO_A2: SC
+ISO_A3: SYC
+ISO_A3_EH: SYC
+ISO_N3: 690
+UN_A3: 690
+WB_A2: SC
+WB_A3: SYC
+WOE_ID: 23424941
+WOE_ID_EH: 23424941
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: SYC
+ADM0_A3_US: SYC
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Seven seas (open ocean)
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 10
+LONG_LEN: 10
+ABBREV_LEN: 4
+TINY: 2
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321291
+WIKIDATAID: Q1042
+NAME_AR: سيشل
+NAME_BN: সেশেল
+NAME_DE: Seychellen
+NAME_EN: Seychelles
+NAME_ES: Seychelles
+NAME_FR: Seychelles
+NAME_EL: Σεϋχέλλες
+NAME_HI: सेशेल्स
+NAME_HU: Seychelle-szigetek
+NAME_ID: Seychelles
+NAME_IT: Seychelles
+NAME_JA: セーシェル
+NAME_KO: 세이셸
+NAME_NL: Seychellen
+NAME_PL: Seszele
+NAME_PT: Seychelles
+NAME_RU: Сейшельские Острова
+NAME_SV: Seychellerna
+NAME_TR: Seyşeller
+NAME_VI: Seychelles
+NAME_ZH: 塞舌尔

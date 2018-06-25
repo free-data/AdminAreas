@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-24
+DISS_ME: 24
+ISO_3166_2: NI-RI
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Rivas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.RI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: KE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU50
+FIPS_ALT: null
+WOE_ID: 2346431
+WOE_LABEL: Rivas, NI, Nicaragua
+WOE_NAME: Rivas
+LATITUDE: 11.3524
+LONGITUDE: -85.7633
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3617051
+GN_NAME: Departamento de Rivas
+GNS_ID: -1113982
+GNS_NAME: Rivas
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q728127
+NAME_AR: إدارة ريفاز
+NAME_BN: null
+NAME_DE: Departamento Rivas
+NAME_EN: Rivas Department
+NAME_ES: Departamento de Rivas
+NAME_FR: département de Rivas
+NAME_EL: Ρίβας
+NAME_HI: null
+NAME_HU: Rivas megye
+NAME_ID: Departemen Rivas
+NAME_IT: dipartimento di Rivas
+NAME_JA: リバス県
+NAME_KO: 리바스 주
+NAME_NL: Rivas
+NAME_PL: Rivas
+NAME_PT: Rivas
+NAME_RU: Ривас
+NAME_SV: Rivas
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 里瓦斯省
+NE_ID: 1159308137

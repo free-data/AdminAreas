@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: FIN-3181
+DISS_ME: 3181
+ISO_3166_2: FI-07
+WIKIPEDIA: http://en.wikipedia.org/wiki/Central_Ostrobothnia
+ISO_A2: FI
+ADM0_SR: 1
+NAME: Central Ostrobothnia
+NAME_ALT: Keski-Pohjanmaa|Mellersta Österbotten
+NAME_LOCAL: null
+TYPE: Lääni
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: FI.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: FIN-VAA
+PROVNUM_NE: 20018
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 20
+MAPCOLOR9: 4
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 29389257
+WOE_LABEL: Keski-Pohjanmaan maakunta
+WOE_NAME: null
+LATITUDE: 63.6751
+LONGITUDE: 24.0097
+SOV_A3: FI1
+ADM0_A3: FIN
+ADM0_LABEL: 2
+ADMIN: Finland
+GEONUNIT: Finland
+GU_A3: FIN
+GN_ID: 830675
+GN_NAME: Mellersta Osterbotten
+GNS_ID: 413098
+GNS_NAME: Keski-Pohjanmaa
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FI.16
+REGION_SUB: null
+SUB_CODE: FI12
+GNS_LEVEL: 1
+GNS_LANG: fin
+GNS_ADM1: FI23
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q5696
+NAME_AR: بوهيانما الوسطى
+NAME_BN: সেন্ট্রাল অস্ট্রোবোথনিয়া
+NAME_DE: Mittelösterbotten
+NAME_EN: Central Ostrobothnia
+NAME_ES: Ostrobotnia Central
+NAME_FR: Ostrobotnie-Centrale
+NAME_EL: Κεντρική Οστρομποθνία
+NAME_HI: मध्य ओस्ट्रोबोथनिया
+NAME_HU: null
+NAME_ID: Kotamadya Central
+NAME_IT: Ostrobotnia centrale
+NAME_JA: 中部ポフヤンマー県
+NAME_KO: 중부 포흐얀마 지역
+NAME_NL: Keski-Pohjanmaa
+NAME_PL: Keski-Pohjanmaa
+NAME_PT: Ostrobótnia Central
+NAME_RU: Центральная Остроботния
+NAME_SV: Mellersta Österbotten
+NAME_TR: Orta Ostrobothnia
+NAME_VI: Miền Trung Ostrobothnia
+NAME_ZH: 中博滕區
+NE_ID: 1159314855

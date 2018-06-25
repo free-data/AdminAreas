@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: NGA-2842
+DISS_ME: 2842
+ISO_3166_2: NG-AK
+WIKIPEDIA: null
+ISO_A2: NG
+ADM0_SR: 1
+NAME: Akwa Ibom
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: NG.AK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20021
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: AK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 2
+FIPS: NI21
+FIPS_ALT: null
+WOE_ID: 2346349
+WOE_LABEL: Akwa Ibom, NG, Nigeria
+WOE_NAME: Akwa Ibom
+LATITUDE: 4.89926
+LONGITUDE: 7.90963
+SOV_A3: NGA
+ADM0_A3: NGA
+ADM0_LABEL: 2
+ADMIN: Nigeria
+GEONUNIT: Nigeria
+GU_A3: NGA
+GN_ID: 2350813
+GN_NAME: Akwa Ibom State
+GNS_ID: -1998981
+GNS_NAME: Akwa Ibom
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NG.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NI21
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q424388
+NAME_AR: ولاية اكوا ايبوم
+NAME_BN: আকিাউ আইবুম অঙ্গরাজ্য
+NAME_DE: Akwa Ibom
+NAME_EN: Akwa Ibom State
+NAME_ES: Akwa Ibom
+NAME_FR: État d'Akwa Ibom
+NAME_EL: Όκβα Ίμπορν
+NAME_HI: अक्वा इबोम राज्य
+NAME_HU: null
+NAME_ID: Akwa Ibom
+NAME_IT: Akwa Ibom
+NAME_JA: アクワ・イボム州
+NAME_KO: 아콰이봄 주
+NAME_NL: Akwa Ibom
+NAME_PL: Akwa Ibom
+NAME_PT: Akwa Ibom
+NAME_RU: Аква-Ибом
+NAME_SV: Akwa Ibom
+NAME_TR: Akwa Ibom Eyaleti
+NAME_VI: Bang Akwa Ibom
+NAME_ZH: 阿夸伊博姆州
+NE_ID: 1159313767

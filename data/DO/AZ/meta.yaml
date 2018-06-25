@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1974
+DISS_ME: 1974
+ISO_3166_2: DO-02
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Azua
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.AZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AZ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR01
+FIPS_ALT: null
+WOE_ID: 2345172
+WOE_LABEL: Azua, DO, Dominican Republic
+WOE_NAME: Azua
+LATITUDE: 18.5981
+LONGITUDE: -70.8169
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3512209
+GN_NAME: Provincia de Azua
+GNS_ID: -3346926
+GNS_NAME: Azua, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR01
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q794239
+NAME_AR: محافظة أزوا
+NAME_BN: আজুয়া প্রদেশ
+NAME_DE: Azua
+NAME_EN: Azua Province
+NAME_ES: Azua
+NAME_FR: Azua
+NAME_EL: Επαρχία Άσουα
+NAME_HI: एज़ुआ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Azua
+NAME_IT: provincia di Azua
+NAME_JA: アスア州
+NAME_KO: 아수아 주
+NAME_NL: Azua
+NAME_PL: Prowincja Azua
+NAME_PT: Azua
+NAME_RU: Асуа
+NAME_SV: Ázua
+NAME_TR: Azua Province
+NAME_VI: Azua
+NAME_ZH: 阿蘇阿省
+NE_ID: 1159311719

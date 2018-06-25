@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-194
+DISS_ME: 194
+ISO_3166_2: SE-AB
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 5
+NAME: Stockholm
+NAME_ALT: Stockholms län|Estocolmo|Stoccolmo
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW26
+FIPS_ALT: null
+WOE_ID: 2347067
+WOE_LABEL: Stockholm, SE, Sweden
+WOE_NAME: Stockholm
+LATITUDE: 59.3659
+LONGITUDE: 17.8652
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2673722
+GN_NAME: Stockholms Laen
+GNS_ID: -2524287
+GNS_NAME: Stockholms Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW26
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q104231
+NAME_AR: محافظة ستوكهولم
+NAME_BN: স্টকহোম কাউন্টি
+NAME_DE: Stockholms län
+NAME_EN: Stockholm County
+NAME_ES: Provincia de Estocolmo
+NAME_FR: Comté de Stockholm
+NAME_EL: κομητεία της Στοκχόλμης
+NAME_HI: स्टॉकहोम लैन
+NAME_HU: Stockholm megye
+NAME_ID: Daerah Stockholm
+NAME_IT: contea di Stoccolma
+NAME_JA: ストックホルム県
+NAME_KO: 스톡홀름주
+NAME_NL: Stockholms län
+NAME_PL: Sztokholm
+NAME_PT: condado de Estocolmo
+NAME_RU: Стокгольм
+NAME_SV: Stockholms län
+NAME_TR: Stokholm ili
+NAME_VI: hạt Stockholm
+NAME_ZH: 斯德哥爾摩省
+NE_ID: 1159308733

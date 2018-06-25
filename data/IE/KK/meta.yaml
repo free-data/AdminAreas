@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-722
+DISS_ME: 722
+ISO_3166_2: IE-KK
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Kilkenny
+NAME_ALT: Cill Chainnigh
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: South-East
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: KK
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI13
+FIPS_ALT: null
+WOE_ID: 2345258
+WOE_LABEL: Kilkenny, IE, Ireland
+WOE_NAME: Kilkenny
+LATITUDE: 52.5758
+LONGITUDE: -7.2941
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2963397
+GN_NAME: Kilkenny
+GNS_ID: -1503734
+GNS_NAME: Kilkenny, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.13
+REGION_SUB: Kilkenny
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q180231
+NAME_AR: مقاطعة كيكني
+NAME_BN: কাউন্টি কিলকেনি
+NAME_DE: County Kilkenny
+NAME_EN: County Kilkenny
+NAME_ES: Condado de Kilkenny
+NAME_FR: comté de Kilkenny
+NAME_EL: Κομητεία Κίλκενι
+NAME_HI: काउंटी किल्केनी
+NAME_HU: Kilkenny megye
+NAME_ID: County Kilkenny
+NAME_IT: Kilkenny
+NAME_JA: キルケニー州
+NAME_KO: 킬케니 주
+NAME_NL: County Kilkenny
+NAME_PL: Kilkenny
+NAME_PT: Condado de Kilkenny
+NAME_RU: Килкенни
+NAME_SV: Kilkenny
+NAME_TR: Kilkenny County
+NAME_VI: Hạt Kilkenny
+NAME_ZH: 基爾肯尼郡
+NE_ID: 1159311007

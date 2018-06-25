@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3175
+DISS_ME: 3175
+ISO_3166_2: HU-JN
+WIKIPEDIA: http://en.wikipedia.org/wiki/J%C3%A1sz-Nagykun-Szolnok_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Jász-Nagykun-Szolnok
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.JN
+NOTE: Renamed from Szolnok
+HASC_MAYBE: null
+REGION: Northern Great Plain
+REGION_COD: null
+PROVNUM_NE: 20020
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: JN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 20
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU20
+FIPS_ALT: null
+WOE_ID: 12577926
+WOE_LABEL: JÃ¡sz-Nagykun-Szolnok, HU, Hungary
+WOE_NAME: Jász-Nagykun-Szolnok
+LATITUDE: 47.2052
+LONGITUDE: 20.5204
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 719637
+GN_NAME: Jasz-Nagykun-Szolnok megye
+GNS_ID: -856673
+GNS_NAME: Jasz-Nagykun-Szolnok Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.20
+REGION_SUB: Jász-Nagykun-Szolnok
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU20
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q189655
+NAME_AR: مقاطعة ياس-نادكون-سولنك
+NAME_BN: জায-নাগিকুন-জোলনক কাউন্টি
+NAME_DE: Komitat Jász-Nagykun-Szolnok
+NAME_EN: Jász-Nagykun-Szolnok County
+NAME_ES: Jász-Nagykun-Szolnok
+NAME_FR: Jász-Nagykun-Szolnok
+NAME_EL: Τζασζ-Ναγκίκουν-Σζόλνοκ
+NAME_HI: जस्ज़-नाजिकुन-सज़ोल्नोक काउंटी
+NAME_HU: Jász-Nagykun-Szolnok megye
+NAME_ID: Jász-Nagykun-Szolnok
+NAME_IT: provincia di Jász-Nagykun-Szolnok
+NAME_JA: ヤース・ナジクン・ソルノク県
+NAME_KO: 야스너지쿤솔노크 주
+NAME_NL: Jász-Nagykun-Szolnok
+NAME_PL: Komitat Jász-Nagykun-Szolnok
+NAME_PT: Jász-Nagykun-Szolnok
+NAME_RU: Яс-Надькун-Сольнок
+NAME_SV: Jász-Nagykun-Szolnok
+NAME_TR: Jász-Nagykun-Szolnok ili
+NAME_VI: Hạt Jász-Nagykun-Szolnok
+NAME_ZH: 亞斯-瑙吉孔-索爾諾克州
+NE_ID: 1159314663

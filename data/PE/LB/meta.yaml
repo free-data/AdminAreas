@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-566
+DISS_ME: 566
+ISO_3166_2: PE-LAM
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Lambayeque
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.LB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: LB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE14
+FIPS_ALT: null
+WOE_ID: 2346481
+WOE_LABEL: Lambayeque, PE, Peru
+WOE_NAME: Lambayeque
+LATITUDE: -6.2514
+LONGITUDE: -79.8994
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3695753
+GN_NAME: Region de Lambayeque
+GNS_ID: -351687
+GNS_NAME: Lambayeque, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE14
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q210061
+NAME_AR: إقليم لمباييكه
+NAME_BN: লাম্বায়েক অঞ্চল
+NAME_DE: Lambayeque
+NAME_EN: Lambayeque Region
+NAME_ES: Departamento de Lambayeque
+NAME_FR: Région de Lambayeque
+NAME_EL: Λαμπαγιέκ
+NAME_HI: लैम्बेक प्रदेश
+NAME_HU: Lambayeque megye
+NAME_ID: Region Lambayeque
+NAME_IT: regione di Lambayeque
+NAME_JA: ランバイエケ県
+NAME_KO: 람바예케 주
+NAME_NL: Lambayeque
+NAME_PL: Region Lambayeque
+NAME_PT: Lambayeque
+NAME_RU: Ламбаеке
+NAME_SV: Lambayeque
+NAME_TR: Lambayaque Bölgesi
+NAME_VI: Khu vực Lambayeque
+NAME_ZH: 兰巴耶克大区
+NE_ID: 1159309937

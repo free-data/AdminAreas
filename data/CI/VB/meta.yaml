@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CIV-3450
+DISS_ME: 3450
+ISO_3166_2: CI-04
+WIKIPEDIA: null
+ISO_A2: CI
+ADM0_SR: 1
+NAME: Vallée du Bandama
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CI.VB
+NOTE: Expired 2015.11.27, requires updating.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: VB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 17
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: IV20
+FIPS_ALT: null
+WOE_ID: 55967005
+WOE_LABEL: VallÃ©e du Bandama, CI, Ivory Coast
+WOE_NAME: Vallée du Bandama
+LATITUDE: 8.22668
+LONGITUDE: -4.85838
+SOV_A3: CIV
+ADM0_A3: CIV
+ADM0_LABEL: 2
+ADMIN: Ivory Coast
+GEONUNIT: Ivory Coast
+GU_A3: CIV
+GN_ID: 2597321
+GN_NAME: Vallee du Bandama
+GNS_ID: 9149542
+GNS_NAME: Vallee du Bandama, Region de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CI.90
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: IV90
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q845721
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Region Vallée du Bandama
+NAME_EN: Vallée du Bandama Region
+NAME_ES: Vallée du Bandama
+NAME_FR: Vallée du Bandama
+NAME_EL: Βαλέ ντυ Μπανταμά
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: regione della Valle del Bandama
+NAME_JA: バンダマ渓谷州
+NAME_KO: 발레뒤방다마 주
+NAME_NL: Vallée du Bandama
+NAME_PL: null
+NAME_PT: Vallée du Bandama
+NAME_RU: Валле-дю-Бандама
+NAME_SV: Vallée du Bandama
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 邦达马河谷区
+NE_ID: 1159315123

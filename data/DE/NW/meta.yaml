@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: DEU-1572
+DISS_ME: 1572
+ISO_3166_2: DE-NW
+WIKIPEDIA: null
+ISO_A2: DE
+ADM0_SR: 1
+NAME: Nordrhein-Westfalen
+NAME_ALT: North Rhine-Westphalia
+NAME_LOCAL: null
+TYPE: Land
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: DE.NW
+NOTE: null
+HASC_MAYBE: DE.NI|DEU-NWS
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: NW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 19
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: GM07
+FIPS_ALT: GM06
+WOE_ID: 2345487
+WOE_LABEL: North Rhine-Westphalia, DE, Germany
+WOE_NAME: Nordrhein-Westfalen
+LATITUDE: 51.6146
+LONGITUDE: 7.65708
+SOV_A3: DEU
+ADM0_A3: DEU
+ADM0_LABEL: 2
+ADMIN: Germany
+GEONUNIT: Germany
+GU_A3: DEU
+GN_ID: 2861876
+GN_NAME: Land Nordrhein-Westfalen
+GNS_ID: -1835009
+GNS_NAME: Nordrhein-Westfalen
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DE.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: GM07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1198
+NAME_AR: شمال الراين-وستفاليا
+NAME_BN: নর্থ রিনে-ভেস্টফালিয়া
+NAME_DE: Nordrhein-Westfalen
+NAME_EN: North Rhine-Westphalia
+NAME_ES: Renania del Norte-Westfalia
+NAME_FR: Rhénanie-du-Nord-Westphalie
+NAME_EL: Βόρεια Ρηνανία-Βεστφαλία
+NAME_HI: उत्तरी राइन
+NAME_HU: Észak-Rajna-Vesztfália
+NAME_ID: Nordrhein-Westfalen
+NAME_IT: Renania Settentrionale-Vestfalia
+NAME_JA: ノルトライン＝ヴェストファーレン州
+NAME_KO: 노르트라인베스트팔렌 주
+NAME_NL: Noordrijn-Westfalen
+NAME_PL: Nadrenia Północna-Westfalia
+NAME_PT: Renânia do Norte-Vestfália
+NAME_RU: Северный Рейн-Вестфалия
+NAME_SV: Nordrhein-Westfalen
+NAME_TR: Kuzey Ren-Vestfalya
+NAME_VI: Nordrhein-Westfalen
+NAME_ZH: 北莱茵－威斯特法伦
+NE_ID: 1159310973

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2217
+DISS_ME: 2217
+ISO_3166_2: DZ-25
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Constantine
+NAME_ALT: Constantina|Costatina|Qoussantina|Qacentina
+NAME_LOCAL: قسنطينة
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 30
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG04
+FIPS_ALT: AG04
+WOE_ID: 2344581
+WOE_LABEL: Constantine, DZ, Algeria
+WOE_NAME: Constantine
+LATITUDE: 36.3731
+LONGITUDE: 6.68301
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2501147
+GN_NAME: Wilaya de Constantine
+GNS_ID: -464723
+GNS_NAME: Constantine
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG04
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q232043
+NAME_AR: ولاية قسنطينة
+NAME_BN: কন্সট্যাটাইন প্রদেশ
+NAME_DE: Constantine
+NAME_EN: Constantine Province
+NAME_ES: Provincia de Constantina
+NAME_FR: wilaya de Constantine
+NAME_EL: Κωνσταντίνη
+NAME_HI: कॉन्स्टैन्टाइन प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Qusnathinah
+NAME_IT: provincia di Costantina
+NAME_JA: コンスタンティーヌ県
+NAME_KO: 콩스탕틴 주
+NAME_NL: Constantine
+NAME_PL: Prowincja Konstantyna
+NAME_PT: Constantina
+NAME_RU: Константина
+NAME_SV: Constantine
+NAME_TR: Konstantine Vilayeti
+NAME_VI: Constantine
+NAME_ZH: 君士坦丁省
+NE_ID: 1159311981

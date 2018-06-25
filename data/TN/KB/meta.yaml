@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-97
+DISS_ME: 97
+ISO_3166_2: TN-73
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Kebili
+NAME_ALT: Kebilli|Qbili|Qibilī
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.KB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS31
+FIPS_ALT: null
+WOE_ID: 2347251
+WOE_LABEL: Qibili, TN, Tunisia
+WOE_NAME: Kebili
+LATITUDE: 33.3621
+LONGITUDE: 8.84791
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2468014
+GN_NAME: Gouvernorat de Kebili
+GNS_ID: -728141
+GNS_NAME: Kebili, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.31
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS31
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q286063
+NAME_AR: ولاية قبلي
+NAME_BN: কেবিলি গভর্নোরেট
+NAME_DE: Gouvernorat Kebili
+NAME_EN: Kebili Governorate
+NAME_ES: Gobernación de Kebili
+NAME_FR: gouvernorat de Kébili
+NAME_EL: Κιμπιλί
+NAME_HI: केबिली गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Kebili
+NAME_IT: governatorato di Kébili
+NAME_JA: ケビリ県
+NAME_KO: 케빌리 주
+NAME_NL: Kébili
+NAME_PL: Gubernatorstwo Kibili
+NAME_PT: Kebili
+NAME_RU: Кебили
+NAME_SV: Kebili
+NAME_TR: Kabili ili
+NAME_VI: Tỉnh Kebili
+NAME_ZH: 吉比利省
+NE_ID: 1159309357

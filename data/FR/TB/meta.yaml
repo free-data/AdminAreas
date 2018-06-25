@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5348
+DISS_ME: 5348
+ISO_3166_2: FR-90
+WIKIPEDIA: http://en.wikipedia.org/wiki/Territoire_de_Belfort
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Territoire de Belfort
+NAME_ALT: Franco-Condado
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.TB
+NOTE: null
+HASC_MAYBE: null
+REGION: Franche-Comté
+REGION_COD: FR-I
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 21
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA6
+FIPS_ALT: null
+WOE_ID: 12597154
+WOE_LABEL: null
+WOE_NAME: Belfort
+LATITUDE: 47.6568
+LONGITUDE: 6.93675
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3033789
+GN_NAME: Territoire de Belfort
+GNS_ID: -1411530
+GNS_NAME: Belfort
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.90
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA6
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12782
+NAME_AR: إقليم بلفور
+NAME_BN: টেরিটোরি ডি বেলফোর্ট
+NAME_DE: Territoire de Belfort
+NAME_EN: Territoire de Belfort
+NAME_ES: Territorio de Belfort
+NAME_FR: Territoire de Belfort
+NAME_EL: Έδαφος του Μπελφόρ
+NAME_HI: टेरेटोइर डी बेल्फोर्ट
+NAME_HU: Territoire de Belfort
+NAME_ID: Territoire de Belfort
+NAME_IT: Territorio di Belfort
+NAME_JA: テリトワール・ド・ベルフォール県
+NAME_KO: 테리투아르드벨포르 주
+NAME_NL: Territoire de Belfort
+NAME_PL: Territoire-de-Belfort
+NAME_PT: Território de Belfort
+NAME_RU: Территория Бельфор
+NAME_SV: Territoire de Belfort
+NAME_TR: Territoire de Belfort
+NAME_VI: Lãnh thổ Belfort
+NAME_ZH: 贝尔福地区
+NE_ID: 1159316817

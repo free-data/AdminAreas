@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GIN-5654
+DISS_ME: 5654
+ISO_3166_2: GN-MD
+WIKIPEDIA: null
+ISO_A2: GN
+ADM0_SR: 1
+NAME: Mandiana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: GN.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: Kankan
+REGION_COD: GN.K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: GV37
+FIPS_ALT: null
+WOE_ID: -56059378
+WOE_LABEL: null
+WOE_NAME: Kankan
+LATITUDE: 10.7221
+LONGITUDE: -8.66537
+SOV_A3: GIN
+ADM0_A3: GIN
+ADM0_LABEL: 2
+ADMIN: Guinea
+GEONUNIT: Guinea
+GU_A3: GIN
+GN_ID: 2595305
+GN_NAME: Mandiana Prefecture
+GNS_ID: 9080250
+GNS_NAME: Mandiana
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GN.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: GV37
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1470878
+NAME_AR: محافظة مانديانا
+NAME_BN: মান্দিয়ানা প্রশাসনিক অঞ্চল
+NAME_DE: Mandiana
+NAME_EN: Mandiana Prefecture
+NAME_ES: Ayuntamiento Mandiana
+NAME_FR: préfecture de Mandiana
+NAME_EL: Μαντιανά
+NAME_HI: मैन्दियाना प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Mandiana
+NAME_IT: prefettura di Mandiana
+NAME_JA: マンディアナ県
+NAME_KO: 만디아나 지방 행정 구역
+NAME_NL: Mandiana Prefecture
+NAME_PL: Prefektura Mandiana
+NAME_PT: Prefeitura de Mandiana
+NAME_RU: Префектура Мандиана
+NAME_SV: Mandiana Prefecture
+NAME_TR: Mandiana Prefecture
+NAME_VI: Tỉnh Mandiana
+NAME_ZH: 芒賈納省
+NE_ID: 1159317455

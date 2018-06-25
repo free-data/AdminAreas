@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: ZAF-1209
+DISS_ME: 1209
+ISO_3166_2: ZA-MP
+WIKIPEDIA: null
+ISO_A2: ZA
+ADM0_SR: 1
+NAME: Mpumalanga
+NAME_ALT: Eastern Transvaal
+NAME_LOCAL: null
+TYPE: Provinsie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZA.MP
+NOTE: CSS 8, Formerly part of Transvaal
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: MP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: SF07
+FIPS_ALT: SF07
+WOE_ID: 2346983
+WOE_LABEL: Mpumalanga, ZA, South Africa
+WOE_NAME: Mpumalanga
+LATITUDE: -25.9893
+LONGITUDE: 30.1421
+SOV_A3: ZAF
+ADM0_A3: ZAF
+ADM0_LABEL: 2
+ADMIN: South Africa
+GEONUNIT: South Africa
+GU_A3: ZAF
+GN_ID: 1085595
+GN_NAME: Mpumalanga
+GNS_ID: 204230
+GNS_NAME: Mpumalanga
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZA.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: SF07
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q132410
+NAME_AR: مبومالانجا
+NAME_BN: এম্পোমালাগা
+NAME_DE: Mpumalanga
+NAME_EN: Mpumalanga
+NAME_ES: Mpumalanga
+NAME_FR: Mpumalanga
+NAME_EL: Μπουμαλάνγκα
+NAME_HI: अमपूमलांगा प्रान्त
+NAME_HU: null
+NAME_ID: Mpumalanga
+NAME_IT: Mpumalanga
+NAME_JA: ムプマランガ州
+NAME_KO: 음푸말랑가 주
+NAME_NL: Mpumalanga
+NAME_PL: Mpumalanga
+NAME_PT: Mpumalanga
+NAME_RU: Мпумаланга
+NAME_SV: Mpumalanga
+NAME_TR: Mpumalanga
+NAME_VI: Mpumalanga
+NAME_ZH: 普馬蘭加省
+NE_ID: 1159309743

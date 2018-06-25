@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1358
+DISS_ME: 1358
+ISO_3166_2: SV-SA
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: Santa Ana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES11
+FIPS_ALT: null
+WOE_ID: 2345302
+WOE_LABEL: Santa Ana, SV, El Salvador
+WOE_NAME: Santa Ana
+LATITUDE: 14.1024
+LONGITUDE: -89.5013
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3583332
+GN_NAME: Departamento de Santa Ana
+GNS_ID: -1148111
+GNS_NAME: Santa Ana
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES11
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q671158
+NAME_AR: إدارة سانتا آنا
+NAME_BN: স্যান্টা আনা বিভাগ
+NAME_DE: Departamento Santa Ana
+NAME_EN: Santa Ana Department
+NAME_ES: Departamento de Santa Ana
+NAME_FR: département de Santa Ana
+NAME_EL: Διαμέρισμα Σάντα Άνα
+NAME_HI: सानता-आना प्रदेश
+NAME_HU: Santa Ana megye
+NAME_ID: Departemen Santa Ana
+NAME_IT: dipartimento di Santa Ana
+NAME_JA: サンタ・アナ県
+NAME_KO: 산타아나 주
+NAME_NL: Santa Ana
+NAME_PL: Santa Ana
+NAME_PT: Santa Ana
+NAME_RU: Санта-Ана
+NAME_SV: Santa Ana department
+NAME_TR: Santa Ana Departmanı
+NAME_VI: Khu vực hành chính Santa Ana
+NAME_ZH: 圣安娜省
+NE_ID: 1159310221

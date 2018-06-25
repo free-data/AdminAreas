@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-289
+DISS_ME: 289
+ISO_3166_2: UA-26
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Ivano-Frankivs'k
+NAME_ALT: Ivano-Frankovsk|Ivano-Frankovskaya Oblast'|Stanislav
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.IF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: IF
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP06
+FIPS_ALT: null
+WOE_ID: 2347539
+WOE_LABEL: Ivano-Frankivsk Oblast, UA, Ukraine
+WOE_NAME: Ivano-Frankivs'k
+LATITUDE: 48.665
+LONGITUDE: 24.6363
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 707470
+GN_NAME: Ivano-Frankivs'ka Oblast'
+GNS_ID: -1040328
+GNS_NAME: Ivano-Frankivs'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP06
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q178269
+NAME_AR: إيفانو فرانكيفسك أوبلاست
+NAME_BN: ইভানো-ফ্রাঙ্কিভস্ক ওব্লাস্ট
+NAME_DE: Oblast Iwano-Frankiwsk
+NAME_EN: Ivano-Frankivsk Oblast
+NAME_ES: Óblast de Ivano-Frankivsk
+NAME_FR: Oblast d'Ivano-Frankivsk
+NAME_EL: Ιβάνο-Φρανκίβσκ Ομπλάστ
+NAME_HI: इवैनो-फ्रैंकिव्स्क ओब्लास्ट
+NAME_HU: Ivano-frankivszki terület
+NAME_ID: Oblast Ivano-Frankivsk
+NAME_IT: Oblast' di Ivano-Frankivs'k
+NAME_JA: イヴァーノ＝フランキーウシク州
+NAME_KO: 이바노프란키우스크 주
+NAME_NL: Oblast Ivano-Frankivsk
+NAME_PL: Obwód iwanofrankiwski
+NAME_PT: Oblast de Ivano-Frankivsk
+NAME_RU: Ивано-Франковская область
+NAME_SV: Ivano-Frankivsk oblast
+NAME_TR: İvano-Frankivsk Oblastı
+NAME_VI: Ivano-Frankivsk
+NAME_ZH: 伊万诺-弗兰科夫斯克州
+NE_ID: 1159309597

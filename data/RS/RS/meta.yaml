@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-834
+DISS_ME: 834
+ISO_3166_2: RS-18
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Raški
+NAME_ALT: Raška
+NAME_LOCAL: Рашки
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.RS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: RS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB00
+FIPS_ALT: null
+WOE_ID: 29389224
+WOE_LABEL: Rashka, RS, Serbia
+WOE_NAME: Raški
+LATITUDE: 43.3811
+LONGITUDE: 20.5783
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Serbia
+GU_A3: SRS
+GN_ID: 7581807
+GN_NAME: Raski Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1061082
+NAME_AR: مقاطعة راشكا
+NAME_BN: রাস্কা জেলা
+NAME_DE: Okrug Raška
+NAME_EN: Raška District
+NAME_ES: Distrito de Raška
+NAME_FR: Raška
+NAME_EL: Περιφέρεια Ράσκα
+NAME_HI: रस्का जिला
+NAME_HU: null
+NAME_ID: Distrik Raška
+NAME_IT: distretto di Raška
+NAME_JA: ラシュカ郡
+NAME_KO: 라슈카 구
+NAME_NL: Raška
+NAME_PL: Okręg raski
+NAME_PT: Ráscia
+NAME_RU: Рашский округ
+NAME_SV: Raska
+NAME_TR: Raska District
+NAME_VI: Quận Raska
+NAME_ZH: 拉什卡州
+NE_ID: 1159309511

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GAB-2621
+DISS_ME: 2621
+ISO_3166_2: GA-3
+WIKIPEDIA: null
+ISO_A2: GA
+ADM0_SR: 1
+NAME: Moyen-Ogooué
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GA.MO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: GB03
+FIPS_ALT: null
+WOE_ID: 2345451
+WOE_LABEL: Moyen-Ogooue, GA, Gabon
+WOE_NAME: Moyen-Ogooué
+LATITUDE: -0.374156
+LONGITUDE: 10.5724
+SOV_A3: GAB
+ADM0_A3: GAB
+ADM0_LABEL: 5
+ADMIN: Gabon
+GEONUNIT: Gabon
+GU_A3: GAB
+GN_ID: 2397842
+GN_NAME: Province du Moyen-Ogooue
+GNS_ID: -1328474
+GNS_NAME: Moyen-Ogooue
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GA.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GB03
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q590802
+NAME_AR: محافظة موين - أوغووي
+NAME_BN: মোয়েেন-ওগৌ প্রদেশ
+NAME_DE: Moyen-Ogooué
+NAME_EN: Moyen-Ogooué Province
+NAME_ES: Provincia de Moyen-Ogooué
+NAME_FR: Moyen-Ogooué
+NAME_EL: Μόγιεν-Ογκοουέ
+NAME_HI: मोयेन-ओगोउई प्रांत
+NAME_HU: null
+NAME_ID: Moyen-Ogooué
+NAME_IT: Moyen-Ogooué
+NAME_JA: モワイエン・オゴウェ州
+NAME_KO: 무아얭오고웨 주
+NAME_NL: Moyen-Ogooué
+NAME_PL: Ogowe Środkowe
+NAME_PT: Moyen-Ogooué
+NAME_RU: Среднее Огове
+NAME_SV: Province du Moyen-Ogooué
+NAME_TR: Moyen-Ogooué
+NAME_VI: Moyen-Ogooué
+NAME_ZH: 中奧果韋省
+NE_ID: 1159313335

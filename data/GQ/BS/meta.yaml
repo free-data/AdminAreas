@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNQ-1479
+DISS_ME: 1479
+ISO_3166_2: GQ-BS
+WIKIPEDIA: null
+ISO_A2: GQ
+ADM0_SR: 1
+NAME: Bioko Sur
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GQ.BS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: EK05
+FIPS_ALT: EK05
+WOE_ID: 20069856
+WOE_LABEL: Bioko Sur, GQ, Equatorial Guinea
+WOE_NAME: Bioko Sur
+LATITUDE: 3.42557
+LONGITUDE: 8.64291
+SOV_A3: GNQ
+ADM0_A3: GNQ
+ADM0_LABEL: 5
+ADMIN: Equatorial Guinea
+GEONUNIT: Equatorial Guinea
+GU_A3: GNQ
+GN_ID: 2566979
+GN_NAME: Provincia de Bioko Sur
+GNS_ID: 53702
+GNS_NAME: Bioko Sur
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GQ.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: EK05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q845817
+NAME_AR: مقاطعة بيوكو سور
+NAME_BN: বিয়োকো সুর প্রদেশ
+NAME_DE: Bioko Sur
+NAME_EN: Bioko Sur Province
+NAME_ES: Provincia de Bioko Sur
+NAME_FR: Bioko-Sur
+NAME_EL: Μπιόκο Σούρ
+NAME_HI: बिओको-सुर प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Bioko Sur
+NAME_IT: provincia di Bioko Sud
+NAME_JA: 南ビオコ県
+NAME_KO: 남비오코 주
+NAME_NL: Bioko Sur
+NAME_PL: Bioko Południowe
+NAME_PT: Bioko Sur
+NAME_RU: Южный Биоко
+NAME_SV: Provincia de Bioko Sur
+NAME_TR: Bioko Sur Province
+NAME_VI: Tỉnh Bioko Sur
+NAME_ZH: 南比奥科省
+NE_ID: 1159310031

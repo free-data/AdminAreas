@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5768
+DISS_ME: 5768
+ISO_3166_2: LV-048
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Krimuldas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.KM
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG84
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.2798
+LONGITUDE: 24.7863
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628361
+GN_NAME: Krimuldas Novads
+GNS_ID: 10984653
+GNS_NAME: Krimuldas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.84
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG84
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2302998
+NAME_AR: بلدية كريمولدا
+NAME_BN: ক্রিমুলদা পৌরসভা
+NAME_DE: Bezirk Krimulda
+NAME_EN: Krimulda Municipality
+NAME_ES: Municipalidad de Krimulda
+NAME_FR: Krimulda
+NAME_EL: Κοινότητα Κριμούλντα
+NAME_HI: क्रिमुल्डा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Krimulda
+NAME_IT: Krimulda
+NAME_JA: クリムルダ
+NAME_KO: 크리물다 시
+NAME_NL: Krimuldas novads
+NAME_PL: Gmina Krimulda
+NAME_PT: Município de Krimulda
+NAME_RU: Кримулдский край
+NAME_SV: Krimuldas novads
+NAME_TR: Krimulda Belediyesi
+NAME_VI: Đô thị tự trị Krimulda
+NAME_ZH: 克里穆爾達斯自治市
+NE_ID: 1159317661

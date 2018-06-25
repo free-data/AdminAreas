@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-804
+DISS_ME: 804
+ISO_3166_2: CF-NM
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Nana-Mambéré
+NAME_ALT: Bouar-Baboua|Buar-Baboua|Nana Nambéré
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.NM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: NM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT09
+FIPS_ALT: null
+WOE_ID: 2345097
+WOE_LABEL: null
+WOE_NAME: Nana-Mambéré
+LATITUDE: 5.67426
+LONGITUDE: 15.4564
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 2384205
+GN_NAME: Prefecture de la Nana-Mambere
+GNS_ID: -1348276
+GNS_NAME: Nana-Mambere
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT09
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q742455
+NAME_AR: محافظة نانا مامبيري
+NAME_BN: নানা-মাম্বিরি প্রশাসনিক অঞ্চল
+NAME_DE: Nana-Mambéré
+NAME_EN: Nana-Mambéré Prefecture
+NAME_ES: Nana-Mambéré
+NAME_FR: Nana-Mambéré
+NAME_EL: Νανά-Μαμπέρε
+NAME_HI: नाना-मेम्बरे प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Nana-Mambéré
+NAME_IT: prefettura di Nana-Mambéré
+NAME_JA: ナナ・メンベレ州
+NAME_KO: 나나맘베레 주
+NAME_NL: Nana-Mambéré
+NAME_PL: Prefektura Nana-Mambéré
+NAME_PT: Nana-Mambéré
+NAME_RU: Нана-Мамбере
+NAME_SV: Préfecture de la Nana-Mambéré
+NAME_TR: Nana-Mambéré
+NAME_VI: Quận Nana-Mambéré
+NAME_ZH: 納納-曼貝雷省
+NE_ID: 1159308947

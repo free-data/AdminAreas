@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: United Republic of Tanzania
+SOV_A3: TZA
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: United Republic of Tanzania
+ADM0_A3: TZA
+GEOU_DIF: 0
+GEOUNIT: Tanzania
+GU_A3: TZA
+SU_DIF: 0
+SUBUNIT: Tanzania
+SU_A3: TZA
+BRK_DIFF: 0
+NAME: Tanzania
+NAME_LONG: Tanzania
+BRK_A3: TZA
+BRK_NAME: Tanzania
+BRK_GROUP: null
+ABBREV: Tanz.
+POSTAL: TZ
+FORMAL_EN: United Republic of Tanzania
+FORMAL_FR: null
+NAME_CIAWF: Tanzania
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Tanzania
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+POP_EST: 53950935
+POP_RANK: 16
+GDP_MD_EST: 150600
+POP_YEAR: 2017
+LASTCENSUS: 2002
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: TZ
+ISO_A2: TZ
+ISO_A3: TZA
+ISO_A3_EH: TZA
+ISO_N3: 834
+UN_A3: 834
+WB_A2: TZ
+WB_A3: TZA
+WOE_ID: 23424973
+WOE_ID_EH: 23424973
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: TZA
+ADM0_A3_US: TZA
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321337
+WIKIDATAID: Q924
+NAME_AR: تنزانيا
+NAME_BN: তানজানিয়া
+NAME_DE: Tansania
+NAME_EN: Tanzania
+NAME_ES: Tanzania
+NAME_FR: Tanzanie
+NAME_EL: Τανζανία
+NAME_HI: तंज़ानिया
+NAME_HU: Tanzánia
+NAME_ID: Tanzania
+NAME_IT: Tanzania
+NAME_JA: タンザニア
+NAME_KO: 탄자니아
+NAME_NL: Tanzania
+NAME_PL: Tanzania
+NAME_PT: Tanzânia
+NAME_RU: Танзания
+NAME_SV: Tanzania
+NAME_TR: Tanzanya
+NAME_VI: Tanzania
+NAME_ZH: 坦桑尼亚

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-162
+DISS_ME: 162
+ISO_3166_2: CH-AG
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Aargau
+NAME_ALT: Argovia|Arg¢via|Argovie
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.AG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: AG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ01
+FIPS_ALT: null
+WOE_ID: 2347083
+WOE_LABEL: Canton of Aargau, CH, Switzerland
+WOE_NAME: Aargau
+LATITUDE: 47.4176
+LONGITUDE: 8.19995
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2661876
+GN_NAME: Kanton Aargau
+GNS_ID: -2550909
+GNS_NAME: Aargau, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.AG
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11972
+NAME_AR: كانتون أرجاو
+NAME_BN: আরগাও
+NAME_DE: Kanton Aargau
+NAME_EN: canton of Aargau
+NAME_ES: Argovia
+NAME_FR: canton d'Argovie
+NAME_EL: Άαργκαου
+NAME_HI: आरगाउ कैन्टन
+NAME_HU: Aargau kanton
+NAME_ID: Kanton Aargau
+NAME_IT: Canton Argovia
+NAME_JA: アールガウ州
+NAME_KO: 아르가우 주
+NAME_NL: Aargau
+NAME_PL: Argowia
+NAME_PT: Argóvia
+NAME_RU: Аргау
+NAME_SV: Aargau
+NAME_TR: Aargau
+NAME_VI: Aargau
+NAME_ZH: 阿爾高州
+NE_ID: 1159307657

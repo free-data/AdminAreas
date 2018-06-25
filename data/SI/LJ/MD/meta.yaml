@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-967
+DISS_ME: 967
+ISO_3166_2: SI-071
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Medvode
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 185
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI71
+FIPS_ALT: null
+WOE_ID: -55848364
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.1236
+LONGITUDE: 14.3971
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239113
+GN_NAME: Obcina Medvode
+GNS_ID: 243523
+GNS_NAME: Medvode, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.71
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI71
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q15894
+NAME_AR: مدفودي
+NAME_BN: মেদভোদ পৌরসভা
+NAME_DE: Medvode
+NAME_EN: Medvode Municipality
+NAME_ES: Medvode
+NAME_FR: Medvode
+NAME_EL: Μεντβόντε
+NAME_HI: मेडवोडे नगर पालिका
+NAME_HU: Medvode
+NAME_ID: Kotamadya Medvode
+NAME_IT: Medvode
+NAME_JA: メドヴォデ
+NAME_KO: 메드보데
+NAME_NL: Medvode
+NAME_PL: Gmina Medvode
+NAME_PT: Medvode
+NAME_RU: Медводе
+NAME_SV: Medvode
+NAME_TR: Medvode
+NAME_VI: Medvode
+NAME_ZH: 梅德沃代
+NE_ID: 1159310731

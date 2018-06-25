@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SYC-5221
+DISS_ME: 5221
+ISO_3166_2: SC-24
+WIKIPEDIA: null
+ISO_A2: SC
+ADM0_SR: 4
+NAME: Les Mamelles
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SC.LM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549880
+WOE_LABEL: null
+WOE_NAME: Les Mamelles
+LATITUDE: -4.65751
+LONGITUDE: 55.4808
+SOV_A3: SYC
+ADM0_A3: SYC
+ADM0_LABEL: 5
+ADMIN: Seychelles
+GEONUNIT: Seychelles
+GU_A3: SYC
+GN_ID: 448408
+GN_NAME: Les Mamelles
+GNS_ID: 9164313
+GNS_NAME: Les Mamelles
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SC.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: SE29
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2280357
+NAME_AR: لس ماميلس
+NAME_BN: লেস মামেলস
+NAME_DE: Les Mamelles
+NAME_EN: Les Mamelles
+NAME_ES: Les Mamelles
+NAME_FR: Les Mamelles
+NAME_EL: Λες Μαμέλες
+NAME_HI: ली मैमेलेस
+NAME_HU: null
+NAME_ID: Les Mamelles
+NAME_IT: Les Mamelles
+NAME_JA: レス・マーメルズ
+NAME_KO: 레마멜 구
+NAME_NL: Les Mamelles
+NAME_PL: Les Mamelles
+NAME_PT: Les Mamelles
+NAME_RU: Ле-Мамелль
+NAME_SV: Les Mamelles
+NAME_TR: Les Mamelles
+NAME_VI: Les Mamelles
+NAME_ZH: 雷瑪麥爾區
+NE_ID: 1159316655

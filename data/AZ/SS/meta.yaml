@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-5565
+DISS_ME: 5565
+ISO_3166_2: AZ-X01~
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Şuşa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Sahari
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: AZ.SS
+NOTE: part of Nagorno-Karabakh
+HASC_MAYBE: null
+REGION: Yukhari Garabakh Economic Region
+REGION_COD: AZ-07
+PROVNUM_NE: 62
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 4
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ55
+FIPS_ALT: AJ|
+WOE_ID: 20070264
+WOE_LABEL: Susa, AZ, Azerbaijan
+WOE_NAME: Şuşa
+LATITUDE: 39.7618
+LONGITUDE: 46.7523
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 5
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 409419
+GN_NAME: Susa Sahari
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.56
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q388960
+NAME_AR: مقاطعة شوشا
+NAME_BN: সুশা জেলা
+NAME_DE: Şuşa
+NAME_EN: Shusha District
+NAME_ES: Şuşa
+NAME_FR: Choucha
+NAME_EL: Σούσα
+NAME_HI: शुशा जिला
+NAME_HU: Şuşai járás
+NAME_ID: Shusha
+NAME_IT: distretto di Şuşa
+NAME_JA: シュシャ県
+NAME_KO: 슈샤 구
+NAME_NL: Şuşa
+NAME_PL: Rejon Şuşa
+NAME_PT: Shusha
+NAME_RU: Шушинский район
+NAME_SV: Shusha
+NAME_TR: Şuşa Rayonu
+NAME_VI: Shusha
+NAME_ZH: 舒沙區
+NE_ID: 1159317285

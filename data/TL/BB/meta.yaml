@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-547
+DISS_ME: 547
+ISO_3166_2: TL-BO
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Bobonaro
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TL.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT04
+FIPS_ALT: CG02
+WOE_ID: 24549896
+WOE_LABEL: Bobonaro, TL, East Timor
+WOE_NAME: Bobonaro
+LATITUDE: -8.98073
+LONGITUDE: 125.219
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1648513
+GN_NAME: Distrito Bobonaro
+GNS_ID: -2673634
+GNS_NAME: Bobonaro, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.BO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT04
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q860913
+NAME_AR: بلدية بوبونارو
+NAME_BN: বোবোনারো পৌরসভা
+NAME_DE: Bobonaro
+NAME_EN: Bobonaro Municipality
+NAME_ES: Bobonaro
+NAME_FR: Bobonaro
+NAME_EL: Μπομπονάρο
+NAME_HI: बोबोनारो नगर पालिका
+NAME_HU: null
+NAME_ID: Bobonaro
+NAME_IT: distretto di Bobonaro
+NAME_JA: ボボナロ県
+NAME_KO: 보보나루 현
+NAME_NL: Bobonaro
+NAME_PL: Dystrykt Bobonaro
+NAME_PT: Bobonaro
+NAME_RU: Бобонару
+NAME_SV: Bobonaro
+NAME_TR: Bobonaro Belediyesi
+NAME_VI: Bobonaro
+NAME_ZH: 博博納羅縣
+NE_ID: 1159307859

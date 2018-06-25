@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1951
+DISS_ME: 1951
+ISO_3166_2: GT-GU
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Guatemala
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.GU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GU
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT07
+FIPS_ALT: null
+WOE_ID: 2345558
+WOE_LABEL: Guatemala, GT, Guatemala
+WOE_NAME: Guatemala
+LATITUDE: 14.6006
+LONGITUDE: -90.4872
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3595530
+GN_NAME: Departamento de Guatemala
+GNS_ID: -1135820
+GNS_NAME: Guatemala
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q695660
+NAME_AR: إدارة غواتيمالا
+NAME_BN: গোয়াতেমালা বিভাগ
+NAME_DE: Departamento Guatemala
+NAME_EN: Guatemala Department
+NAME_ES: Guatemala
+NAME_FR: département de Guatemala
+NAME_EL: Γουατεμάλα
+NAME_HI: ग्वाटेमाला विभाग
+NAME_HU: Guatemala megye
+NAME_ID: Departemen Guatemala
+NAME_IT: dipartimento di Guatemala
+NAME_JA: グアテマラ県
+NAME_KO: 과테말라 주
+NAME_NL: Guatemala
+NAME_PL: Gwatemala
+NAME_PT: Guatemala
+NAME_RU: Гватемала
+NAME_SV: Guatemala
+NAME_TR: Guatemala Departmanı
+NAME_VI: Guatemala
+NAME_ZH: 瓜地馬拉省
+NE_ID: 1159311655

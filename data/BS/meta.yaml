@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 5
+LABELRANK: 4
+SOVEREIGNT: The Bahamas
+SOV_A3: BHS
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: The Bahamas
+ADM0_A3: BHS
+GEOU_DIF: 0
+GEOUNIT: The Bahamas
+GU_A3: BHS
+SU_DIF: 0
+SUBUNIT: The Bahamas
+SU_A3: BHS
+BRK_DIFF: 0
+NAME: Bahamas
+NAME_LONG: Bahamas
+BRK_A3: BHS
+BRK_NAME: Bahamas
+BRK_GROUP: null
+ABBREV: Bhs.
+POSTAL: BS
+FORMAL_EN: Commonwealth of the Bahamas
+FORMAL_FR: null
+NAME_CIAWF: Bahamas, The
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Bahamas, The
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 1
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+POP_EST: 329988
+POP_RANK: 10
+GDP_MD_EST: 9066
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: BF
+ISO_A2: BS
+ISO_A3: BHS
+ISO_A3_EH: BHS
+ISO_N3: 044
+UN_A3: 044
+WB_A2: BS
+WB_A3: BHS
+WOE_ID: 23424758
+WOE_ID_EH: 23424758
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BHS
+ADM0_A3_US: BHS
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Caribbean
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320415
+WIKIDATAID: Q778
+NAME_AR: باهاماس
+NAME_BN: বাহামা দ্বীপপুঞ্জ
+NAME_DE: Bahamas
+NAME_EN: The Bahamas
+NAME_ES: Bahamas
+NAME_FR: Bahamas
+NAME_EL: Μπαχάμες
+NAME_HI: बहामास
+NAME_HU: Bahama-szigetek
+NAME_ID: Bahama
+NAME_IT: Bahama
+NAME_JA: バハマ
+NAME_KO: 바하마
+NAME_NL: Bahama's
+NAME_PL: Bahamy
+NAME_PT: Bahamas
+NAME_RU: Багамские Острова
+NAME_SV: Bahamas
+NAME_TR: Bahamalar
+NAME_VI: Bahamas
+NAME_ZH: 巴哈马

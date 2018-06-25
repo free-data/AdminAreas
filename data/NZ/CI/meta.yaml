@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: NZL-5470
+DISS_ME: 5470
+ISO_3166_2: NZ-CIT
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 4
+NAME: Chatham Islands Territory
+NAME_ALT: Wharekauri
+NAME_LOCAL: null
+TYPE: Special Island Authority
+TYPE_EN: Special Island Authority
+CODE_LOCAL: null
+CODE_HASC: NZ.CI
+NOTE: null
+HASC_MAYBE: null
+REGION: Chatham Islands
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 25
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 56126020
+WOE_LABEL: null
+WOE_NAME: Chatham Islands
+LATITUDE: -44.2722
+LONGITUDE: -176.174
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 3
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 4033013
+GN_NAME: Chatham Islands
+GNS_ID: -1508253
+GNS_NAME: Chatham Islands Territory
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NZ10
+GNS_REGION: null
+MIN_LABEL: 18
+MAX_LABEL: 18
+MIN_ZOOM: 7
+WIKIDATAID: Q115459
+NAME_AR: جزر تشاتام
+NAME_BN: চ্যাথাম আইল্যান্ডস
+NAME_DE: Chathaminseln
+NAME_EN: Chatham Islands
+NAME_ES: Islas Chatham
+NAME_FR: Îles Chatham
+NAME_EL: Νησιά Τσάταμ
+NAME_HI: चाथम द्वीपसमूह
+NAME_HU: Chatham-szigetek
+NAME_ID: Kepulauan Chatham
+NAME_IT: Isole Chatham
+NAME_JA: チャタム諸島
+NAME_KO: 채텀 제도
+NAME_NL: Chathameilanden
+NAME_PL: Wyspy Chatham
+NAME_PT: Ilhas Chatham
+NAME_RU: Чатем
+NAME_SV: Chathamöarna
+NAME_TR: Chatham Adaları
+NAME_VI: Quần đảo Chatham
+NAME_ZH: 查塔姆群岛
+NE_ID: 1159315477

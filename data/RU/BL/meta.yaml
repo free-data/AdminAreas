@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2370
+DISS_ME: 2370
+ISO_3166_2: RU-BEL
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Belgorod
+NAME_ALT: Belgorodskaya Oblast
+NAME_LOCAL: Белгородская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20049
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS09
+FIPS_ALT: null
+WOE_ID: 2346891
+WOE_LABEL: Belgorodskaya Oblast, RU, Russia
+WOE_NAME: Belgorod
+LATITUDE: 50.8757
+LONGITUDE: 37.277
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 578071
+GN_NAME: Belgorodskaya Oblast'
+GNS_ID: -2883931
+GNS_NAME: Belgorodskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.09
+REGION_SUB: Central Black Earth
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS09
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3329
+NAME_AR: أوبلاست بيلغورود
+NAME_BN: বেল্গ্রোদ ওব্লাস্ট
+NAME_DE: Oblast Belgorod
+NAME_EN: Belgorod Oblast
+NAME_ES: Óblast de Bélgorod
+NAME_FR: oblast de Belgorod
+NAME_EL: Περιφέρεια Μπέλγκοροντ
+NAME_HI: बेल्गोरोद ओब्लास्त
+NAME_HU: Belgorodi terület
+NAME_ID: Oblast Belgorod
+NAME_IT: oblast' di Belgorod
+NAME_JA: ベルゴロド州
+NAME_KO: 벨고로드 주
+NAME_NL: Oblast Belgorod
+NAME_PL: Obwód biełgorodzki
+NAME_PT: Oblast de Belgorod
+NAME_RU: Белгородская область
+NAME_SV: Belgorod oblast
+NAME_TR: Belgorod Oblastı
+NAME_VI: Belgorod
+NAME_ZH: 别尔哥罗德州
+NE_ID: 1159313177

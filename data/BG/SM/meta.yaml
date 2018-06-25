@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2236
+DISS_ME: 2236
+ISO_3166_2: BG-21
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Smolyan
+NAME_ALT: Smoljan
+NAME_LOCAL: Смолян
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.SM
+NOTE: null
+HASC_MAYBE: BG.PD|BGR-PLD
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU57
+FIPS_ALT: BU34
+WOE_ID: 20070067
+WOE_LABEL: Smolyan, BG, Bulgaria
+WOE_NAME: Smolyan
+LATITUDE: 41.6644
+LONGITUDE: 24.6089
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 864558
+GN_NAME: Oblast Smolyan
+GNS_ID: 9085987
+GNS_NAME: Smolyan, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.57
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BU57
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012430
+NAME_AR: مقاطعة سموليان
+NAME_BN: স্মলিয়ান প্রদেশ
+NAME_DE: Oblast Smoljan
+NAME_EN: Smolyan Province
+NAME_ES: Provincia de Smolyan
+NAME_FR: Smolyan
+NAME_EL: Σμόλιαν
+NAME_HI: समोलियाँ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Smolyan
+NAME_IT: distretto di Smoljan
+NAME_JA: スモリャン州
+NAME_KO: 스몰랸 주
+NAME_NL: Smoljan
+NAME_PL: Obwód Smolan
+NAME_PT: Smolyan
+NAME_RU: Смолянская область
+NAME_SV: Smoljan
+NAME_TR: Smolyan ili
+NAME_VI: Smolyan
+NAME_ZH: 斯莫梁州
+NE_ID: 1159312477

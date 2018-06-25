@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2485
+DISS_ME: 2485
+ISO_3166_2: BT-34
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Shemgang
+NAME_ALT: Zhemgang
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.SG
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT18
+FIPS_ALT: null
+WOE_ID: 2344885
+WOE_LABEL: Shemgang, BT, Bhutan
+WOE_NAME: Shemgang
+LATITUDE: 27.0763
+LONGITUDE: 90.8505
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337291
+GN_NAME: Zhemgang Dzongkhag
+GNS_ID: 220737
+GNS_NAME: Zhemgang Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT18
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q197564
+NAME_AR: مقاطعة زيمغانغ
+NAME_BN: জেমগাং জেলা
+NAME_DE: Zhemgang
+NAME_EN: Zhemgang District
+NAME_ES: Distrito de Zhemgang
+NAME_FR: Zhemgang
+NAME_EL: Ζεμγκάνγκ
+NAME_HI: ज़ेमगैंग जिला
+NAME_HU: Zhemgang körzet
+NAME_ID: Distrik Zhemgang
+NAME_IT: distretto di Zhemgang
+NAME_JA: シェムガン県
+NAME_KO: 젬강 현
+NAME_NL: Zhemgang
+NAME_PL: Dystrykt Zhemgang
+NAME_PT: Zhemgang
+NAME_RU: Жемганг
+NAME_SV: Zhemgang
+NAME_TR: Zhemgang
+NAME_VI: Zhemgang
+NAME_ZH: 谢姆冈宗
+NE_ID: 1159311809

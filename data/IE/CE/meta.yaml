@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-76
+DISS_ME: 76
+ISO_3166_2: IE-CE
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Clare
+NAME_ALT: An Clár
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.CE
+NOTE: null
+HASC_MAYBE: IE.GY|IRL-CNN
+REGION: Mid-West
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI03
+FIPS_ALT: EI10
+WOE_ID: 2345251
+WOE_LABEL: Clare, IE, Ireland
+WOE_NAME: Clare
+LATITUDE: 52.8909
+LONGITUDE: -9.10704
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2965479
+GN_NAME: An Clar
+GNS_ID: -1501647
+GNS_NAME: Clare, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.03
+REGION_SUB: Clare
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q181862
+NAME_AR: مقاطعة كلير
+NAME_BN: কাউন্টি ক্লেয়ার
+NAME_DE: County Clare
+NAME_EN: County Clare
+NAME_ES: Condado de Clare
+NAME_FR: comté de Clare
+NAME_EL: Κομητεία Κλέιρ
+NAME_HI: काउंटी क्लेयर
+NAME_HU: Clare megye
+NAME_ID: County Clare
+NAME_IT: Clare
+NAME_JA: クレア州
+NAME_KO: 클래어 주
+NAME_NL: County Clare
+NAME_PL: Clare
+NAME_PT: Condado de Clare
+NAME_RU: Клэр
+NAME_SV: Clare
+NAME_TR: Clare County
+NAME_VI: Hạt Clare
+NAME_ZH: 克莱尔郡
+NE_ID: 1159308715

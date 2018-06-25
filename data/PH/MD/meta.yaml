@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2523
+DISS_ME: 2523
+ISO_3166_2: PH-MSC
+WIKIPEDIA: http://en.wikipedia.org/wiki/Misamis_Occidental
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Misamis Occidental
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Mindanao (Region X)
+REGION_COD: PH-10
+PROVNUM_NE: 20080
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: MD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 18
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP42
+FIPS_ALT: null
+WOE_ID: 2346697
+WOE_LABEL: null
+WOE_NAME: Misamis Occidental
+LATITUDE: 8.33846
+LONGITUDE: 123.717
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1699493
+GN_NAME: Province of Misamis Occidental
+GNS_ID: -2440085
+GNS_NAME: Misamis Occidental, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.42
+REGION_SUB: Misamis Occidental
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP42
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13857
+NAME_AR: ميساميس أوتشيدنتال
+NAME_BN: মিসামিস ওক্সিডেন্টাল
+NAME_DE: Misamis Occidental
+NAME_EN: Misamis Occidental
+NAME_ES: Misamis Occidental
+NAME_FR: Misamis occidental
+NAME_EL: Μισάμις
+NAME_HI: मिसामिस ओक्सीदेन्ताल प्रान्त
+NAME_HU: null
+NAME_ID: Misamis Occidental
+NAME_IT: Provincia di Misamis Occidental
+NAME_JA: 西ミサミス州
+NAME_KO: 서미사미스 주
+NAME_NL: Misamis Occidental
+NAME_PL: Misamis Occidental
+NAME_PT: Misamis Occidental
+NAME_RU: Западный Мисамис
+NAME_SV: Misamis Occidental
+NAME_TR: Misamis Occidental
+NAME_VI: Misamis Occidental
+NAME_ZH: 西米薩米斯省
+NE_ID: 1159313383

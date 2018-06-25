@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: GRD-5069
+DISS_ME: 5069
+ISO_3166_2: GD-10
+WIKIPEDIA: null
+ISO_A2: GD
+ADM0_SR: 1
+NAME: Carriacou and Petite Martinique
+NAME_ALT: Southern Grenadine Islands
+NAME_LOCAL: null
+TYPE: Dependency
+TYPE_EN: Dependency
+CODE_LOCAL: null
+CODE_HASC: GD.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 31
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: -2345478
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 12.4733
+LONGITUDE: -61.4461
+SOV_A3: GRD
+ADM0_A3: GRD
+ADM0_LABEL: 8
+ADMIN: Grenada
+GEONUNIT: Grenada
+GU_A3: GRD
+GN_ID: 7303836
+GN_NAME: Carriacou and Petite Martinique
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GD.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q3752183
+NAME_AR: كارياكو و بيتي مارتينيك
+NAME_BN: ক্যারিয়ারাকু এবং পেতিট মার্টিনিক
+NAME_DE: Carriacou und Petite Martinique
+NAME_EN: Carriacou and Petite Martinique
+NAME_ES: Carriacou et Petite Martinique
+NAME_FR: Carriacou et Petite Martinique
+NAME_EL: Καρριακού και Μικρή Μαρτινίκα
+NAME_HI: कैरिकू और पेटाईट मार्टिनीक
+NAME_HU: null
+NAME_ID: Carriacou dan Petite Martinique
+NAME_IT: Carriacou e Petite Martinique
+NAME_JA: カリアク島
+NAME_KO: 카리아쿠 프티마르티니크
+NAME_NL: Carriacou en Petite Martinique
+NAME_PL: Carriacou i Mała Martynika
+NAME_PT: Carriacou e Petite Martinique
+NAME_RU: Карриаку и Малый Мартиник
+NAME_SV: Carriacou och Petite Martinique
+NAME_TR: Carriacou and Petite Martinique
+NAME_VI: Carriacou và Petite Martinique
+NAME_ZH: 卡里亞庫和小馬提尼克
+NE_ID: 1159316373

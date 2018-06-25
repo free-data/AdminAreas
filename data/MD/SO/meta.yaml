@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1653
+DISS_ME: 1653
+ISO_3166_2: MD-SO
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Soroca
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.SO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD87
+FIPS_ALT: null
+WOE_ID: 20069872
+WOE_LABEL: Soroca, MD, Moldova
+WOE_NAME: Soroca
+LATITUDE: 48.1034
+LONGITUDE: 28.2477
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617366
+GN_NAME: Raionul Soroca
+GNS_ID: -2277339
+GNS_NAME: Soroca, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.87
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD87
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2129022
+NAME_AR: مقاطعة سوروكا
+NAME_BN: সরোকা জেলা
+NAME_DE: Rajon Soroca
+NAME_EN: Soroca District
+NAME_ES: Distrito de Soroca
+NAME_FR: Raion de Soroca
+NAME_EL: Σορόκα
+NAME_HI: सोरोका जिला
+NAME_HU: null
+NAME_ID: Raionul Soroca
+NAME_IT: distretto di Soroca
+NAME_JA: ソロカ県
+NAME_KO: 소로카 구
+NAME_NL: Soroca
+NAME_PL: Rejon Soroca
+NAME_PT: Distrito de Soroca
+NAME_RU: Сорокский район
+NAME_SV: Soroca rajon
+NAME_TR: Soroco District
+NAME_VI: Quận Soroca
+NAME_ZH: 索羅卡區
+NE_ID: 1159312631

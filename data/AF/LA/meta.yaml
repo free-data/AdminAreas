@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1770
+DISS_ME: 1770
+ISO_3166_2: AF-LAG
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Laghman
+NAME_ALT: Lagman
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 27
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF35
+FIPS_ALT: AF16
+WOE_ID: 2344562
+WOE_LABEL: Laghman, AF, Afghanistan
+WOE_NAME: Laghman
+LATITUDE: 34.7273
+LONGITUDE: 70.2085
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1135022
+GN_NAME: Wilayat-e Laghman
+GNS_ID: -3382408
+GNS_NAME: Laghman, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF35
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q185442
+NAME_AR: ولاية لغمان
+NAME_BN: লাগমন প্রদেশ
+NAME_DE: Laghman
+NAME_EN: Laghman
+NAME_ES: Provincia de Laġmān
+NAME_FR: Laghmân
+NAME_EL: Λαγκμάν
+NAME_HI: लग़मान प्रान्त
+NAME_HU: null
+NAME_ID: Laghman
+NAME_IT: Laghman
+NAME_JA: ラグマーン州
+NAME_KO: 라그만 주
+NAME_NL: Laghman
+NAME_PL: Laghman
+NAME_PT: Laghman
+NAME_RU: Лагман
+NAME_SV: Laghman
+NAME_TR: Lagman Vilayeti
+NAME_VI: Laghman
+NAME_ZH: 拉格曼省
+NE_ID: 1159312099

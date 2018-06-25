@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GIN-5644
+DISS_ME: 5644
+ISO_3166_2: GN-KS
+WIKIPEDIA: null
+ISO_A2: GN
+ADM0_SR: 1
+NAME: Kissidougou
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: GN.KS
+NOTE: null
+HASC_MAYBE: null
+REGION: Faranah
+REGION_COD: GN.F
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: GV17
+FIPS_ALT: null
+WOE_ID: -56059379
+WOE_LABEL: Faranah, GN, Guinea
+WOE_NAME: Faranah
+LATITUDE: 9.25638
+LONGITUDE: -9.89138
+SOV_A3: GIN
+ADM0_A3: GIN
+ADM0_LABEL: 2
+ADMIN: Guinea
+GEONUNIT: Guinea
+GU_A3: GIN
+GN_ID: 2419470
+GN_NAME: Prefecture de Kissidougou
+GNS_ID: -1181397
+GNS_NAME: Kissidougou
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GN.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GV17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1470920
+NAME_AR: محافظة كيسيدوغو
+NAME_BN: কিস্যিদোগু প্রশাসনিক অঞ্চল
+NAME_DE: Kissidougou
+NAME_EN: Kissidougou Prefecture
+NAME_ES: Kissidougou
+NAME_FR: préfecture de Kissidougou
+NAME_EL: Κισσιντουγκού
+NAME_HI: किसिडूगू प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Kissidougou
+NAME_IT: prefettura di Kissidougou
+NAME_JA: キシドゥグ県
+NAME_KO: 키시두구 지방 행정 구역
+NAME_NL: Kissidougou Prefecture
+NAME_PL: Prefektura Kissidougou
+NAME_PT: Kissidougou
+NAME_RU: Киссидугу
+NAME_SV: Kissidougou
+NAME_TR: Kissidougou Prefecture
+NAME_VI: Tỉnh Kissidougou
+NAME_ZH: 基西杜古省
+NE_ID: 1159317447

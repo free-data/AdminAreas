@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1971
+DISS_ME: 1971
+ISO_3166_2: DO-10
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Independencia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.IN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: IN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR
+FIPS_ALT: DR09
+WOE_ID: 2345179
+WOE_LABEL: Independencia, DO, Dominican Republic
+WOE_NAME: Independencia
+LATITUDE: 18.3759
+LONGITUDE: -71.6057
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3504326
+GN_NAME: Provincia de Independencia
+GNS_ID: -3354817
+GNS_NAME: Independencia, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR09
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1424401
+NAME_AR: محافظة الاستقلال
+NAME_BN: ইন্ডিপেন্সিয়া প্রদেশ
+NAME_DE: Independencia
+NAME_EN: Independencia
+NAME_ES: Independencia
+NAME_FR: Independencia
+NAME_EL: Ιντεπεντένσια
+NAME_HI: इंडिपेंडेंसिया प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Independencia
+NAME_IT: provincia di Independencia
+NAME_JA: インデペンデンシア州
+NAME_KO: 인데펜덴시아 주
+NAME_NL: Independencia
+NAME_PL: Prowincja Independencia
+NAME_PT: Independencia
+NAME_RU: Индепенденсия
+NAME_SV: Independencia
+NAME_TR: Independencia Province
+NAME_VI: Independencia
+NAME_ZH: 獨立省
+NE_ID: 1159311713

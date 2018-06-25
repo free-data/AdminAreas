@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KAZ-3202
+DISS_ME: 3202
+ISO_3166_2: KZ-AKM
+WIKIPEDIA: null
+ISO_A2: KZ
+ADM0_SR: 1
+NAME: Aqmola
+NAME_ALT: Akmolin|Akmolinsk|Tselinograd
+NAME_LOCAL: null
+TYPE: Oblasy
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KZ.AM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: KZ03
+FIPS_ALT: null
+WOE_ID: 2345996
+WOE_LABEL: Aqmola, KZ, Kazakhstan
+WOE_NAME: Aqmola
+LATITUDE: 51.928
+LONGITUDE: 69.8519
+SOV_A3: KAZ
+ADM0_A3: KAZ
+ADM0_LABEL: 2
+ADMIN: Kazakhstan
+GEONUNIT: Kazakhstan
+GU_A3: KAZ
+GN_ID: 1518003
+GN_NAME: Aqmola Oblysy
+GNS_ID: -2345251
+GNS_NAME: Aqmola Oblysy
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KZ.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kaz
+GNS_ADM1: KZ03
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q485056
+NAME_AR: أوبليس أكمولا
+NAME_BN: আকমুলা অঞ্চল
+NAME_DE: Aqmola
+NAME_EN: Akmola Region
+NAME_ES: Provincia de Akmola
+NAME_FR: Oblys d'Aqmola
+NAME_EL: Ακμόλα
+NAME_HI: अकमोला प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Aqmola
+NAME_IT: regione di Aqmola
+NAME_JA: アクモラ州
+NAME_KO: 아크몰라 주
+NAME_NL: Oblast Aqmola
+NAME_PL: Obwód akmolski
+NAME_PT: Aqmola
+NAME_RU: Акмолинская область
+NAME_SV: Aqmola
+NAME_TR: Akmola Eyaleti
+NAME_VI: Akmola
+NAME_ZH: 阿克莫拉州
+NE_ID: 1159314725

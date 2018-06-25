@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-579
+DISS_ME: 579
+ISO_3166_2: PE-HUC
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Huánuco
+NAME_ALT: Huknuco
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.HC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: HC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE10
+FIPS_ALT: null
+WOE_ID: 2346477
+WOE_LABEL: HuÃ¡nuco, PE, Peru
+WOE_NAME: Huánuco
+LATITUDE: -9.59203
+LONGITUDE: -75.9161
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3696416
+GN_NAME: Region de Huanuco
+GNS_ID: -348661
+GNS_NAME: Huanuco, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE10
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q215221
+NAME_AR: إقليم هانوكو
+NAME_BN: হোয়াঙ্কু অঞ্চল
+NAME_DE: Huánuco
+NAME_EN: Huanuco Region
+NAME_ES: Departamento de Huánuco
+NAME_FR: Région de Huánuco
+NAME_EL: Χουανούκο
+NAME_HI: हुआनुको क्षेत्र
+NAME_HU: Huánuco megye
+NAME_ID: Region Huánuco
+NAME_IT: regione di Huánuco
+NAME_JA: ワヌコ県
+NAME_KO: 우아누코 주
+NAME_NL: Huánuco
+NAME_PL: Region Huánuco
+NAME_PT: Huánuco
+NAME_RU: Уануко
+NAME_SV: Huánuco
+NAME_TR: Huanuco Region
+NAME_VI: Khu vực Huánuco
+NAME_ZH: 瓦努科大区
+NE_ID: 1159307947

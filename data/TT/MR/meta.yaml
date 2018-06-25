@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TTO-55
+DISS_ME: 55
+ISO_3166_2: TT-RCM
+WIKIPEDIA: null
+ISO_A2: TT
+ADM0_SR: 1
+NAME: Rio Claro-Mayaro
+NAME_ALT: Mayaro|Rio Claro
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TT.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: TD16
+FIPS_ALT: null
+WOE_ID: 56189832
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 10.2814
+LONGITUDE: -61.1024
+SOV_A3: TTO
+ADM0_A3: TTO
+ADM0_LABEL: 6
+ADMIN: Trinidad and Tobago
+GEONUNIT: Trinidad and Tobago
+GU_A3: TTO
+GN_ID: 3574155
+GN_NAME: Mayaro
+GNS_ID: 11402777
+GNS_NAME: Mayaro/Rio Claro, Region of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TT.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TD16
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2487249
+NAME_AR: ريو كلارو مايارو الإقليمية
+NAME_BN: রিও ক্লারো-মায়ারো আঞ্চলিক কর্পোরেশন
+NAME_DE: Mayaro-Rio Claro
+NAME_EN: Rio Claro-Mayaro Regional Corporation
+NAME_ES: Río Claro-Mayaro
+NAME_FR: Région de Rio Claro-Mayaro
+NAME_EL: Ρίο Κλάρο-Μαγιάρο
+NAME_HI: रिओ क्लैरो-मायारो क्षेत्रीय निगम
+NAME_HU: null
+NAME_ID: Korporasi Wilayah Rio Claro-Mayaro
+NAME_IT: regione di Rio Claro-Mayaro
+NAME_JA: リオ・クラロー＝マヤロ
+NAME_KO: 리오클라로마야로 지역
+NAME_NL: Rio Claro - Mayaro
+NAME_PL: Korporacja Rio Claro-Mayaro
+NAME_PT: Região de Rio Claro Mayaro
+NAME_RU: Рио Кларо-Майяро
+NAME_SV: Rio Claro-Mayaro
+NAME_TR: Rio Claro-Mayaro
+NAME_VI: Khu liên kết chung Rio Claro-Mayaro
+NAME_ZH: null
+NE_ID: 1159308049

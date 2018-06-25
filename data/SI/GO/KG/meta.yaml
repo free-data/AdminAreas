@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1014
+DISS_ME: 1014
+ISO_3166_2: SI-053
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Kranjska Gora
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.GO.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: Gorenjska
+REGION_COD: null
+PROVNUM_NE: 79
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI53
+FIPS_ALT: null
+WOE_ID: -55848354
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.4482
+LONGITUDE: 13.8502
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239105
+GN_NAME: Obcina Kranjska Gora
+GNS_ID: 243512
+GNS_NAME: Kranjska Gora, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI53
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q507051
+NAME_AR: بلدية كرانجسكا غورا
+NAME_BN: ক্রাঞ্জস্কা গোরা পৌরসভা
+NAME_DE: Kranjska Gora
+NAME_EN: Kranjska Gora Municipality
+NAME_ES: Kranjska Gora
+NAME_FR: Kranjska Gora
+NAME_EL: Κράντζσκα Γκόρα
+NAME_HI: क्रंज्सका गोरा नगरपालिका
+NAME_HU: Kranjska Gora
+NAME_ID: Kotamadya Kranjska Gora
+NAME_IT: Kranjska Gora
+NAME_JA: クランスカ・ゴーラ
+NAME_KO: 크란스카고라
+NAME_NL: Kranjska Gora
+NAME_PL: Gmina Kranjska Gora
+NAME_PT: Kranjska Gora
+NAME_RU: Краньска-Гора
+NAME_SV: Kranjska Gora
+NAME_TR: Kanjska Gora Belediyesi
+NAME_VI: Đô thị tự trị Kranjska Gora
+NAME_ZH: 克拉尼斯卡戈拉
+NE_ID: 1159310833

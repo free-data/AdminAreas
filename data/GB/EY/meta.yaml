@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2124
+DISS_ME: 2124
+ISO_3166_2: GB-ERY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: East Riding of Yorkshire
+NAME_ALT: East Riding, East Yorkshire
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.EY
+NOTE: null
+HASC_MAYBE: null
+REGION: Yorkshire and the Humber
+REGION_COD: null
+PROVNUM_NE: 20093
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: E R York
+POSTAL: EY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 24
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKE1
+FIPS_ALT: UKE1
+WOE_ID: 12602193
+WOE_LABEL: null
+WOE_NAME: East Riding of Yorkshire
+LATITUDE: 53.9047
+LONGITUDE: -0.480224
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2650345
+GN_NAME: East Riding of Yorkshire
+GNS_ID: -2595266
+GNS_NAME: East Riding of Yorkshire, District of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.E1
+REGION_SUB: Kingston upon Hull
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23088
+NAME_AR: إيست رايدينج أوف يوركشير
+NAME_BN: ইয়র্কশায়ার ইস্ট রাইডিং
+NAME_DE: East Riding of Yorkshire
+NAME_EN: East Riding of Yorkshire
+NAME_ES: Yorkshire del Este
+NAME_FR: Yorkshire de l'Est
+NAME_EL: null
+NAME_HI: ईस्ट राइडिंग ऑफ़ यॉर्कशायर
+NAME_HU: East Riding of Yorkshire
+NAME_ID: Yorkshire Timur
+NAME_IT: East Riding of Yorkshire
+NAME_JA: イースト・ライディング・オブ・ヨークシャー
+NAME_KO: 이스트라이딩오브요크셔 주
+NAME_NL: East Riding of Yorkshire
+NAME_PL: East Riding of Yorkshire
+NAME_PT: East Riding of Yorkshire
+NAME_RU: Восточный райдинг Йоркшира
+NAME_SV: East Riding of Yorkshire
+NAME_TR: East Riding Yorkshire
+NAME_VI: East Riding of Yorkshire
+NAME_ZH: 东约克郡
+NE_ID: 1159312955

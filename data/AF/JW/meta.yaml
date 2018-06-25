@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1746
+DISS_ME: 1746
+ISO_3166_2: AF-JOW
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Jawzjan
+NAME_ALT: Jaozjan|Jozjan|Juzjan|Jouzjan|Shibarghan
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.JW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: JW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF31
+FIPS_ALT: AF07
+WOE_ID: 2344576
+WOE_LABEL: Jowzjan, AF, Afghanistan
+WOE_NAME: Jawzjan
+LATITUDE: 36.8971
+LONGITUDE: 65.9617
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1139049
+GN_NAME: Wilayat-e Jowzjan
+GNS_ID: -3378342
+GNS_NAME: Jowzjan, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.31
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF31
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q183036
+NAME_AR: ولاية جوزجان
+NAME_BN: জোওয্‌জান প্রদেশ
+NAME_DE: Dschuzdschan
+NAME_EN: Jowzjan
+NAME_ES: Provincia de Jawzjān
+NAME_FR: Djôzdjân
+NAME_EL: Τζοουζτζάν
+NAME_HI: जोज़जान प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Jowzjan
+NAME_IT: Jowzjan
+NAME_JA: ジューズジャーン州
+NAME_KO: 주즈잔 주
+NAME_NL: Jowzjan
+NAME_PL: Dżozdżan
+NAME_PT: Jowzjan
+NAME_RU: Джаузджан
+NAME_SV: Jowzjan
+NAME_TR: Cüzcan Vilayeti
+NAME_VI: Jowzjan
+NAME_ZH: 朱兹詹省
+NE_ID: 1159312047

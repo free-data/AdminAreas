@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MNG-3328
+DISS_ME: 3328
+ISO_3166_2: MN-037
+WIKIPEDIA: null
+ISO_A2: MN
+ADM0_SR: 1
+NAME: Darhan-Uul
+NAME_ALT: Darchan|Darhan|Darkhan|Darkhan-Uul|Darchan-Uul
+NAME_LOCAL: null
+TYPE: Hot
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: MN.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20020
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 6
+FIPS: MG23
+FIPS_ALT: MG16|MG23
+WOE_ID: 20070014
+WOE_LABEL: Darhan, MN, Mongolia
+WOE_NAME: Darhan-Uul
+LATITUDE: 49.3586
+LONGITUDE: 106.306
+SOV_A3: MNG
+ADM0_A3: MNG
+ADM0_LABEL: 2
+ADMIN: Mongolia
+GEONUNIT: Mongolia
+GU_A3: MNG
+GN_ID: 2055111
+GN_NAME: Darhan-Uul Aymag
+GNS_ID: 6240990
+GNS_NAME: Darhan-Uul Aymag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MN.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: MG23
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q18827
+NAME_AR: محافظة درخان-وول
+NAME_BN: দারখান-উল প্রদেশ
+NAME_DE: Darchan-Uul-Aimag
+NAME_EN: Darkhan-Uul Province
+NAME_ES: Darhan-Uul
+NAME_FR: Darhan-Uul
+NAME_EL: Νταρκχάν-Ουούλ
+NAME_HI: दरख़ान-ऊल प्रांत
+NAME_HU: Darhan-Úl ajmag
+NAME_ID: Provinsi Darkhan-Uul
+NAME_IT: provincia di Darhan-Uul
+NAME_JA: ダルハン・オール県
+NAME_KO: 다르항올 주
+NAME_NL: Darhan-Uul
+NAME_PL: Ajmak darchański
+NAME_PT: Darhan-Uul
+NAME_RU: Дархан-Уул
+NAME_SV: Darchan-Uul
+NAME_TR: Darhan-Ul
+NAME_VI: Darkhan-Uul
+NAME_ZH: 达尔汗乌勒省
+NE_ID: 1159315427

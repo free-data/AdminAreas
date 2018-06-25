@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3403
+DISS_ME: 3403
+ISO_3166_2: NZ-TAS
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Tasman District
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: NZ.TS
+NOTE: null
+HASC_MAYBE: null
+REGION: South Island
+REGION_COD: NZ-S
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 15
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZG4
+FIPS_ALT: null
+WOE_ID: 15021757
+WOE_LABEL: Tasman, NZ, New Zealand
+WOE_NAME: Tasman
+LATITUDE: -41.6713
+LONGITUDE: 172.675
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2181818
+GN_NAME: Tasman
+GNS_ID: 11483312
+GNS_NAME: Tasman Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.TAS
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q666142
+NAME_AR: مقاطعة تاسمان
+NAME_BN: তাসমান জেলা
+NAME_DE: Tasman
+NAME_EN: Tasman District
+NAME_ES: Tasman
+NAME_FR: Tasman
+NAME_EL: Τασμάν
+NAME_HI: तस्मान जिला
+NAME_HU: null
+NAME_ID: Distrik Tasman
+NAME_IT: Tasman
+NAME_JA: タスマン地方
+NAME_KO: 태즈먼 지방
+NAME_NL: Tasman
+NAME_PL: Tasman
+NAME_PT: Tasman
+NAME_RU: Тасман
+NAME_SV: Tasman
+NAME_TR: Tasman Dstrict
+NAME_VI: Quận Tasman
+NAME_ZH: 塔斯曼
+NE_ID: 1159314915

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1513
+DISS_ME: 1513
+ISO_3166_2: ME-11
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Mojkovac
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.MK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MJ00
+FIPS_ALT: null
+WOE_ID: 29389232
+WOE_LABEL: Mojkovac, ME, Montenegro
+WOE_NAME: Mojkovac
+LATITUDE: 42.971
+LONGITUDE: 19.515
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3194925
+GN_NAME: Opstina Mojkovac
+GNS_ID: -89437
+GNS_NAME: Mojkovac, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3299782
+NAME_AR: بلدية مويكوفاتش
+NAME_BN: মজকোভিক পৌরসভা
+NAME_DE: Gemeinde Mojkovac
+NAME_EN: Mojkovac Municipality
+NAME_ES: Municipio de Mojkovac
+NAME_FR: Municipalité de Mojkovac
+NAME_EL: Μόζκοβακ
+NAME_HI: मोकोवैक नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Mojkovac
+NAME_IT: Comune di Mojkovac
+NAME_JA: モイコヴァツ
+NAME_KO: 모이코바츠 지방 자치제
+NAME_NL: Mojkovac
+NAME_PL: Mojkovac
+NAME_PT: Mojkovac
+NAME_RU: Мойковац
+NAME_SV: Mojkovac kommun
+NAME_TR: Mojkovac Belediyesi
+NAME_VI: Đô thị tự trị Mojkovac
+NAME_ZH: null
+NE_ID: 1159310627

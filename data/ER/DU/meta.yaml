@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ERI-1562
+DISS_ME: 1562
+ISO_3166_2: ER-DU
+WIKIPEDIA: null
+ISO_A2: ER
+ADM0_SR: 3
+NAME: Debub
+NAME_ALT: Southern|al-Janubiyah
+NAME_LOCAL: null
+TYPE: Zoba
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: ER.DU
+NOTE: Old Provinces: Akele Guzai, Seraye
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: DU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: ER02
+FIPS_ALT: ER02
+WOE_ID: 24549686
+WOE_LABEL: Semien-Keih-Bahri, ER, Eritrea
+WOE_NAME: Debub
+LATITUDE: 15.6179
+LONGITUDE: 40.1691
+SOV_A3: ERI
+ADM0_A3: ERI
+ADM0_LABEL: 5
+ADMIN: Eritrea
+GEONUNIT: Eritrea
+GU_A3: ERI
+GN_ID: 448502
+GN_NAME: Northern Red Sea Region
+GNS_ID: 9165358
+GNS_NAME: Semenawi K'eyih Bahri
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ER.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tir
+GNS_ADM1: ER06
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q27728
+NAME_AR: منطقة الجنوب
+NAME_BN: ডেবুব অঞ্চল
+NAME_DE: Debub
+NAME_EN: Debub Region
+NAME_ES: Debub
+NAME_FR: Debub
+NAME_EL: Ντεμπούμπ
+NAME_HI: डीबुब प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Debub
+NAME_IT: regione del Sud
+NAME_JA: デブブ地方
+NAME_KO: 남부 주
+NAME_NL: Debub
+NAME_PL: Region Południowy
+NAME_PT: Debub
+NAME_RU: Дэбуб
+NAME_SV: Debubregionen
+NAME_TR: Debub
+NAME_VI: Khu vực Debub
+NAME_ZH: 南部區
+NE_ID: 1159310225

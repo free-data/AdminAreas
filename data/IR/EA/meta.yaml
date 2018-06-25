@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3238
+DISS_ME: 3238
+ISO_3166_2: IR-01
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: East Azarbaijan
+NAME_ALT: Azarbayjan-e Khavari|Azarbaijan-e Sharghi|Azarbaijan-Sharqi|East Azarbayejan|Azerba‹djan e Sharqi
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.EA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: EA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 15
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR01
+FIPS_ALT: IR02|IR33
+WOE_ID: 2345768
+WOE_LABEL: Azarbayjan-e Sharqi, IR, Iran
+WOE_NAME: East Azarbaijan
+LATITUDE: 37.8501
+LONGITUDE: 46.7723
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 142549
+GN_NAME: Ostan-e Azarbayjan-e Sharqi
+GNS_ID: -3054145
+GNS_NAME: Azarbayjan-e Sharqi, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.33
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR33
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q176081
+NAME_AR: محافظة أذربيجان الشرقية
+NAME_BN: পূর্ব আজারবাইজন প্রদেশ
+NAME_DE: Ost-Aserbaidschan
+NAME_EN: East Azerbaijan Province
+NAME_ES: Azerbaiyán Oriental
+NAME_FR: Azerbaïdjan oriental
+NAME_EL: Ανατολικό Αζερμπαϊτζάν
+NAME_HI: पूर्व अज़रबैजान प्रांत
+NAME_HU: Kelet-Azerbajdzsán tartomány
+NAME_ID: Provinsi Azarbaijan Timur
+NAME_IT: Azerbaigian orientale
+NAME_JA: 東アーザルバーイジャーン州
+NAME_KO: 동아제르바이잔 주
+NAME_NL: Oost-Azerbeidzjan
+NAME_PL: Azerbejdżan Wschodni
+NAME_PT: Azerbaijão Oriental
+NAME_RU: Восточный Азербайджан
+NAME_SV: Östazarbaijan
+NAME_TR: Doğu Azerbaycan Eyaleti
+NAME_VI: Đông Azarbaijan
+NAME_ZH: 東亞塞拜疆省
+NE_ID: 1159314307

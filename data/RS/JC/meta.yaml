@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-1059
+DISS_ME: 1059
+ISO_3166_2: RS-06
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Južno-Backi
+NAME_ALT: South Bačka
+NAME_LOCAL: Јужнобачки
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.JC
+NOTE: null
+HASC_MAYBE: null
+REGION: Južno-Bački
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB02
+FIPS_ALT: null
+WOE_ID: 29389212
+WOE_LABEL: Juzhna Bachka, RS, Serbia
+WOE_NAME: Južno-Backi
+LATITUDE: 45.3888
+LONGITUDE: 19.647
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Vojvodina
+GU_A3: SRV
+GN_ID: 7581796
+GN_NAME: Juzhno Backi Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.6
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q648718
+NAME_AR: مقاطعة جنوب باتشكا
+NAME_BN: সাউথ বাক্কা জেলা
+NAME_DE: Okrug Južna Bačka
+NAME_EN: South Bačka District
+NAME_ES: Distrito de Bačka del Sur
+NAME_FR: Bačka méridionale
+NAME_EL: Νότια Μπάκα
+NAME_HI: दक्षिण बाकाका जिला
+NAME_HU: Dél-bácskai körzet
+NAME_ID: Distrik Bačka Selatan
+NAME_IT: Distretto della Bačka Meridionale
+NAME_JA: 南バチュカ郡
+NAME_KO: 남바치카 구
+NAME_NL: Zuid-Bačka
+NAME_PL: Okręg południowobacki
+NAME_PT: Distrito Sul de Backa
+NAME_RU: Южно-Бачский округ
+NAME_SV: Södra Bačka
+NAME_TR: Güney Bačka İlçesi
+NAME_VI: Quận Nam Backa
+NAME_ZH: 南巴奇卡州
+NE_ID: 1159310649

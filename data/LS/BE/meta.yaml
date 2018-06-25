@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LSO-1202
+DISS_ME: 1202
+ISO_3166_2: LS-D
+WIKIPEDIA: null
+ISO_A2: LS
+ADM0_SR: 1
+NAME: Berea
+NAME_ALT: Teyateyaneng
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LS.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: LT10
+FIPS_ALT: null
+WOE_ID: 20069865
+WOE_LABEL: Berea, LS, Lesotho
+WOE_NAME: Berea
+LATITUDE: -29.1918
+LONGITUDE: 27.8982
+SOV_A3: LSO
+ADM0_A3: LSO
+ADM0_LABEL: 5
+ADMIN: Lesotho
+GEONUNIT: Lesotho
+GU_A3: LSO
+GN_ID: 932932
+GN_NAME: Berea
+GNS_ID: -1405356
+GNS_NAME: Berea District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LS.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: LT10
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q737086
+NAME_AR: مقاطعة بيريا
+NAME_BN: বেরিয়া জেলা
+NAME_DE: Berea
+NAME_EN: Berea District
+NAME_ES: Distrito de Berea
+NAME_FR: District de Berea
+NAME_EL: Μπερέα
+NAME_HI: बीरिया जिला
+NAME_HU: null
+NAME_ID: Distrik Berea
+NAME_IT: distretto di Berea
+NAME_JA: ベレア県
+NAME_KO: 베레아 구
+NAME_NL: Berea
+NAME_PL: Dystrykt Berea
+NAME_PT: Berea
+NAME_RU: Берья
+NAME_SV: Berea
+NAME_TR: Berea District
+NAME_VI: Quận Berea
+NAME_ZH: 伯里亞區
+NE_ID: 1159309707

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GUY-678
+DISS_ME: 678
+ISO_3166_2: GY-DE
+WIKIPEDIA: null
+ISO_A2: GY
+ADM0_SR: 1
+NAME: Demerara-Mahaica
+NAME_ALT: Essequibo Islands-West Demerara
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GY.DE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: DE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 16
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: GY12
+FIPS_ALT: GY12
+WOE_ID: 2345607
+WOE_LABEL: Essequibo Islands-West Demerara, GY, Guyana
+WOE_NAME: Demerara-Mahaica
+LATITUDE: 6.54128
+LONGITUDE: -58.3773
+SOV_A3: GUY
+ADM0_A3: GUY
+ADM0_LABEL: 2
+ADMIN: Guyana
+GEONUNIT: Guyana
+GU_A3: GUY
+GN_ID: 3378741
+GN_NAME: Essequibo Islands-West Demerara Region
+GNS_ID: -919776
+GNS_NAME: Essequibo Islands-West Demerara
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GY.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: GY14
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1185362
+NAME_AR: ديميرارا-مهايكا
+NAME_BN: ডেমারারা-মাহিয়াকা
+NAME_DE: Demerara-Mahaica
+NAME_EN: Demerara-Mahaica
+NAME_ES: Demerara-Mahaica
+NAME_FR: Demerara-Mahaica
+NAME_EL: Ντεμεράρα-Μαχάικα
+NAME_HI: डेमरारा-महाइका
+NAME_HU: null
+NAME_ID: Demerara-Mahaica
+NAME_IT: Demerara-Mahaica
+NAME_JA: デメララ・マハイカ州
+NAME_KO: 데메라라마하이카 주
+NAME_NL: Demerara-Mahaica
+NAME_PL: Demerara-Mahaica
+NAME_PT: Demerara-Mahaica
+NAME_RU: Демерара-Махайка
+NAME_SV: Demerara-Mahaica
+NAME_TR: Demerara- Mahaica
+NAME_VI: Demerara-Mahaica
+NAME_ZH: 德梅拉拉-馬海卡區
+NE_ID: 1159308895

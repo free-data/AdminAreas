@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2917
+DISS_ME: 2917
+ISO_3166_2: MK-32
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Zelenikovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.ZK
+NOTE: null
+HASC_MAYBE: null
+REGION: Skopje
+REGION_COD: null
+PROVNUM_NE: 20056
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: ZK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MKC2
+FIPS_ALT: null
+WOE_ID: 24550820
+WOE_LABEL: null
+WOE_NAME: Zelenikovo Municipality
+LATITUDE: 41.8091
+LONGITUDE: 21.5518
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863918
+GN_NAME: Opstina Zelenikovo
+GNS_ID: 9075790
+GNS_NAME: Zelenikovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.C2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK98
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q9050283
+NAME_AR: بلدية زيلينيكوفو
+NAME_BN: জেলেনিকোভো পৌরসভা
+NAME_DE: Opština Zelenikovo
+NAME_EN: Zelenikovo Municipality
+NAME_ES: Municipalidad de Zelenikovo
+NAME_FR: Zelenikovo
+NAME_EL: Δήμος Ζελενικόβου
+NAME_HI: ज़ेलेनिकोवो नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Zelenikovo
+NAME_IT: Zelenikovo
+NAME_JA: ゼレニコヴォ
+NAME_KO: 젤레니코보 시
+NAME_NL: Zelenikovo
+NAME_PL: Gmina Zelenikovo
+NAME_PT: Município de Zelenikovo
+NAME_RU: Зелениково
+NAME_SV: Zelenikovo
+NAME_TR: Zelenikovo Belediyesi
+NAME_VI: Đô thị tự trị Zelenikovo
+NAME_ZH: 澤倫尼科沃區
+NE_ID: 1159314445

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2209
+DISS_ME: 2209
+ISO_3166_2: DZ-09
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Blida
+NAME_ALT: El Boulaïda|Al-Boulaida
+NAME_LOCAL: البليدة
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 44
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG20
+FIPS_ALT: null
+WOE_ID: 2344592
+WOE_LABEL: Blida, DZ, Algeria
+WOE_NAME: Blida
+LATITUDE: 36.503
+LONGITUDE: 2.99331
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2503765
+GN_NAME: Wilaya de Blida
+GNS_ID: -462096
+GNS_NAME: Blida
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG20
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q233637
+NAME_AR: ولاية البليدة
+NAME_BN: বিলিডা প্রদেশ
+NAME_DE: Blida
+NAME_EN: Blida Province
+NAME_ES: Provincia de Blida
+NAME_FR: wilaya de Blida
+NAME_EL: Μπλίντα
+NAME_HI: ब्लिडा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Bulidah
+NAME_IT: provincia di Blida
+NAME_JA: ブリダ県
+NAME_KO: 블리다 주
+NAME_NL: Blida
+NAME_PL: Prowincja Al-Bulajda
+NAME_PT: Blida
+NAME_RU: Блида
+NAME_SV: Blida
+NAME_TR: Blida Vilayeti
+NAME_VI: Blida
+NAME_ZH: 卜利达省
+NE_ID: 1159311963

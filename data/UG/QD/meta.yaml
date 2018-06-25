@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5609
+DISS_ME: 5609
+ISO_3166_2: UG-420
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kiryandongo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.QD
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-NRT
+PROVNUM_NE: 20068
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGF7
+FIPS_ALT: null
+WOE_ID: 20070432
+WOE_LABEL: Masindi, UG, Uganda
+WOE_NAME: Masindi
+LATITUDE: 2.02863
+LONGITUDE: 32.0563
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 8030564
+GN_NAME: Kiryandongo District
+GNS_ID: 11074780
+GNS_NAME: Kiryandongo District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.F7
+REGION_SUB: null
+SUB_CODE: UG23
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3539116
+NAME_AR: مقاطعة كيرياندونغو
+NAME_BN: কিরিয়ান্দুং জেলা
+NAME_DE: Distrikt Kiryandongo
+NAME_EN: Kiryandongo District
+NAME_ES: Distrito de Kiryandongo
+NAME_FR: Kiryandongo
+NAME_EL: Κιριαντόνγκο
+NAME_HI: किरयानडोंगो जिला
+NAME_HU: null
+NAME_ID: Distrik Kiryandongo
+NAME_IT: Kiryandongo
+NAME_JA: キリャンドンゴ県
+NAME_KO: 키리안동고 구
+NAME_NL: Kiryandongo District
+NAME_PL: Dystrykt Kiryandongo
+NAME_PT: Distrito de Kiryandongo
+NAME_RU: Кирьандонго
+NAME_SV: Kiryandongodirstriktet
+NAME_TR: Kiryandongo District
+NAME_VI: Quận Kiryandongo
+NAME_ZH: 基爾揚東戈區
+NE_ID: 1159317343

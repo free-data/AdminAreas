@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: KWT-1667
+DISS_ME: 1667
+ISO_3166_2: KW-JA
+WIKIPEDIA: null
+ISO_A2: KW
+ADM0_SR: 3
+NAME: Al Jahrah
+NAME_ALT: Jahra
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KW.JA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: KU05
+FIPS_ALT: null
+WOE_ID: 20070165
+WOE_LABEL: Al JahraÂ´, KW, Kuwait
+WOE_NAME: Al Jahrah
+LATITUDE: 29.7843
+LONGITUDE: 48.2027
+SOV_A3: KWT
+ADM0_A3: KWT
+ADM0_LABEL: 3
+ADMIN: Kuwait
+GEONUNIT: Kuwait
+GU_A3: KWT
+GN_ID: 285798
+GN_NAME: Muhafazat al Jahra'
+GNS_ID: -789540
+GNS_NAME: Al Jahra'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KW.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: KU05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q405701
+NAME_AR: محافظة الجهراء
+NAME_BN: null
+NAME_DE: Gouvernement al-Dschahra
+NAME_EN: Al Jahra Governorate
+NAME_ES: Yahra
+NAME_FR: Al Jahra
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Dzsahrá kormányzóság
+NAME_ID: Kegubernuran Al-Jahra
+NAME_IT: Al-Jahra
+NAME_JA: ジャハラー県
+NAME_KO: 알자라 주
+NAME_NL: Jahra
+NAME_PL: Al-Dżahra
+NAME_PT: Al Jahra
+NAME_RU: Эль-Джахра
+NAME_SV: Muḩāfaz̧at al Jahrā'
+NAME_TR: El Cehrâ
+NAME_VI: null
+NAME_ZH: 傑赫拉省
+NE_ID: 1159311847

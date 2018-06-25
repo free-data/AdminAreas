@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KAZ-3207
+DISS_ME: 3207
+ISO_3166_2: KZ-ALA
+WIKIPEDIA: null
+ISO_A2: KZ
+ADM0_SR: 1
+NAME: Almaty
+NAME_ALT: Alma-Ata|Alma-Atinskaya Oblast'|Almatinskaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblasy
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KZ.AA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: KAZ-TKG
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AA
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: KZ01
+FIPS_ALT: null
+WOE_ID: 20070180
+WOE_LABEL: Almaty, KZ, Kazakhstan
+WOE_NAME: Almaty
+LATITUDE: 45.0707
+LONGITUDE: 78.2246
+SOV_A3: KAZ
+ADM0_A3: KAZ
+ADM0_LABEL: 2
+ADMIN: Kazakhstan
+GEONUNIT: Kazakhstan
+GU_A3: KAZ
+GN_ID: 1537162
+GN_NAME: Almaty Oblysy
+GNS_ID: 316922
+GNS_NAME: Almaty Oblysy
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KZ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kaz
+GNS_ADM1: KZ01
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q186466
+NAME_AR: أوبليس ألماطي
+NAME_BN: আলমাটি অঞ্চল
+NAME_DE: Almaty
+NAME_EN: Almaty Region
+NAME_ES: Provincia de Almaty
+NAME_FR: Oblys d'Almaty
+NAME_EL: Επαρχία Αλμάτι
+NAME_HI: अलमाती प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Almaty
+NAME_IT: regione di Almaty
+NAME_JA: アルマトイ州
+NAME_KO: 알마티 주
+NAME_NL: Oblast Almaty
+NAME_PL: Obwód ałmacki
+NAME_PT: Almaty
+NAME_RU: Алматинская область
+NAME_SV: Almaty
+NAME_TR: Almatı Eyaleti
+NAME_VI: Almaty
+NAME_ZH: 阿拉木圖州
+NE_ID: 1159314735

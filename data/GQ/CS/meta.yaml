@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNQ-1468
+DISS_ME: 1468
+ISO_3166_2: GQ-CS
+WIKIPEDIA: null
+ISO_A2: GQ
+ADM0_SR: 1
+NAME: Centro Sur
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GQ.CS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: EK06
+FIPS_ALT: null
+WOE_ID: 20069850
+WOE_LABEL: Centro Sur, GQ, Equatorial Guinea
+WOE_NAME: Centro Sur
+LATITUDE: 1.46235
+LONGITUDE: 10.4494
+SOV_A3: GNQ
+ADM0_A3: GNQ
+ADM0_LABEL: 5
+ADMIN: Equatorial Guinea
+GEONUNIT: Equatorial Guinea
+GU_A3: GNQ
+GN_ID: 2566980
+GN_NAME: Provincia de Centro Sur
+GNS_ID: 53703
+GNS_NAME: Centro Sur
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GQ.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: EK06
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q845823
+NAME_AR: مقاطعة سينترو سور
+NAME_BN: সেন্ট্রো সুর প্রদেশ
+NAME_DE: Centro Sur
+NAME_EN: Centro Sur Province
+NAME_ES: Provincia Centro Sur
+NAME_FR: Centro-Sur
+NAME_EL: Κέντρο Σούρ
+NAME_HI: सेंट्रो सुर प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Centro Sur
+NAME_IT: provincia Centro Sud
+NAME_JA: 中南部県
+NAME_KO: 중남부 주
+NAME_NL: Centro Sur
+NAME_PL: Prowincja Środkowo-Południowa
+NAME_PT: Centro Sur
+NAME_RU: Центро-Сур
+NAME_SV: Provincia de Centro Sur
+NAME_TR: Centro Sur Province
+NAME_VI: Tỉnh Centro Sur
+NAME_ZH: 中南省
+NE_ID: 1159310011

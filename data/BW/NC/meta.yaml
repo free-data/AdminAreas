@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-2629
+DISS_ME: 2629
+ISO_3166_2: BW-NW
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: North-West
+NAME_ALT: North West|Bokone-Bophirima
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC11
+CODE_HASC: BW.NC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.NW
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: NW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC08
+FIPS_ALT: BC02|BC11
+WOE_ID: 55949048
+WOE_LABEL: North-West, BW, Botswana
+WOE_NAME: North-West
+LATITUDE: -19.6141
+LONGITUDE: 23.4709
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933230
+GN_NAME: North West District
+GNS_ID: -1397922
+GNS_NAME: North West
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.11
+REGION_SUB: North-West
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC11
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57617
+NAME_AR: مقاطغة شمال غرب
+NAME_BN: নর্থ ওয়েস্ট জেলা
+NAME_DE: North West District
+NAME_EN: North-West District
+NAME_ES: Distrito Noroeste
+NAME_FR: District du Nord-Ouest
+NAME_EL: Βορειοδυτική Περιφέρεια
+NAME_HI: उत्तर-पश्चिमी जिला
+NAME_HU: null
+NAME_ID: Distrik Barat Laut
+NAME_IT: distretto Nordoccidentale
+NAME_JA: ノースウェスト地区
+NAME_KO: 북서부 구
+NAME_NL: North-West
+NAME_PL: Dystrykt Północno-Zachodni
+NAME_PT: Noroeste
+NAME_RU: Северо-Западный округ
+NAME_SV: Northwest
+NAME_TR: Kuzeybatı Bölgesi
+NAME_VI: Quận Tây-Bắc
+NAME_ZH: 西北區
+NE_ID: 1159313279

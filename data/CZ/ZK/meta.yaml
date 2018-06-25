@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CZE-10371
+DISS_ME: 10371
+ISO_3166_2: CZ-ZL
+WIKIPEDIA: http://en.wikipedia.org/wiki/Zl%C3%ADn_Region
+ISO_A2: CZ
+ADM0_SR: 1
+NAME: Zlínský
+NAME_ALT: Zlín Region, Zlínský kraj
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CZ.ZK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070469
+WOE_LABEL: ZlÃ­nskÃ½, CZ, Czech Republic
+WOE_NAME: Zlínský
+LATITUDE: 49.1837
+LONGITUDE: 17.7745
+SOV_A3: CZE
+ADM0_A3: CZE
+ADM0_LABEL: 5
+ADMIN: Czech Republic
+GEONUNIT: Czech Republic
+GU_A3: CZE
+GN_ID: 3339578
+GN_NAME: Zlinsky kraj
+GNS_ID: 9047320
+GNS_NAME: Zlinsky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CZ.90
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: EZ90
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q262111
+NAME_AR: مقاطعة زلين
+NAME_BN: null
+NAME_DE: Okres Zlín
+NAME_EN: Zlín District
+NAME_ES: null
+NAME_FR: District de Zlín
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Zlíni járás
+NAME_ID: null
+NAME_IT: Distretto di Zlín
+NAME_JA: null
+NAME_KO: null
+NAME_NL: Okres Zlín
+NAME_PL: Powiat Zlin
+NAME_PT: Zlín
+NAME_RU: Злин
+NAME_SV: Okres Zlín
+NAME_TR: null
+NAME_VI: Zlín
+NAME_ZH: null
+NE_ID: 1159315779

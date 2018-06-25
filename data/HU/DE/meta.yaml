@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4924
+DISS_ME: 4924
+ISO_3166_2: HU-DE
+WIKIPEDIA: http://en.wikipedia.org/wiki/Debrecen
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Debrecen
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.DE
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Great Plain
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU07
+FIPS_ALT: null
+WOE_ID: 56043620
+WOE_LABEL: Debrecen, HU, Hungary
+WOE_NAME: Debrecen
+LATITUDE: 47.5252
+LONGITUDE: 21.6192
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 720293
+GN_NAME: Hajdu-Bihar megye
+GNS_ID: -851965
+GNS_NAME: Debrecen Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.10
+REGION_SUB: Hajdú-Bihar
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU07
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q79880
+NAME_AR: دبرتسن
+NAME_BN: দেব্রেচেন
+NAME_DE: Debrecen
+NAME_EN: Debrecen
+NAME_ES: Debrecen
+NAME_FR: Debrecen
+NAME_EL: Ντέμπρετσεν
+NAME_HI: डेब्रेसेन
+NAME_HU: Debrecen
+NAME_ID: Debrecen
+NAME_IT: Debrecen
+NAME_JA: デブレツェン
+NAME_KO: 데브레첸
+NAME_NL: Debrecen
+NAME_PL: Debreczyn
+NAME_PT: Debrecen
+NAME_RU: Дебрецен
+NAME_SV: Debrecen
+NAME_TR: Debrecen
+NAME_VI: Debrecen
+NAME_ZH: 德布勒森
+NE_ID: 1159316079

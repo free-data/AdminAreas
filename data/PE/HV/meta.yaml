@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-588
+DISS_ME: 588
+ISO_3166_2: PE-HUV
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Huancavelica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.HV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: HV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE09
+FIPS_ALT: null
+WOE_ID: 2346476
+WOE_LABEL: Huancavelica, PE, Peru
+WOE_NAME: Huancavelica
+LATITUDE: -13.0523
+LONGITUDE: -75.0416
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3939467
+GN_NAME: Region de Huancavelica
+GNS_ID: -348531
+GNS_NAME: Huancavelica, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q505220
+NAME_AR: إقليم هوانكافليكا
+NAME_BN: হুয়াঙ্কাভেলিকা অঞ্চল
+NAME_DE: Huancavelica
+NAME_EN: Huancavelica Region
+NAME_ES: Departamento de Huancavelica
+NAME_FR: Région de Huancavelica
+NAME_EL: Χουανκαβελίκα
+NAME_HI: हुआंकावेलिका प्रदेश
+NAME_HU: Huancavelica megye
+NAME_ID: Region Huancavelica
+NAME_IT: regione di Huancavelica
+NAME_JA: ワンカベリカ県
+NAME_KO: 우앙카벨리카 주
+NAME_NL: Huancavelica
+NAME_PL: Region Huancavelica
+NAME_PT: Huancavelica
+NAME_RU: Уанкавелика
+NAME_SV: Huancavelica
+NAME_TR: Huancavelica Bölgesi
+NAME_VI: Khu vực Huancavelica
+NAME_ZH: 萬卡韋利卡大區
+NE_ID: 1159307967

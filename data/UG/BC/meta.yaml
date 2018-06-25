@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3366
+DISS_ME: 3366
+ISO_3166_2: UG-402
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Bushenyi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BC
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-STH
+PROVNUM_NE: 20026
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG29
+FIPS_ALT: null
+WOE_ID: -20070414
+WOE_LABEL: Bushenyi, UG, Uganda
+WOE_NAME: Bushenyi
+LATITUDE: -0.471119
+LONGITUDE: 30.1245
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443330
+GN_NAME: Bushenyi District
+GNS_ID: 9050316
+GNS_NAME: Bushenyi District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.29
+REGION_SUB: null
+SUB_CODE: UG24
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG29
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1229797
+NAME_AR: مقاطعة بوشيني
+NAME_BN: বুসেনি জেলা
+NAME_DE: Distrikt Bushenyi
+NAME_EN: Bushenyi District
+NAME_ES: Distrito de Bushenyi
+NAME_FR: Bushenyi
+NAME_EL: Μπουσένι
+NAME_HI: बुसानयी जिला
+NAME_HU: null
+NAME_ID: Distrik Bushenyi
+NAME_IT: Bushenyi
+NAME_JA: ブシェニ県
+NAME_KO: 부셰니 구
+NAME_NL: Bushenyi
+NAME_PL: Dystrykt Bushenyi
+NAME_PT: Bushenyi
+NAME_RU: Бушеньи
+NAME_SV: Bushenyidistriktet
+NAME_TR: Bushenyi Districnt
+NAME_VI: Quận Bushenyi
+NAME_ZH: 布謝尼區
+NE_ID: 1159315067

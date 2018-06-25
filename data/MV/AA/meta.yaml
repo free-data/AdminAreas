@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5231
+DISS_ME: 5231
+ISO_3166_2: MV-02
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Alifu Alifu
+NAME_ALT: Ari Atholhu Uthuruburi
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: U
+CODE_HASC: MV.AA
+NOTE: null
+HASC_MAYBE: null
+REGION: North Central
+REGION_COD: MV-NC
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: AA
+POSTAL: AA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: -20070319
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 4.26451
+LONGITUDE: 72.9528
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1282497
+GN_NAME: Alifu Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q775323
+NAME_AR: أليف أليف أتول
+NAME_BN: আলিফ আলিফ এটল
+NAME_DE: Alif Alif
+NAME_EN: Alif Alif Atoll
+NAME_ES: Atolón Alif Alif
+NAME_FR: Alif Alif
+NAME_EL: Αλίφ Αλίφ Ατόλ
+NAME_HI: अलिफ अलीफ एटोल
+NAME_HU: Északi-Ari-atoll
+NAME_ID: Atol Alif Alif
+NAME_IT: Atollo Alif Alif
+NAME_JA: アリフ・アリフ・アトル
+NAME_KO: 알리프알리프 환초
+NAME_NL: Alif Alif-atol
+NAME_PL: Alif Alif
+NAME_PT: Alif Alif Atoll
+NAME_RU: Алиф-Алиф
+NAME_SV: Alifu Atholhu
+NAME_TR: Alif Alif Atoll
+NAME_VI: Alif Alif Atoll
+NAME_ZH: 阿利夫阿利夫環礁
+NE_ID: 1159316675

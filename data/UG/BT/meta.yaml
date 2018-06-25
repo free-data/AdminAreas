@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5599
+DISS_ME: 5599
+ISO_3166_2: UG-119
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Butambala
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BT
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-CNT
+PROVNUM_NE: 20059
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGF1
+FIPS_ALT: null
+WOE_ID: -20070436
+WOE_LABEL: Mpigi, UG, Uganda
+WOE_NAME: Mpigi
+LATITUDE: 0.135674
+LONGITUDE: 32.0026
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7910136
+GN_NAME: Butambala District
+GNS_ID: 11074805
+GNS_NAME: Butambala District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.F1
+REGION_SUB: null
+SUB_CODE: UG18
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3321622
+NAME_AR: مقاطعة بوتمبالا
+NAME_BN: বোতামবালা জেলা
+NAME_DE: Butambala Distrikt
+NAME_EN: Butambala District
+NAME_ES: Distrito de Butambala
+NAME_FR: Butambala
+NAME_EL: Μπουταμπάλα
+NAME_HI: बुताम्बला जिला
+NAME_HU: null
+NAME_ID: Distrik Butambala
+NAME_IT: Butambala
+NAME_JA: ブタンバラ県
+NAME_KO: 부탐발라 구
+NAME_NL: Butambalan
+NAME_PL: Dystrykt Butambala
+NAME_PT: Butambala
+NAME_RU: Бутамбала
+NAME_SV: Butambaladistriktet
+NAME_TR: Butambala District
+NAME_VI: Quận Butambala
+NAME_ZH: 布坦巴拉區
+NE_ID: 1159317381

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MEX-2727
+DISS_ME: 2727
+ISO_3166_2: MX-DIF
+WIKIPEDIA: null
+ISO_A2: MX
+ADM0_SR: 1
+NAME: Distrito Federal
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito Federal
+TYPE_EN: Federal District
+CODE_LOCAL: null
+CODE_HASC: MX.DF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20029
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: DF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 16
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MX09
+FIPS_ALT: MX05
+WOE_ID: 2346272
+WOE_LABEL: Distrito Federal, MX, Mexico
+WOE_NAME: Distrito Federal
+LATITUDE: 19.3266
+LONGITUDE: -99.1369
+SOV_A3: MEX
+ADM0_A3: MEX
+ADM0_LABEL: 2
+ADMIN: Mexico
+GEONUNIT: Mexico
+GU_A3: MEX
+GN_ID: 3527646
+GN_NAME: Distrito Federal
+GNS_ID: -1668516
+GNS_NAME: Federal, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MX.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: MX09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1489
+NAME_AR: مدينة مكسيكو
+NAME_BN: মেক্সিকো সিটি
+NAME_DE: Mexiko-Stadt
+NAME_EN: Mexico City
+NAME_ES: Ciudad de México
+NAME_FR: Mexico
+NAME_EL: Πόλη του Μεξικού
+NAME_HI: मेक्सिको नगर
+NAME_HU: Mexikóváros
+NAME_ID: Kota Meksiko
+NAME_IT: Città del Messico
+NAME_JA: メキシコシティ
+NAME_KO: 멕시코시티
+NAME_NL: Mexico-Stad
+NAME_PL: Meksyk
+NAME_PT: Ciudad de México
+NAME_RU: Мехико
+NAME_SV: Mexico City
+NAME_TR: Meksiko
+NAME_VI: Thành phố México
+NAME_ZH: 墨西哥城
+NE_ID: 1159314087

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3234
+DISS_ME: 3234
+ISO_3166_2: IR-11
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Zanjan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.ZA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20021
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ZA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR36
+FIPS_ALT: IR27
+WOE_ID: 2345786
+WOE_LABEL: Zanjan, IR, Iran
+WOE_NAME: Zanjan
+LATITUDE: 36.3989
+LONGITUDE: 48.2959
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 111452
+GN_NAME: Ostan-e Zanjan
+GNS_ID: -3088977
+GNS_NAME: Zanjan, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR36
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q146726
+NAME_AR: زنجان
+NAME_BN: জান্‌জন প্রদেশ
+NAME_DE: Zandschan
+NAME_EN: Zanjan Province
+NAME_ES: Provincia de Zanjan
+NAME_FR: Province de Zanjan
+NAME_EL: Ζαντζάν
+NAME_HI: ज़ंजन प्रांत
+NAME_HU: Zandzsán tartomány
+NAME_ID: Provinsi Zanjan
+NAME_IT: provincia di Zanjan
+NAME_JA: ザンジャーン州
+NAME_KO: 잔잔 주
+NAME_NL: Zanjan
+NAME_PL: Zandżan
+NAME_PT: Zanjan
+NAME_RU: Зенджан
+NAME_SV: Zanjan
+NAME_TR: Zencan Eyaleti
+NAME_VI: Zanjan
+NAME_ZH: 贊詹省
+NE_ID: 1159314301

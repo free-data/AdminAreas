@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-167
+DISS_ME: 167
+ISO_3166_2: CH-SG
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Sankt Gallen
+NAME_ALT: Saint-Gall|San Gallo|Son Gagl
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.SG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 34
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ15
+FIPS_ALT: null
+WOE_ID: 2347097
+WOE_LABEL: Canton of St. Gallen, CH, Switzerland
+WOE_NAME: Sankt Gallen
+LATITUDE: 47.1524
+LONGITUDE: 9.21267
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2658821
+GN_NAME: Kanton St. Gallen
+GNS_ID: -2554001
+GNS_NAME: Sankt Gallen, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.SG
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ15
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12746
+NAME_AR: كانتون سانت غالن
+NAME_BN: ক্যান্টন সেন্ট গ্যালেন
+NAME_DE: Kanton St. Gallen
+NAME_EN: Canton of St. Gallen
+NAME_ES: Cantón de San Galo
+NAME_FR: canton de Saint-Gall
+NAME_EL: Κάντον οφ Σαίντ Γκαλέν
+NAME_HI: सांक्त गालन कैन्टन
+NAME_HU: Sankt Gallen kanton
+NAME_ID: Kanton St. Gallen
+NAME_IT: Canton San Gallo
+NAME_JA: ザンクト・ガレン州
+NAME_KO: 장크트갈렌 주
+NAME_NL: Sankt Gallen
+NAME_PL: St. Gallen
+NAME_PT: São Galo
+NAME_RU: Санкт-Галлен
+NAME_SV: Sankt Gallen
+NAME_TR: St. Gallen
+NAME_VI: Bang St. Gallen
+NAME_ZH: 聖加侖州
+NE_ID: 1159307669

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-990
+DISS_ME: 990
+ISO_3166_2: SI-123
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Škofljica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.SK
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 106
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIC1
+FIPS_ALT: null
+WOE_ID: -55848364
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.9583
+LONGITUDE: 14.5747
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239066
+GN_NAME: Obcina Skofljica
+GNS_ID: 243456
+GNS_NAME: Skofljica, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.C1
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI88
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q392103
+NAME_AR: بلدية شكوفليتسا
+NAME_BN: স্কোফ্লিকা পৌরসভা
+NAME_DE: Škofljica
+NAME_EN: Škofljica Municipality
+NAME_ES: Škofljica
+NAME_FR: Škofljica
+NAME_EL: Σκοφλτζίκα
+NAME_HI: स्कोफ़लिका नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Škofljica
+NAME_IT: Škofljica
+NAME_JA: シュコフリツァ
+NAME_KO: 슈코플리차
+NAME_NL: Škofljica
+NAME_PL: Gmina Škofljica
+NAME_PT: Škofljica
+NAME_RU: Шкофлица
+NAME_SV: Skofljica kommun
+NAME_TR: Skoflika Belediyesi
+NAME_VI: Škofljica
+NAME_ZH: null
+NE_ID: 1159310783

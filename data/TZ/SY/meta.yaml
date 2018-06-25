@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3358
+DISS_ME: 3358
+ISO_3166_2: TZ-22
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Shinyanga
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.SY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ15
+FIPS_ALT: null
+WOE_ID: 2347366
+WOE_LABEL: Shinyanga, TZ, Tanzania
+WOE_NAME: Shinyanga
+LATITUDE: -3.65098
+LONGITUDE: 33.2015
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 150004
+GN_NAME: Shinyanga Region
+GNS_ID: -2573501
+GNS_NAME: Shinyanga, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ15
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q153339
+NAME_AR: إقليم شينيانغا
+NAME_BN: শিনিয়াঙ্গা অঞ্চল
+NAME_DE: Shinyanga
+NAME_EN: Shinyanga Region
+NAME_ES: Región de Shinyanga
+NAME_FR: Shinyanga
+NAME_EL: Περιφέρεια Σινυάνγκα
+NAME_HI: शिन्यांगा प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Shinyanga
+NAME_IT: regione di Shinyanga
+NAME_JA: シニャンガ州
+NAME_KO: 시니앙가 주
+NAME_NL: Shinyanga
+NAME_PL: Shinyanga
+NAME_PT: Shinyanga
+NAME_RU: Шиньянга
+NAME_SV: Shinyanga
+NAME_TR: Shinyanga Bölgesi
+NAME_VI: Shinyanga
+NAME_ZH: 欣延加區
+NE_ID: 1159315009

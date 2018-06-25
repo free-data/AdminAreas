@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-986
+DISS_ME: 986
+ISO_3166_2: SI-118
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Šentilj
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIB3
+FIPS_ALT: null
+WOE_ID: -55848374
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.6904
+LONGITUDE: 15.713
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239214
+GN_NAME: Obcina Sentilj
+GNS_ID: 243907
+GNS_NAME: Sentilj, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.B3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI55
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q391446
+NAME_AR: بلدية شينتيلي
+NAME_BN: সেন্টিলি পৌরসভা
+NAME_DE: Šentilj
+NAME_EN: Šentilj Municipality
+NAME_ES: Šentilj
+NAME_FR: Šentilj
+NAME_EL: Σεντίλτζ
+NAME_HI: सेंतिल्ज नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Šentilj
+NAME_IT: Šentilj
+NAME_JA: シェンティリ
+NAME_KO: 셴틸
+NAME_NL: Šentilj
+NAME_PL: Gmina Šentilj
+NAME_PT: Šentilj
+NAME_RU: Шентиль
+NAME_SV: Šentilj
+NAME_TR: Šentilj Belediyesi
+NAME_VI: Šentilj
+NAME_ZH: null
+NE_ID: 1159310773

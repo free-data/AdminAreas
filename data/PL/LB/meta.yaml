@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: POL-3143
+DISS_ME: 3143
+ISO_3166_2: PL-LB
+WIKIPEDIA: null
+ISO_A2: PL
+ADM0_SR: 1
+NAME: Lubusz
+NAME_ALT: Lubuskie
+NAME_LOCAL: null
+TYPE: Województwo
+TYPE_EN: Voivodeship|Province
+CODE_LOCAL: null
+CODE_HASC: PL.LB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: PL76
+FIPS_ALT: PL32|PL76
+WOE_ID: 12577939
+WOE_LABEL: Lubusz, PL, Poland
+WOE_NAME: Lubusz
+LATITUDE: 52.2372
+LONGITUDE: 15.4552
+SOV_A3: POL
+ADM0_A3: POL
+ADM0_LABEL: 2
+ADMIN: Poland
+GEONUNIT: Poland
+GU_A3: POL
+GN_ID: 3337494
+GN_NAME: Wojewodztwo Lubuskie
+GNS_ID: 9007882
+GNS_NAME: Lubuskie, Wojewodztwo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PL.76
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: PL76
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q54157
+NAME_AR: محافظة لوبوسكي
+NAME_BN: লুবুজ ভয়ভোডেশিপ
+NAME_DE: Woiwodschaft Lebus
+NAME_EN: Lubusz Voivodeship
+NAME_ES: Voivodato de Lubusz
+NAME_FR: Voïvodie de Lubusz
+NAME_EL: Λουμπούζ Βοϊβοδάτο
+NAME_HI: लुबुस वोइवोडीशिप
+NAME_HU: Lubusi vajdaság
+NAME_ID: Provinsi Lubusz
+NAME_IT: voivodato di Lubusz
+NAME_JA: ルブシュ県
+NAME_KO: 루부시 주
+NAME_NL: Woiwodschap Lubusz
+NAME_PL: województwo lubuskie
+NAME_PT: Voivodia da Lubúsquia
+NAME_RU: Любушское воеводство
+NAME_SV: Lubusz vojvodskap
+NAME_TR: Lubusz Voyvodalığı
+NAME_VI: Lubuskie
+NAME_ZH: 盧布斯卡省
+NE_ID: 1159314683

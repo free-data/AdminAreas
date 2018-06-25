@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1372
+DISS_ME: 1372
+ISO_3166_2: JM-12
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Manchester
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM04
+FIPS_ALT: null
+WOE_ID: 2345914
+WOE_LABEL: Manchester, JM, Jamaica
+WOE_NAME: Manchester
+LATITUDE: 18.0219
+LONGITUDE: -77.4996
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3489586
+GN_NAME: Parish of Manchester
+GNS_ID: -3752706
+GNS_NAME: Manchester, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM04
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q920496
+NAME_AR: أبرشية مانشستر
+NAME_BN: ম্যানচেস্টার পারিস
+NAME_DE: Manchester Parish
+NAME_EN: Manchester Parish
+NAME_ES: Parroquia de Manchester
+NAME_FR: Paroisse de Manchester
+NAME_EL: Μάντσεστερ
+NAME_HI: मेनचेस्टर पैरिश
+NAME_HU: null
+NAME_ID: Paroki Manchester
+NAME_IT: parrocchia di Manchester
+NAME_JA: マンチェスター教区
+NAME_KO: 맨체스터 교구
+NAME_NL: Manchester
+NAME_PL: Manchester
+NAME_PT: Manchester
+NAME_RU: Манчестер
+NAME_SV: Parish of Manchester
+NAME_TR: Manchester Parish
+NAME_VI: Giáo xứ Manchester
+NAME_ZH: 曼徹斯特區
+NE_ID: 1159310269

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LUX-907
+DISS_ME: 907
+ISO_3166_2: LU-G
+WIKIPEDIA: null
+ISO_A2: LU
+ADM0_SR: 1
+NAME: Grevenmacher
+NAME_ALT: Gréivemaacher
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LU.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 7
+FIPS: LU02
+FIPS_ALT: null
+WOE_ID: 20070559
+WOE_LABEL: Grevenmacher, LU, Luxembourg
+WOE_NAME: Grevenmacher
+LATITUDE: 49.6474
+LONGITUDE: 6.33835
+SOV_A3: LUX
+ADM0_A3: LUX
+ADM0_LABEL: 5
+ADMIN: Luxembourg
+GEONUNIT: Luxembourg
+GU_A3: LUX
+GN_ID: 2960513
+GN_NAME: District de Grevenmacher
+GNS_ID: -1735992
+GNS_NAME: Grevenmacher, District de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LU.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: LU02
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q208284
+NAME_AR: مقاطعة غريفنماكر
+NAME_BN: গ্রেভেনমাকের জেলা
+NAME_DE: Distrikt Grevenmacher
+NAME_EN: Grevenmacher District
+NAME_ES: Distrito de Grevenmacher
+NAME_FR: district de Grevenmacher
+NAME_EL: Επαρχία Γκρεβενμάχερ
+NAME_HI: ग्रेवेनमेचर जिला
+NAME_HU: null
+NAME_ID: Distrik Grevenmacher
+NAME_IT: distretto di Grevenmacher
+NAME_JA: グレーヴェンマハ広域行政区
+NAME_KO: 그레벤마허 구
+NAME_NL: District Grevenmacher
+NAME_PL: Dystrykt Grevenmacher
+NAME_PT: Grevenmacher
+NAME_RU: Гревенмахер
+NAME_SV: Grevenmacher
+NAME_TR: Grevenmacher ili
+NAME_VI: Quận Grevenmacher
+NAME_ZH: 格雷文馬赫區
+NE_ID: 1159310953

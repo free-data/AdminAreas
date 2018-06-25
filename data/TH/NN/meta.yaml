@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-409
+DISS_ME: 409
+ISO_3166_2: TH-26
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Nakhon Nayok
+NAME_ALT: Nakon Nayok
+NAME_LOCAL: จังหวัดนครนายก
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.NN
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 72
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH43
+FIPS_ALT: null
+WOE_ID: 2347168
+WOE_LABEL: Nakhon Nayok, TH, Thailand
+WOE_NAME: Nakhon Nayok
+LATITUDE: 14.2249
+LONGITUDE: 101.21
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1608538
+GN_NAME: Changwat Nakhon Nayok
+GNS_ID: -3251549
+GNS_NAME: Nakhon Nayok, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.43
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH43
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q466212
+NAME_AR: محافظة ناخون نايوك
+NAME_BN: নাখন নওক
+NAME_DE: Nakhon Nayok
+NAME_EN: Nakhon Nayok
+NAME_ES: Provincia de Nakhon Nayok
+NAME_FR: Nakhon Nayok
+NAME_EL: Νάκον Ναϊγιόκ
+NAME_HI: नखोन नायोक प्रान्त
+NAME_HU: null
+NAME_ID: Nakhon Nayok
+NAME_IT: provincia di Nakhon Nayok
+NAME_JA: ナコーンナーヨック県
+NAME_KO: 나콘나욕 주
+NAME_NL: Changwat Nakhon Nayok
+NAME_PL: Prowincja Nakhon Nayok
+NAME_PT: Nakhon Nayok
+NAME_RU: Накхоннайок
+NAME_SV: Nakhon Nayok
+NAME_TR: Nakhon Nayok
+NAME_VI: Nakhon Nayok
+NAME_ZH: 坤西育府
+NE_ID: 1159308181

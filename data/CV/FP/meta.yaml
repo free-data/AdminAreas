@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CPV-5042
+DISS_ME: 5042
+ISO_3166_2: CV-SF
+WIKIPEDIA: http://en.wikipedia.org/wiki/S%C3%A3o_Filipe_(municipality)
+ISO_A2: CV
+ADM0_SR: 3
+NAME: São Filipe
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: 82
+CODE_HASC: CV.FP
+NOTE: null
+HASC_MAYBE: null
+REGION: Ilhas de Sotavento
+REGION_COD: CV-S
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: SF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: CV18
+FIPS_ALT: null
+WOE_ID: 56051564
+WOE_LABEL: SÃ£o Filipe, CV, Cape Verde
+WOE_NAME: SÃ£o Filipe
+LATITUDE: 14.9241
+LONGITUDE: -24.4403
+SOV_A3: CPV
+ADM0_A3: CPV
+ADM0_LABEL: 2
+ADMIN: Cape Verde
+GEONUNIT: Cape Verde
+GU_A3: CPV
+GN_ID: 3411927
+GN_NAME: Concelho do Sao Filipe
+GNS_ID: 9146429
+GNS_NAME: Sao Filipe, Concelho do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CV.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CV18
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q6430079
+NAME_AR: ساو فيليب
+NAME_BN: সাঁও ফিলিপ
+NAME_DE: São Filipe
+NAME_EN: São Filipe
+NAME_ES: São Filipe
+NAME_FR: São Filipe
+NAME_EL: Σάο Φιλίπε
+NAME_HI: साओ फिलिप
+NAME_HU: null
+NAME_ID: São Filipe
+NAME_IT: contea di São Filipe
+NAME_JA: サン・フィリペ
+NAME_KO: 상필리프 시
+NAME_NL: São Filipe
+NAME_PL: São Filipe
+NAME_PT: São Filipe
+NAME_RU: Сан-Фелипе
+NAME_SV: Concelho do São Filipe
+NAME_TR: Sao Filipe
+NAME_VI: São Filipe
+NAME_ZH: 聖菲利佩縣
+NE_ID: 1159316303

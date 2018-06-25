@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: KGZ-1119
+DISS_ME: 1119
+ISO_3166_2: KG-B
+WIKIPEDIA: null
+ISO_A2: KG
+ADM0_SR: 1
+NAME: Batken
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KG.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 6
+FIPS: KG09
+FIPS_ALT: null
+WOE_ID: 20070196
+WOE_LABEL: Batken, KG, Kyrgyzstan
+WOE_NAME: Batken
+LATITUDE: 39.7902
+LONGITUDE: 70.8882
+SOV_A3: KGZ
+ADM0_A3: KGZ
+ADM0_LABEL: 2
+ADMIN: Kyrgyzstan
+GEONUNIT: Kyrgyzstan
+GU_A3: KGZ
+GN_ID: 1463580
+GN_NAME: Batken Oblasty
+GNS_ID: 9045380
+GNS_NAME: Batken Oblasty
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KG.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: KG09
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q487631
+NAME_AR: باتكين أوبلاستي
+NAME_BN: বাকেন অঞ্চল
+NAME_DE: Gebiet Batken
+NAME_EN: Batken Region
+NAME_ES: Provincia de Batken
+NAME_FR: Province de Batken
+NAME_EL: Μπάτκεν
+NAME_HI: बातकेन प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Batken
+NAME_IT: provincia di Batken
+NAME_JA: バトケン州
+NAME_KO: 밧켄 주
+NAME_NL: Batken
+NAME_PL: Obwód batkeński
+NAME_PT: Batken
+NAME_RU: Баткенская область
+NAME_SV: Batken
+NAME_TR: Batken İli
+NAME_VI: Khu vực Batken
+NAME_ZH: 巴特肯州
+NE_ID: 1159309469

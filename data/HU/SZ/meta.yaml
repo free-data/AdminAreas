@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3169
+DISS_ME: 3169
+ISO_3166_2: HU-SZ
+WIKIPEDIA: http://en.wikipedia.org/wiki/Szabolcs-Szatm%C3%A1r-Bereg_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Szabolcs-Szatmár-Bereg
+NAME_ALT: Szabolcs-Szatmár
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.SZ
+NOTE: Renamed from Szabolcs-Szatmar
+HASC_MAYBE: null
+REGION: Northern Great Plain
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: SZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 22
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU18
+FIPS_ALT: null
+WOE_ID: 12577925
+WOE_LABEL: Szabolcs-SzatmÃ¡r-Bereg, HU, Hungary
+WOE_NAME: Szabolcs-Szatmár-Bereg
+LATITUDE: 47.9535
+LONGITUDE: 22.182
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 715593
+GN_NAME: Szabolcs-Szatmar-Bereg megye
+GNS_ID: -866636
+GNS_NAME: Szabolcs-Szatmar-Bereg Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.18
+REGION_SUB: Szabolcs-Szatmár-Bereg
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q190518
+NAME_AR: مقاطعة زابولكس-زاتمار-بيريج
+NAME_BN: যাবলচেস-যাত্মার-বেরেগ কাউন্টি
+NAME_DE: Komitat Szabolcs-Szatmár-Bereg
+NAME_EN: Szabolcs-Szatmár-Bereg County
+NAME_ES: Szabolcs-Szatmár-Bereg
+NAME_FR: Szabolcs-Szatmár-Bereg
+NAME_EL: Σζαμπόλκς-Σζατμάρ-Μπερέκ
+NAME_HI: सबोल्ट-सतमार-बेरेग काउंटी
+NAME_HU: Szabolcs-Szatmár-Bereg megye
+NAME_ID: Szabolcs-Szatmár-Bereg
+NAME_IT: provincia di Szabolcs-Szatmár-Bereg
+NAME_JA: サボルチ・サトマール・ベレグ県
+NAME_KO: 서볼치서트마르베레그 주
+NAME_NL: Szabolcs-Szatmár-Bereg
+NAME_PL: Komitat Szabolcs-Szatmár-Bereg
+NAME_PT: Szabolcs-Szatmár-Bereg
+NAME_RU: Сабольч-Сатмар-Берег
+NAME_SV: Szabolcs-Szatmár-Bereg
+NAME_TR: Szabolcs-Szatmár-Bereg ili
+NAME_VI: Hạt Szabolcs-Szatmár-Bereg
+NAME_ZH: 索博爾奇-索特馬爾-貝拉格州
+NE_ID: 1159314653

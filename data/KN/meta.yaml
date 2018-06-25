@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 3
+LABELRANK: 6
+SOVEREIGNT: Saint Kitts and Nevis
+SOV_A3: KNA
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Saint Kitts and Nevis
+ADM0_A3: KNA
+GEOU_DIF: 0
+GEOUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+SU_DIF: 0
+SUBUNIT: Saint Kitts and Nevis
+SU_A3: KNA
+BRK_DIFF: 0
+NAME: St. Kitts and Nevis
+NAME_LONG: Saint Kitts and Nevis
+BRK_A3: KNA
+BRK_NAME: Saint Kitts and Nevis
+BRK_GROUP: null
+ABBREV: St.K.N.
+POSTAL: KN
+FORMAL_EN: Federation of Saint Kitts and Nevis
+FORMAL_FR: null
+NAME_CIAWF: Saint Kitts and Nevis
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: St. Kitts and Nevis
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+POP_EST: 52715
+POP_RANK: 8
+GDP_MD_EST: 1427
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: SC
+ISO_A2: KN
+ISO_A3: KNA
+ISO_A3_EH: KNA
+ISO_N3: 659
+UN_A3: 659
+WB_A2: KN
+WB_A3: KNA
+WOE_ID: 23424940
+WOE_ID_EH: 23424940
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: KNA
+ADM0_A3_US: KNA
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Caribbean
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 19
+LONG_LEN: 21
+ABBREV_LEN: 7
+TINY: 4
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159320983
+WIKIDATAID: Q763
+NAME_AR: سانت كيتس ونيفيس
+NAME_BN: সেন্ট কিট্‌স ও নেভিস
+NAME_DE: St. Kitts und Nevis
+NAME_EN: Saint Kitts and Nevis
+NAME_ES: San Cristóbal y Nieves
+NAME_FR: Saint-Christophe-et-Niévès
+NAME_EL: Άγιος Χριστόφορος και Νέβις
+NAME_HI: सन्त किट्स और नेविस
+NAME_HU: Saint Kitts és Nevis
+NAME_ID: Saint Kitts dan Nevis
+NAME_IT: Saint Kitts e Nevis
+NAME_JA: セントクリストファー・ネイビス
+NAME_KO: 세인트키츠 네비스
+NAME_NL: Saint Kitts en Nevis
+NAME_PL: Saint Kitts i Nevis
+NAME_PT: São Cristóvão e Nevis
+NAME_RU: Сент-Китс и Невис
+NAME_SV: Saint Kitts och Nevis
+NAME_TR: Saint Kitts ve Nevis
+NAME_VI: Saint Kitts và Nevis
+NAME_ZH: 聖克里斯多福與尼維斯

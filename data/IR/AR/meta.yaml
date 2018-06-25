@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3230
+DISS_ME: 3230
+ISO_3166_2: IR-03
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Ardebil
+NAME_ALT: Ardabil
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.AR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR32
+FIPS_ALT: null
+WOE_ID: 20070198
+WOE_LABEL: Ardabil, IR, Iran
+WOE_NAME: Ardebil
+LATITUDE: 38.9113
+LONGITUDE: 47.7241
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 413931
+GN_NAME: Ostan-e Ardabil
+GNS_ID: 408713
+GNS_NAME: Ardabil, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR32
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q134228
+NAME_AR: محافظة أردبيل
+NAME_BN: আর্দাবিল প্রদেশ
+NAME_DE: Ardabil
+NAME_EN: Ardabil Province
+NAME_ES: Provincia de Ardebil
+NAME_FR: Province d'Ardabil
+NAME_EL: Αρνταμπίλ
+NAME_HI: अर्दबील प्रांत
+NAME_HU: Ardabil tartomány
+NAME_ID: Provinsi Ardabil
+NAME_IT: provincia di Ardabil
+NAME_JA: アルダビール州
+NAME_KO: 아르다빌 주
+NAME_NL: Ardebil
+NAME_PL: Ardabil
+NAME_PT: Província de Ardabil
+NAME_RU: Ардебиль
+NAME_SV: Ardabil
+NAME_TR: Erdebil Eyaleti
+NAME_VI: Ardabil
+NAME_ZH: 阿爾達比勒省
+NE_ID: 1159314293

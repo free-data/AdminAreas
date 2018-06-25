@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BOL-1939
+DISS_ME: 1939
+ISO_3166_2: BO-P
+WIKIPEDIA: null
+ISO_A2: BO
+ADM0_SR: 1
+NAME: Potosí
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BO.PO
+NOTE: null
+HASC_MAYBE: BO.OR|BOL-POT
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: PO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+FIPS: BL07
+FIPS_ALT: BL05
+WOE_ID: 2344807
+WOE_LABEL: PotosÃ­, BO, Bolivia
+WOE_NAME: Potosí
+LATITUDE: -20.9033
+LONGITUDE: -66.7701
+SOV_A3: BOL
+ADM0_A3: BOL
+ADM0_LABEL: 2
+ADMIN: Bolivia
+GEONUNIT: Bolivia
+GU_A3: BOL
+GN_ID: 3907580
+GN_NAME: Departamento de Potosi
+GNS_ID: -697975
+GNS_NAME: Potosi, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BO.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BL07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q238079
+NAME_AR: إدارة بوتوسي
+NAME_BN: পুটুসি বিভাগ
+NAME_DE: Potosí
+NAME_EN: Potosí Department
+NAME_ES: Departamento de Potosí
+NAME_FR: département de Potosí
+NAME_EL: Ποτοσί
+NAME_HI: पोतोसी विभाग
+NAME_HU: null
+NAME_ID: Departemen Potosí
+NAME_IT: dipartimento di Potosí
+NAME_JA: ポトシ県
+NAME_KO: 포토시 주
+NAME_NL: Potosí
+NAME_PL: Potosí
+NAME_PT: Potosí
+NAME_RU: Потоси
+NAME_SV: Potosí
+NAME_TR: Potosi Departmanı
+NAME_VI: Khu vực hành chính Potosi
+NAME_ZH: 波托西省
+NE_ID: 1159311183

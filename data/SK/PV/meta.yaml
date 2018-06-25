@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SVK-1058
+DISS_ME: 1058
+ISO_3166_2: SK-PV
+WIKIPEDIA: null
+ISO_A2: SK
+ADM0_SR: 1
+NAME: Prešov
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SK.PV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: SVK-VYC
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: PV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LO05
+FIPS_ALT: null
+WOE_ID: 20070496
+WOE_LABEL: Presovsky, SK, Slovakia
+WOE_NAME: Prešov
+LATITUDE: 49.1426
+LONGITUDE: 21.2037
+SOV_A3: SVK
+ADM0_A3: SVK
+ADM0_LABEL: 2
+ADMIN: Slovakia
+GEONUNIT: Slovakia
+GU_A3: SVK
+GN_ID: 865085
+GN_NAME: Presovsky kraj
+GNS_ID: 9101353
+GNS_NAME: Presovsky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SK.05
+REGION_SUB: Vychodoslovensky
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LO05
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q189001
+NAME_AR: إقليم بريشوف
+NAME_BN: প্রেসো অঞ্চল
+NAME_DE: Prešovský kraj
+NAME_EN: Prešov Region
+NAME_ES: Región de Prešov
+NAME_FR: Région de Prešov
+NAME_EL: Περιφέρεια Πρέσοβ
+NAME_HI: प्रीसोव क्षेत्र
+NAME_HU: Eperjes megye
+NAME_ID: Region Prešov
+NAME_IT: regione di Prešov
+NAME_JA: プレショウ県
+NAME_KO: 프레쇼프 주
+NAME_NL: Prešov
+NAME_PL: Kraj preszowski
+NAME_PT: Prešov
+NAME_RU: Прешовский край
+NAME_SV: Prešov
+NAME_TR: Prešov Bölgesi
+NAME_VI: Vùng Prešov
+NAME_ZH: 普列索夫州
+NE_ID: 1159310949

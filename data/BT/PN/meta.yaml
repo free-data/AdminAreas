@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2440
+DISS_ME: 2440
+ISO_3166_2: BT-23
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Punakha
+NAME_ALT: Punaka
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.PN
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PN
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT15
+FIPS_ALT: BT20|BT15
+WOE_ID: 2344882
+WOE_LABEL: Punakha, BT, Bhutan
+WOE_NAME: Punakha
+LATITUDE: 27.6756
+LONGITUDE: 89.8223
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337288
+GN_NAME: Punakha Dzongkhag
+GNS_ID: 220711
+GNS_NAME: Punakha Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT15
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q587062
+NAME_AR: مقاطعة بوناخا
+NAME_BN: পোনাকা জেলা
+NAME_DE: Punakha
+NAME_EN: Punakha District
+NAME_ES: Distrito de Punakha
+NAME_FR: Punakha
+NAME_EL: Πουνάκχα
+NAME_HI: पुनाखा जिला
+NAME_HU: Punakha körzet
+NAME_ID: Distrik Punakha
+NAME_IT: distretto di Punakha
+NAME_JA: プナカ県
+NAME_KO: 푸나카 현
+NAME_NL: Punakha
+NAME_PL: Dystrykt Punakha
+NAME_PT: Punakha
+NAME_RU: Пунакха
+NAME_SV: Punakha
+NAME_TR: Punakha District
+NAME_VI: Quận Punakha
+NAME_ZH: 普那卡宗
+NE_ID: 1159311839

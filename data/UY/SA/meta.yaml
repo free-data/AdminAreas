@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-10
+DISS_ME: 10
+ISO_3166_2: UY-SA
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Salto
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY15
+FIPS_ALT: null
+WOE_ID: 2347654
+WOE_LABEL: Salto, UY, Uruguay
+WOE_NAME: Salto
+LATITUDE: -31.4398
+LONGITUDE: -57.0428
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3440711
+GN_NAME: Departamento de Salto
+GNS_ID: -908630
+GNS_NAME: Salto, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY15
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q16595
+NAME_AR: إدارة سالتو
+NAME_BN: সালতো বিভাগ
+NAME_DE: Departamento Salto
+NAME_EN: Salto Department
+NAME_ES: Departamento de Salto
+NAME_FR: Salto
+NAME_EL: Γεωγραφικό Διαμέρισμα Σάλτο
+NAME_HI: साल्टो विभाग
+NAME_HU: Salto megye
+NAME_ID: Departemen Salto
+NAME_IT: dipartimento di Salto
+NAME_JA: サルト県
+NAME_KO: 살토 주
+NAME_NL: Salto
+NAME_PL: Salto
+NAME_PT: Salto
+NAME_RU: Сальто
+NAME_SV: Salto
+NAME_TR: Salto Departmanı
+NAME_VI: Salto
+NAME_ZH: 萨尔托省
+NE_ID: 1159307737

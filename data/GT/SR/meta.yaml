@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1957
+DISS_ME: 1957
+ISO_3166_2: GT-SR
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Santa Rosa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.SR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT18
+FIPS_ALT: null
+WOE_ID: 2345569
+WOE_LABEL: Santa Rosa, GT, Guatemala
+WOE_NAME: Santa Rosa
+LATITUDE: 14.1651
+LONGITUDE: -90.3389
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3589172
+GN_NAME: Departamento de Santa Rosa
+GNS_ID: -1142210
+GNS_NAME: Santa Rosa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q885656
+NAME_AR: إدارة سانتا روزا
+NAME_BN: সান্তা রোসা বিভাগ
+NAME_DE: Departamento Santa Rosa
+NAME_EN: Santa Rosa Department
+NAME_ES: Santa Rosa
+NAME_FR: département de Santa Rosa
+NAME_EL: Σάντα Ρόζα
+NAME_HI: सांता रोजा विभाग
+NAME_HU: Santa Rosa megye
+NAME_ID: Departemen Santa Rosa
+NAME_IT: dipartimento di Santa Rosa
+NAME_JA: サンタ・ローサ県
+NAME_KO: 산타로사 주
+NAME_NL: Santa Rosa
+NAME_PL: Santa Rosa
+NAME_PT: Santa Rosa
+NAME_RU: Санта-Роса
+NAME_SV: Departamento de Santa Rosa
+NAME_TR: Santa Rosa Departman
+NAME_VI: Santa Rosa
+NAME_ZH: 聖羅薩省
+NE_ID: 1159311669

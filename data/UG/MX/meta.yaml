@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3127
+DISS_ME: 3127
+ISO_3166_2: UG-308
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Moroto
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.MX
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: UGA-KRM
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG88
+FIPS_ALT: null
+WOE_ID: -20070435
+WOE_LABEL: Moroto, UG, Uganda
+WOE_NAME: Moroto
+LATITUDE: 2.67
+LONGITUDE: 34.712
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: null
+GU_A3: null
+GN_ID: 443356
+GN_NAME: Moroto District
+GNS_ID: 9050745
+GNS_NAME: Moroto District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.88
+REGION_SUB: null
+SUB_CODE: UG08
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG88
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375850
+NAME_AR: مقاطعة موروتو
+NAME_BN: মুরোতু জেলা
+NAME_DE: Moroto-Distrikt
+NAME_EN: Moroto District
+NAME_ES: Distrito de Moroto
+NAME_FR: Moroto
+NAME_EL: Μορότο
+NAME_HI: मोरोटो जिला
+NAME_HU: null
+NAME_ID: Distrik Moroto
+NAME_IT: Moroto
+NAME_JA: モロト県
+NAME_KO: 모로토 구
+NAME_NL: Moroto
+NAME_PL: Dystrykt Moroto
+NAME_PT: Moroto
+NAME_RU: Морото
+NAME_SV: Morotodistriktet
+NAME_TR: Morota District
+NAME_VI: Quận Moroto
+NAME_ZH: 莫羅托區
+NE_ID: 1159313759

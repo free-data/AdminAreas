@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MEX-2729
+DISS_ME: 2729
+ISO_3166_2: MX-GRO
+WIKIPEDIA: null
+ISO_A2: MX
+ADM0_SR: 1
+NAME: Guerrero
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: MX.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MX12
+FIPS_ALT: null
+WOE_ID: 2346275
+WOE_LABEL: Guerrero, MX, Mexico
+WOE_NAME: Guerrero
+LATITUDE: 17.7608
+LONGITUDE: -100.091
+SOV_A3: MEX
+ADM0_A3: MEX
+ADM0_LABEL: 2
+ADMIN: Mexico
+GEONUNIT: Mexico
+GU_A3: MEX
+GN_ID: 3527213
+GN_NAME: Estado de Guerrero
+GNS_ID: -1670205
+GNS_NAME: Guerrero, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MX.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: MX12
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q60158
+NAME_AR: ولاية غيريرو
+NAME_BN: গেরেরো
+NAME_DE: Guerrero
+NAME_EN: Guerrero
+NAME_ES: Estado de Guerrero
+NAME_FR: Guerrero
+NAME_EL: Γκερρέρο
+NAME_HI: ग्वेरेरो
+NAME_HU: Guerrero
+NAME_ID: Guerrero
+NAME_IT: Guerrero
+NAME_JA: ゲレーロ州
+NAME_KO: 게레로 주
+NAME_NL: Guerrero
+NAME_PL: Guerrero
+NAME_PT: Guerrero
+NAME_RU: Герреро
+NAME_SV: Guerrero
+NAME_TR: Guerrero
+NAME_VI: Guerrero
+NAME_ZH: 格雷羅州
+NE_ID: 1159314091

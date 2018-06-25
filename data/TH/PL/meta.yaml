@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-383
+DISS_ME: 383
+ISO_3166_2: TH-93
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Phatthalung
+NAME_ALT: null
+NAME_LOCAL: จังหวัดพัทลุง
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PL
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH66
+FIPS_ALT: null
+WOE_ID: 2347190
+WOE_LABEL: Phatthalung, TH, Thailand
+WOE_NAME: Phatthalung
+LATITUDE: 7.47276
+LONGITUDE: 100.062
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1607778
+GN_NAME: Changwat Phatthalung
+GNS_ID: -3252827
+GNS_NAME: Phatthalung, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.66
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH66
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q243808
+NAME_AR: محافظة فاتالونغ
+NAME_BN: ফাত্থালাং
+NAME_DE: Phatthalung
+NAME_EN: Phatthalung
+NAME_ES: Provincia de Phatthalung
+NAME_FR: Phatthalung
+NAME_EL: Παταλούνγκ
+NAME_HI: फत्थलुंग प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Phatthalung
+NAME_IT: provincia di Phatthalung
+NAME_JA: パッタルン県
+NAME_KO: 파탈룽 주
+NAME_NL: Changwat Phattalung
+NAME_PL: Prowincja Phatthalung
+NAME_PT: Phatthalung
+NAME_RU: Пхаттхалунг
+NAME_SV: Phatthalung
+NAME_TR: Phatthalung
+NAME_VI: Phatthalung
+NAME_ZH: 博他侖府
+NE_ID: 1159309159

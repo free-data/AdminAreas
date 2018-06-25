@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2164
+DISS_ME: 2164
+ISO_3166_2: DZ-36
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: El Tarf
+NAME_ALT: Et Tarf|El Taref
+NAME_LOCAL: ولاية الطارف
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.ET
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: ET
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG44
+FIPS_ALT: null
+WOE_ID: 2344614
+WOE_LABEL: El Tarf, DZ, Algeria
+WOE_NAME: El Tarf
+LATITUDE: 36.7012
+LONGITUDE: 8.14597
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2497322
+GN_NAME: El Tarf
+GNS_ID: -468562
+GNS_NAME: El Tarf
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.44
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG44
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q236788
+NAME_AR: ولاية الطارف
+NAME_BN: এল টারফ প্রদেশ
+NAME_DE: El Tarf
+NAME_EN: El Tarf Province
+NAME_ES: Provincia de El Tarf
+NAME_FR: wilaya d'El Tarf
+NAME_EL: Ελ Ταρφ
+NAME_HI: एल तरेफ प्रांत
+NAME_HU: El Tarf tartomány
+NAME_ID: Provinsi El Tarf
+NAME_IT: provincia di El Tarf
+NAME_JA: エル・タルフ県
+NAME_KO: 엘타르프 주
+NAME_NL: El Tarf
+NAME_PL: Prowincja At-Tarif
+NAME_PT: El Tarf
+NAME_RU: Эль-Тарф
+NAME_SV: El Tarf
+NAME_TR: El Tarif Vilayeti
+NAME_VI: El Taref
+NAME_ZH: 塔里夫省
+NE_ID: 1159312017

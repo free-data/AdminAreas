@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-5584
+DISS_ME: 5584
+ISO_3166_2: TZ-28
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Katavi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.KA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20018
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: RK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ29
+FIPS_ALT: null
+WOE_ID: -2347375
+WOE_LABEL: Rukwa, TZ, Tanzania
+WOE_NAME: Rukwa
+LATITUDE: -6.4277
+LONGITUDE: 31.3404
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: -99
+GN_NAME: null
+GNS_ID: 11666194
+GNS_NAME: Katavi Region
+GN_LEVEL: 0
+GN_REGION: null
+GN_A1_CODE: TZ.
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TZ29
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q2682731
+NAME_AR: إقليم كاتافي
+NAME_BN: কাটাভি অঞ্চল
+NAME_DE: Region Katavi
+NAME_EN: Katavi Region
+NAME_ES: Región del Katavi
+NAME_FR: Région de Katavi
+NAME_EL: Περιφέρεια Κατάβι
+NAME_HI: कातावी क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Katavi
+NAME_IT: Regione del Katavi
+NAME_JA: カタヴィ州
+NAME_KO: 카타비 주
+NAME_NL: Katavi
+NAME_PL: Region Katavi
+NAME_PT: Katavi
+NAME_RU: Катави
+NAME_SV: Katavi
+NAME_TR: Katavi Bölgesi
+NAME_VI: Khu vực Katavi
+NAME_ZH: null
+NE_ID: 1159317325

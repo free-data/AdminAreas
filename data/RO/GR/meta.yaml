@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-131
+DISS_ME: 131
+ISO_3166_2: RO-GR
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Giurgiu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO42
+FIPS_ALT: null
+WOE_ID: 2346655
+WOE_LABEL: Giurgiu, RO, Romania
+WOE_NAME: Giurgiu
+LATITUDE: 44.1133
+LONGITUDE: 25.978
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 677104
+GN_NAME: Judetul Giurgiu
+GNS_ID: -1160367
+GNS_NAME: Giurgiu, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.42
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO42
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q193055
+NAME_AR: مقاطعة جورجيو
+NAME_BN: গিউরগিউ কাউন্টি
+NAME_DE: Kreis Giurgiu
+NAME_EN: Giurgiu County
+NAME_ES: Giurgiu
+NAME_FR: Județ de Giurgiu
+NAME_EL: Γκιούρτζιου
+NAME_HI: जिर्गिउ काउंटी
+NAME_HU: Giurgiu megye
+NAME_ID: Provinsi Giurgiu
+NAME_IT: distretto di Giurgiu
+NAME_JA: ジュルジュ県
+NAME_KO: 지우르지우 주
+NAME_NL: District Giurgiu
+NAME_PL: Okręg Giurgiu
+NAME_PT: Giurgiu
+NAME_RU: Джурджу
+NAME_SV: Giurgiu
+NAME_TR: Yergöğü ili
+NAME_VI: Hạt Giurgiu
+NAME_ZH: 久爾久縣
+NE_ID: 1159307709

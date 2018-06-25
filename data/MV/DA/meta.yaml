@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5237
+DISS_ME: 5237
+ISO_3166_2: MV-17
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Dhaalu
+NAME_ALT: Nilandhe Atholhu Dhekunuburi
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: M
+CODE_HASC: MV.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: MV-CE
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: Dh
+POSTAL: Dh
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070322
+WOE_LABEL: Dhaalu, MV, Maldives
+WOE_NAME: Dhaalu
+LATITUDE: 2.67806
+LONGITUDE: 72.9017
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1282447
+GN_NAME: Dhaalu Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2290784
+NAME_AR: دالو أتول
+NAME_BN: দধালু আতোল
+NAME_DE: Süd-Nilandhe-Atoll
+NAME_EN: Dhaalu Atoll
+NAME_ES: Atolón Dhaalu
+NAME_FR: Atoll Nilandhe Sud
+NAME_EL: Ντααλού Ατόλ
+NAME_HI: धालु एटोल
+NAME_HU: null
+NAME_ID: Atol Dhaalu
+NAME_IT: Atollo Dhaalu
+NAME_JA: ダァール環礁
+NAME_KO: 달루 환초
+NAME_NL: Dhaalu-atol
+NAME_PL: Dhaalu
+NAME_PT: Dhaalu Atoll
+NAME_RU: Дхаалу
+NAME_SV: Dhaalu Atholhu
+NAME_TR: Dhaalu Atoll
+NAME_VI: Dhaalu Atoll
+NAME_ZH: null
+NE_ID: 1159316689

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5733
+DISS_ME: 5733
+ISO_3166_2: LV-107
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Viesites
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.VT
+NOTE: null
+HASC_MAYBE: null
+REGION: Zemgale
+REGION_COD: LV.JK
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGE6
+FIPS_ALT: null
+WOE_ID: -2346026
+WOE_LABEL: Jekabpils Rajons, LV, Latvia
+WOE_NAME: Jekabpils
+LATITUDE: 56.2901
+LONGITUDE: 25.5306
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628335
+GN_NAME: Viesites Novads
+GNS_ID: 10979241
+GNS_NAME: Viesites Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.E6
+REGION_SUB: Zemgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG98
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2093996
+NAME_AR: بلدية فيسيت
+NAME_BN: ভিসাইত পৌরসভা
+NAME_DE: Bezirk Viesīte
+NAME_EN: Viesīte Municipality
+NAME_ES: Municipalidad de Viesīte
+NAME_FR: Viesīte
+NAME_EL: Βιεσίτε
+NAME_HI: विएसिटे नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Viesīte
+NAME_IT: Viesīte
+NAME_JA: ヴィエスィーテ
+NAME_KO: 비에시테 시
+NAME_NL: Viesītes novads
+NAME_PL: Gmina Viesīte
+NAME_PT: Município de Viesite
+NAME_RU: Виеситский край
+NAME_SV: Viesītes novads
+NAME_TR: Viesite Belediyesi
+NAME_VI: Đô thị tự trị Viesite
+NAME_ZH: 維埃賽提斯自治市
+NE_ID: 1159317609

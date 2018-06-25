@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1623
+DISS_ME: 1623
+ISO_3166_2: MD-UN
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Ungheni
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.UG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: UG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD92
+FIPS_ALT: null
+WOE_ID: 20069874
+WOE_LABEL: Ungheni, MD, Moldova
+WOE_NAME: Ungheni
+LATITUDE: 47.2556
+LONGITUDE: 27.9072
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617181
+GN_NAME: Raionul Ungheni
+GNS_ID: -2277530
+GNS_NAME: Ungheni, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.92
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD92
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q854443
+NAME_AR: مقاطعة اونغيني
+NAME_BN: আনগেনি জেলা
+NAME_DE: Rajon Ungheni
+NAME_EN: Ungheni District
+NAME_ES: Distrito de Ungheni
+NAME_FR: Raion d'Ungheni
+NAME_EL: Ουνγκένι
+NAME_HI: उंगेनी जिला
+NAME_HU: null
+NAME_ID: Raionul Ungheni
+NAME_IT: distretto di Ungheni
+NAME_JA: ウンゲニ県
+NAME_KO: 운게니 구
+NAME_NL: Ungheni
+NAME_PL: Rejon Ungheni
+NAME_PT: Ungheni
+NAME_RU: Унгенский район
+NAME_SV: Ungheni rajon
+NAME_TR: Ungheni District
+NAME_VI: Quận Ungheni
+NAME_ZH: 溫格內區
+NE_ID: 1159312579

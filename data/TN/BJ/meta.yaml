@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-103
+DISS_ME: 103
+ISO_3166_2: TN-31
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Béja
+NAME_ALT: Bājah|Béja
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.BJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BJ
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 4
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS17
+FIPS_ALT: null
+WOE_ID: 2347242
+WOE_LABEL: Bajah, TN, Tunisia
+WOE_NAME: Béja
+LATITUDE: 36.5828
+LONGITUDE: 9.37605
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2472770
+GN_NAME: Gouvernorat de Beja
+GNS_ID: -723338
+GNS_NAME: Beja, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS17
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q276576
+NAME_AR: ولاية باجة
+NAME_BN: null
+NAME_DE: Gouvernorat Beja
+NAME_EN: Béja Governorate
+NAME_ES: Gobernación de Béja
+NAME_FR: gouvernorat de Béja
+NAME_EL: Μπατζά
+NAME_HI: null
+NAME_HU: Béja kormányzóság
+NAME_ID: Kegubernuran Béja
+NAME_IT: governatorato di Béja
+NAME_JA: ベジャ県
+NAME_KO: 베자 주
+NAME_NL: Béja
+NAME_PL: Gubernatorstwo Badża
+NAME_PT: Béja
+NAME_RU: Беджа
+NAME_SV: Béja
+NAME_TR: Bace ili
+NAME_VI: null
+NAME_ZH: 巴傑省
+NE_ID: 1159309367

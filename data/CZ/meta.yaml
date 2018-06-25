@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 5
+SOVEREIGNT: Czechia
+SOV_A3: CZE
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Czechia
+ADM0_A3: CZE
+GEOU_DIF: 0
+GEOUNIT: Czechia
+GU_A3: CZE
+SU_DIF: 0
+SUBUNIT: Czechia
+SU_A3: CZE
+BRK_DIFF: 0
+NAME: Czechia
+NAME_LONG: Czech Republic
+BRK_A3: CZE
+BRK_NAME: Czechia
+BRK_GROUP: null
+ABBREV: Cz.
+POSTAL: CZ
+FORMAL_EN: Czech Republic
+FORMAL_FR: la République tchèque
+NAME_CIAWF: Czechia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Czechia
+NAME_ALT: Česko
+MAPCOLOR7: 1
+MAPCOLOR8: 1
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+POP_EST: 10674723
+POP_RANK: 14
+GDP_MD_EST: 350900
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: EZ
+ISO_A2: CZ
+ISO_A3: CZE
+ISO_A3_EH: CZE
+ISO_N3: 203
+UN_A3: 203
+WB_A2: CZ
+WB_A3: CZE
+WOE_ID: 23424810
+WOE_ID_EH: 23424810
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: CZE
+ADM0_A3_US: CZE
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Eastern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 14
+ABBREV_LEN: 3
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320535
+WIKIDATAID: Q213
+NAME_AR: التشيك
+NAME_BN: চেক প্রজাতন্ত্র
+NAME_DE: Tschechien
+NAME_EN: Czech Republic
+NAME_ES: República Checa
+NAME_FR: République tchèque
+NAME_EL: Τσεχία
+NAME_HI: चेक गणराज्य
+NAME_HU: Csehország
+NAME_ID: Republik Ceko
+NAME_IT: Repubblica Ceca
+NAME_JA: チェコ
+NAME_KO: 체코
+NAME_NL: Tsjechië
+NAME_PL: Czechy
+NAME_PT: República Checa
+NAME_RU: Чехия
+NAME_SV: Tjeckien
+NAME_TR: Çek Cumhuriyeti
+NAME_VI: Cộng hòa Séc
+NAME_ZH: 捷克

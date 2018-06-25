@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: SAU-861
+DISS_ME: 861
+ISO_3166_2: SA-08
+WIKIPEDIA: null
+ISO_A2: SA
+ADM0_SR: 1
+NAME: Al Hudud ash Shamaliyah
+NAME_ALT: Northern Frontier
+NAME_LOCAL: null
+TYPE: Emirate|Mintaqah
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SA.HS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: HS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 23
+MAPCOLOR9: 6
+MAPCOLOR13: 7
+FIPS: SA15
+FIPS_ALT: null
+WOE_ID: 2346961
+WOE_LABEL: Al Hudud ash Shamaliyah, SA, Saudi Arabia
+WOE_NAME: Al Hudud ash Shamaliyah
+LATITUDE: 29.227
+LONGITUDE: 43.3124
+SOV_A3: SAU
+ADM0_A3: SAU
+ADM0_LABEL: 2
+ADMIN: Saudi Arabia
+GEONUNIT: Saudi Arabia
+GU_A3: SAU
+GN_ID: 109579
+GN_NAME: Mintaqat al Hudud ash Shamaliyah
+GNS_ID: -3091829
+GNS_NAME: Hudud ash Shamaliyah, Mintaqat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SA.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SA15
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q201781
+NAME_AR: منطقة الحدود الشمالية
+NAME_BN: null
+NAME_DE: Provinz al-Hudud asch-schamaliyya
+NAME_EN: Northern Borders Region
+NAME_ES: Provincia de la Frontera del Norte
+NAME_FR: Hudud ach-Chamaliya
+NAME_EL: Επαρχία Βορείων Συνόρων
+NAME_HI: उत्तरी सीमाएँ प्रान्त
+NAME_HU: Északi határvidék tartomány
+NAME_ID: Hududusy Syamaliyah
+NAME_IT: Al-Hudud al-Shamaliyya
+NAME_JA: 北部国境州
+NAME_KO: 북부 변경 주
+NAME_NL: Al Hudud ash Shamaliyah
+NAME_PL: Północna Prowincja Graniczna
+NAME_PT: Al Hudud ash Shamaliyah
+NAME_RU: Эль-Худуд-эш-Шамалия
+NAME_SV: Al Hudud ash Shamaliyah
+NAME_TR: Kuzey Sınır Bölgesi
+NAME_VI: null
+NAME_ZH: 北部边疆省
+NE_ID: 1159309301

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5413
+DISS_ME: 5413
+ISO_3166_2: IT-CT
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 5
+NAME: Catania
+NAME_ALT: Sicilia
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 95
+CODE_HASC: IT.CT
+NOTE: ITG
+HASC_MAYBE: null
+REGION: Sicily
+REGION_COD: IT-82
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT15
+FIPS_ALT: null
+WOE_ID: 12591830
+WOE_LABEL: null
+WOE_NAME: Catania
+LATITUDE: 37.5882
+LONGITUDE: 14.969
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 5
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 2525065
+GN_NAME: Provincia di Catania
+GNS_ID: -114790
+GNS_NAME: Catania, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.CT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT15
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16154
+NAME_AR: مقاطعة كاتانيا
+NAME_BN: ক্যাটানিয়ার প্রদেশ
+NAME_DE: Provinz Catania
+NAME_EN: Province of Catania
+NAME_ES: Catania
+NAME_FR: Province de Catane
+NAME_EL: Κατάνια
+NAME_HI: कटानिया प्रांत
+NAME_HU: Catania megye
+NAME_ID: Provinsi Catania
+NAME_IT: provincia di Catania
+NAME_JA: カターニア県
+NAME_KO: 카타니아 현
+NAME_NL: Catania
+NAME_PL: Prowincja Katania
+NAME_PT: Catânia
+NAME_RU: Катания
+NAME_SV: Catania
+NAME_TR: Katanya ili
+NAME_VI: Catania
+NAME_ZH: 卡塔尼亞省
+NE_ID: 1159317077

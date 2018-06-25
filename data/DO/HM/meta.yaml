@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1980
+DISS_ME: 1980
+ISO_3166_2: DO-30
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Hato Mayor
+NAME_ALT: Hato Major
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.HM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: HM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR29
+FIPS_ALT: null
+WOE_ID: 2345197
+WOE_LABEL: Hato Mayor, DO, Dominican Republic
+WOE_NAME: Hato Mayor
+LATITUDE: 18.981
+LONGITUDE: -69.403
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3504766
+GN_NAME: Provincia de Hato Mayor
+GNS_ID: -3354377
+GNS_NAME: Hato Mayor, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR29
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q937217
+NAME_AR: مقاطعة هاتو مايور
+NAME_BN: হাতো মেয়র প্রদেশ
+NAME_DE: Hato Mayor
+NAME_EN: Hato Mayor Province
+NAME_ES: Hato Mayor
+NAME_FR: Hato Mayor
+NAME_EL: Επαρχία Άτο Μαγιόρ
+NAME_HI: हातो मेयर प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Hato Mayor
+NAME_IT: provincia di Hato Mayor
+NAME_JA: アト・マジョール州
+NAME_KO: 아토마요르 주
+NAME_NL: Hato Mayor
+NAME_PL: Prowincja Hato Mayor
+NAME_PT: Hato Mayor
+NAME_RU: Ато-Майор
+NAME_SV: Hato Mayor
+NAME_TR: Hato Mayor Province
+NAME_VI: Hato Mayor
+NAME_ZH: 阿托馬約省
+NE_ID: 1159311731

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MOZ-1198
+DISS_ME: 1198
+ISO_3166_2: MZ-P
+WIKIPEDIA: null
+ISO_A2: MZ
+ADM0_SR: 1
+NAME: Cabo Delgado
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: MZ.CD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 12
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: MZ01
+FIPS_ALT: null
+WOE_ID: 2346311
+WOE_LABEL: Cabo Delgado, MZ, Mozambique
+WOE_NAME: Cabo Delgado
+LATITUDE: -12.51
+LONGITUDE: 39.3146
+SOV_A3: MOZ
+ADM0_A3: MOZ
+ADM0_LABEL: 2
+ADMIN: Mozambique
+GEONUNIT: Mozambique
+GU_A3: MOZ
+GN_ID: 1051823
+GN_NAME: Cabo Delgado Province
+GNS_ID: -307828
+GNS_NAME: Cabo Delgado
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MZ.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MZ01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q466538
+NAME_AR: محافظة كابو ديلغادو
+NAME_BN: ক্যাবো ডেল্গাদো প্রদেশ
+NAME_DE: Provinz Cabo Delgado
+NAME_EN: Cabo Delgado Province
+NAME_ES: Cabo Delgado
+NAME_FR: province de Cabo Delgado
+NAME_EL: Κάμπο Ντελγκάντο
+NAME_HI: काबो डेलगाडो प्रांत
+NAME_HU: null
+NAME_ID: Cabo Delgado
+NAME_IT: provincia di Cabo Delgado
+NAME_JA: カボ・デルガード州
+NAME_KO: 카부델가두 주
+NAME_NL: Cabo Delgado
+NAME_PL: Cabo Delgado
+NAME_PT: Cabo Delgado
+NAME_RU: Кабу-Делгаду
+NAME_SV: Cabo Delgado
+NAME_TR: Cabo Delgado Bölgesi
+NAME_VI: Tỉnh Cabo Delgado
+NAME_ZH: 德尔加杜角省
+NE_ID: 1159309839

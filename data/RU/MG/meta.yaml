@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2615
+DISS_ME: 2615
+ISO_3166_2: RU-MAG
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 5
+NAME: Maga Buryatdan
+NAME_ALT: Magadanskaya Oblast
+NAME_LOCAL: Магаданская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.MG
+NOTE: null
+HASC_MAYBE: null
+REGION: Far Eastern
+REGION_COD: null
+PROVNUM_NE: 20022
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 14
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS44
+FIPS_ALT: null
+WOE_ID: 20070512
+WOE_LABEL: Magadanskaya Oblast, RU, Russia
+WOE_NAME: Maga Buryatdan
+LATITUDE: 62.6257
+LONGITUDE: 153.797
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 2123627
+GN_NAME: Magadanskaya Oblast'
+GNS_ID: -2950072
+GNS_NAME: Magadanskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.44
+REGION_SUB: Far Eastern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS44
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q7971
+NAME_AR: ماغادان أوبلاست
+NAME_BN: মাগাদান ওব্লাস্ট
+NAME_DE: Oblast Magadan
+NAME_EN: Magadan Oblast
+NAME_ES: Magadán
+NAME_FR: Oblast de Magadan
+NAME_EL: Περιφέρεια Μαγκαντάν
+NAME_HI: मागादान ओब्लास्त
+NAME_HU: Magadani terület
+NAME_ID: Oblast Magadan
+NAME_IT: oblast' di Magadan
+NAME_JA: マガダン州
+NAME_KO: 마가단 주
+NAME_NL: Oblast Magadan
+NAME_PL: Obwód magadański
+NAME_PT: Oblast de Magadan
+NAME_RU: Магаданская область
+NAME_SV: Magadan oblast
+NAME_TR: Magadan Oblastı
+NAME_VI: Magadan
+NAME_ZH: 马加丹州
+NE_ID: 1159313599

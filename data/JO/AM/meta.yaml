@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-851
+DISS_ME: 851
+ISO_3166_2: JO-AM
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Amman
+NAME_ALT: Ama
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.AM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO16
+FIPS_ALT: JO11
+WOE_ID: 20070289
+WOE_LABEL: 'Amman, JO, Jordan
+WOE_NAME: Amman
+LATITUDE: 31.6211
+LONGITUDE: 36.4418
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 250439
+GN_NAME: Muhafazat `Amman
+GNS_ID: -970364
+GNS_NAME: `Amman
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO16
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q472788
+NAME_AR: محافظة العاصمة
+NAME_BN: আম্মান গভর্নোরেট
+NAME_DE: Gouvernement Amman
+NAME_EN: Amman Governorate
+NAME_ES: Gobernación de Ammán
+NAME_FR: Gouvernorat d'Amman
+NAME_EL: Αμάν
+NAME_HI: अम्मान गवर्नरेट
+NAME_HU: Főváros kormányzóság
+NAME_ID: Amman Governorate
+NAME_IT: governatorato di Amman
+NAME_JA: アンマン県
+NAME_KO: 암만 주
+NAME_NL: Amman
+NAME_PL: Amman
+NAME_PT: Amã
+NAME_RU: Амман
+NAME_SV: Amman
+NAME_TR: Başkent ili
+NAME_VI: Tỉnh Amman
+NAME_ZH: 安曼省
+NE_ID: 1159309317

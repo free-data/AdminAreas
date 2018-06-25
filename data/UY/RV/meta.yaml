@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-14
+DISS_ME: 14
+ISO_3166_2: UY-RV
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Rivera
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.RV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY13
+FIPS_ALT: null
+WOE_ID: 2347652
+WOE_LABEL: Rivera, UY, Uruguay
+WOE_NAME: Rivera
+LATITUDE: -31.4683
+LONGITUDE: -55.3279
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3440780
+GN_NAME: Departamento de Rivera
+GNS_ID: -908561
+GNS_NAME: Rivera, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q16609
+NAME_AR: إدارة ريفيرا
+NAME_BN: রিভার বিভাগ
+NAME_DE: Departamento Rivera
+NAME_EN: Rivera Department
+NAME_ES: Departamento de Rivera
+NAME_FR: Rivera
+NAME_EL: Ριβέρα
+NAME_HI: रिवेरा विभाग
+NAME_HU: Rivera megye
+NAME_ID: Departemen Rivera
+NAME_IT: dipartimento di Rivera
+NAME_JA: リベラ県
+NAME_KO: 리베라 주
+NAME_NL: Rivera
+NAME_PL: Rivera
+NAME_PT: Rivera
+NAME_RU: Ривера
+NAME_SV: Rivera
+NAME_TR: Rivera Departmanı
+NAME_VI: Rivera
+NAME_ZH: 里韦拉省
+NE_ID: 1159307747

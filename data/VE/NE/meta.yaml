@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: VEN-48
+DISS_ME: 48
+ISO_3166_2: VE-O
+WIKIPEDIA: null
+ISO_A2: VE
+ADM0_SR: 5
+NAME: Nueva Esparta
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: VE.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: VE17
+FIPS_ALT: VE17
+WOE_ID: 2347693
+WOE_LABEL: Nueva Esparta, VE, Venezuela
+WOE_NAME: Nueva Esparta
+LATITUDE: 10.9719
+LONGITUDE: -63.9689
+SOV_A3: VEN
+ADM0_A3: VEN
+ADM0_LABEL: 3
+ADMIN: Venezuela
+GEONUNIT: Venezuela
+GU_A3: VEN
+GN_ID: 3631462
+GN_NAME: Estado Nueva Esparta
+GNS_ID: -954092
+GNS_NAME: Nueva Esparta, Estado
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VE.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: VE17
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q204876
+NAME_AR: نويفا إسبارتا
+NAME_BN: নুয়েবা এস্পারতা
+NAME_DE: Nueva Esparta
+NAME_EN: Nueva Esparta
+NAME_ES: Nueva Esparta
+NAME_FR: État de Nueva Esparta
+NAME_EL: Νουέβα Εσπάρτα
+NAME_HI: न्युएवा एस्पार्टा
+NAME_HU: null
+NAME_ID: Nueva Esparta
+NAME_IT: Nuova Sparta
+NAME_JA: ヌエバ・エスパルタ州
+NAME_KO: 누에바에스파르타 주
+NAME_NL: Nueva Esparta
+NAME_PL: Nueva Esparta
+NAME_PT: Nueva Esparta
+NAME_RU: Нуэва-Эспарта
+NAME_SV: Nueva Esparta
+NAME_TR: Nueva Esparta
+NAME_VI: Nueva Esparta
+NAME_ZH: 新埃斯帕塔州
+NE_ID: 1159308037

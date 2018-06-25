@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-291
+DISS_ME: 291
+ISO_3166_2: UA-46
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: L'viv
+NAME_ALT: Lemberg|Llvov|L'vov|Lwow|L'vivs'ka Oblast'
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.LV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP15
+FIPS_ALT: UP15
+WOE_ID: 2347547
+WOE_LABEL: Lviv Oblast, UA, Ukraine
+WOE_NAME: L'viv
+LATITUDE: 49.8152
+LONGITUDE: 24.0372
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 702549
+GN_NAME: L'vivs'ka Oblast'
+GNS_ID: -1045269
+GNS_NAME: L'vivs'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP15
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q164193
+NAME_AR: لفيف أوبلاست
+NAME_BN: লিভিভ ওব্লাস্ট
+NAME_DE: Oblast Lwiw
+NAME_EN: Lviv Oblast
+NAME_ES: Óblast de Leópolis
+NAME_FR: Oblast de Lviv
+NAME_EL: Λβίβ Ομπλάστ
+NAME_HI: लवीव ओब्लास्ट
+NAME_HU: Lvivi terület
+NAME_ID: Oblast Lviv
+NAME_IT: Oblast' di Leopoli
+NAME_JA: リヴィウ州
+NAME_KO: 리비우 주
+NAME_NL: Oblast Lviv
+NAME_PL: Obwód lwowski
+NAME_PT: Oblast de Lviv
+NAME_RU: Львовская область
+NAME_SV: Lviv oblast
+NAME_TR: Lviv Oblastı
+NAME_VI: Lviv
+NAME_ZH: 利沃夫州
+NE_ID: 1159309601

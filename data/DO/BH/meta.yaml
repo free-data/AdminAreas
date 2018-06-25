@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1970
+DISS_ME: 1970
+ISO_3166_2: DO-04
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Barahona
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.BH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BH
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR03
+FIPS_ALT: null
+WOE_ID: 2345174
+WOE_LABEL: Barahona, DO, Dominican Republic
+WOE_NAME: Barahona
+LATITUDE: 18.1674
+LONGITUDE: -71.1872
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3512042
+GN_NAME: Provincia de Barahona
+GNS_ID: -3347093
+GNS_NAME: Barahona, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR03
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1137551
+NAME_AR: محافظة باراهونا
+NAME_BN: বারাহোনা প্রদেশ
+NAME_DE: Barahona
+NAME_EN: Barahona Province
+NAME_ES: Barahona
+NAME_FR: Barahona
+NAME_EL: Επαρχεία Μπαραόνα
+NAME_HI: बाराहोना प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Barahona
+NAME_IT: provincia di Barahona
+NAME_JA: バラオナ
+NAME_KO: 바라오나 주
+NAME_NL: Barahona
+NAME_PL: Prowincja Barahona
+NAME_PT: Barahona
+NAME_RU: Бараона
+NAME_SV: Barahona
+NAME_TR: Barahona Province
+NAME_VI: Barahona
+NAME_ZH: 巴拉奧納省
+NE_ID: 1159311711

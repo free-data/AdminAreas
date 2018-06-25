@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-320
+DISS_ME: 320
+ISO_3166_2: UA-35
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Kirovohrad
+NAME_ALT: Kirovograd|Kirovogradskaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.KH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KH
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP10
+FIPS_ALT: null
+WOE_ID: 2347543
+WOE_LABEL: Kirovohrad Oblast, UA, Ukraine
+WOE_NAME: Kirovohrad
+LATITUDE: 48.4261
+LONGITUDE: 31.8288
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 705811
+GN_NAME: Kirovohrads'ka Oblast'
+GNS_ID: -1041994
+GNS_NAME: Kirovohrads'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q180981
+NAME_AR: كيروفوهراد أوبلاست
+NAME_BN: কিরোভোরাদ ওব্লাস্ট
+NAME_DE: Oblast Kirowohrad
+NAME_EN: Kirovohrad Oblast
+NAME_ES: Óblast de Kirovogrado
+NAME_FR: Oblast de Kirovohrad
+NAME_EL: Κιροβοχράντ
+NAME_HI: किरोवोरॉड ओब्लास्ट
+NAME_HU: Kirovohradi terület
+NAME_ID: Oblast Kirovohrad
+NAME_IT: Oblast' di Kirovohrad
+NAME_JA: キロヴォフラード州
+NAME_KO: 키로보흐라드 주
+NAME_NL: Oblast Kirovohrad
+NAME_PL: Obwód kirowohradzki
+NAME_PT: Oblast de Kirovogrado
+NAME_RU: Кировоградская область
+NAME_SV: Kirovohrad oblast
+NAME_TR: Kirovograd Oblastı
+NAME_VI: Kirovohrad
+NAME_ZH: 基洛夫格勒州
+NE_ID: 1159309613

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5416
+DISS_ME: 5416
+ISO_3166_2: IT-CL
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 5
+NAME: Caltanissetta
+NAME_ALT: Sicilia
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 93
+CODE_HASC: IT.CL
+NOTE: ITG
+HASC_MAYBE: null
+REGION: Sicily
+REGION_COD: IT-82
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT15
+FIPS_ALT: null
+WOE_ID: 12591851
+WOE_LABEL: null
+WOE_NAME: Caltanissetta
+LATITUDE: 37.223
+LONGITUDE: 14.1598
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 5
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 2525447
+GN_NAME: Provincia di Caltanissetta
+GNS_ID: -112597
+GNS_NAME: Caltanissetta, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.CL
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT15
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16150
+NAME_AR: مقاطعة كالتانيسيتا
+NAME_BN: ক্যাল্টানিসসেটার প্রদেশ
+NAME_DE: Provinz Caltanissetta
+NAME_EN: Province of Caltanissetta
+NAME_ES: Caltanissetta
+NAME_FR: Province de Caltanissetta
+NAME_EL: Καλτανισέττα
+NAME_HI: सेल्टानिसेट्टा प्रांत
+NAME_HU: Caltanissetta megye
+NAME_ID: Provinsi Caltanissetta
+NAME_IT: provincia di Caltanissetta
+NAME_JA: カルタニッセッタ県
+NAME_KO: 칼타니세타 현
+NAME_NL: Caltanissetta
+NAME_PL: Prowincja Caltanissetta
+NAME_PT: Caltanissetta
+NAME_RU: Кальтаниссетта
+NAME_SV: Caltanissetta
+NAME_TR: Caltanissetta ili
+NAME_VI: Caltanissetta
+NAME_ZH: 卡爾塔尼塞塔省
+NE_ID: 1159317085

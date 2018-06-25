@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-5520
+DISS_ME: 5520
+ISO_3166_2: TR-78
+WIKIPEDIA: http://en.wikipedia.org/wiki/Karab%C3%BCk_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Karabük
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.KB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ZO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU89
+FIPS_ALT: null
+WOE_ID: 20070186
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 41.2347
+LONGITUDE: 32.5067
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 862468
+GN_NAME: Karabuek
+GNS_ID: 9034895
+GNS_NAME: Karabuk Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.89
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: TU89
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q483168
+NAME_AR: كارابوك
+NAME_BN: কারাবুক প্রদেশ
+NAME_DE: Karabük
+NAME_EN: Karabük Province
+NAME_ES: Provincia de Karabük
+NAME_FR: Karabük
+NAME_EL: Επαρχία Καραμπούκ
+NAME_HI: कराबुक प्रांत
+NAME_HU: Karabük
+NAME_ID: Provinsi Karabük
+NAME_IT: provincia di Karabük
+NAME_JA: カラビュック県
+NAME_KO: 카라뷔크 주
+NAME_NL: Karabük
+NAME_PL: Karabük
+NAME_PT: Karabük
+NAME_RU: Карабюк
+NAME_SV: Karabük
+NAME_TR: Karabük
+NAME_VI: Karabük
+NAME_ZH: 卡拉比克省
+NE_ID: 1159317193

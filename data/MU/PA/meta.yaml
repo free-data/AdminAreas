@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5187
+DISS_ME: 5187
+ISO_3166_2: MU-PA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Pamplemousses_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Pamplemousses
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346232
+WOE_LABEL: Pamplemousses, MU, Mauritius
+WOE_NAME: Pamplemousses
+LATITUDE: -20.0899
+LONGITUDE: 57.573
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934212
+GN_NAME: Pamplemousses District
+GNS_ID: -1355354
+GNS_NAME: Pamplemousses District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.16
+REGION_SUB: Pamplemousses
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MP16
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q934126
+NAME_AR: منطقة بامبلموسز
+NAME_BN: পামপ্লেমোসেস জেলা
+NAME_DE: Pamplemousses
+NAME_EN: Pamplemousses District
+NAME_ES: Distrito de Pamplemousses
+NAME_FR: Pamplemousses
+NAME_EL: Παμπλεμούς
+NAME_HI: पैम्पलमूसेस जिला
+NAME_HU: null
+NAME_ID: Distrik Pamplemousses
+NAME_IT: Pamplemousses
+NAME_JA: パンプルムース県
+NAME_KO: 팜플레무스 구
+NAME_NL: Pamplemousses
+NAME_PL: Pamplemousses
+NAME_PT: Pamplemousses
+NAME_RU: Памплемус
+NAME_SV: Distrikt Pamplemousses
+NAME_TR: Pamplemousses Bölgesi
+NAME_VI: Quận Pamplemousses
+NAME_ZH: 龐波慕斯區
+NE_ID: 1159316569

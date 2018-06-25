@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1745
+DISS_ME: 1745
+ISO_3166_2: AF-FYB
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Faryab
+NAME_ALT: Fariab|Maimana|Meymaneh
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.FB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: FB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF07
+FIPS_ALT: null
+WOE_ID: 2344554
+WOE_LABEL: Faryab, AF, Afghanistan
+WOE_NAME: Faryab
+LATITUDE: 35.8043
+LONGITUDE: 64.7678
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1142226
+GN_NAME: Faryab Province
+GNS_ID: -3375130
+GNS_NAME: Faryab, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q173830
+NAME_AR: ولاية فاریاب
+NAME_BN: ফারিয়ব প্রদেশ
+NAME_DE: Faryab
+NAME_EN: Faryab
+NAME_ES: Provincia de Fāryāb
+NAME_FR: Fâryâb
+NAME_EL: Φαρυάμπ
+NAME_HI: फ़ारयाब प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Faryab
+NAME_IT: Faryab
+NAME_JA: ファーリヤーブ州
+NAME_KO: 파르야브 주
+NAME_NL: Faryab
+NAME_PL: Farjab
+NAME_PT: Faryab
+NAME_RU: Фарьяб
+NAME_SV: Faryab
+NAME_TR: Faryab Vilayeti
+NAME_VI: Faryab
+NAME_ZH: 法利亚布省
+NE_ID: 1159312045

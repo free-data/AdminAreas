@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 5
+LABELRANK: 5
+SOVEREIGNT: United Kingdom
+SOV_A3: GB1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Dependency
+ADMIN: British Indian Ocean Territory
+ADM0_A3: IOT
+GEOU_DIF: 0
+GEOUNIT: British Indian Ocean Territory
+GU_A3: IOT
+SU_DIF: 0
+SUBUNIT: British Indian Ocean Territory
+SU_A3: IOT
+BRK_DIFF: 1
+NAME: Br. Indian Ocean Ter.
+NAME_LONG: British Indian Ocean Territory
+BRK_A3: B69
+BRK_NAME: Br. Indian Ocean Ter.
+BRK_GROUP: null
+ABBREV: I.O.T.
+POSTAL: IO
+FORMAL_EN: null
+FORMAL_FR: null
+NAME_CIAWF: null
+NOTE_ADM0: U.K.
+NOTE_BRK: Admin. by U.K.; Claimed by Mauritius and Seychelles
+NAME_SORT: British Indian Ocean Territory
+NAME_ALT: null
+MAPCOLOR7: 6
+MAPCOLOR8: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+POP_EST: 4000
+POP_RANK: 4
+GDP_MD_EST: 160
+POP_YEAR: 2013
+LASTCENSUS: -99
+GDP_YEAR: 2013
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: IO
+ISO_A2: IO
+ISO_A3: IOT
+ISO_A3_EH: IOT
+ISO_N3: 086
+UN_A3: -099
+WB_A2: -99
+WB_A3: -99
+WOE_ID: 23424849
+WOE_ID_EH: 23424849
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: IOT
+ADM0_A3_US: IOT
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Seven seas (open ocean)
+REGION_UN: Seven seas (open ocean)
+SUBREGION: Seven seas (open ocean)
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 21
+LONG_LEN: 30
+ABBREV_LEN: 6
+TINY: 5
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 9.5
+NE_ID: 1159320723
+WIKIDATAID: Q43448
+NAME_AR: إقليم المحيط الهندي البريطاني
+NAME_BN: ব্রিটিশ ভারত মহাসাগরীয় এলাকা
+NAME_DE: Britisches Territorium im Indischen Ozean
+NAME_EN: British Indian Ocean Territory
+NAME_ES: Territorio Británico del Océano Índico
+NAME_FR: Territoire britannique de l'océan Indien
+NAME_EL: Βρετανικό Έδαφος Ινδικού Ωκεανού
+NAME_HI: ब्रिटिश हिंद महासागर क्षेत्र
+NAME_HU: Brit Indiai-óceáni Terület
+NAME_ID: Wilayah Samudra Hindia Britania
+NAME_IT: Territorio britannico dell'oceano Indiano
+NAME_JA: イギリス領インド洋地域
+NAME_KO: 영국령 인도양 지역
+NAME_NL: Brits Indische Oceaanterritorium
+NAME_PL: Brytyjskie Terytorium Oceanu Indyjskiego
+NAME_PT: Território Britânico do Oceano Índico
+NAME_RU: Британская территория в Индийском океане
+NAME_SV: Brittiska territoriet i Indiska oceanen
+NAME_TR: Britanya Hint Okyanusu Toprakları
+NAME_VI: Lãnh thổ Ấn Độ Dương thuộc Anh
+NAME_ZH: 英屬印度洋領地

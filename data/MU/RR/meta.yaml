@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5192
+DISS_ME: 5192
+ISO_3166_2: MU-RR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Rivi%C3%A8re_du_Rempart_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Rivière du Rempart
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.RR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 18
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346235
+WOE_LABEL: Riviere du Rempart, MU, Mauritius
+WOE_NAME: Riviere du Rempart
+LATITUDE: -20.0651
+LONGITUDE: 57.6557
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934090
+GN_NAME: Riviere du Rempart District
+GNS_ID: -1355486
+GNS_NAME: Riviere du Rempart
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.19
+REGION_SUB: Rivière du Rempart
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MP19
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1053565
+NAME_AR: مقاطعة ريفير دو ريمبارت
+NAME_BN: রিভেরি ডো রেম্প জেলা
+NAME_DE: Rivière du Rempart
+NAME_EN: Rivière du Rempart District
+NAME_ES: Distrito de Rivière du Rempart
+NAME_FR: Rivière du Rempart
+NAME_EL: Ριβιέρ ντου Ρεμπάρτ
+NAME_HI: रिवेयर डू रेम्पार्ट जिला
+NAME_HU: null
+NAME_ID: Distrik Rivière du Rempart
+NAME_IT: Rivière du Rempart
+NAME_JA: リヴィエール・デュ・ランパール県
+NAME_KO: 리비에르뒤랑파르 구
+NAME_NL: Rivière du Rempart
+NAME_PL: Rivière du Rempart
+NAME_PT: Rivière du Rempart
+NAME_RU: Ривьер-дю-Рампар
+NAME_SV: Rivière du Rempart
+NAME_TR: Riviere du Rempart Bölgesi
+NAME_VI: Quận Rivière du Rempart
+NAME_ZH: 朗帕河區
+NE_ID: 1159316571

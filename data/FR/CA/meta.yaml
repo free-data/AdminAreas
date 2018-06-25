@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5283
+DISS_ME: 5283
+ISO_3166_2: FR-22
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 4
+NAME: Côtes-d'Armor
+NAME_ALT: Bretaña|Brittany
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: Bretagne
+REGION_COD: FR-E
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA2
+FIPS_ALT: null
+WOE_ID: 12591799
+WOE_LABEL: null
+WOE_NAME: Côtes-d'Armor
+LATITUDE: 48.4383
+LONGITUDE: -2.93239
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3023414
+GN_NAME: Departement des Cotes-d'Armor
+GNS_ID: -1421933
+GNS_NAME: Cotes-du-Nord, Departement des
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA2
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q3349
+NAME_AR: كوت درمور
+NAME_BN: কোট-ডি'আমর
+NAME_DE: Département Côtes-d’Armor
+NAME_EN: Côtes-d'Armor
+NAME_ES: Côtes-d'Armor
+NAME_FR: Côtes-d'Armor
+NAME_EL: Κοτ-ντ'Αρμόρ
+NAME_HI: कोटेस-डी'आर्मोर
+NAME_HU: Côtes-d’Armor
+NAME_ID: Côtes-d'Armor
+NAME_IT: Côtes-d'Armor
+NAME_JA: コート＝ダルモール県
+NAME_KO: 코트다르모르 주
+NAME_NL: Côtes-d'Armor
+NAME_PL: Côtes-d'Armor
+NAME_PT: Côtes-d'Armor
+NAME_RU: Кот-д’Армор
+NAME_SV: Côtes-d'Armor
+NAME_TR: Côtes-d'Armor
+NAME_VI: Côtes-d'Armor
+NAME_ZH: 阿摩尔滨海省
+NE_ID: 1159316753

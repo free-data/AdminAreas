@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-377
+DISS_ME: 377
+ISO_3166_2: TH-83
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 3
+NAME: Phuket
+NAME_ALT: null
+NAME_LOCAL: จังหวัดภูเก็ต
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PU
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PU
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH62
+FIPS_ALT: null
+WOE_ID: 2347186
+WOE_LABEL: Phuket, TH, Thailand
+WOE_NAME: Phuket
+LATITUDE: 7.97108
+LONGITUDE: 98.3472
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1151253
+GN_NAME: Phuket Province
+GNS_ID: -3253343
+GNS_NAME: Phuket, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.62
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH62
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q182565
+NAME_AR: محافظة بوكيت
+NAME_BN: ফুকেট
+NAME_DE: Phuket
+NAME_EN: Phuket
+NAME_ES: Provincia de Phuket
+NAME_FR: Phuket
+NAME_EL: Πουκέτ
+NAME_HI: फूकेत प्रान्त
+NAME_HU: Phuket
+NAME_ID: Phuket
+NAME_IT: provincia di Phuket
+NAME_JA: プーケット県
+NAME_KO: 푸껫 주
+NAME_NL: Changwat Phuket
+NAME_PL: Prowincja Phuket
+NAME_PT: Phuket
+NAME_RU: Пхукет
+NAME_SV: Phuket
+NAME_TR: Phuket
+NAME_VI: Phuket
+NAME_ZH: 普吉府
+NE_ID: 1159308011

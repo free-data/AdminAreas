@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5394
+DISS_ME: 5394
+ISO_3166_2: IT-VV
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Vibo Valentia
+NAME_ALT: Calabre|Calabrie|Kalabrien
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 88
+CODE_HASC: IT.VV
+NOTE: ITF
+HASC_MAYBE: null
+REGION: Calabria
+REGION_COD: IT-78
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: VV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT03
+FIPS_ALT: null
+WOE_ID: 15022640
+WOE_LABEL: null
+WOE_NAME: Vibo Valentia
+LATITUDE: 38.6431
+LONGITUDE: 16.1928
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 6457405
+GN_NAME: Provincia di Vibo-Valentia
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.VV
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16315
+NAME_AR: مقاطعة فيبو فالينتيا
+NAME_BN: ভিভো ভ্যালেন্সিয়া-এর প্রদেশ
+NAME_DE: Provinz Vibo Valentia
+NAME_EN: Province of Vibo Valentia
+NAME_ES: Vibo Valentia
+NAME_FR: province de Vibo Valentia
+NAME_EL: Βίμπο Βαλέντια
+NAME_HI: वीबो वैलेंशिया प्रांत
+NAME_HU: Vibo Valentia megye
+NAME_ID: Provinsi Vibo Valentia
+NAME_IT: provincia di Vibo Valentia
+NAME_JA: ヴィボ・ヴァレンツィア県
+NAME_KO: 비보발렌티아 현
+NAME_NL: Vibo Valentia
+NAME_PL: Prowincja Vibo Walentia
+NAME_PT: Vibo Valentia
+NAME_RU: Вибо-Валентия
+NAME_SV: Vibo Valentia
+NAME_TR: Vibo Valentia ili
+NAME_VI: Vibo Valentia
+NAME_ZH: 維博瓦倫蒂亞省
+NE_ID: 1159317067

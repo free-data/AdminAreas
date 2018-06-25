@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-322
+DISS_ME: 322
+ISO_3166_2: UA-51
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Odessa
+NAME_ALT: Odesa|Odes'ka Oblast'|Odesskaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.OD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: MY
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP17
+FIPS_ALT: UP17|UP16
+WOE_ID: 2347549
+WOE_LABEL: Odessa Oblast, UA, Ukraine
+WOE_NAME: Odessa
+LATITUDE: 46.0315
+LONGITUDE: 29.7568
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 698738
+GN_NAME: Odes'ka Oblast'
+GNS_ID: -1049094
+GNS_NAME: Odes'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP17
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q171852
+NAME_AR: أوديسا أوبلاست
+NAME_BN: ওডেস্যা ওব্লাস্ট
+NAME_DE: Oblast Odessa
+NAME_EN: Odessa Oblast
+NAME_ES: Óblast de Odesa
+NAME_FR: Oblast d'Odessa
+NAME_EL: Περιφέρεια Οδησσού
+NAME_HI: ओडेसा ओब्लास्ट
+NAME_HU: Odesszai terület
+NAME_ID: Oblast Odessa
+NAME_IT: Oblast' di Odessa
+NAME_JA: オデッサ州
+NAME_KO: 오데사 주
+NAME_NL: Oblast Odessa
+NAME_PL: Obwód odeski
+NAME_PT: Oblast de Odessa
+NAME_RU: Одесская область
+NAME_SV: Odessa oblast
+NAME_TR: Odessa Oblastı
+NAME_VI: Odessa
+NAME_ZH: 敖德萨州
+NE_ID: 1159309617

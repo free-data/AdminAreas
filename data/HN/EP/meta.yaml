@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-662
+DISS_ME: 662
+ISO_3166_2: HN-EP
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: El Paraíso
+NAME_ALT: Paraiso
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.EP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: EP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO07
+FIPS_ALT: null
+WOE_ID: 2345629
+WOE_LABEL: El ParaÃ­so, HN, Honduras
+WOE_NAME: El Paraíso
+LATITUDE: 14.037
+LONGITUDE: -86.5592
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3610942
+GN_NAME: Departamento de El Paraiso
+GNS_ID: -1120191
+GNS_NAME: El Paraiso
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q867108
+NAME_AR: إدارة بارايسو
+NAME_BN: এল পারাইসো বিভাগ
+NAME_DE: Departamento El Paraíso
+NAME_EN: El Paraíso Department
+NAME_ES: El Paraíso
+NAME_FR: département d'El Paraíso
+NAME_EL: Ελ Παραΐσο
+NAME_HI: अल पेराइसो डिपार्टमेंट
+NAME_HU: El Paraíso megye
+NAME_ID: Departemen El Paraíso
+NAME_IT: dipartimento di El Paraíso
+NAME_JA: エル・パライソ県
+NAME_KO: 엘파라이소 주
+NAME_NL: El Paraíso
+NAME_PL: El Paraíso
+NAME_PT: El Paraíso
+NAME_RU: Эль-Параисо
+NAME_SV: El Paraiso
+NAME_TR: El Paraiso Departmanı
+NAME_VI: El Paraíso
+NAME_ZH: 埃爾帕拉伊索省
+NE_ID: 1159309127

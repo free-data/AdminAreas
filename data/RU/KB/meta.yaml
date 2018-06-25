@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2304
+DISS_ME: 2304
+ISO_3166_2: RU-KB
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Kabardin-Balkar
+NAME_ALT: Kabardin A.S.S.R.|Kabardino-Balkarskaya A.S.S.R.|Kabardino-Balkariya|Kabardino-Balkarsk|Kabard|Kabardino-Balkarskaya Republic
+NAME_LOCAL: Кабардино-Балкарская Республика
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.KB
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20039
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 15
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS22
+FIPS_ALT: null
+WOE_ID: 2346871
+WOE_LABEL: Kabardino-Balkariya, RU, Russia
+WOE_NAME: Kabardin-Balkar
+LATITUDE: 43.3757
+LONGITUDE: 43.3982
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 554667
+GN_NAME: Kabardino-Balkarskaya Respublika
+GNS_ID: -2918183
+GNS_NAME: Kabardino-Balkarskaya Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.22
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS22
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5267
+NAME_AR: قبردينو - بلقاريا
+NAME_BN: কাবার্ডিনো-বল্কার রিপাবলিক
+NAME_DE: Kabardino-Balkarien
+NAME_EN: Kabardino-Balkar Republic
+NAME_ES: Kabardia-Balkaria
+NAME_FR: Kabardino-Balkarie
+NAME_EL: Δημοκρατία της Καμπαρντίνο - Μπαλκάρια
+NAME_HI: काबारदीनो-बल्कारिया
+NAME_HU: Kabard- és Balkárföld
+NAME_ID: Kabardino-Balkaria
+NAME_IT: Cabardino-Balcaria
+NAME_JA: カバルダ・バルカル共和国
+NAME_KO: 카바르디노발카르 공화국
+NAME_NL: Kabardië-Balkarië
+NAME_PL: Kabardo-Bałkaria
+NAME_PT: Cabárdia-Balcária
+NAME_RU: Кабардино-Балкария
+NAME_SV: Kabardinien-Balkarien
+NAME_TR: Kabardino-Balkarya
+NAME_VI: Kabardino-Balkaria
+NAME_ZH: 卡巴爾達-巴爾卡爾共和國
+NE_ID: 1159313143

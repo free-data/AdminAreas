@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1225
+DISS_ME: 1225
+ISO_3166_2: ID-BE
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 4
+NAME: Bengkulu
+NAME_ALT: Bencoolen|Benkoelen|Benkulen
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: BE
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID03
+FIPS_ALT: null
+WOE_ID: 2345712
+WOE_LABEL: Bengkulu, ID, Indonesia
+WOE_NAME: Bengkulu
+LATITUDE: -3.48606
+LONGITUDE: 102.368
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1649147
+GN_NAME: Propinsi Bengkulu
+GNS_ID: -2672899
+GNS_NAME: Bengkulu, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID03
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q1890
+NAME_AR: بنغكولو
+NAME_BN: বেংকুলু প্রদেশ
+NAME_DE: Bengkulu
+NAME_EN: Bengkulu Province
+NAME_ES: Bengkulu
+NAME_FR: Bengkulu
+NAME_EL: Μπενγκούλου
+NAME_HI: बेंकुलू
+NAME_HU: Bengkulu
+NAME_ID: Bengkulu
+NAME_IT: Bengkulu
+NAME_JA: ブンクル州
+NAME_KO: 븡쿨루 주
+NAME_NL: Bengkulu
+NAME_PL: Bengkulu
+NAME_PT: Bengkulu
+NAME_RU: Бенкулу
+NAME_SV: Bengkulu
+NAME_TR: Bengkulu
+NAME_VI: Bengkulu
+NAME_ZH: 明古魯省
+NE_ID: 1159309889

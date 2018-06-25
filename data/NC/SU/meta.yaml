@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: NCL-1259
+DISS_ME: 1259
+ISO_3166_2: NC-X02~
+WIKIPEDIA: null
+ISO_A2: NC
+ADM0_SR: 4
+NAME: Sud
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: NC.SU
+NOTE: includes all nearby islands
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: SU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 3
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: NC03
+FIPS_ALT: null
+WOE_ID: 24549807
+WOE_LABEL: Sud, NC, New Caledonia
+WOE_NAME: Sud
+LATITUDE: -22.608
+LONGITUDE: 167.487
+SOV_A3: FR1
+ADM0_A3: NCL
+ADM0_LABEL: 2
+ADMIN: New Caledonia
+GEONUNIT: New Caledonia
+GU_A3: NCL
+GN_ID: 2140464
+GN_NAME: Province Sud
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NC.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q965632
+NAME_AR: المقاطعة الجنوبية
+NAME_BN: দক্ষিন প্রদেশ
+NAME_DE: Südprovinz
+NAME_EN: South Province
+NAME_ES: Provincia Sur
+NAME_FR: Province Sud
+NAME_EL: Σάουθ Πρόβινς
+NAME_HI: दक्षिण प्रांत
+NAME_HU: null
+NAME_ID: Province Sud
+NAME_IT: Provincia Sud
+NAME_JA: 南部州
+NAME_KO: 남쪽 주
+NAME_NL: Province Sud
+NAME_PL: Prowincja Południowa
+NAME_PT: Sud
+NAME_RU: Южная провинция
+NAME_SV: Sydprovinsen
+NAME_TR: South Province
+NAME_VI: Tỉnh Nam
+NAME_ZH: 南部省
+NE_ID: 1159309729

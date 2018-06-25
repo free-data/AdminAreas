@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5292
+DISS_ME: 5292
+ISO_3166_2: FR-29
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 4
+NAME: Finistère
+NAME_ALT: Bretaña|Brittany
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.FI
+NOTE: null
+HASC_MAYBE: null
+REGION: Bretagne
+REGION_COD: FR-E
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA2
+FIPS_ALT: null
+WOE_ID: 12591797
+WOE_LABEL: null
+WOE_NAME: Finistère
+LATITUDE: 48.3309
+LONGITUDE: -3.92644
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3018471
+GN_NAME: Departement du Finistere
+GNS_ID: -1426891
+GNS_NAME: Finistere, Departement du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA2
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q3389
+NAME_AR: فنستير
+NAME_BN: ফিনিস্তে
+NAME_DE: Département Finistère
+NAME_EN: Finistère
+NAME_ES: Finisterre
+NAME_FR: Finistère
+NAME_EL: Φινιστέρ
+NAME_HI: फिनिस्तेर
+NAME_HU: Finistère
+NAME_ID: Finistère
+NAME_IT: Finistère
+NAME_JA: フィニステール県
+NAME_KO: 피니스테르 주
+NAME_NL: Finistère
+NAME_PL: Finistère
+NAME_PT: Finistère
+NAME_RU: Финистер
+NAME_SV: Finistère
+NAME_TR: Finistère
+NAME_VI: Finistère
+NAME_ZH: 非尼斯泰尔省
+NE_ID: 1159316751

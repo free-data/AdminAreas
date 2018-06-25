@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2463
+DISS_ME: 2463
+ISO_3166_2: LK-91
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Ratnapura
+NAME_ALT: Ratnapura|Irattiṉapuri
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.RN
+NOTE: null
+HASC_MAYBE: null
+REGION: Sabaragamuva paḷāta
+REGION_COD: LK-9
+PROVNUM_NE: 20026
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: RN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE20
+FIPS_ALT: null
+WOE_ID: 23706494
+WOE_LABEL: null
+WOE_NAME: Ratnapura
+LATITUDE: 6.57933
+LONGITUDE: 80.5623
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1228729
+GN_NAME: Ratnapura District
+GNS_ID: -2235154
+GNS_NAME: Ratnapura
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1228729
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE33
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1587175
+NAME_AR: مديرية راتنابورا
+NAME_BN: রাতনাপুরা জেলা
+NAME_DE: Ratnapura
+NAME_EN: Ratnapura district
+NAME_ES: Distrito de Ratnapura
+NAME_FR: Ratnapura
+NAME_EL: Ρατναπούρα
+NAME_HI: रत्नपुर  जिला
+NAME_HU: null
+NAME_ID: Distrik Ratnapura
+NAME_IT: Distretto di Ratnapura
+NAME_JA: ラトゥナプラ県
+NAME_KO: 라트나푸라 구
+NAME_NL: Ratnapura
+NAME_PL: Dystrykt Ratnapura
+NAME_PT: Distrito de Ratnapura
+NAME_RU: Ратнапура
+NAME_SV: Ratnapura
+NAME_TR: Ratnapura District
+NAME_VI: Quận Ratnapura
+NAME_ZH: 拉特納普勒區
+NE_ID: 1159311423

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: United Kingdom
+SOV_A3: GB1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Country
+ADMIN: United Kingdom
+ADM0_A3: GBR
+GEOU_DIF: 0
+GEOUNIT: United Kingdom
+GU_A3: GBR
+SU_DIF: 0
+SUBUNIT: United Kingdom
+SU_A3: GBR
+BRK_DIFF: 0
+NAME: United Kingdom
+NAME_LONG: United Kingdom
+BRK_A3: GBR
+BRK_NAME: United Kingdom
+BRK_GROUP: null
+ABBREV: U.K.
+POSTAL: GB
+FORMAL_EN: United Kingdom of Great Britain and Northern Ireland
+FORMAL_FR: null
+NAME_CIAWF: United Kingdom
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: United Kingdom
+NAME_ALT: null
+MAPCOLOR7: 6
+MAPCOLOR8: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+POP_EST: 64769452
+POP_RANK: 16
+GDP_MD_EST: 2788000
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 1. Developed region: G7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: UK
+ISO_A2: GB
+ISO_A3: GBR
+ISO_A3_EH: GBR
+ISO_N3: 826
+UN_A3: 826
+WB_A2: GB
+WB_A3: GBR
+WOE_ID: -90
+WOE_ID_EH: 23424975
+WOE_NOTE: Eh ID includes Channel Islands and Isle of Man. UK constituent countries of England (24554868), Wales (12578049), Scotland (12578048), and Northern Ireland (20070563).
+ADM0_A3_IS: GBR
+ADM0_A3_US: GBR
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Northern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 14
+LONG_LEN: 14
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 1.7
+MAX_LABEL: 6.7
+NE_ID: 1159320713
+WIKIDATAID: Q145
+NAME_AR: المملكة المتحدة
+NAME_BN: যুক্তরাজ্য
+NAME_DE: Vereinigtes Königreich
+NAME_EN: United Kingdom
+NAME_ES: Reino Unido
+NAME_FR: Royaume-Uni
+NAME_EL: Ηνωμένο Βασίλειο
+NAME_HI: यूनाइटेड किंगडम
+NAME_HU: Egyesült Királyság
+NAME_ID: Britania Raya
+NAME_IT: Regno Unito
+NAME_JA: イギリス
+NAME_KO: 영국
+NAME_NL: Verenigd Koninkrijk
+NAME_PL: Wielka Brytania
+NAME_PT: Reino Unido
+NAME_RU: Великобритания
+NAME_SV: Storbritannien
+NAME_TR: Birleşik Krallık
+NAME_VI: Vương quốc Liên hiệp Anh và Bắc Ireland
+NAME_ZH: 英国

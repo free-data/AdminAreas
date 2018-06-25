@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1829
+DISS_ME: 1829
+ISO_3166_2: JP-40
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Fukuoka
+NAME_ALT: Hukuoka
+NAME_LOCAL: 福岡県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.FO
+NOTE: null
+HASC_MAYBE: JP.NS
+REGION: Kyushu
+REGION_COD: JPN-KYS
+PROVNUM_NE: 46
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: FO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA07
+FIPS_ALT: JA27
+WOE_ID: 58646425
+WOE_LABEL: Fukuoka Prefecture, JP, Japan
+WOE_NAME: Fukuoka
+LATITUDE: 33.4906
+LONGITUDE: 130.616
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1863958
+GN_NAME: Fukuoka-ken
+GNS_ID: -227382
+GNS_NAME: Fukuoka-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA07
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q123258
+NAME_AR: فوكوكا
+NAME_BN: ফুকুওকা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Fukuoka
+NAME_EN: Fukuoka Prefecture
+NAME_ES: Prefectura de Fukuoka
+NAME_FR: Préfecture de Fukuoka
+NAME_EL: Φουκουόκα
+NAME_HI: फुकुओका प्रान्त
+NAME_HU: Fukuoka prefektúra
+NAME_ID: Prefektur Fukuoka
+NAME_IT: prefettura di Fukuoka
+NAME_JA: 福岡県
+NAME_KO: 후쿠오카현
+NAME_NL: Fukuoka
+NAME_PL: Prefektura Fukuoka
+NAME_PT: Fukuoka
+NAME_RU: Фукуока
+NAME_SV: Fukuoka prefektur
+NAME_TR: Fukuoka
+NAME_VI: Fukuoka
+NAME_ZH: 福冈县
+NE_ID: 1159311899

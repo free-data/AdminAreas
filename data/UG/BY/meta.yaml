@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5593
+DISS_ME: 5593
+ISO_3166_2: UG-226
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Buyende
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BY
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20056
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: KX
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGF3
+FIPS_ALT: null
+WOE_ID: -20070422
+WOE_LABEL: Kamuli, UG, Uganda
+WOE_NAME: Kamuli
+LATITUDE: 1.24749
+LONGITUDE: 33.1662
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 8030571
+GN_NAME: Buyende District
+GNS_ID: 11074790
+GNS_NAME: Buyende District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.F3
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1114938
+NAME_AR: مقاطعة بويندي
+NAME_BN: বায়েন্ডি জেলা
+NAME_DE: Distrikt Buyende
+NAME_EN: Buyende District
+NAME_ES: Distrito de Buyende
+NAME_FR: Buyende
+NAME_EL: Μπουγέντε
+NAME_HI: बुयेंदे जिला
+NAME_HU: null
+NAME_ID: Distrik Buyende
+NAME_IT: Buyende
+NAME_JA: ブイェンデ県
+NAME_KO: 부옌데 구
+NAME_NL: Buyende District
+NAME_PL: Dystrykt Buyende
+NAME_PT: Distrito de Buyende
+NAME_RU: Буйенде
+NAME_SV: Buyende distriktet
+NAME_TR: Buyende District
+NAME_VI: Quận Buyende
+NAME_ZH: 布延德區
+NE_ID: 1159317397

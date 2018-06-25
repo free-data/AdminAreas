@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5359
+DISS_ME: 5359
+ISO_3166_2: IT-RE
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Reggio Emilia
+NAME_ALT: Emilia Romagna|Emilia|Emilia-Romaña|Émilie-Romagne
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 42
+CODE_HASC: IT.RE
+NOTE: ITD
+HASC_MAYBE: null
+REGION: Emilia-Romagna
+REGION_COD: IT-45
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: RE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT05
+FIPS_ALT: null
+WOE_ID: 12591835
+WOE_LABEL: null
+WOE_NAME: Reggio Emilia
+LATITUDE: 44.6699
+LONGITUDE: 10.6186
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3169524
+GN_NAME: Provincia di Reggio Emilia
+GNS_ID: -126193
+GNS_NAME: Reggio Emilia, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.RE
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT05
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16254
+NAME_AR: مقاطعة ريدجو إميليا
+NAME_BN: রেজিও এমিলিয়া এর প্রদেশ
+NAME_DE: Provinz Reggio Emilia
+NAME_EN: Province of Reggio Emilia
+NAME_ES: Reggio Emilia
+NAME_FR: Province de Reggio d'Émilie
+NAME_EL: Ρέτζο-Εμίλια
+NAME_HI: रेजिओ एमिलिया प्रांत
+NAME_HU: Reggio Emilia megye
+NAME_ID: Provinsi Reggio Emilia
+NAME_IT: provincia di Reggio nell'Emilia
+NAME_JA: レッジョ・エミリア県
+NAME_KO: 레조에밀리아 현
+NAME_NL: Reggio Emilia
+NAME_PL: Prowincja Reggio Emilia
+NAME_PT: Reggio Emilia
+NAME_RU: Реджо-Эмилия
+NAME_SV: Reggio Emilia
+NAME_TR: Reggio Emilia ili
+NAME_VI: Reggio Emilia
+NAME_ZH: 雷焦艾米利亞省
+NE_ID: 1159316971

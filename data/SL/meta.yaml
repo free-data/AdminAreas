@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 4
+SOVEREIGNT: Sierra Leone
+SOV_A3: SLE
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Sierra Leone
+ADM0_A3: SLE
+GEOU_DIF: 0
+GEOUNIT: Sierra Leone
+GU_A3: SLE
+SU_DIF: 0
+SUBUNIT: Sierra Leone
+SU_A3: SLE
+BRK_DIFF: 0
+NAME: Sierra Leone
+NAME_LONG: Sierra Leone
+BRK_A3: SLE
+BRK_NAME: Sierra Leone
+BRK_GROUP: null
+ABBREV: S.L.
+POSTAL: SL
+FORMAL_EN: Republic of Sierra Leone
+FORMAL_FR: null
+NAME_CIAWF: Sierra Leone
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Sierra Leone
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+POP_EST: 6163195
+POP_RANK: 13
+GDP_MD_EST: 10640
+POP_YEAR: 2017
+LASTCENSUS: 2004
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: SL
+ISO_A2: SL
+ISO_A3: SLE
+ISO_A3_EH: SLE
+ISO_N3: 694
+UN_A3: 694
+WB_A2: SL
+WB_A3: SLE
+WOE_ID: 23424946
+WOE_ID_EH: 23424946
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: SLE
+ADM0_A3_US: SLE
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Western Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 12
+LONG_LEN: 12
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321251
+WIKIDATAID: Q1044
+NAME_AR: سيراليون
+NAME_BN: সিয়েরা লিওন
+NAME_DE: Sierra Leone
+NAME_EN: Sierra Leone
+NAME_ES: Sierra Leona
+NAME_FR: Sierra Leone
+NAME_EL: Σιέρα Λεόνε
+NAME_HI: सिएरा लियोन
+NAME_HU: Sierra Leone
+NAME_ID: Sierra Leone
+NAME_IT: Sierra Leone
+NAME_JA: シエラレオネ
+NAME_KO: 시에라리온
+NAME_NL: Sierra Leone
+NAME_PL: Sierra Leone
+NAME_PT: Serra Leoa
+NAME_RU: Сьерра-Леоне
+NAME_SV: Sierra Leone
+NAME_TR: Sierra Leone
+NAME_VI: Sierra Leone
+NAME_ZH: 塞拉利昂

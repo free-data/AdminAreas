@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5460
+DISS_ME: 5460
+ISO_3166_2: IT-TN
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Trento
+NAME_ALT: Trentino - Alto Adige|Trentino-Alto Adigio|Trentino-South Tirol|Venezia Tridentina
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 38
+CODE_HASC: IT.TN
+NOTE: ITD
+HASC_MAYBE: null
+REGION: Trentino-Alto Adige
+REGION_COD: IT-32
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: TN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT17
+FIPS_ALT: null
+WOE_ID: 12591852
+WOE_LABEL: null
+WOE_NAME: Trento
+LATITUDE: 46.0415
+LONGITUDE: 10.9947
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3165241
+GN_NAME: Provincia di Trento
+GNS_ID: -131284
+GNS_NAME: Trento
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.TN
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT17
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16289
+NAME_AR: مقاطعة ترينتو
+NAME_BN: null
+NAME_DE: Trentino
+NAME_EN: Trentino
+NAME_ES: Trento
+NAME_FR: province autonome de Trente
+NAME_EL: Τρέντο
+NAME_HI: null
+NAME_HU: Trento megye
+NAME_ID: Provinsi Trento
+NAME_IT: provincia autonoma di Trento
+NAME_JA: トレント自治県
+NAME_KO: 트렌토 현
+NAME_NL: Trente
+NAME_PL: Prowincja Trydent
+NAME_PT: Província autónoma de Trento
+NAME_RU: Тренто
+NAME_SV: Trento
+NAME_TR: Trento ili
+NAME_VI: Trento
+NAME_ZH: 特倫托自治省
+NE_ID: 1159316949

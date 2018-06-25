@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-1065
+DISS_ME: 1065
+ISO_3166_2: LV-058
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Ludzas
+NAME_ALT: Ludsen
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.LZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Latgale
+REGION_COD: LV.LU
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG92
+FIPS_ALT: null
+WOE_ID: -2346032
+WOE_LABEL: Ludzas Rajons, LV, Latvia
+WOE_NAME: Ludza
+LATITUDE: 56.4059
+LONGITUDE: 27.796
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 457773
+GN_NAME: Ludzas Rajons
+GNS_ID: 10980802
+GNS_NAME: Ludzas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.19
+REGION_SUB: Latgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG92
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q932445
+NAME_AR: بلدية لودزا
+NAME_BN: লুদজা পৌরসভা
+NAME_DE: Bezirk Ludza
+NAME_EN: Ludza Municipality
+NAME_ES: Municipalidad de Ludza
+NAME_FR: Ludza
+NAME_EL: Λούντζα
+NAME_HI: लुड्ज़ा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Ludza
+NAME_IT: Ludza
+NAME_JA: ルヅァ
+NAME_KO: 루자 시
+NAME_NL: Ludzas novads
+NAME_PL: Gmina Lucyn
+NAME_PT: Ludza
+NAME_RU: Лудзенский край
+NAME_SV: Ludza kommun
+NAME_TR: Ludza Belediyesi
+NAME_VI: Đô thị tự trị Ludza
+NAME_ZH: null
+NE_ID: 1159311059

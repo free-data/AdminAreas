@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-109
+DISS_ME: 109
+ISO_3166_2: TN-33
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Le Kef
+NAME_ALT: Al Kāf|El Kef|Kaf|Kef
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.KF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KF
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS14
+FIPS_ALT: null
+WOE_ID: 2347239
+WOE_LABEL: Al Kaf, TN, Tunisia
+WOE_NAME: Le Kef
+LATITUDE: 36.0965
+LONGITUDE: 8.69565
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2473637
+GN_NAME: Gouvernorat de Kef
+GNS_ID: -722464
+GNS_NAME: Kef, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS14
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q328199
+NAME_AR: ولاية الكاف
+NAME_BN: কেফ গভর্নোরেট
+NAME_DE: Gouvernement Kef
+NAME_EN: Kef Governorate
+NAME_ES: Gobernación de Al-Kāf
+NAME_FR: gouvernorat du Kef
+NAME_EL: Αλ Καφ
+NAME_HI: केफ़ गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Kef
+NAME_IT: governatorato del Kef
+NAME_JA: ケフ県
+NAME_KO: 케프 주
+NAME_NL: Kef
+NAME_PL: Gubernatorstwo Kaf
+NAME_PT: Kef
+NAME_RU: Эль-Кеф
+NAME_SV: Kef
+NAME_TR: Kâf ili
+NAME_VI: Tỉnh Kef
+NAME_ZH: 卡夫省
+NE_ID: 1159309381

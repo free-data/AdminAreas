@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1824
+DISS_ME: 1824
+ISO_3166_2: JP-32
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 5
+NAME: Shimane
+NAME_ALT: Simane
+NAME_LOCAL: 島根県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.SM
+NOTE: null
+HASC_MAYBE: JP.FI
+REGION: Chugoku
+REGION_COD: JPN-CGK
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA36
+FIPS_ALT: JA06
+WOE_ID: 2345885
+WOE_LABEL: Shimane Prefecture, JP, Japan
+WOE_NAME: Shimane
+LATITUDE: 35.0972
+LONGITUDE: 132.603
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1852442
+GN_NAME: Shimane-ken
+GNS_ID: -243116
+GNS_NAME: Shimane-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA36
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q132751
+NAME_AR: شيمانه
+NAME_BN: শিমানে প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Shimane
+NAME_EN: Shimane Prefecture
+NAME_ES: Prefectura de Shimane
+NAME_FR: Préfecture de Shimane
+NAME_EL: Σιμάνε
+NAME_HI: शिमाने प्रीफेक्चर
+NAME_HU: Simane prefektúra
+NAME_ID: Prefektur Shimane
+NAME_IT: prefettura di Shimane
+NAME_JA: 島根県
+NAME_KO: 시마네 현
+NAME_NL: Shimane
+NAME_PL: Prefektura Shimane
+NAME_PT: Shimane
+NAME_RU: Симане
+NAME_SV: Shimane prefektur
+NAME_TR: Shimane
+NAME_VI: Shimane
+NAME_ZH: 岛根县
+NE_ID: 1159311913

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2438
+DISS_ME: 2438
+ISO_3166_2: BT-14
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Samchi
+NAME_ALT: Samtse
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT16
+FIPS_ALT: null
+WOE_ID: 2344883
+WOE_LABEL: Samchi, BT, Bhutan
+WOE_NAME: Samchi
+LATITUDE: 27.0219
+LONGITUDE: 89.0493
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337289
+GN_NAME: Samtse Dzongkhag
+GNS_ID: 220717
+GNS_NAME: Samtse Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT16
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q728917
+NAME_AR: مقاطعة سامتسي
+NAME_BN: সামটসে জেলা
+NAME_DE: Samtse
+NAME_EN: Samtse District
+NAME_ES: Distrito de Samtse
+NAME_FR: Samtse
+NAME_EL: Σάμτσε
+NAME_HI: साम्त्से जिला
+NAME_HU: Samtse körzet
+NAME_ID: Distrik Samtse
+NAME_IT: distretto di Samtse
+NAME_JA: サムツェ県
+NAME_KO: 삼체 현
+NAME_NL: Samtse
+NAME_PL: Dystrykt Samtse
+NAME_PT: Samtse
+NAME_RU: Самце
+NAME_SV: Samtse
+NAME_TR: Samtse District
+NAME_VI: Quận Samtse
+NAME_ZH: 萨姆宗
+NE_ID: 1159311835

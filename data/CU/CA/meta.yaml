@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CUB-1363
+DISS_ME: 1363
+ISO_3166_2: CU-08
+WIKIPEDIA: null
+ISO_A2: CU
+ADM0_SR: 5
+NAME: Ciego de Ávila
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CU.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: CU05
+FIPS_ALT: CU07
+WOE_ID: 2345111
+WOE_LABEL: Ciego de Avila, CU, Cuba
+WOE_NAME: Ciego de Ávila
+LATITUDE: 21.9626
+LONGITUDE: -78.6388
+SOV_A3: CUB
+ADM0_A3: CUB
+ADM0_LABEL: 2
+ADMIN: Cuba
+GEONUNIT: Cuba
+GU_A3: CUB
+GN_ID: 3564175
+GN_NAME: Provincia de Ciego de Avila
+GNS_ID: -1618017
+GNS_NAME: Ciego de Avila
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CU.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CU07
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q220692
+NAME_AR: محافظة سيغو دي أفيلا
+NAME_BN: সিয়েগো দে আভিলা প্রদেশ
+NAME_DE: Provinz Ciego de Ávila
+NAME_EN: Ciego de Ávila Province
+NAME_ES: Provincia de Ciego de Ávila
+NAME_FR: province de Ciego de Ávila
+NAME_EL: Σιέγο ντε Άβιλα
+NAME_HI: सिएगो डी एविला प्रांत
+NAME_HU: Ciego de Ávila
+NAME_ID: Provinsi Ciego de Ávila
+NAME_IT: provincia di Ciego de Ávila
+NAME_JA: シエゴ・デ・アビラ州
+NAME_KO: 시에고데아빌라 주
+NAME_NL: Ciego de Ávila
+NAME_PL: Prowincja Ciego de Ávila
+NAME_PT: Ciego de Ávila
+NAME_RU: Сьего-де-Авила
+NAME_SV: Provincia de Ciego de Ávila
+NAME_TR: Ciego de Avila Province
+NAME_VI: Ciego de Ávila
+NAME_ZH: 谢戈德阿维拉省
+NE_ID: 1159310337

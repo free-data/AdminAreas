@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3395
+DISS_ME: 3395
+ISO_3166_2: TZ-25
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Tanga
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.TN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: TN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ18
+FIPS_ALT: null
+WOE_ID: 2347369
+WOE_LABEL: Tanga, TZ, Tanzania
+WOE_NAME: Tanga
+LATITUDE: -5.18525
+LONGITUDE: 38.1412
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 149595
+GN_NAME: Tanga Region
+GNS_ID: -2573928
+GNS_NAME: Tanga, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ18
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q389737
+NAME_AR: مقاطعة تانغا
+NAME_BN: তাংগা অঞ্চল
+NAME_DE: Tanga
+NAME_EN: Tanga Region
+NAME_ES: Región de Tanga
+NAME_FR: Tanga
+NAME_EL: Περιφέρεια Τάνγκα
+NAME_HI: टंगा क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Tanga
+NAME_IT: regione di Tanga
+NAME_JA: タンガ州
+NAME_KO: 탕가 주
+NAME_NL: Tanga
+NAME_PL: Tanga
+NAME_PT: Tanga
+NAME_RU: Танга
+NAME_SV: Tanga
+NAME_TR: Tanga Region
+NAME_VI: Tanga
+NAME_ZH: 坦噶区
+NE_ID: 1159315045

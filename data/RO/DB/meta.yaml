@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-130
+DISS_ME: 130
+ISO_3166_2: RO-DB
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Dâmbovita
+NAME_ALT: Dâmbovița
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.DB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 35
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: DB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO16
+FIPS_ALT: null
+WOE_ID: 2346630
+WOE_LABEL: Dambovita, RO, Romania
+WOE_NAME: Dâmbovita
+LATITUDE: 44.8486
+LONGITUDE: 25.596
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 679385
+GN_NAME: Judetul Dambovita
+GNS_ID: -1158082
+GNS_NAME: Dambovita, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q188797
+NAME_AR: مقاطعة دامبوفيتا
+NAME_BN: ডাম্বোভিটা কাউন্টি
+NAME_DE: Kreis Dâmbovița
+NAME_EN: Dâmbovița County
+NAME_ES: Dâmbovița
+NAME_FR: Județ de Dâmbovița
+NAME_EL: Νταμποβίτα
+NAME_HI: दम्बोविता काउंटी
+NAME_HU: Dâmbovița megye
+NAME_ID: Provinsi Dâmbovița
+NAME_IT: distretto di Dâmbovița
+NAME_JA: ドゥンボヴィツァ県
+NAME_KO: 듬보비차 주
+NAME_NL: District Dâmbovița
+NAME_PL: Okręg Dymbowica
+NAME_PT: Dâmbovița
+NAME_RU: Дымбовица
+NAME_SV: Dâmbovița
+NAME_TR: Dâmbovița ili
+NAME_VI: Hạt Dambovita
+NAME_ZH: 登博維察縣
+NE_ID: 1159307707

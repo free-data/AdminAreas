@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CAN-687
+DISS_ME: 687
+ISO_3166_2: CA-PE
+WIKIPEDIA: http://en.wikipedia.org/wiki/Prince_Edward_Island
+ISO_A2: CA
+ADM0_SR: 3
+NAME: Prince Edward Island
+NAME_ALT: Île de Saint-Jean|Île du Prince-Édouard
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CA.PE
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern Canada
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: P.E.I.
+POSTAL: PE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 20
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: CA09
+FIPS_ALT: null
+WOE_ID: 2344923
+WOE_LABEL: Prince Edward Island, CA, Canada
+WOE_NAME: Prince Edward Island
+LATITUDE: 46.3417
+LONGITUDE: -63.3862
+SOV_A3: CAN
+ADM0_A3: CAN
+ADM0_LABEL: 2
+ADMIN: Canada
+GEONUNIT: Canada
+GU_A3: CAN
+GN_ID: 6113358
+GN_NAME: Prince Edward Island
+GNS_ID: -571729
+GNS_NAME: Ile-du-Prince-Edouard, Province d'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CA.09
+REGION_SUB: Atlantic Canada
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CA09
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q1979
+NAME_AR: جزيرة الأمير إدوارد
+NAME_BN: প্রিন্স এডওয়ার্ড দ্বীপ
+NAME_DE: Prince Edward Island
+NAME_EN: Prince Edward Island
+NAME_ES: Isla del Príncipe Eduardo
+NAME_FR: Île-du-Prince-Édouard
+NAME_EL: Νήσος του Πρίγκηπα Εδουάρδου
+NAME_HI: प्रिंस एडवर्ड द्वीप
+NAME_HU: Prince Edward-sziget
+NAME_ID: Pulau Pangeran Edward
+NAME_IT: Isola del Principe Edoardo
+NAME_JA: プリンスエドワードアイランド州
+NAME_KO: 프린스에드워드아일랜드 주
+NAME_NL: Prins Edwardeiland
+NAME_PL: Wyspa Księcia Edwarda
+NAME_PT: Ilha do Príncipe Eduardo
+NAME_RU: Остров Принца Эдуарда
+NAME_SV: Prince Edward Island
+NAME_TR: Prens Edward Adası
+NAME_VI: Đảo Hoàng tử Edward
+NAME_ZH: 愛德華王子島
+NE_ID: 1159310911

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-17
+DISS_ME: 17
+ISO_3166_2: UY-CA
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Canelones
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY02
+FIPS_ALT: null
+WOE_ID: 2347641
+WOE_LABEL: Canelones, UY, Uruguay
+WOE_NAME: Canelones
+LATITUDE: -34.5473
+LONGITUDE: -55.9228
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3443411
+GN_NAME: Departamento de Canelones
+GNS_ID: -905919
+GNS_NAME: Canelones, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY02
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q16577
+NAME_AR: إدارة كانيلونيس
+NAME_BN: কানেলোন্স বিভাগ
+NAME_DE: Departamento Canelones
+NAME_EN: Canelones Department
+NAME_ES: Departamento de Canelones
+NAME_FR: Canelones
+NAME_EL: Κανελόνες
+NAME_HI: कैनेलोंस विभाग
+NAME_HU: Canelones megye
+NAME_ID: Departemen Canelones
+NAME_IT: dipartimento di Canelones
+NAME_JA: カネロネス県
+NAME_KO: 카넬로네스 주
+NAME_NL: Canelones
+NAME_PL: Canelones
+NAME_PT: Canelones
+NAME_RU: Канелонес
+NAME_SV: Canelones
+NAME_TR: Canelones Departmanı
+NAME_VI: Khu vực hành chính Canelones
+NAME_ZH: 卡内洛内斯省
+NE_ID: 1159307753

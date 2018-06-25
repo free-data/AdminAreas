@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2830
+DISS_ME: 2830
+ISO_3166_2: BF-NAO
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Nahouri
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.NR
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre-Sud
+REGION_COD: null
+PROVNUM_NE: 20017
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: NR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV65
+FIPS_ALT: null
+WOE_ID: 2347626
+WOE_LABEL: Naouri, BF, Burkina Faso
+WOE_NAME: Nahouri
+LATITUDE: 11.2028
+LONGITUDE: -1.16782
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2357548
+GN_NAME: Nahouri Province
+GNS_ID: -1721227
+GNS_NAME: Naouri, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.65
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV85
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1142003
+NAME_AR: محافظة ناهوري
+NAME_BN: নাহৌরি প্রদেশ
+NAME_DE: Nahouri
+NAME_EN: Nahouri Province
+NAME_ES: Provincia de Nahouri
+NAME_FR: Nahouri
+NAME_EL: Ναχούρι
+NAME_HI: नहौरी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Nahouri
+NAME_IT: provincia di Nahouri
+NAME_JA: ナウリ県
+NAME_KO: 나우리 현
+NAME_NL: Nahouri
+NAME_PL: Prowincja Nahouri
+NAME_PT: Nahouri
+NAME_RU: Нахури
+NAME_SV: Nahouri Province
+NAME_TR: Nahouri Province
+NAME_VI: Nahouri
+NAME_ZH: 納烏里省
+NE_ID: 1159313937

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2063
+DISS_ME: 2063
+ISO_3166_2: GB-BRY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Bromley
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.BZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20030
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Bromley
+POSTAL: BZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKB8
+WOE_ID: 12695824
+WOE_LABEL: null
+WOE_NAME: London Borough of Bromley
+LATITUDE: 51.3652
+LONGITUDE: 0.0463722
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077577
+GNS_NAME: Bromley, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q208201
+NAME_AR: منطقة بروملي
+NAME_BN: null
+NAME_DE: London Borough of Bromley
+NAME_EN: London Borough of Bromley
+NAME_ES: Municipio de Bromley
+NAME_FR: Bromley
+NAME_EL: Μπρόμλεϊ
+NAME_HI: ब्रॉमली बरो
+NAME_HU: Bromley kerület
+NAME_ID: null
+NAME_IT: Bromley
+NAME_JA: ブロムリー・ロンドン特別区
+NAME_KO: 브롬리 구
+NAME_NL: Bromley
+NAME_PL: London Borough of Bromley
+NAME_PT: Bromley
+NAME_RU: Бромли
+NAME_SV: London Borough of Bromley
+NAME_TR: Bromley
+NAME_VI: Khu Bromley của Luân Đôn
+NAME_ZH: 布羅姆利區
+NE_ID: 1159312921

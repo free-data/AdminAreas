@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1644
+DISS_ME: 1644
+ISO_3166_2: MD-RE
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Rezina
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.RZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD83
+FIPS_ALT: null
+WOE_ID: 55948196
+WOE_LABEL: Rezina, MD, Moldova
+WOE_NAME: Rezina
+LATITUDE: 47.6683
+LONGITUDE: 28.819
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617501
+GN_NAME: Raionul Rezina
+GNS_ID: -2277195
+GNS_NAME: Rezina, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.83
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD83
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q878317
+NAME_AR: مقاطعة ريزاينا
+NAME_BN: রেজিনা জেলা
+NAME_DE: Rajon Rezina
+NAME_EN: Rezina District
+NAME_ES: Distrito de Rezina
+NAME_FR: Raion de Rezina
+NAME_EL: Ρεζίνα
+NAME_HI: रेजिना जिला
+NAME_HU: null
+NAME_ID: Raionul Rezina
+NAME_IT: distretto di Rezina
+NAME_JA: レジナ県
+NAME_KO: 레지나 구
+NAME_NL: Rezina
+NAME_PL: Rejon Rezina
+NAME_PT: Rezina
+NAME_RU: Резинский район
+NAME_SV: Rezina
+NAME_TR: Rezina District
+NAME_VI: Quận Rezina
+NAME_ZH: 雷濟納區
+NE_ID: 1159312619

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2059
+DISS_ME: 2059
+ISO_3166_2: GB-DBY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Derbyshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: GB.DB
+NOTE: null
+HASC_MAYBE: null
+REGION: East Midlands
+REGION_COD: null
+PROVNUM_NE: 20033
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKD3
+FIPS_ALT: UKD3
+WOE_ID: 12602143
+WOE_LABEL: null
+WOE_NAME: Derbyshire
+LATITUDE: 52.9938
+LONGITUDE: -1.58946
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2651346
+GN_NAME: Derbyshire
+GNS_ID: -2594263
+GNS_NAME: Derbyshire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.D3
+REGION_SUB: Derbyshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23098
+NAME_AR: داربيشير
+NAME_BN: ডার্বিশায়ার
+NAME_DE: Derbyshire
+NAME_EN: Derbyshire
+NAME_ES: Derbyshire
+NAME_FR: Derbyshire
+NAME_EL: Ντέρμπισαϊρ
+NAME_HI: डर्बीशायर
+NAME_HU: Derbyshire
+NAME_ID: Derbyshire
+NAME_IT: Derbyshire
+NAME_JA: ダービーシャー
+NAME_KO: 더비셔 주
+NAME_NL: Derbyshire
+NAME_PL: Derbyshire
+NAME_PT: Derbyshire
+NAME_RU: Дербишир
+NAME_SV: Derbyshire
+NAME_TR: Derbyshire
+NAME_VI: Derbyshire
+NAME_ZH: 德比郡
+NE_ID: 1159312913

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-215
+DISS_ME: 215
+ISO_3166_2: SI-095
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Preddvor
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.GO.PR
+NOTE: null
+HASC_MAYBE: null
+REGION: Gorenjska
+REGION_COD: null
+PROVNUM_NE: 153
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIK5
+FIPS_ALT: null
+WOE_ID: -55848358
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3286
+LONGITUDE: 14.46
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239107
+GN_NAME: Obcina Preddvor
+GNS_ID: 243515
+GNS_NAME: Preddvor, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.K5
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI53
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q539864
+NAME_AR: بلدية بريدفور
+NAME_BN: প্রেডভোর পৌরসভা
+NAME_DE: Preddvor
+NAME_EN: Preddvor Municipality
+NAME_ES: Preddvor
+NAME_FR: Preddvor
+NAME_EL: Πρέντβορ
+NAME_HI: प्रेड्वोर नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Preddvor
+NAME_IT: Preddvor
+NAME_JA: プレッドヴォル
+NAME_KO: 프레드보르
+NAME_NL: Preddvor
+NAME_PL: Gmina Preddvor
+NAME_PT: Preddvor
+NAME_RU: Преддвор
+NAME_SV: Preddvor kommun
+NAME_TR: Preddvor Municipality
+NAME_VI: Đô thị tự trị Preddvor
+NAME_ZH: null
+NE_ID: 1159308581

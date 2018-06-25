@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2302
+DISS_ME: 2302
+ISO_3166_2: TR-61
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Trabzon
+NAME_ALT: Trapezunt|Trebizond|Trebizonda|Trébizonde
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.TB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU61
+FIPS_ALT: null
+WOE_ID: 2347312
+WOE_LABEL: Trabzon, TR, Turkey
+WOE_NAME: Trabzon
+LATITUDE: 40.7988
+LONGITUDE: 39.8034
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 738647
+GN_NAME: Trabzon
+GNS_ID: -773701
+GNS_NAME: Trabzon Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: heb
+GNS_ADM1: TU61
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q388995
+NAME_AR: طرابزون
+NAME_BN: ট্রাব্জন প্রদেশ
+NAME_DE: Trabzon
+NAME_EN: Trabzon Province
+NAME_ES: Provincia de Trabzon
+NAME_FR: Trabzon
+NAME_EL: Επαρχία Τραπεζούντας
+NAME_HI: ट्रैब्जन प्रांत
+NAME_HU: Trabzon
+NAME_ID: Provinsi Trabzon
+NAME_IT: provincia di Trebisonda
+NAME_JA: トラブゾン県
+NAME_KO: 트라브존 주
+NAME_NL: Trabzon
+NAME_PL: Trabzon
+NAME_PT: Trebizonda
+NAME_RU: Трабзон
+NAME_SV: Trabzon
+NAME_TR: Trabzon
+NAME_VI: Trabzon
+NAME_ZH: 特拉布宗省
+NE_ID: 1159312355

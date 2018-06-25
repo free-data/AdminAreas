@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-977
+DISS_ME: 977
+ISO_3166_2: SI-091
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Pivka
+NAME_ALT: Kraška, Notranj
+NAME_LOCAL: null
+TYPE: Statisticna Regije
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: SI.SP.PI
+NOTE: null
+HASC_MAYBE: null
+REGION: Notranjsko-kraška
+REGION_COD: null
+PROVNUM_NE: 166
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI91
+FIPS_ALT: null
+WOE_ID: -55848376
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.6834
+LONGITUDE: 14.2444
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239054
+GN_NAME: Obcina Pivka
+GNS_ID: 243443
+GNS_NAME: Pivka, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.91
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI91
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q252154
+NAME_AR: بلدية بيفكا
+NAME_BN: পিভকা পৌরসভা
+NAME_DE: Gemeinde Pivka
+NAME_EN: Pivka Municipality
+NAME_ES: Municipalidad del Pivka
+NAME_FR: Pivka
+NAME_EL: Πίβκα
+NAME_HI: पिवका नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Pivka
+NAME_IT: San Pietro del Carso
+NAME_JA: ピフカ
+NAME_KO: 피브카
+NAME_NL: Pivka
+NAME_PL: Gmina Pivka
+NAME_PT: Pivka
+NAME_RU: Пивка
+NAME_SV: Pivka
+NAME_TR: Pivka Belediyesi
+NAME_VI: Đô thị tự trị Pivka
+NAME_ZH: 皮夫卡
+NE_ID: 1159310753

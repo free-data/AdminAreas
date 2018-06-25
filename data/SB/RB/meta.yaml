@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SLB-1261
+DISS_ME: 1261
+ISO_3166_2: SB-RB
+WIKIPEDIA: null
+ISO_A2: SB
+ADM0_SR: 3
+NAME: Rennell and Bellona
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SB.RB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: RB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 19
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: BP10
+FIPS_ALT: BP13
+WOE_ID: -2344841
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: -11.6204
+LONGITUDE: 160.273
+SOV_A3: SLB
+ADM0_A3: SLB
+ADM0_LABEL: 5
+ADMIN: Solomon Islands
+GEONUNIT: Solomon Islands
+GU_A3: SLB
+GN_ID: 7280293
+GN_NAME: Rennell and Bellona
+GNS_ID: 11656549
+GNS_NAME: Rennell and Bellona
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SB.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BP13
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q1051475
+NAME_AR: محافظة رينيل و بيلونا
+NAME_BN: রেন্নেল ও বেল্লনা প্রদেশ
+NAME_DE: Rennell und Bellona
+NAME_EN: Rennell and Bellona Province
+NAME_ES: Rennell y Bellona
+NAME_FR: province de Rennell et Bellona
+NAME_EL: Ρένελ και Μπελόνα
+NAME_HI: रेनेल और बेलोना प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Rennell dan Bellona
+NAME_IT: provincia di Rennell e Bellona
+NAME_JA: レンネル・ベローナ州
+NAME_KO: 렌넬벨로나 주
+NAME_NL: Rennell-Bellona
+NAME_PL: Prowincja Rennell i Bellona
+NAME_PT: Província de Rennell e Bellona
+NAME_RU: Реннелл и Беллона
+NAME_SV: Rennell and Bellona provins
+NAME_TR: Rennel and Bellona Province
+NAME_VI: Tỉnh Rennell và Bellona
+NAME_ZH: 拉納爾和貝羅納省
+NE_ID: 1159309829

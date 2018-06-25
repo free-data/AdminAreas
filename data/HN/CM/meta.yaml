@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-646
+DISS_ME: 646
+ISO_3166_2: HN-CM
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Comayagua
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.CM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CM
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO04
+FIPS_ALT: null
+WOE_ID: 2345626
+WOE_LABEL: Comayagua, HN, Honduras
+WOE_NAME: Comayagua
+LATITUDE: 14.6577
+LONGITUDE: -87.678
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3613319
+GN_NAME: Departamento de Comayagua
+GNS_ID: -1117779
+GNS_NAME: Comayagua
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q823443
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Departamento Comayagua
+NAME_EN: Comayagua Department
+NAME_ES: Comayagua
+NAME_FR: département de Comayagua
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Comayagua megye
+NAME_ID: Departemen Comayagua
+NAME_IT: dipartimento di Comayagua
+NAME_JA: コマヤグア県
+NAME_KO: 코마야과 주
+NAME_NL: Comayagua
+NAME_PL: Comayagua
+NAME_PT: Comayagua
+NAME_RU: Комаягуа
+NAME_SV: Departamento de Comayagua
+NAME_TR: null
+NAME_VI: Comayagua
+NAME_ZH: 科馬亞瓜省
+NE_ID: 1159309105

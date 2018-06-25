@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5705
+DISS_ME: 5705
+ISO_3166_2: GB-BNE
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Barnet
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.EF
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20088
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Enfield
+POSTAL: EF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKE3
+WOE_ID: 12695821
+WOE_LABEL: London Borough of Barnet
+WOE_NAME: London Borough of Enfield
+LATITUDE: 51.6115
+LONGITUDE: -0.204805
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077563
+GNS_NAME: Barnet, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q151048
+NAME_AR: null
+NAME_BN: বারনেট
+NAME_DE: London Borough of Barnet
+NAME_EN: London Borough of Barnet
+NAME_ES: Municipio de Barnet
+NAME_FR: district londonien de Barnet
+NAME_EL: null
+NAME_HI: बार्नेट बरो
+NAME_HU: Barnet kerület
+NAME_ID: Barnet
+NAME_IT: Barnet
+NAME_JA: バーネット・ロンドン特別区
+NAME_KO: 바닛 구
+NAME_NL: Barnet
+NAME_PL: London Borough of Barnet
+NAME_PT: Barnet
+NAME_RU: Барнет
+NAME_SV: London Borough of Barnet
+NAME_TR: Barnet
+NAME_VI: Khu Barnet của Luân Đôn
+NAME_ZH: 巴尼特區
+NE_ID: 1159317555

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3166
+DISS_ME: 3166
+ISO_3166_2: HU-NO
+WIKIPEDIA: http://en.wikipedia.org/wiki/N%C3%B3gr%C3%A1d_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Nógrád
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.NO
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Hungary
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: NO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU14
+FIPS_ALT: null
+WOE_ID: 12577922
+WOE_LABEL: NÃ³grÃ¡d, HU, Hungary
+WOE_NAME: Nógrád
+LATITUDE: 47.9662
+LONGITUDE: 19.5146
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 3047348
+GN_NAME: Nograd megye
+GNS_ID: -862876
+GNS_NAME: Nograd Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.14
+REGION_SUB: Nógrád
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU14
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q194273
+NAME_AR: مقاطعة نوغراد
+NAME_BN: নোগ্রাড কাউন্টি
+NAME_DE: Komitat Nógrád
+NAME_EN: Nógrád County
+NAME_ES: Nógrád
+NAME_FR: Nógrád
+NAME_EL: Νόγκραντ
+NAME_HI: नॉग्रैड काउंटी
+NAME_HU: Nógrád megye
+NAME_ID: Nógrád
+NAME_IT: provincia di Nógrád
+NAME_JA: ノーグラード県
+NAME_KO: 노그라드 주
+NAME_NL: Nógrád
+NAME_PL: Komitat Nógrád
+NAME_PT: Nógrád
+NAME_RU: Ноград
+NAME_SV: Nógrád
+NAME_TR: Nógrád ili
+NAME_VI: Hạt Nógrád
+NAME_ZH: 諾格拉德州
+NE_ID: 1159314647

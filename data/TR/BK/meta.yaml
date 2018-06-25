@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2238
+DISS_ME: 2238
+ISO_3166_2: TR-10
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 5
+NAME: Balikesir
+NAME_ALT: Balıkesir|Balikisri
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU10
+FIPS_ALT: null
+WOE_ID: 2347267
+WOE_LABEL: BalÄ±kesir, TR, Turkey
+WOE_NAME: Balikesir
+LATITUDE: 39.7193
+LONGITUDE: 27.8355
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 322164
+GN_NAME: Balikesir
+GNS_ID: -737813
+GNS_NAME: Balikesir Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU10
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q47117
+NAME_AR: بالق أسير
+NAME_BN: বালিকেসির প্রদেশ
+NAME_DE: Balıkesir
+NAME_EN: Balıkesir Province
+NAME_ES: Provincia de Balıkesir
+NAME_FR: Balıkesir
+NAME_EL: Επαρχία Μπαλικεσίρ
+NAME_HI: बालिकेसिर प्रांत
+NAME_HU: Balıkesir
+NAME_ID: Provinsi Balıkesir
+NAME_IT: provincia di Balıkesir
+NAME_JA: バルケスィル県
+NAME_KO: 발리케시르 주
+NAME_NL: Balıkesir
+NAME_PL: Balıkesir
+NAME_PT: Balıkesir
+NAME_RU: Балыкесир
+NAME_SV: Balıkesir
+NAME_TR: Balıkesir
+NAME_VI: Balıkesir
+NAME_ZH: 巴勒克埃西尔省
+NE_ID: 1159312153

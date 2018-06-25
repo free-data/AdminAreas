@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1720
+DISS_ME: 1720
+ISO_3166_2: AZ-YAR
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Yardımlı
+NAME_ALT: Yardymli
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.YR
+NOTE: null
+HASC_MAYBE: null
+REGION: Lankaran Economic Region
+REGION_COD: AZ-04
+PROVNUM_NE: 30
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: YR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ66
+FIPS_ALT: AJ|
+WOE_ID: 20070251
+WOE_LABEL: null
+WOE_NAME: Yardimli
+LATITUDE: 38.866
+LONGITUDE: 48.269
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 146962
+GN_NAME: Yardymli Rayon
+GNS_ID: -2709100
+GNS_NAME: Yardimli Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.66
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ66
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q127255
+NAME_AR: مقاطعة يارديملي
+NAME_BN: ইয়ার্ডিমলি জেলা
+NAME_DE: Yardımlı
+NAME_EN: Yardymli District
+NAME_ES: Yardımlı
+NAME_FR: Yardımlı
+NAME_EL: Γιαρντιμλί
+NAME_HI: यार्दिमली जिला
+NAME_HU: null
+NAME_ID: Yardymli
+NAME_IT: distretto di Yardımlı
+NAME_JA: ヤルディムリ県
+NAME_KO: 야르듬르 구
+NAME_NL: Yardımlı
+NAME_PL: Rejon Yardımlı
+NAME_PT: Yardymli
+NAME_RU: Ярдымлинский район
+NAME_SV: Jardymly
+NAME_TR: Yardımlı Rayonu
+NAME_VI: Yardymly
+NAME_ZH: 亞爾德姆雷區
+NE_ID: 1159312305

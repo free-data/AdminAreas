@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2374
+DISS_ME: 2374
+ISO_3166_2: RU-RYA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Ryazan'
+NAME_ALT: Ryazanskaya Oblast|Ryazanskaya Oblast
+NAME_LOCAL: Рязанская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.RZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20087
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: RZ
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS62
+FIPS_ALT: null
+WOE_ID: 2346922
+WOE_LABEL: Ryazanskaya Oblast, RU, Russia
+WOE_NAME: Ryazan'
+LATITUDE: 54.3363
+LONGITUDE: 40.6258
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 500059
+GN_NAME: Ryazanskaya Oblast'
+GNS_ID: -2994575
+GNS_NAME: Ryazanskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.62
+REGION_SUB: Central
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS62
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2753
+NAME_AR: ريازان أوبلاست
+NAME_BN: রেয়াজান ওব্লাস্ট
+NAME_DE: Oblast Rjasan
+NAME_EN: Ryazan Oblast
+NAME_ES: Óblast de Riazán
+NAME_FR: Oblast de Riazan
+NAME_EL: Περιφέρεια Ριαζάν
+NAME_HI: रियाज़ान ओब्लास्ट
+NAME_HU: Rjazanyi terület
+NAME_ID: Oblast Ryazan
+NAME_IT: oblast' di Rjazan'
+NAME_JA: リャザン州
+NAME_KO: 랴잔 주
+NAME_NL: Oblast Rjazan
+NAME_PL: Obwód riazański
+NAME_PT: Oblast de Riazan
+NAME_RU: Рязанская область
+NAME_SV: Rjazan oblast
+NAME_TR: Ryazan Oblastı
+NAME_VI: Ryazan
+NAME_ZH: 梁赞州
+NE_ID: 1159313185

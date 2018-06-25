@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4911
+DISS_ME: 4911
+ISO_3166_2: HU-NK
+WIKIPEDIA: http://en.wikipedia.org/wiki/Nagykanizsa
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Nagykanizsa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.NK
+NOTE: null
+HASC_MAYBE: null
+REGION: Western Transdanubia
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU32
+FIPS_ALT: null
+WOE_ID: 56043639
+WOE_LABEL: Nagykanizsa, HU, Hungary
+WOE_NAME: Nagykanizsa
+LATITUDE: 46.4513
+LONGITUDE: 16.9898
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -3042613
+GN_NAME: Zala megye
+GNS_ID: -862268
+GNS_NAME: Nagykanizsa Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Zala
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU32
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q14424
+NAME_AR: ناجيكانيزسا
+NAME_BN: null
+NAME_DE: Nagykanizsa
+NAME_EN: Nagykanizsa
+NAME_ES: Nagykanizsa
+NAME_FR: Nagykanizsa
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Nagykanizsa
+NAME_ID: Nagykanizsa
+NAME_IT: Nagykanizsa
+NAME_JA: ナジカニジャ
+NAME_KO: Nagykanizsa
+NAME_NL: Nagykanizsa
+NAME_PL: Nagykanizsa
+NAME_PT: Nagykanizsa
+NAME_RU: Надьканижа
+NAME_SV: Nagykanizsa
+NAME_TR: Nagykanizsa
+NAME_VI: Nagykanizsa
+NAME_ZH: 瑙吉考尼饒
+NE_ID: 1159316049

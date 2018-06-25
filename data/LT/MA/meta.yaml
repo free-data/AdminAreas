@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LTU-1070
+DISS_ME: 1070
+ISO_3166_2: LT-MR
+WIKIPEDIA: null
+ISO_A2: LT
+ADM0_SR: 1
+NAME: Marijampoles
+NAME_ALT: Marijampolė|Mariampol
+NAME_LOCAL: null
+TYPE: Apskritis
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LT.MA
+NOTE: NUTS code LT004
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: LH59
+FIPS_ALT: null
+WOE_ID: 55848078
+WOE_LABEL: Marijampole County, LT, Lithuania
+WOE_NAME: Marijampoles
+LATITUDE: 54.6829
+LONGITUDE: 23.1751
+SOV_A3: LTU
+ADM0_A3: LTU
+ADM0_LABEL: 5
+ADMIN: Lithuania
+GEONUNIT: Lithuania
+GU_A3: LTU
+GN_ID: 864479
+GN_NAME: Marijampoles Apskritis
+GNS_ID: 9084745
+GNS_NAME: Marijampoles Apskritis
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LT.59
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: LH59
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q853948
+NAME_AR: مقاطعة ميرايامبوله
+NAME_BN: মারিজাম্পোল কাউন্টি
+NAME_DE: Bezirk Marijampolė
+NAME_EN: Marijampolė County
+NAME_ES: Marijampolė
+NAME_FR: apskritis de Marijampolė
+NAME_EL: Επαρχία Μαριγιαμπολέ
+NAME_HI: मारियेम्पोल काउंटी
+NAME_HU: null
+NAME_ID: County Marijampolė
+NAME_IT: contea di Marijampolė
+NAME_JA: マリヤーンポレ県
+NAME_KO: 마리얌폴레 주
+NAME_NL: Marijampolė
+NAME_PL: Okręg mariampolski
+NAME_PT: Marijampolė
+NAME_RU: Мариямпольский уезд
+NAME_SV: Marijampolė
+NAME_TR: Marijampolė County
+NAME_VI: Marijampolė
+NAME_ZH: 馬里揚泊列縣
+NE_ID: 1159311035

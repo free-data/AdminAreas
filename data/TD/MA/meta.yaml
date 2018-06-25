@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1488
+DISS_ME: 1488
+ISO_3166_2: TD-MA
+WIKIPEDIA: null
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Mandoul
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.MA
+NOTE: null
+HASC_MAYBE: TD.MC|TCD-MCH
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD11
+FIPS_ALT: null
+WOE_ID: 56013482
+WOE_LABEL: null
+WOE_NAME: Mandoul
+LATITUDE: 8.67832
+LONGITUDE: 17.5493
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 7603252
+GN_NAME: Mandoul
+GNS_ID: 10624969
+GNS_NAME: Mandoul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD19
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q597410
+NAME_AR: منطقة ماندول
+NAME_BN: মান্ডোল অঞ্চল
+NAME_DE: Region Mandoul
+NAME_EN: Mandoul Region
+NAME_ES: Región de Mandoul
+NAME_FR: Mandoul
+NAME_EL: Μαντούλ
+NAME_HI: मंडोल क्षेत्र
+NAME_HU: null
+NAME_ID: Region Mandoul
+NAME_IT: regione di Mandoul
+NAME_JA: マンドゥル州
+NAME_KO: 망둘 주
+NAME_NL: Mandoul
+NAME_PL: Region Mandoul
+NAME_PT: Mandoul
+NAME_RU: Мандуль
+NAME_SV: Mandoul
+NAME_TR: Mandoul Bölgesi
+NAME_VI: Khu vực Mandoul
+NAME_ZH: 芒杜爾區
+NE_ID: 1159317323

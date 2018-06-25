@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-913
+DISS_ME: 913
+ISO_3166_2: NO-12
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 4
+NAME: Hordaland
+NAME_ALT: Hordaland fylke|Hörðaland|Søndre Bergenhus
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.HO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: HO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO07
+FIPS_ALT: null
+WOE_ID: 2346390
+WOE_LABEL: Hordaland Fylke, NO, Norway
+WOE_NAME: Hordaland
+LATITUDE: 60.1134
+LONGITUDE: 6.89657
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3151864
+GN_NAME: Hordaland Fylke
+GNS_ID: -263930
+GNS_NAME: Hordaland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50625
+NAME_AR: هوردالان
+NAME_BN: হর্ডাল্যান্ড
+NAME_DE: Hordaland
+NAME_EN: Hordaland
+NAME_ES: Hordaland
+NAME_FR: comté de Hordaland
+NAME_EL: Χόρνταλαντ
+NAME_HI: होर्डलैंड
+NAME_HU: Hordaland megye
+NAME_ID: Hordaland
+NAME_IT: Hordaland
+NAME_JA: ホルダラン県
+NAME_KO: 호르달란 주
+NAME_NL: Hordaland
+NAME_PL: Hordaland
+NAME_PT: Hordaland
+NAME_RU: Хордаланн
+NAME_SV: Hordaland fylke
+NAME_TR: Hordaland
+NAME_VI: Hordaland
+NAME_ZH: 霍达兰郡
+NE_ID: 1159309657

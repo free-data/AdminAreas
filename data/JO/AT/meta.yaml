@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-852
+DISS_ME: 852
+ISO_3166_2: JO-AT
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Tafilah
+NAME_ALT: At Tafilah|Tafela|Tafileh
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.AT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO12
+FIPS_ALT: null
+WOE_ID: 2345932
+WOE_LABEL: At Tafilah, JO, Jordan
+WOE_NAME: Tafilah
+LATITUDE: 30.7879
+LONGITUDE: 35.6436
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 250199
+GN_NAME: Muhafazat at Tafilah
+GNS_ID: -970605
+GNS_NAME: At Tafilah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO12
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q750259
+NAME_AR: الطفيلة
+NAME_BN: তাফিলাহ গভর্নোরেট
+NAME_DE: Gouvernement at-Tafila
+NAME_EN: Tafilah Governorate
+NAME_ES: Gobernación de Tafila
+NAME_FR: Gouvernorat de Tafilah
+NAME_EL: Ταφιλάχ Γκοβερνοράτε
+NAME_HI: तफिला गवर्नरेट
+NAME_HU: Tafíla kormányzóság
+NAME_ID: Kegubernuran Tafilah
+NAME_IT: governatorato di al-Tafila
+NAME_JA: タフィラ県
+NAME_KO: 타필라 주
+NAME_NL: Tafilah
+NAME_PL: At-Tafila
+NAME_PT: Governamento de Tafilah
+NAME_RU: Эт-Тафила
+NAME_SV: Tafilah
+NAME_TR: Tafilah Yönetimi
+NAME_VI: Tỉnh Tafilah
+NAME_ZH: 塔菲拉省
+NE_ID: 1159309319

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEL-3478
+DISS_ME: 3478
+ISO_3166_2: BE-VOV
+WIKIPEDIA: null
+ISO_A2: BE
+ADM0_SR: 1
+NAME: East Flanders
+NAME_ALT: Oost-Vlaanderen|Ostflandern|Falndre orientale
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BE.OV
+NOTE: null
+HASC_MAYBE: null
+REGION: Flemish
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: null
+FIPS_ALT: BE08
+WOE_ID: 7153304
+WOE_LABEL: Oost-Vlaanderen, BE, Belgium
+WOE_NAME: East Flanders
+LATITUDE: 50.9749
+LONGITUDE: 3.83186
+SOV_A3: BEL
+ADM0_A3: BEL
+ADM0_LABEL: 2
+ADMIN: Belgium
+GEONUNIT: Flemish Region
+GU_A3: BFR
+GN_ID: 2789733
+GN_NAME: Provincie Oost-Vlaanderen
+GNS_ID: -1966704
+GNS_NAME: Ost-Flandern
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BE.VOV
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: BE13
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1114
+NAME_AR: فلاندر الشرقية
+NAME_BN: ইস্ট ফ্লান্ডার্স
+NAME_DE: Provinz Ostflandern
+NAME_EN: East Flanders
+NAME_ES: Provincia de Flandes Oriental
+NAME_FR: Flandre-Orientale
+NAME_EL: Ανατολική Φλάνδρα
+NAME_HI: पूर्वी फ्लैंडर्स
+NAME_HU: Kelet-Flandria
+NAME_ID: Flandria Timur
+NAME_IT: provincia delle Fiandre Orientali
+NAME_JA: オースト＝フランデレン州
+NAME_KO: 오스트플란데런 주
+NAME_NL: Oost-Vlaanderen
+NAME_PL: Prowincja Flandria Wschodnia
+NAME_PT: Flandres Oriental
+NAME_RU: Восточная Фландрия
+NAME_SV: Östflandern
+NAME_TR: Doğu Flandre
+NAME_VI: Oost-Vlaanderen
+NAME_ZH: 东弗兰德省
+NE_ID: 1159315385

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2636
+DISS_ME: 2636
+ISO_3166_2: BI-BB
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Bubanza
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY09
+FIPS_ALT: null
+WOE_ID: 2344902
+WOE_LABEL: Bubanza, BI, Burundi
+WOE_NAME: Bubanza
+LATITUDE: -3.1045
+LONGITUDE: 29.3862
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 428514
+GN_NAME: Bubanza Province
+GNS_ID: 6037167
+GNS_NAME: Bubanza, iProvense ya
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: run
+GNS_ADM1: BY09
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q460538
+NAME_AR: مقاطعة بوبانزا
+NAME_BN: বুবাঞ্জা প্রদেশ
+NAME_DE: Bubanza
+NAME_EN: Bubanza Province
+NAME_ES: Provincia de Bubanza
+NAME_FR: province de Bubanza
+NAME_EL: Μπουμπάνζα
+NAME_HI: बुबांज़ा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Bubanza
+NAME_IT: provincia di Bubanza
+NAME_JA: ブバンザ県
+NAME_KO: 부반자 주
+NAME_NL: Bubanza
+NAME_PL: Prowincja Bubanza
+NAME_PT: Bubanza
+NAME_RU: Бубанза
+NAME_SV: Bubanza
+NAME_TR: Bubanza ili
+NAME_VI: Tỉnh Bubanza
+NAME_ZH: 布班扎省
+NE_ID: 1159313313

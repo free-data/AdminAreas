@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1850
+DISS_ME: 1850
+ISO_3166_2: JP-26
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Kyōto
+NAME_ALT: Kioto
+NAME_LOCAL: 京都府
+TYPE: Fu
+TYPE_EN: Urban Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.KY
+NOTE: null
+HASC_MAYBE: null
+REGION: Kinki
+REGION_COD: JPN-KIN
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KY
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA22
+FIPS_ALT: null
+WOE_ID: 2345871
+WOE_LABEL: Kyoto Prefecture, JP, Japan
+WOE_NAME: Kyoto
+LATITUDE: 35.2117
+LONGITUDE: 135.451
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1857907
+GN_NAME: Kyoto-fu
+GNS_ID: -235405
+GNS_NAME: Kyoto-fu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA22
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q120730
+NAME_AR: كيوتو
+NAME_BN: কিয়োতো প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Kyōto
+NAME_EN: Kyōto Prefecture
+NAME_ES: Prefectura de Kioto
+NAME_FR: Préfecture de Kyoto
+NAME_EL: Νομός Κιότο
+NAME_HI: क्योटो प्रीफेक्चर
+NAME_HU: Kiotó prefektúra
+NAME_ID: Prefektur Kyoto
+NAME_IT: prefettura di Kyoto
+NAME_JA: 京都府
+NAME_KO: 교토 부
+NAME_NL: Kioto
+NAME_PL: Prefektura Kioto
+NAME_PT: Quioto
+NAME_RU: Киото
+NAME_SV: Kyoto prefektur
+NAME_TR: Kyoto
+NAME_VI: Kyōto
+NAME_ZH: 京都府
+NE_ID: 1159309411

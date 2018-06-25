@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SUR-74
+DISS_ME: 74
+ISO_3166_2: SR-WA
+WIKIPEDIA: null
+ISO_A2: SR
+ADM0_SR: 1
+NAME: Wanica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrikt
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: SR.WA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: WA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 6
+FIPS: NS19
+FIPS_ALT: null
+WOE_ID: 2346415
+WOE_LABEL: Wanica, SR, Suriname
+WOE_NAME: Wanica
+LATITUDE: 5.72606
+LONGITUDE: -55.1929
+SOV_A3: SUR
+ADM0_A3: SUR
+ADM0_LABEL: 2
+ADMIN: Suriname
+GEONUNIT: Suriname
+GU_A3: SUR
+GN_ID: 3382761
+GN_NAME: Distrikt Wanica
+GNS_ID: -915472
+GNS_NAME: Wanica, Distrikt
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SR.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NS19
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1147524
+NAME_AR: مقاطعة وانيكا
+NAME_BN: ওয়ানিকা জেলা
+NAME_DE: Wanica
+NAME_EN: Wanica District
+NAME_ES: Wanica
+NAME_FR: Wanica
+NAME_EL: Γουανίκα
+NAME_HI: वानिका जिला
+NAME_HU: null
+NAME_ID: Distrik Wanica
+NAME_IT: distretto di Wanica
+NAME_JA: ワニカ
+NAME_KO: 바니카 구
+NAME_NL: Wanica
+NAME_PL: Wanica
+NAME_PT: Wanica
+NAME_RU: Ваника
+NAME_SV: Wanica
+NAME_TR: Wanica District
+NAME_VI: Quận Wanica
+NAME_ZH: 瓦尼卡区
+NE_ID: 1159308005

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: ARE-338
+DISS_ME: 338
+ISO_3166_2: AE-RK
+WIKIPEDIA: null
+ISO_A2: AE
+ADM0_SR: 1
+NAME: Ras Al Khaymah
+NAME_ALT: Ras al Khaima|Râs al Khaïmah|Rā's al Khayma|Rā's al Khaymah
+NAME_LOCAL: null
+TYPE: Emirate
+TYPE_EN: Emirate
+CODE_LOCAL: null
+CODE_HASC: AE.RK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: AE05
+FIPS_ALT: null
+WOE_ID: 2347113
+WOE_LABEL: Ras Al Khaimah, AE, United Arab Emirates
+WOE_NAME: Ras Al Khaymah
+LATITUDE: 25.6964
+LONGITUDE: 55.9791
+SOV_A3: ARE
+ADM0_A3: ARE
+ADM0_LABEL: 2
+ADMIN: United Arab Emirates
+GEONUNIT: United Arab Emirates
+GU_A3: ARE
+GN_ID: 291075
+GN_NAME: Ra's al Khaymah
+GNS_ID: -784006
+GNS_NAME: Ra's al Khaymah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AE.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: AE05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q170024
+NAME_AR: رأس الخيمة
+NAME_BN: রাস আল-খাইমাহ
+NAME_DE: Ra’s al-Chaima
+NAME_EN: Ras al-Khaimah
+NAME_ES: Ras al-Jaima
+NAME_FR: Ras el Khaïmah
+NAME_EL: Ρας αλ-Καϊμά
+NAME_HI: रस अल खैमा
+NAME_HU: Rász el-Haima
+NAME_ID: Ras al-Khaimah
+NAME_IT: Ras al-Khaima
+NAME_JA: ラアス・アル＝ハイマ
+NAME_KO: 라스알카이마 토후국
+NAME_NL: Ras al-Khaimah
+NAME_PL: Ras al-Chajma
+NAME_PT: Ras al-Khaimah
+NAME_RU: Рас-эль-Хайма
+NAME_SV: Emiratet Ras al-Khaimah
+NAME_TR: Resü'l-Hayme
+NAME_VI: Ras al-Khaimah
+NAME_ZH: 拉斯海玛
+NE_ID: 1159309249

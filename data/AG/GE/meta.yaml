@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: ATG-5093
+DISS_ME: 5093
+ISO_3166_2: AG-03
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_George_Parish_(Antigua_and_Barbuda)
+ISO_A2: AG
+ADM0_SR: 1
+NAME: Saint George
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: AG.GE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: AC03
+FIPS_ALT: null
+WOE_ID: 2344542
+WOE_LABEL: Saint George, AG, Antigua and Barbuda
+WOE_NAME: Saint George
+LATITUDE: 17.1084
+LONGITUDE: -61.7804
+SOV_A3: ATG
+ADM0_A3: ATG
+ADM0_LABEL: 6
+ADMIN: Antigua and Barbuda
+GEONUNIT: Antigua
+GU_A3: ACA
+GN_ID: 3576024
+GN_NAME: Parish of Saint George
+GNS_ID: -1323512
+GNS_NAME: Saint George
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AG.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AC03
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1770796
+NAME_AR: أبرشية القديس جورج
+NAME_BN: সেন্ট জর্জ প্যারিশ
+NAME_DE: Saint George
+NAME_EN: Saint George Parish
+NAME_ES: Parroquia de Saint George
+NAME_FR: Saint-George
+NAME_EL: Άγιος Γεώργιος
+NAME_HI: सेंट जॉर्ज पल्ली
+NAME_HU: null
+NAME_ID: Paroki Saint George
+NAME_IT: Saint George
+NAME_JA: セント・ジョージ教区
+NAME_KO: 세인트조지 교구
+NAME_NL: Saint George
+NAME_PL: Saint George
+NAME_PT: Saint George
+NAME_RU: Приход Сент-Джордж
+NAME_SV: Parish of Saint George
+NAME_TR: Saint George Parish
+NAME_VI: Giáo xứ Saint George
+NAME_ZH: 聖喬治區
+NE_ID: 1159316407

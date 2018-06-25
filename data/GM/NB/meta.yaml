@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GMB-5513
+DISS_ME: 5513
+ISO_3166_2: GM-N
+WIKIPEDIA: http://en.wikipedia.org/wiki/North_Bank_Division
+ISO_A2: GM
+ADM0_SR: 1
+NAME: North Bank
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: GM.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: NBR
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: GA07
+FIPS_ALT: null
+WOE_ID: 2345448
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 13.5236
+LONGITUDE: -15.9799
+SOV_A3: GMB
+ADM0_A3: GMB
+ADM0_LABEL: 5
+ADMIN: Gambia
+GEONUNIT: Gambia
+GU_A3: GMB
+GN_ID: 2412353
+GN_NAME: North Bank Division
+GNS_ID: -1200963
+GNS_NAME: North Bank
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GM.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GA07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q846161
+NAME_AR: شعبة الضفة الشمالية
+NAME_BN: নর্থ ব্যাঙ্ক ডিভিশন
+NAME_DE: North Bank Region
+NAME_EN: North Bank Division
+NAME_ES: División North Bank
+NAME_FR: Division de North Bank
+NAME_EL: Βόρεια Όχθη
+NAME_HI: उत्तर बैंक डिवीजन
+NAME_HU: null
+NAME_ID: Divisi North Bank
+NAME_IT: divisione del North Bank
+NAME_JA: ノースバンク地方
+NAME_KO: 노스뱅크 구
+NAME_NL: North Bank
+NAME_PL: North Bank Division
+NAME_PT: North Bank
+NAME_RU: Северный Берег
+NAME_SV: North Bank Division
+NAME_TR: North Bank Bölgesi
+NAME_VI: Phân vùng North Bank
+NAME_ZH: 北岸區
+NE_ID: 1159317177

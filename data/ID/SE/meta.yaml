@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1236
+DISS_ME: 1236
+ISO_3166_2: ID-SN
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Sulawesi Selatan
+NAME_ALT: Sulsel
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID38
+FIPS_ALT: ID20
+WOE_ID: 2345729
+WOE_LABEL: South Sulawesi, ID, Indonesia
+WOE_NAME: Sulawesi Selatan
+LATITUDE: -3.7444
+LONGITUDE: 119.99
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1626232
+GN_NAME: Provinsi Sulawesi Selatan
+GNS_ID: -2698078
+GNS_NAME: Sulawesi Selatan, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID38
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5078
+NAME_AR: سولاوسي الجنوبية
+NAME_BN: দক্ষিন সুলাবেসি
+NAME_DE: Sulawesi Selatan
+NAME_EN: South Sulawesi
+NAME_ES: Célebes Meridional
+NAME_FR: Sulawesi du Sud
+NAME_EL: Νότιο Σουλαβέσι
+NAME_HI: दक्षिण सुलावेसी
+NAME_HU: null
+NAME_ID: Sulawesi Selatan
+NAME_IT: Sulawesi Meridionale
+NAME_JA: 南スラウェシ州
+NAME_KO: 술라웨시슬라탄 주
+NAME_NL: Zuid-Celebes
+NAME_PL: Celebes Południowy
+NAME_PT: Celebes do Sul
+NAME_RU: Южный Сулавеси
+NAME_SV: Sulawesi Selatan
+NAME_TR: Güney Sulawesi
+NAME_VI: Nam Sulawesi
+NAME_ZH: 南苏拉威西省
+NE_ID: 1159309875

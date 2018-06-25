@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BLR-2341
+DISS_ME: 2341
+ISO_3166_2: BY-VI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Vitebsk_Region
+ISO_A2: BY
+ADM0_SR: 1
+NAME: Vitebsk
+NAME_ALT: Витебск|Vicebsk|Vitebsk|Vitsyebskaya Voblasts'|Witebsk
+NAME_LOCAL: Vicebskaja voblasc'
+TYPE: Voblasts'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: BY.VI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: BO07
+FIPS_ALT: BO
+WOE_ID: 2344835
+WOE_LABEL: Vitsyebskaya Voblasts', BY, Belarus
+WOE_NAME: Vitsyebsk
+LATITUDE: 55.3073
+LONGITUDE: 28.6747
+SOV_A3: BLR
+ADM0_A3: BLR
+ADM0_LABEL: 2
+ADMIN: Belarus
+GEONUNIT: Belarus
+GU_A3: BLR
+GN_ID: 620134
+GN_NAME: Vitsyebskaya Voblasts'
+GNS_ID: -1951339
+GNS_NAME: Vitsyebskaya Voblasts'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BY.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: BO07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q185700
+NAME_AR: فيتسبك أوبلاست
+NAME_BN: ভিটেবস্ক অঞ্চল
+NAME_DE: Woblast Wizebsk
+NAME_EN: Vitebsk Region
+NAME_ES: Provincia de Vítebsk
+NAME_FR: Voblast de Vitebsk
+NAME_EL: Περιφέρεια Βιτσέμπσκ
+NAME_HI: वाईटेब्स्क प्रांत
+NAME_HU: Vicebszki terület
+NAME_ID: Provinsi Vitsebsk
+NAME_IT: Regione di Vicebsk
+NAME_JA: ヴィーツェプスク州
+NAME_KO: 비쳅스크 주
+NAME_NL: Oblast Vitebsk
+NAME_PL: obwód witebski
+NAME_PT: Voblast de Viciebsk
+NAME_RU: Витебская область
+NAME_SV: Vitsebsks voblast
+NAME_TR: Vitsebsk Voblastı
+NAME_VI: Khu vực Vitebsk
+NAME_ZH: 维捷布斯克州
+NE_ID: 1159312999

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-1061
+DISS_ME: 1061
+ISO_3166_2: RS-02
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Srednje-Banatski
+NAME_ALT: Central Banat
+NAME_LOCAL: Средњебанатски
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB02
+FIPS_ALT: null
+WOE_ID: 29389197
+WOE_LABEL: Srednji Banat, RS, Serbia
+WOE_NAME: Srednje-Banatski
+LATITUDE: 45.4421
+LONGITUDE: 20.5398
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Vojvodina
+GU_A3: SRV
+GN_ID: 7581906
+GN_NAME: Srednje Banatski Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q425782
+NAME_AR: مقاطعة سنترال بانات
+NAME_BN: সেন্ট্রাল বানাট জেলা
+NAME_DE: Okrug Srednji Banat
+NAME_EN: Central Banat District
+NAME_ES: Distrito de Banato Central
+NAME_FR: Banat central
+NAME_EL: Κεντρικό Μπανάτ
+NAME_HI: केंद्रीय बनाट जिला
+NAME_HU: Közép-bánsági körzet
+NAME_ID: Distrik Central Banat
+NAME_IT: Distretto del Banato Centrale
+NAME_JA: 中央バナト郡
+NAME_KO: 중앙바나트 구
+NAME_NL: Centraal-Banaat
+NAME_PL: Okręg środkowobanacki
+NAME_PT: Distrito Central de Banat
+NAME_RU: Средне-Банатский округ
+NAME_SV: Mellersta Banatet
+NAME_TR: Orta Banat İlçesi
+NAME_VI: Quận Trung Banat
+NAME_ZH: 中巴納特州
+NE_ID: 1159310653

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2973
+DISS_ME: 2973
+ISO_3166_2: LY-JI
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Al Jifarah
+NAME_ALT: Al Jfara|Al `Aziziyah|al-Ghifara|Al `Aziziyah
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.JR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20023
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: JI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY81
+FIPS_ALT: null
+WOE_ID: 2346121
+WOE_LABEL: Al 'Aziziyah, LY, Libya
+WOE_NAME: Al Jifarah
+LATITUDE: 32.4889
+LONGITUDE: 13.0352
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 7602690
+GN_NAME: Sha`biyat al Jafarah
+GNS_ID: 10878020
+GNS_NAME: Jafarah, Sha`biyat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.81
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY81
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q329060
+NAME_AR: شعبية الجفارة
+NAME_BN: জাফারা পৌরসভা
+NAME_DE: Munizip al-Dschifara
+NAME_EN: Jafara Municipality
+NAME_ES: Al Jfara
+NAME_FR: Al Djfara
+NAME_EL: Τζαφάρα
+NAME_HI: जाफरा नगरपालिका
+NAME_HU: Dzsifára tartomány
+NAME_ID: Kotamadya Jafara
+NAME_IT: distretto di Gefara
+NAME_JA: ジファーラ県
+NAME_KO: 알즈파라 주
+NAME_NL: Al Jfara
+NAME_PL: Al-Dżifara
+NAME_PT: Al Jifarah
+NAME_RU: Эль-Джифара
+NAME_SV: Al Jfara
+NAME_TR: El Cfara ili
+NAME_VI: Đô thị tự trị Jafara
+NAME_ZH: 吉法拉省
+NE_ID: 1159314127

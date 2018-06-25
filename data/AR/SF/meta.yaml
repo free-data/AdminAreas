@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1310
+DISS_ME: 1310
+ISO_3166_2: AR-S
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Santa Fe
+NAME_ALT: Santa Fé
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.SF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SF
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR21
+FIPS_ALT: null
+WOE_ID: 2344695
+WOE_LABEL: Santa Fe, AR, Argentina
+WOE_NAME: Santa Fe
+LATITUDE: -30.7764
+LONGITUDE: -60.8593
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3836276
+GN_NAME: Provincia de Santa Fe
+GNS_ID: -1014486
+GNS_NAME: Santa Fe
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR21
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44823
+NAME_AR: سانتا في
+NAME_BN: সয়া স্যান্টা ফে প্রদেশ
+NAME_DE: Provinz Santa Fe
+NAME_EN: Santa Fe Province
+NAME_ES: Provincia de Santa Fe
+NAME_FR: Santa Fe
+NAME_EL: Σάντα Φε
+NAME_HI: सैन्टा फै प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Santa Fe
+NAME_IT: provincia di Santa Fe
+NAME_JA: サンタフェ州
+NAME_KO: 산타페 주
+NAME_NL: Santa Fe
+NAME_PL: Santa Fe
+NAME_PT: Santa Fé
+NAME_RU: Санта-Фе
+NAME_SV: Santa Fe
+NAME_TR: Santa Fe eyaleti
+NAME_VI: Santa Fe
+NAME_ZH: 聖大非省
+NE_ID: 1159309793

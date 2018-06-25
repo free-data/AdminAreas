@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5662
+DISS_ME: 5662
+ISO_3166_2: GB-NTY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: North Tyneside
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.NI
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKJ5
+FIPS_ALT: null
+WOE_ID: -12602156
+WOE_LABEL: null
+WOE_NAME: Tyne and Wear
+LATITUDE: 55.0184
+LONGITUDE: -1.48264
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2641238
+GN_NAME: Borough of North Tyneside
+GNS_ID: -2604401
+GNS_NAME: North Tyneside, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.J5
+REGION_SUB: Tyne and Wear
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1120443
+NAME_AR: null
+NAME_BN: নর্থ টাইনিসাইড
+NAME_DE: North Tyneside
+NAME_EN: North Tyneside
+NAME_ES: North Tyneside
+NAME_FR: North Tyneside
+NAME_EL: null
+NAME_HI: null
+NAME_HU: North Tyneside
+NAME_ID: null
+NAME_IT: North Tyneside
+NAME_JA: ノース・タインサイド
+NAME_KO: 노스타인사이드
+NAME_NL: North Tyneside
+NAME_PL: North Tyneside
+NAME_PT: North Tyneside
+NAME_RU: Норт-Тайнсайд
+NAME_SV: Borough of North Tyneside
+NAME_TR: null
+NAME_VI: Bắc Tyneside
+NAME_ZH: 北泰因賽德
+NE_ID: 1159317473

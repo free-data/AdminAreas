@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2594
+DISS_ME: 2594
+ISO_3166_2: PH-SUR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Surigao_del_Sur
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Surigao del Sur
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Dinagat Islands (Region XIII)
+REGION_COD: PH-13
+PROVNUM_NE: 20078
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP62
+FIPS_ALT: null
+WOE_ID: 2346715
+WOE_LABEL: null
+WOE_NAME: Surigao del Sur
+LATITUDE: 8.80931
+LONGITUDE: 126.097
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1685214
+GN_NAME: Province of Surigao del Sur
+GNS_ID: -2454489
+GNS_NAME: Surigao del Sur, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.62
+REGION_SUB: Surigao del Sur
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP62
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13891
+NAME_AR: سوريجاو ديل سور
+NAME_BN: সুরিগাও ডেল সোর
+NAME_DE: Surigao del Sur
+NAME_EN: Surigao del Sur
+NAME_ES: Surigao del Sur
+NAME_FR: Surigao du Sud
+NAME_EL: Σουριγκάο ντελ Σούρ
+NAME_HI: सुरिगाओ देल सूर
+NAME_HU: null
+NAME_ID: Surigao del Sur
+NAME_IT: Provincia di Surigao del Sur
+NAME_JA: 南スリガオ州
+NAME_KO: 남수리가오 주
+NAME_NL: Surigao del Sur
+NAME_PL: Surigao del Sur
+NAME_PT: Surigão do Sur
+NAME_RU: Южный Суригао
+NAME_SV: Surigao del Sur
+NAME_TR: Surigao del Sur
+NAME_VI: Surigao del Sur
+NAME_ZH: 南苏里高省
+NE_ID: 1159313405

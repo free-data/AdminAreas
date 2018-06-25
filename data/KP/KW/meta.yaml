@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PRK-3308
+DISS_ME: 3308
+ISO_3166_2: KP-07
+WIKIPEDIA: null
+ISO_A2: KP
+ADM0_SR: 1
+NAME: Kangwŏn-do
+NAME_ALT: Kangwon|Kogen-do|North Kangwon
+NAME_LOCAL: 	강원도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KP.KW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: KW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: KN09
+FIPS_ALT: null
+WOE_ID: 2345954
+WOE_LABEL: Kangwon-do, KP, North Korea
+WOE_NAME: Kangwŏn-do
+LATITUDE: 38.7273
+LONGITUDE: 127.521
+SOV_A3: PRK
+ADM0_A3: PRK
+ADM0_LABEL: 2
+ADMIN: North Korea
+GEONUNIT: North Korea
+GU_A3: PRK
+GN_ID: 1876101
+GN_NAME: Kangwon-do
+GNS_ID: -177261
+GNS_NAME: Kangwon-do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KP.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KN09
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q41416
+NAME_AR: مقاطعة كانغوون
+NAME_BN: কাংওন প্রদেশ
+NAME_DE: Kangwŏn-do
+NAME_EN: Kangwon Province
+NAME_ES: Kangwon-do
+NAME_FR: Kangwon
+NAME_EL: Κάνγκγουον
+NAME_HI: कांगवॉन प्रांत
+NAME_HU: Kangvon
+NAME_ID: Kangwon-do
+NAME_IT: Kangwon
+NAME_JA: 江原道
+NAME_KO: 강원도
+NAME_NL: Kangwŏn-do
+NAME_PL: Kangwŏn
+NAME_PT: Kangwon
+NAME_RU: Канвондо
+NAME_SV: Kangwon
+NAME_TR: Kangvon
+NAME_VI: Kangwon
+NAME_ZH: 江原道
+NE_ID: 1159315279

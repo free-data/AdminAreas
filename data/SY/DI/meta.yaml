@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-4843
+DISS_ME: 4843
+ISO_3166_2: SY-DI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Damascus
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Damascus
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.DI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: DI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY13
+FIPS_ALT: null
+WOE_ID: 2347081
+WOE_LABEL: Dimashq, SY, Syria
+WOE_NAME: Dimashq
+LATITUDE: 33.5101
+LONGITUDE: 36.2897
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 167541
+GN_NAME: Muhafazat Dimashq
+GNS_ID: -2544397
+GNS_NAME: Dimashq, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY13
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q2007044
+NAME_AR: محافظة دمشق
+NAME_BN: null
+NAME_DE: Gouvernement Damaskus
+NAME_EN: Damascus Governorate
+NAME_ES: Gobernación de Damasco
+NAME_FR: Gouvernorat de Damas
+NAME_EL: Δαμασκός
+NAME_HI: दमिश्क़ प्रान्त
+NAME_HU: null
+NAME_ID: Kegubernuran Damaskus
+NAME_IT: governatorato di Damasco
+NAME_JA: ダマスカス県
+NAME_KO: 다마스쿠스 주
+NAME_NL: Damascus Governorate
+NAME_PL: null
+NAME_PT: Damasco
+NAME_RU: Дамаск
+NAME_SV: null
+NAME_TR: Şam
+NAME_VI: null
+NAME_ZH: 大馬士革省
+NE_ID: 1159315915

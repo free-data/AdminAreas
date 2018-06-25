@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2123
+DISS_ME: 2123
+ISO_3166_2: GB-LAN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Lancashire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: GB.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: null
+PROVNUM_NE: 20091
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKH2
+FIPS_ALT: UKH2
+WOE_ID: 12602160
+WOE_LABEL: null
+WOE_NAME: Lancashire
+LATITUDE: 53.8599
+LONGITUDE: -2.54458
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2644974
+GN_NAME: Lancashire
+GNS_ID: -2600654
+GNS_NAME: Lancashire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.H2
+REGION_SUB: Lancashire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23077
+NAME_AR: لانكشر
+NAME_BN: ল্যাঙ্কাশায়ার
+NAME_DE: Lancashire
+NAME_EN: Lancashire
+NAME_ES: Lancashire
+NAME_FR: Lancashire
+NAME_EL: Λανκασάιρ
+NAME_HI: लैंकाशिर
+NAME_HU: Lancashire
+NAME_ID: Lancashire
+NAME_IT: Lancashire
+NAME_JA: ランカシャー
+NAME_KO: 랭커셔 주
+NAME_NL: Lancashire
+NAME_PL: Lancashire
+NAME_PT: Lancashire
+NAME_RU: Ланкашир
+NAME_SV: Lancashire
+NAME_TR: Lancashire
+NAME_VI: Lancashire
+NAME_ZH: 兰开夏郡
+NE_ID: 1159312953

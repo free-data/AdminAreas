@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1352
+DISS_ME: 1352
+ISO_3166_2: SV-SM
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: San Miguel
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES09
+FIPS_ALT: null
+WOE_ID: 2345300
+WOE_LABEL: San Miguel, SV, El Salvador
+WOE_NAME: San Miguel
+LATITUDE: 13.4882
+LONGITUDE: -88.1953
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3583462
+GN_NAME: Departamento de San Miguel
+GNS_ID: -1147981
+GNS_NAME: San Miguel
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES09
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q930804
+NAME_AR: إدارة سان ميغيل
+NAME_BN: সান মিগুয়েল বিভাগ
+NAME_DE: Departamento San Miguel
+NAME_EN: San Miguel Department
+NAME_ES: San Miguel
+NAME_FR: département de San Miguel
+NAME_EL: Διαμέρισμα Σαν Μιγκέλ
+NAME_HI: नास-मीगोल
+NAME_HU: San Miguel megye
+NAME_ID: Departemen San Miguel
+NAME_IT: dipartimento di San Miguel
+NAME_JA: サンミゲル県
+NAME_KO: 산미겔 주
+NAME_NL: San Miguel
+NAME_PL: San Miguel
+NAME_PT: San Miguel
+NAME_RU: Сан-Мигель
+NAME_SV: San Miguel Department
+NAME_TR: San Miguel Departmanı
+NAME_VI: Khu vực hành chính San Miguel
+NAME_ZH: 圣米格尔省
+NE_ID: 1159309057

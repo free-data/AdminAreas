@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GAB-2628
+DISS_ME: 2628
+ISO_3166_2: GA-7
+WIKIPEDIA: null
+ISO_A2: GA
+ADM0_SR: 1
+NAME: Ogooué-Lolo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GA.OL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: OL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: GB07
+FIPS_ALT: null
+WOE_ID: 2345455
+WOE_LABEL: null
+WOE_NAME: Ogooue-Lolo
+LATITUDE: -0.972672
+LONGITUDE: 12.5284
+SOV_A3: GAB
+ADM0_A3: GAB
+ADM0_LABEL: 5
+ADMIN: Gabon
+GEONUNIT: Gabon
+GU_A3: GAB
+GN_ID: 2396925
+GN_NAME: Province de l' Ogooue-Lolo
+GNS_ID: -1329398
+GNS_NAME: Ogooue-Lolo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GA.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GB07
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q823762
+NAME_AR: مقاطعة أوغووي-لولو
+NAME_BN: ওগেউ লুলু প্রদেশ
+NAME_DE: Ogooué-Lolo
+NAME_EN: Ogooué-Lolo Province
+NAME_ES: Provincia de Ogooué-Lolo
+NAME_FR: Ogooué-Lolo
+NAME_EL: Ογκοουέ-Λόλο
+NAME_HI: ओगोउई-लोलो प्रांत
+NAME_HU: null
+NAME_ID: Ogooué-Lolo
+NAME_IT: Ogooué-Lolo
+NAME_JA: オゴウェ・ロロ州
+NAME_KO: 오고웨롤로 주
+NAME_NL: Ogooué-Lolo
+NAME_PL: Ogowe-Lolo
+NAME_PT: Ogooué-Lolo
+NAME_RU: Огове-Лоло
+NAME_SV: Province de l'Ogooué-Lolo
+NAME_TR: Ogooué-Lolo
+NAME_VI: Ogooué-Lolo
+NAME_ZH: 奧果韋-洛洛省
+NE_ID: 1159313345

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2060
+DISS_ME: 2060
+ISO_3166_2: GB-BDG
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Barking and Dagenham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20035
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Bark&Dag
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKA1
+WOE_ID: 12695820
+WOE_LABEL: null
+WOE_NAME: London Borough of Barking and Dagenham
+LATITUDE: 51.5379
+LONGITUDE: 0.133951
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077562
+GNS_NAME: Barking and Dagenham, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q205358
+NAME_AR: null
+NAME_BN: বার্কিং ও ডেগেনহ্যাম
+NAME_DE: London Borough of Barking and Dagenham
+NAME_EN: London Borough of Barking and Dagenham
+NAME_ES: Barking y Dagenham
+NAME_FR: district londonien de Barking et Dagenham
+NAME_EL: null
+NAME_HI: बार्किंग ऐंड डेगनहम बरो
+NAME_HU: Barking and Dagenham kerület
+NAME_ID: Barking dan Dagenham
+NAME_IT: Barking e Dagenham
+NAME_JA: バーキング・アンド・ダゲナム・ロンドン特別区
+NAME_KO: 바킹 대거넘 구
+NAME_NL: Barking en Dagenham
+NAME_PL: London Borough of Barking and Dagenham
+NAME_PT: Barking e Dagenham
+NAME_RU: Баркинг и Дагенхэм
+NAME_SV: London Borough of Barking and Dagenham
+NAME_TR: null
+NAME_VI: Khu Barking và Dagenham của Luân Đôn
+NAME_ZH: 巴金-達格納姆區
+NE_ID: 1159312915

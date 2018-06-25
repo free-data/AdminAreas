@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-200
+DISS_ME: 200
+ISO_3166_2: SI-181
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Sveta Ana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 143
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIM3
+WOE_ID: -55848361
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.6459
+LONGITUDE: 15.8405
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344931
+GN_NAME: Obcina Sveta Ana
+GNS_ID: 9123451
+GNS_NAME: Sveta Ana, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.M3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q990063
+NAME_AR: بلدية سفيتا آنا
+NAME_BN: সভেতা আনা পৌরসভা
+NAME_DE: Sveta Ana
+NAME_EN: Sveta Ana Municipality
+NAME_ES: Sveta Ana
+NAME_FR: Sveta Ana
+NAME_EL: Σβέτα Άνα
+NAME_HI: स्वेता ऐना नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Sveta Ana
+NAME_IT: Sveta Ana
+NAME_JA: スヴェタ・アナ
+NAME_KO: ‎스베타아나
+NAME_NL: Sveta Ana
+NAME_PL: Gmina Sveta Ana
+NAME_PT: Sveta Ana
+NAME_RU: Света-Ана
+NAME_SV: Sveta Ana
+NAME_TR: Sveta Ana Belediyesi
+NAME_VI: Sveta Ana
+NAME_ZH: null
+NE_ID: 1159308547

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CMR-1480
+DISS_ME: 1480
+ISO_3166_2: CM-CE
+WIKIPEDIA: null
+ISO_A2: CM
+ADM0_SR: 1
+NAME: Centre
+NAME_ALT: Central
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CM.CE
+NOTE: Formerly Centre-Su
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 3
+FIPS: CM11
+FIPS_ALT: null
+WOE_ID: 2345039
+WOE_LABEL: Centre, CM, Cameroon
+WOE_NAME: Centre
+LATITUDE: 4.73268
+LONGITUDE: 11.7383
+SOV_A3: CMR
+ADM0_A3: CMR
+ADM0_LABEL: 2
+ADMIN: Cameroon
+GEONUNIT: Cameroon
+GU_A3: CMR
+GN_ID: 2233376
+GN_NAME: Centre Region
+GNS_ID: -3147557
+GNS_NAME: Centre Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CM.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CM11
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q739951
+NAME_AR: سنتر
+NAME_BN: সেন্টার
+NAME_DE: Centre
+NAME_EN: Centre
+NAME_ES: Región del Centro
+NAME_FR: région du Centre
+NAME_EL: Κεντρική Περιφέρεια
+NAME_HI: सेंटर
+NAME_HU: null
+NAME_ID: Region Tengah
+NAME_IT: regione Centrale
+NAME_JA: 中央州
+NAME_KO: 중앙 주
+NAME_NL: Centre
+NAME_PL: Region Centralny
+NAME_PT: Centro
+NAME_RU: Центральный регион
+NAME_SV: Centrumregionen
+NAME_TR: Merkez Bölgesi
+NAME_VI: Vùng Miền Trung
+NAME_ZH: 中部区
+NE_ID: 1159310215

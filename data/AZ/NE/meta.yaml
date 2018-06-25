@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1710
+DISS_ME: 1710
+ISO_3166_2: AZ-NEF
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Neftçala
+NAME_ALT: Neftchala
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ36
+FIPS_ALT: AJ|
+WOE_ID: 20070241
+WOE_LABEL: null
+WOE_NAME: Neftcala
+LATITUDE: 39.3924
+LONGITUDE: 49.0585
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147422
+GN_NAME: Neftchala Rayon
+GNS_ID: -2707943
+GNS_NAME: Neftcala Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ36
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q688633
+NAME_AR: مقاطعة نيفتشالا
+NAME_BN: নেফকালা জেলা
+NAME_DE: Neftçala
+NAME_EN: Neftchala District
+NAME_ES: Neftçala
+NAME_FR: Neftçala
+NAME_EL: Νεφτσάλα
+NAME_HI: नेफचाला जिला
+NAME_HU: null
+NAME_ID: Neftchala
+NAME_IT: distretto di Neftçala
+NAME_JA: ネフトチャラ県
+NAME_KO: 네프찰라 구
+NAME_NL: Neftçala
+NAME_PL: Rejon Neftçala
+NAME_PT: Neftchala
+NAME_RU: Нефтечалинский район
+NAME_SV: Nefttjala
+NAME_TR: Neftçala Rayonu
+NAME_VI: Neftchala
+NAME_ZH: 涅夫捷恰拉區
+NE_ID: 1159312283

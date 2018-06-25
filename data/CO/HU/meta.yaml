@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1405
+DISS_ME: 1405
+ISO_3166_2: CO-HUI
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Huila
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: CO.HU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 33
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: HU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO16
+FIPS_ALT: null
+WOE_ID: 2345061
+WOE_LABEL: Huila, CO, Colombia
+WOE_NAME: Huila
+LATITUDE: 2.65469
+LONGITUDE: -75.5471
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3680692
+GN_NAME: Departamento del Huila
+GNS_ID: -586544
+GNS_NAME: Huila, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q234920
+NAME_AR: إدارة هويلا
+NAME_BN: হুইলা বিভাগ
+NAME_DE: Departamento de Huila
+NAME_EN: Huila Department
+NAME_ES: Huila
+NAME_FR: Huila
+NAME_EL: Χουίλα
+NAME_HI: हुइला विभाग
+NAME_HU: Huila megye
+NAME_ID: Departemen Huila
+NAME_IT: dipartimento di Huila
+NAME_JA: ウイラ県
+NAME_KO: 우일라 주
+NAME_NL: Huila
+NAME_PL: Huila
+NAME_PT: Huila
+NAME_RU: Уила
+NAME_SV: Huila
+NAME_TR: Huila
+NAME_VI: Khu vực hành chính Huila
+NAME_ZH: 乌伊拉省
+NE_ID: 1159310143

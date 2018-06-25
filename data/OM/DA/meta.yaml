@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: OMN-2404
+DISS_ME: 2404
+ISO_3166_2: OM-DA
+WIKIPEDIA: null
+ISO_A2: OM
+ADM0_SR: 1
+NAME: Ad Dakhliyah
+NAME_ALT: Ad Dakhiliyah
+NAME_LOCAL: null
+TYPE: Mintaqah
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: OM.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: MU02
+FIPS_ALT: MU01
+WOE_ID: 2346261
+WOE_LABEL: Ad Dakhiliyah, OM, Oman
+WOE_NAME: Ad Dakhliyah
+LATITUDE: 22.474
+LONGITUDE: 57.3411
+SOV_A3: OMN
+ADM0_A3: OMN
+ADM0_LABEL: 2
+ADMIN: Oman
+GEONUNIT: Oman
+GU_A3: OMN
+GN_ID: 411735
+GN_NAME: Muhafazat ad Dakhiliyah
+GNS_ID: 374676
+GNS_NAME: Ad Dakhiliyah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: OM.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: MU01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q792550
+NAME_AR: محافظة الداخلية
+NAME_BN: আদ দাখিলিয়া গভর্নোরেট
+NAME_DE: Ad-Dachiliyya
+NAME_EN: Ad Dakhiliyah Governorate
+NAME_ES: Interior
+NAME_FR: Ad-Dākhilīyah
+NAME_EL: Αντ Ντακιλιγιά Γκοβερνοράτε
+NAME_HI: अद दाख़िलीया मुहाफ़ज़ाह
+NAME_HU: Belső régió
+NAME_ID: Kegubernuran Ad-Dakhiliyah
+NAME_IT: governatorato di al-Dakhiliyya
+NAME_JA: ダーヒリーヤ行政区
+NAME_KO: 다킬리야 주
+NAME_NL: Ad Dachiliyah
+NAME_PL: Al-Mintakat ad-Dachilijja
+NAME_PT: Ad Dakhiliyah
+NAME_RU: Эд-Дахилия
+NAME_SV: Ad Dakhiliyah
+NAME_TR: Ed Dahiliye Bölgesi
+NAME_VI: Tỉnh Ad Dakhiliyah
+NAME_ZH: 內地省
+NE_ID: 1159311777

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-667
+DISS_ME: 667
+ISO_3166_2: NI-NS
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Nueva Segovia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.NS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU13
+FIPS_ALT: null
+WOE_ID: 2346429
+WOE_LABEL: Nueva Segovia, NI, Nicaragua
+WOE_NAME: Nueva Segovia
+LATITUDE: 13.7183
+LONGITUDE: -86.2589
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3617458
+GN_NAME: Departamento de Nueva Segovia
+GNS_ID: -1113572
+GNS_NAME: Nueva Segovia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q728022
+NAME_AR: إدارة نويفا سيغوفيا
+NAME_BN: নোয়েভা সেগুভিয়া বিভাগ
+NAME_DE: Departamento Nueva Segovia
+NAME_EN: Nueva Segovia Department
+NAME_ES: Nueva Segovia
+NAME_FR: département de Nueva Segovia
+NAME_EL: Νουέβα Σεγκόβια
+NAME_HI: न्यूएवा सेगोविया विभाग
+NAME_HU: Nueva Segovia megye
+NAME_ID: Departemen Nueva Segovia
+NAME_IT: dipartimento di Nueva Segovia
+NAME_JA: ヌエバ・セゴビア県
+NAME_KO: 누에바세고비아 주
+NAME_NL: Nueva Segovia
+NAME_PL: Nueva Segovia
+NAME_PT: Nueva Segovia
+NAME_RU: Нуэва-Сеговия
+NAME_SV: Nueva Segovia
+NAME_TR: Nueva Segovia District
+NAME_VI: Khu vực hành chính Nueva Segovia
+NAME_ZH: 新塞哥維亞省
+NE_ID: 1159309085

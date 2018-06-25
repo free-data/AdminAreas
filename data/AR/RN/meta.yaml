@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1297
+DISS_ME: 1297
+ISO_3166_2: AR-R
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Río Negro
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.RN
+NOTE: null
+HASC_MAYBE: AR.NQ|ARG-RNE
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: RN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR16
+FIPS_ALT: AR15
+WOE_ID: 2344690
+WOE_LABEL: Rio Negro, AR, Argentina
+WOE_NAME: Río Negro
+LATITUDE: -40.1261
+LONGITUDE: -67.3641
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3838830
+GN_NAME: Provincia de Rio Negro
+GNS_ID: -1010764
+GNS_NAME: Rio Negro
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR16
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44802
+NAME_AR: ريو نيغرو
+NAME_BN: রিও নিগ্রো প্রদেশ
+NAME_DE: Provinz Río Negro
+NAME_EN: Río Negro Province
+NAME_ES: Provincia de Río Negro
+NAME_FR: Río Negro
+NAME_EL: Επαρχία Ρίο Νέγκρο
+NAME_HI: रियो नेग्रो
+NAME_HU: Río Negro tartomány
+NAME_ID: Provinsi Río Negro
+NAME_IT: provincia di Río Negro
+NAME_JA: リオネグロ州
+NAME_KO: 리오네그로 주
+NAME_NL: Río Negro
+NAME_PL: Río Negro
+NAME_PT: Río Negro
+NAME_RU: Рио-Негро
+NAME_SV: Río Negro
+NAME_TR: Río Negro eyaleti
+NAME_VI: Río Negro
+NAME_ZH: 内格罗河省
+NE_ID: 1159309763

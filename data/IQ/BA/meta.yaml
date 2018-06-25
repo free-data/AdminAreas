@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3222
+DISS_ME: 3222
+ISO_3166_2: IQ-BA
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Al-Basrah
+NAME_ALT: Basra|Bassora
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ02
+FIPS_ALT: null
+WOE_ID: 2345834
+WOE_LABEL: Al Basrah, IQ, Iraq
+WOE_NAME: Al-Basrah
+LATITUDE: 30.6802
+LONGITUDE: 47.5605
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 89341
+GN_NAME: Muhafazat al Basrah
+GNS_ID: -3112889
+GNS_NAME: Al Basrah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ02
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q193551
+NAME_AR: محافظة البصرة
+NAME_BN: বাসরাহ প্রদেশ
+NAME_DE: Basra
+NAME_EN: Basra Governorate
+NAME_ES: Gobernación de Basora
+NAME_FR: Al-Basra
+NAME_EL: Μπάσρα Γκοβερνοράτε
+NAME_HI: बसरा प्रान्त
+NAME_HU: Baszra kormányzóság
+NAME_ID: Kegubernuran Basra
+NAME_IT: governatorato di Bassora
+NAME_JA: バスラ県
+NAME_KO: 바스라 주
+NAME_NL: Basra
+NAME_PL: Basra
+NAME_PT: Baçorá
+NAME_RU: Басра
+NAME_SV: Basra
+NAME_TR: Basra ili
+NAME_VI: Tỉnh Basra
+NAME_ZH: 巴士拉省
+NE_ID: 1159314233

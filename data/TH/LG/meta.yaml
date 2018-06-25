@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-391
+DISS_ME: 391
+ISO_3166_2: TH-52
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Lampang
+NAME_ALT: null
+NAME_LOCAL: จังหวัดลำปาง
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.LG
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: null
+PROVNUM_NE: 44
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH06
+FIPS_ALT: null
+WOE_ID: 2347133
+WOE_LABEL: Lampang, TH, Thailand
+WOE_NAME: Lampang
+LATITUDE: 18.6296
+LONGITUDE: 99.5707
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1152472
+GN_NAME: Changwat Lampang
+GNS_ID: -3250323
+GNS_NAME: Lampang, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q240495
+NAME_AR: لامبانغ
+NAME_BN: ল্যাম্পাং
+NAME_DE: Lampang
+NAME_EN: Lampang
+NAME_ES: Provincia de Lampang
+NAME_FR: Lampang
+NAME_EL: Λαμπάνγκ
+NAME_HI: लम्पांग प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Lampang
+NAME_IT: provincia di Lampang
+NAME_JA: ラムパーン県
+NAME_KO: 람빵 주
+NAME_NL: Changwat Lampang
+NAME_PL: Prowincja Lampang
+NAME_PT: Lampang
+NAME_RU: Лампанг
+NAME_SV: Lampang
+NAME_TR: Lampang
+NAME_VI: Lampang
+NAME_ZH: 南邦府
+NE_ID: 1159309173

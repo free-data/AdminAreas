@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5100
+DISS_ME: 5100
+ISO_3166_2: KN-02
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Anne Sandy Point
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.AS
+NOTE: null
+HASC_MAYBE: null
+REGION: Saint Kitts
+REGION_COD: KN-K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: ASP
+POSTAL: AS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 22
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC02
+FIPS_ALT: null
+WOE_ID: 2346965
+WOE_LABEL: Saint Anne Sandy Point, KN, Saint Kitts and Nevis
+WOE_NAME: Saint Anne Sandy Point
+LATITUDE: 17.3574
+LONGITUDE: -62.8369
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575183
+GN_NAME: Saint Anne Sandy Point
+GNS_ID: -1359311
+GNS_NAME: Saint Anne Sandy Point
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC02
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1473654
+NAME_AR: أبرشية القديس آن ساندي بوينت
+NAME_BN: সেন্ট অ্যান স্যান্ডী পয়েন্ট প্যারিশ
+NAME_DE: Saint Anne Sandy Point
+NAME_EN: Saint Anne Sandy Point Parish
+NAME_ES: Parroquia de Saint Anne Sandy Point
+NAME_FR: Saint-Anne Sandy Point
+NAME_EL: Σεντ Άνν Σάντι Πόϊντ
+NAME_HI: सेंट ऐन सैंडी पॉइंट पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Anne Sandy Point
+NAME_IT: parrocchia di Saint Anne Sandy Point
+NAME_JA: セントアン・サンディポイント
+NAME_KO: 세인트앤샌디포인트 교구
+NAME_NL: Saint Anne Sandy Point
+NAME_PL: Saint Anne Sandy Point
+NAME_PT: Saint Anne Sandy Point
+NAME_RU: Сент-Энн-Сэнди-Пойнт
+NAME_SV: Saint Anne Sandy Point
+NAME_TR: Saint Anne Sandy Point
+NAME_VI: Giáo xứ Saint Anne Sandy Point
+NAME_ZH: 聖安娜沙角區
+NE_ID: 1159316437

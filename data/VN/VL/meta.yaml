@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-510
+DISS_ME: 510
+ISO_3166_2: VN-49
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Vĩnh Long
+NAME_ALT: Vinh Long
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.VL
+NOTE: null
+HASC_MAYBE: null
+REGION: đồng bằng sông Cửu Long
+REGION_COD: VNM-VLN
+PROVNUM_NE: 29
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: VL
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM69
+FIPS_ALT: VM69
+WOE_ID: 2347752
+WOE_LABEL: Vinh Long, VN, Vietnam
+WOE_NAME: Vĩnh Long
+LATITUDE: 10.1042
+LONGITUDE: 105.969
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1559977
+GN_NAME: Tinh Vinh Long
+GNS_ID: -3736194
+GNS_NAME: Vinh Long, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.69
+REGION_SUB: null
+SUB_CODE: VM77
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM69
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q7333405
+NAME_AR: مقاطعة فنه لونج
+NAME_BN: ভিন লং
+NAME_DE: Vĩnh Long
+NAME_EN: Vĩnh Long
+NAME_ES: Vĩnh Long
+NAME_FR: Province de Vĩnh Long
+NAME_EL: Βινχ Λονγκ
+NAME_HI: विन्ह लॉन्ग
+NAME_HU: null
+NAME_ID: Provinsi Vinh Long
+NAME_IT: provincia di Vinh Long
+NAME_JA: ヴィンロン省
+NAME_KO: 빈롱 성
+NAME_NL: Vĩnh Long
+NAME_PL: Prowincja Vĩnh Long
+NAME_PT: Vinh Long
+NAME_RU: Виньлонг
+NAME_SV: Vinh Long
+NAME_TR: Ving Long
+NAME_VI: Vĩnh Long
+NAME_ZH: 永隆省
+NE_ID: 1159308397

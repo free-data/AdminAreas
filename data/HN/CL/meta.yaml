@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-638
+DISS_ME: 638
+ISO_3166_2: HN-CL
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Colón
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.CL
+NOTE: Split from Yoro
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO03
+FIPS_ALT: null
+WOE_ID: 2345625
+WOE_LABEL: ColÃ³n, HN, Honduras
+WOE_NAME: Colón
+LATITUDE: 15.7786
+LONGITUDE: -85.7236
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3613358
+GN_NAME: Departamento de Colon
+GNS_ID: -1117739
+GNS_NAME: Colon
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q867117
+NAME_AR: إدارة كولون
+NAME_BN: কোলন বিভাগ
+NAME_DE: Departamento Colón
+NAME_EN: Colón Department
+NAME_ES: Departamento de Colón
+NAME_FR: département de Colón
+NAME_EL: Κολόν
+NAME_HI: कोलन विभाग
+NAME_HU: Colón megye
+NAME_ID: Departemen Colón
+NAME_IT: dipartimento di Colón
+NAME_JA: コロン県
+NAME_KO: 콜론 주
+NAME_NL: Colón
+NAME_PL: Colón
+NAME_PT: Colón
+NAME_RU: Колон
+NAME_SV: Departamento de Colón
+NAME_TR: Colon Departmanı
+NAME_VI: Colón
+NAME_ZH: 科隆省
+NE_ID: 1159309095

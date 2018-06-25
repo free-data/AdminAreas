@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1883
+DISS_ME: 1883
+ISO_3166_2: CD-BC
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 5
+NAME: Bas-Congo
+NAME_ALT: Bas-Zaire|Bas-Zaïre|Kongo-Central|Lower Zaire
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.BC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 3
+ABBREV: null
+POSTAL: BC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: CG08
+FIPS_ALT: null
+WOE_ID: 2344984
+WOE_LABEL: Bas-Congo, CD, Democratic Republic of Congo
+WOE_NAME: Bas-Congo
+LATITUDE: -5.31907
+LONGITUDE: 14.2052
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 2317277
+GN_NAME: Province du Bas-Congo
+GNS_ID: -2039131
+GNS_NAME: Bas-Congo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG08
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q130588
+NAME_AR: الكونغو الوسطى
+NAME_BN: বাস-কঙ্গো
+NAME_DE: Kongo Central
+NAME_EN: Bas-Congo province
+NAME_ES: Bajo Congo
+NAME_FR: Bas-Congo
+NAME_EL: Μπας-Κονγκό
+NAME_HI: बा-कोंगो प्रान्त
+NAME_HU: Alsó-Kongó
+NAME_ID: Kongo Central
+NAME_IT: provincia del Basso Congo
+NAME_JA: コンゴ中央州
+NAME_KO: 바콩고 주
+NAME_NL: Kongo-Central
+NAME_PL: Kongo Środkowe
+NAME_PT: Congo Central
+NAME_RU: Нижнее Конго
+NAME_SV: Kongo-Central
+NAME_TR: Bas-Congo
+NAME_VI: Bas-Congo
+NAME_ZH: 下刚果省
+NE_ID: 1159311245

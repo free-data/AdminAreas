@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1698
+DISS_ME: 1698
+ISO_3166_2: AZ-BIL
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Biləsuvar
+NAME_ALT: Bilasuvar
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.BS
+NOTE: null
+HASC_MAYBE: null
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 33
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ13
+FIPS_ALT: AJ|
+WOE_ID: 20070242
+WOE_LABEL: Bilasuvar, AZ, Azerbaijan
+WOE_NAME: Biləsuvar
+LATITUDE: 39.4604
+LONGITUDE: 48.3681
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147310
+GN_NAME: Bilasuvar Rayon
+GNS_ID: -2708192
+GNS_NAME: Bilasuvar Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ13
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q330834
+NAME_AR: مقاطعة بيلاسوار
+NAME_BN: বিলাসোবার জেলা
+NAME_DE: Biləsuvar
+NAME_EN: Bilasuvar District
+NAME_ES: Biləsuvar
+NAME_FR: Biləsuvar
+NAME_EL: Μπιλασουβάρ
+NAME_HI: बिलासुवार जिला
+NAME_HU: null
+NAME_ID: Bilasuvar
+NAME_IT: distretto di Biləsuvar
+NAME_JA: ビラスヴァル県
+NAME_KO: 빌레수바르 구
+NAME_NL: Biləsuvar
+NAME_PL: Rejon Biləsuvar
+NAME_PT: Bilasuvar
+NAME_RU: Билясуварский район
+NAME_SV: Biläsuvar
+NAME_TR: Bilesuvar rayonu
+NAME_VI: Bilasuvar
+NAME_ZH: 比利亞蘇瓦爾區
+NE_ID: 1159312259

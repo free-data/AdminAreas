@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2040
+DISS_ME: 2040
+ISO_3166_2: GB-BKM
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Buckinghamshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: GB.BU
+NOTE: null
+HASC_MAYBE: null
+REGION: South East
+REGION_COD: null
+PROVNUM_NE: 20056
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKB9
+FIPS_ALT: UKB9
+WOE_ID: 12602166
+WOE_LABEL: null
+WOE_NAME: Buckinghamshire
+LATITUDE: 51.7717
+LONGITUDE: -0.806599
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 2654408
+GN_NAME: Buckinghamshire
+GNS_ID: -2591191
+GNS_NAME: Buckinghamshire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.B9
+REGION_SUB: Buckinghamshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q23229
+NAME_AR: باكينغهامشير
+NAME_BN: বাকিংহামশায়ার
+NAME_DE: Buckinghamshire
+NAME_EN: Buckinghamshire
+NAME_ES: Buckinghamshire
+NAME_FR: Buckinghamshire
+NAME_EL: Μπάκιγχαμ
+NAME_HI: बकिंघमशायर
+NAME_HU: Buckinghamshire
+NAME_ID: Buckinghamshire
+NAME_IT: Buckinghamshire
+NAME_JA: バッキンガムシャー
+NAME_KO: 버킹엄셔 주
+NAME_NL: Buckinghamshire
+NAME_PL: Buckinghamshire
+NAME_PT: Buckinghamshire
+NAME_RU: Бакингемшир
+NAME_SV: Buckinghamshire
+NAME_TR: Buckinghamshire
+NAME_VI: Buckinghamshire
+NAME_ZH: 白金汉郡
+NE_ID: 1159312873

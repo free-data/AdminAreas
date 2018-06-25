@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SPM-4866
+DISS_ME: 4866
+ISO_3166_2: PM-X01~
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint-Pierre,_Saint_Pierre_and_Miquelon
+ISO_A2: PM
+ADM0_SR: 4
+NAME: Saint-Pierre
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Commune
+TYPE_EN: Commune
+CODE_LOCAL: 97502
+CODE_HASC: PM.SP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549865
+WOE_LABEL: St.-Pierre, PM, Saint Pierre and Miquelon
+WOE_NAME: St.-Pierre
+LATITUDE: 46.7795
+LONGITUDE: -56.1918
+SOV_A3: FR1
+ADM0_A3: SPM
+ADM0_LABEL: 3
+ADMIN: Saint Pierre and Miquelon
+GEONUNIT: Saint Pierre and Miquelon
+GU_A3: SPM
+GN_ID: 3424935
+GN_NAME: Commune de Saint-Pierre
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PM.97502
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q34617
+NAME_AR: سان بيير وميكلون
+NAME_BN: সাঁ পিয়ের ও মিক‌লোঁ
+NAME_DE: Saint-Pierre und Miquelon
+NAME_EN: Saint Pierre and Miquelon
+NAME_ES: San Pedro y Miquelón
+NAME_FR: Saint-Pierre-et-Miquelon
+NAME_EL: Σαιν Πιερ και Μικελόν
+NAME_HI: साँ-प्येर और मीकेलों
+NAME_HU: Saint-Pierre és Miquelon
+NAME_ID: Saint Pierre dan Miquelon
+NAME_IT: Saint-Pierre e Miquelon
+NAME_JA: サンピエール島・ミクロン島
+NAME_KO: 생피에르 미클롱
+NAME_NL: Saint-Pierre en Miquelon
+NAME_PL: Saint-Pierre i Miquelon
+NAME_PT: Saint-Pierre e Miquelon
+NAME_RU: Сен-Пьер и Микелон
+NAME_SV: Saint-Pierre och Miquelon
+NAME_TR: Saint Pierre ve Miquelon
+NAME_VI: Saint-Pierre và Miquelon
+NAME_ZH: 圣皮埃尔和密克隆群岛
+NE_ID: 1159315673

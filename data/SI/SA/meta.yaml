@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-210
+DISS_ME: 210
+ISO_3166_2: SI-067
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Luce
+NAME_ALT: Savinjska
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 150
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 4
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SII9
+FIPS_ALT: null
+WOE_ID: -55848369
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.3436
+LONGITUDE: 14.7245
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239134
+GN_NAME: Obcina Luce
+GNS_ID: 243738
+GNS_NAME: Luce, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.I9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI30
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q669648
+NAME_AR: بلدية لوتشه
+NAME_BN: লুসে পৌরসভা
+NAME_DE: Luče
+NAME_EN: Luče Municipality
+NAME_ES: Municipalidad del Luce
+NAME_FR: Luče
+NAME_EL: Λούτσε
+NAME_HI: ल्यूस नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Luče
+NAME_IT: Luče
+NAME_JA: ルチェ
+NAME_KO: 루체
+NAME_NL: Luče
+NAME_PL: Gmina Luče
+NAME_PT: Luče
+NAME_RU: Люче
+NAME_SV: Luce
+NAME_TR: Luce Belediyesi
+NAME_VI: Đô thị tự trị Luce
+NAME_ZH: null
+NE_ID: 1159308571

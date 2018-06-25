@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Slovenia
+SOV_A3: SVN
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Slovenia
+ADM0_A3: SVN
+GEOU_DIF: 0
+GEOUNIT: Slovenia
+GU_A3: SVN
+SU_DIF: 0
+SUBUNIT: Slovenia
+SU_A3: SVN
+BRK_DIFF: 0
+NAME: Slovenia
+NAME_LONG: Slovenia
+BRK_A3: SVN
+BRK_NAME: Slovenia
+BRK_GROUP: null
+ABBREV: Slo.
+POSTAL: SLO
+FORMAL_EN: Republic of Slovenia
+FORMAL_FR: null
+NAME_CIAWF: Slovenia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Slovenia
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 3
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+POP_EST: 1972126
+POP_RANK: 12
+GDP_MD_EST: 68350
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: SI
+ISO_A2: SI
+ISO_A3: SVN
+ISO_A3_EH: SVN
+ISO_N3: 705
+UN_A3: 705
+WB_A2: SI
+WB_A3: SVN
+WOE_ID: 23424945
+WOE_ID_EH: 23424945
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: SVN
+ADM0_A3_US: SVN
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321285
+WIKIDATAID: Q215
+NAME_AR: سلوفينيا
+NAME_BN: স্লোভেনিয়া
+NAME_DE: Slowenien
+NAME_EN: Slovenia
+NAME_ES: Eslovenia
+NAME_FR: Slovénie
+NAME_EL: Σλοβενία
+NAME_HI: स्लोवेनिया
+NAME_HU: Szlovénia
+NAME_ID: Slovenia
+NAME_IT: Slovenia
+NAME_JA: スロベニア
+NAME_KO: 슬로베니아
+NAME_NL: Slovenië
+NAME_PL: Słowenia
+NAME_PT: Eslovénia
+NAME_RU: Словения
+NAME_SV: Slovenien
+NAME_TR: Slovenya
+NAME_VI: Slovenia
+NAME_ZH: 斯洛文尼亚

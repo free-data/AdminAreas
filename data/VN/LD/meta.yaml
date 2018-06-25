@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-480
+DISS_ME: 480
+ISO_3166_2: VN-35
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Lâm Đồng
+NAME_ALT: Lam Dong
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.LD
+NOTE: null
+HASC_MAYBE: null
+REGION: Tây Nguyên
+REGION_COD: VNM-LDO
+PROVNUM_NE: 45
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM23
+FIPS_ALT: null
+WOE_ID: 2347709
+WOE_LABEL: Lam Dong, VN, Vietnam
+WOE_NAME: Lâm Đồng
+LATITUDE: 11.5362
+LONGITUDE: 108
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1577882
+GN_NAME: Tinh Lam Dong
+GNS_ID: -3718253
+GNS_NAME: Lam Dong, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.23
+REGION_SUB: null
+SUB_CODE: VM23
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM23
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36721
+NAME_AR: محافظة لام دونغ
+NAME_BN: লাম ডং
+NAME_DE: Lâm Đồng
+NAME_EN: Lâm Đồng
+NAME_ES: Lâm Đồng
+NAME_FR: Province de Lâm Đồng
+NAME_EL: Λαμ Ντόνγκ
+NAME_HI: लाम दोंग
+NAME_HU: null
+NAME_ID: Provinsi Lam Dong
+NAME_IT: provincia di Lam Dong
+NAME_JA: ラムドン省
+NAME_KO: 럼동 성
+NAME_NL: Lâm Đồng
+NAME_PL: Prowincja Lâm Đồng
+NAME_PT: Lam Dong
+NAME_RU: Ламдонг
+NAME_SV: Lam Dong
+NAME_TR: Lâm Đồng
+NAME_VI: Lâm Đồng
+NAME_ZH: 林同省
+NE_ID: 1159308291

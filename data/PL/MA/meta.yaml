@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: POL-3170
+DISS_ME: 3170
+ISO_3166_2: PL-MA
+WIKIPEDIA: null
+ISO_A2: PL
+ADM0_SR: 1
+NAME: Lesser Poland
+NAME_ALT: Malopolskie
+NAME_LOCAL: null
+TYPE: Województwo
+TYPE_EN: Voivodeship|Province
+CODE_LOCAL: null
+CODE_HASC: PL.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: PL77
+FIPS_ALT: PL77
+WOE_ID: 12577940
+WOE_LABEL: Lesser Poland, PL, Poland
+WOE_NAME: Lesser Poland
+LATITUDE: 49.8761
+LONGITUDE: 20.3133
+SOV_A3: POL
+ADM0_A3: POL
+ADM0_LABEL: 2
+ADMIN: Poland
+GEONUNIT: Poland
+GU_A3: POL
+GN_ID: 858786
+GN_NAME: Wojewodztwo Malopolskie
+GNS_ID: 9007883
+GNS_NAME: Malopolskie, Wojewodztwo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PL.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: PL77
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q54159
+NAME_AR: محافظة بولندا الصغرى
+NAME_BN: লেসার পোল্যান্ড ভয়ভোডেশিপ
+NAME_DE: Woiwodschaft Kleinpolen
+NAME_EN: Lesser Poland Voivodeship
+NAME_ES: Voivodato de Pequeña Polonia
+NAME_FR: Voïvodie de Petite-Pologne
+NAME_EL: Μαλοπόλσκιε
+NAME_HI: लघुतर पोलैंड वोइवोडीशिप
+NAME_HU: Kis-lengyelországi vajdaság
+NAME_ID: Provinsi Polandia Kecil
+NAME_IT: voivodato della Piccola Polonia
+NAME_JA: マウォポルスカ県
+NAME_KO: 마워폴스카 주
+NAME_NL: Woiwodschap Klein-Polen
+NAME_PL: województwo małopolskie
+NAME_PT: Voivodia da Pequena Polónia
+NAME_RU: Малопольское воеводство
+NAME_SV: Lillpolens vojvodskap
+NAME_TR: Küçük Polonya Voyvodalığı
+NAME_VI: Małopolskie
+NAME_ZH: 小波兰省
+NE_ID: 1159314709

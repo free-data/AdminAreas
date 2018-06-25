@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BIH-4803
+DISS_ME: 4803
+ISO_3166_2: BA-BRC
+WIKIPEDIA: null
+ISO_A2: BA
+ADM0_SR: 1
+NAME: Brčko Distrikt
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Condominium
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: BA.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: Repuplika Srpska
+REGION_COD: null
+PROVNUM_NE: -1
+GADM_LEVEL: -1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 29389649
+WOE_LABEL: null
+WOE_NAME: Brčko Distrikt
+LATITUDE: 44.8305
+LONGITUDE: 18.854
+SOV_A3: BIH
+ADM0_A3: BIH
+ADM0_LABEL: 5
+ADMIN: Bosnia and Herzegovina
+GEONUNIT: Republic Srpska
+GU_A3: BIS
+GN_ID: 3294903
+GN_NAME: Brcko District of Bosnia and Herzegovina
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BA.BRC
+REGION_SUB: Serbian Republic
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q194483
+NAME_AR: مقاطعة برتشو
+NAME_BN: বাক্কু জেলা
+NAME_DE: Distrikt Brčko
+NAME_EN: Brčko District
+NAME_ES: Distrito de Brčko
+NAME_FR: District de Brčko
+NAME_EL: Διαμέρισμα του Μπρτσκο
+NAME_HI: ब्राको जिला
+NAME_HU: Brčkói Körzet
+NAME_ID: Distrik Brčko
+NAME_IT: Distretto di Brčko
+NAME_JA: ブルチコ行政区
+NAME_KO: 브르치코 행정구
+NAME_NL: Brčko
+NAME_PL: Dystrykt Brczko
+NAME_PT: Distrito de Brčko
+NAME_RU: Округ Брчко
+NAME_SV: Brčko
+NAME_TR: Brçko Bölgesi
+NAME_VI: Quận Brčko
+NAME_ZH: 布爾奇科特區
+NE_ID: 1159315823

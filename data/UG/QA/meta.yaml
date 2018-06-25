@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5620
+DISS_ME: 5620
+ISO_3166_2: UG-122
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kalungu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.QA
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-STB
+PROVNUM_NE: 20060
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGF5
+FIPS_ALT: null
+WOE_ID: -20070451
+WOE_LABEL: Masaka, UG, Uganda
+WOE_NAME: Masaka
+LATITUDE: -0.15779
+LONGITUDE: 31.8386
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7910134
+GN_NAME: Kalungu District
+GNS_ID: 11074811
+GNS_NAME: Kalungu District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.F5
+REGION_SUB: null
+SUB_CODE: UG12
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UG24
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3321614
+NAME_AR: مقاطعة كالونغو
+NAME_BN: কালোঙ্গো জেলা
+NAME_DE: Kalungu-Distrikt
+NAME_EN: Kalungu District
+NAME_ES: Distrito de Kalungu
+NAME_FR: Kalungu
+NAME_EL: Καλουνγκού
+NAME_HI: कलुंगू जिला
+NAME_HU: null
+NAME_ID: Distrik Kalungu
+NAME_IT: Kalungu
+NAME_JA: カルング県
+NAME_KO: 칼룽구 구
+NAME_NL: Kalungu
+NAME_PL: Dystrykt Kalungu
+NAME_PT: Distrito de Kalungu
+NAME_RU: Калунгу
+NAME_SV: Kalungudistriktet
+NAME_TR: Kalungu District
+NAME_VI: Quận Kalungu
+NAME_ZH: 卡倫古區
+NE_ID: 1159317379

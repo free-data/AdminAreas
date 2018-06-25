@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1437
+DISS_ME: 1437
+ISO_3166_2: DM-07
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint Luke
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.LU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO07
+FIPS_ALT: null
+WOE_ID: 2345166
+WOE_LABEL: Saint Luke, DM, Dominica
+WOE_NAME: Saint Luke
+LATITUDE: 15.2483
+LONGITUDE: -61.3644
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575622
+GN_NAME: Saint Luke
+GNS_ID: -1352357
+GNS_NAME: Saint Luke
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO07
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1431099
+NAME_AR: أبرشية سانت لوك، دومينيكا
+NAME_BN: সেন্ট লুক পারিশ
+NAME_DE: Saint Luke
+NAME_EN: Saint Luke Parish
+NAME_ES: Parroquia de Saint Luke
+NAME_FR: Saint-Luke
+NAME_EL: Άγιος Λουκάς
+NAME_HI: सेंट ल्यूक पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Luke
+NAME_IT: Parrocchia di Saint Luke
+NAME_JA: セント・ルーク
+NAME_KO: 세인트루크 교구
+NAME_NL: Saint Luke
+NAME_PL: Parafia św. Łukasza na Dominice
+NAME_PT: Saint Luke
+NAME_RU: Приход Сент-Люк
+NAME_SV: Saint Luke
+NAME_TR: Saint Luke Parish
+NAME_VI: Giáo xứ Saint Luke
+NAME_ZH: 聖盧克堂區
+NE_ID: 1159311617

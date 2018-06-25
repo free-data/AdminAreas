@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-173
+DISS_ME: 173
+ISO_3166_2: CH-SZ
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Schwyz
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.SZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: SZ
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ17
+FIPS_ALT: null
+WOE_ID: 2347099
+WOE_LABEL: Canton of Schwyz, CH, Switzerland
+WOE_NAME: Schwyz
+LATITUDE: 47.0455
+LONGITUDE: 8.68573
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2658664
+GN_NAME: Kanton Schwyz
+GNS_ID: -2554159
+GNS_NAME: Schwyz, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.SZ
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: SZ17
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12433
+NAME_AR: كانتون شفيتس
+NAME_BN: শাভেজের ক্যান্টন
+NAME_DE: Kanton Schwyz
+NAME_EN: Canton of Schwyz
+NAME_ES: Schwyz
+NAME_FR: canton de Schwytz
+NAME_EL: Στσγουίζ
+NAME_HI: श्वीट्ज़ कैन्टन
+NAME_HU: Schwyz kanton
+NAME_ID: Kanton Schwyz
+NAME_IT: Canton Svitto
+NAME_JA: シュヴィーツ州
+NAME_KO: 슈비츠 주
+NAME_NL: Schwyz
+NAME_PL: Schwyz
+NAME_PT: Schwyz
+NAME_RU: Швиц
+NAME_SV: Schwyz
+NAME_TR: Schwyz
+NAME_VI: Bang Schwyz
+NAME_ZH: 施維茨州
+NE_ID: 1159307679

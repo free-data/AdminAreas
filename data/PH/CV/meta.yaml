@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2563
+DISS_ME: 2563
+ISO_3166_2: PH-CAV
+WIKIPEDIA: http://en.wikipedia.org/wiki/Cavite
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Cavite
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.CV
+NOTE: null
+HASC_MAYBE: null
+REGION: CALABARZON (Region IV-A)
+REGION_COD: PH-40
+PROVNUM_NE: 20097
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP20
+FIPS_ALT: RP20
+WOE_ID: 2346675
+WOE_LABEL: null
+WOE_NAME: Cavite
+LATITUDE: 14.2563
+LONGITUDE: 120.836
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1717639
+GN_NAME: Province of Cavite
+GNS_ID: -2421754
+GNS_NAME: Cavite, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.20
+REGION_SUB: Cavite
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP20
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13785
+NAME_AR: كاويته
+NAME_BN: ক্যাভিটে
+NAME_DE: Provinz Cavite
+NAME_EN: Cavite
+NAME_ES: Cavite
+NAME_FR: province de Cavite
+NAME_EL: Καβιτέ
+NAME_HI: काविते प्रान्त
+NAME_HU: null
+NAME_ID: Cavite
+NAME_IT: Provincia di Cavite
+NAME_JA: カヴィテ州
+NAME_KO: 카비테 주
+NAME_NL: Cavite
+NAME_PL: Prowincja Cavite
+NAME_PT: Província de Cavite
+NAME_RU: Кавите
+NAME_SV: Provins Cavite
+NAME_TR: Cavite
+NAME_VI: Cavite
+NAME_ZH: 甲米地省
+NE_ID: 1159311687

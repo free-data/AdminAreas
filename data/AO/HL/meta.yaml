@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: AGO-1891
+DISS_ME: 1891
+ISO_3166_2: AO-HUI
+WIKIPEDIA: null
+ISO_A2: AO
+ADM0_SR: 1
+NAME: Huíla
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Província
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AO.HL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: HL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: AO09
+FIPS_ALT: null
+WOE_ID: 2344664
+WOE_LABEL: Huila, AO, Angola
+WOE_NAME: Huíla
+LATITUDE: -14.7348
+LONGITUDE: 14.9844
+SOV_A3: AGO
+ADM0_A3: AGO
+ADM0_LABEL: 2
+ADMIN: Angola
+GEONUNIT: Angola
+GU_A3: AGO
+GN_ID: 3348303
+GN_NAME: Huila Province
+GNS_ID: -2865351
+GNS_NAME: Huila, Provincia da
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AO.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: AO09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q214572
+NAME_AR: محافظة هويلا
+NAME_BN: ইলা প্রদেশ
+NAME_DE: Provinz Huíla
+NAME_EN: Huíla Province
+NAME_ES: Huila
+NAME_FR: Huila
+NAME_EL: Χουίλα
+NAME_HI: हुइला प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Huíla
+NAME_IT: provincia di Huíla
+NAME_JA: ウイラ州
+NAME_KO: 우일라 주
+NAME_NL: Huíla
+NAME_PL: Prowincja Huíla
+NAME_PT: Huíla
+NAME_RU: Уила
+NAME_SV: Huíla
+NAME_TR: Huíla Bölgesi
+NAME_VI: Huíla
+NAME_ZH: 威拉省
+NE_ID: 1159311277

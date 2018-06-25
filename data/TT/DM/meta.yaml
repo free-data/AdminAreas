@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TTO-51
+DISS_ME: 51
+ISO_3166_2: TT-DMN
+WIKIPEDIA: null
+ISO_A2: TT
+ADM0_SR: 1
+NAME: Diego Martin
+NAME_ALT: Petit Valley
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TT.DM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: TD15
+FIPS_ALT: null
+WOE_ID: 56189828
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 10.7128
+LONGITUDE: -61.5778
+SOV_A3: TTO
+ADM0_A3: TTO
+ADM0_LABEL: 6
+ADMIN: Trinidad and Tobago
+GEONUNIT: Trinidad and Tobago
+GU_A3: TTO
+GN_ID: 7521939
+GN_NAME: Diego Martin
+GNS_ID: -1359867
+GNS_NAME: Diego Martin, Region of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TT.DMN
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TD15
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2679107
+NAME_AR: شركة دييجو مارتن الإقليمية
+NAME_BN: ডিয়েগু মার্টিন অঞ্চল
+NAME_DE: Diego Martin
+NAME_EN: Diego Martin Regional Corporation
+NAME_ES: Diego Martin
+NAME_FR: Région de Diego Martin
+NAME_EL: Ντιέγκο Μαρτίν
+NAME_HI: डिएगो मार्टिन क्षेत्रीय निगम
+NAME_HU: null
+NAME_ID: Korporasi Wilayah Diego Martin
+NAME_IT: regione di Diego Martin
+NAME_JA: ディエゴ・マーティン地域自治体
+NAME_KO: 디에고마틴 지역
+NAME_NL: Diego Martin
+NAME_PL: Region Diego Martin
+NAME_PT: Diego Martin
+NAME_RU: Диего-Мартин
+NAME_SV: Diego Martin
+NAME_TR: Diego Martin Bölgesel Ortaklığı
+NAME_VI: Khu liên kết chung Diego Martin
+NAME_ZH: null
+NE_ID: 1159308039

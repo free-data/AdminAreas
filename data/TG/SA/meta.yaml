@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TGO-90
+DISS_ME: 90
+ISO_3166_2: TG-S
+WIKIPEDIA: null
+ISO_A2: TG
+ADM0_SR: 1
+NAME: Savanes
+NAME_ALT: Région des Savanes
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TG.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: TGO-OTI
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 5
+FIPS: TO26
+FIPS_ALT: null
+WOE_ID: 56048434
+WOE_LABEL: Savanes Region, TG, Togo
+WOE_NAME: Savanes
+LATITUDE: 10.5136
+LONGITUDE: 0.415303
+SOV_A3: TGO
+ADM0_A3: TGO
+ADM0_LABEL: 5
+ADMIN: Togo
+GEONUNIT: Togo
+GU_A3: TGO
+GN_ID: 2364205
+GN_NAME: Region des Savanes
+GNS_ID: -1499041
+GNS_NAME: Savanes, Region des
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TG.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TO26
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q279945
+NAME_AR: إقليم سافانس
+NAME_BN: সাভানেস অঞ্চল
+NAME_DE: Region Savanes
+NAME_EN: Savanes Region
+NAME_ES: Sabana
+NAME_FR: Région des Savanes
+NAME_EL: Σαβάν
+NAME_HI: सावेनेस क्षेत्र
+NAME_HU: null
+NAME_ID: Region Savanes
+NAME_IT: regione delle Savane
+NAME_JA: サバナ州
+NAME_KO: 사반 주
+NAME_NL: Savanes
+NAME_PL: Region Savanes
+NAME_PT: Savanes
+NAME_RU: Область Саванн
+NAME_SV: Savanes
+NAME_TR: Savanes
+NAME_VI: Savanes
+NAME_ZH: 草原區
+NE_ID: 1159308985

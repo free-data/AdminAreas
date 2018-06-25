@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2073
+DISS_ME: 2073
+ISO_3166_2: GB-MRT
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Merton
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.ME
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Merton
+POSTAL: ME
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKI4
+WOE_ID: 12695834
+WOE_LABEL: null
+WOE_NAME: London Borough of Merton
+LATITUDE: 51.4087
+LONGITUDE: -0.181508
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077613
+GNS_NAME: Merton, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q32504
+NAME_AR: null
+NAME_BN: মেটন
+NAME_DE: London Borough of Merton
+NAME_EN: London Borough of Merton
+NAME_ES: Merton
+NAME_FR: district londonien de Merton
+NAME_EL: null
+NAME_HI: मर्टन बरो
+NAME_HU: Merton kerület
+NAME_ID: null
+NAME_IT: Merton
+NAME_JA: マートン・ロンドン特別区
+NAME_KO: 머턴 구
+NAME_NL: Merton
+NAME_PL: London Borough of Merton
+NAME_PT: Merton
+NAME_RU: Мертон
+NAME_SV: London Borough of Merton
+NAME_TR: null
+NAME_VI: Khu Merton của Luân Đôn
+NAME_ZH: 默頓區
+NE_ID: 1159312945

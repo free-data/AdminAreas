@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5425
+DISS_ME: 5425
+ISO_3166_2: IT-FR
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Frosinone
+NAME_ALT: Lacio|Latium
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 03
+CODE_HASC: IT.FR
+NOTE: ITE
+HASC_MAYBE: null
+REGION: Lazio
+REGION_COD: IT-62
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: FR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT07
+FIPS_ALT: null
+WOE_ID: 12591838
+WOE_LABEL: null
+WOE_NAME: Frosinone
+LATITUDE: 41.6106
+LONGITUDE: 13.5575
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3176513
+GN_NAME: Provincia di Frosinone
+GNS_ID: -118049
+GNS_NAME: Frosinone
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.FR
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT07
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16181
+NAME_AR: مقاطعة فروزينوني
+NAME_BN: ফ্রোসিনোন-এর প্রদেশ
+NAME_DE: Provinz Frosinone
+NAME_EN: Province of Frosinone
+NAME_ES: Frosinone
+NAME_FR: Frosinone
+NAME_EL: Επαρχία του Φροζινόνε
+NAME_HI: फ्रोसिनोन प्रांत
+NAME_HU: Frosinone megye
+NAME_ID: Provinsi Frosinone
+NAME_IT: provincia di Frosinone
+NAME_JA: フロジノーネ県
+NAME_KO: 프로시노네 현
+NAME_NL: Frosinone
+NAME_PL: Prowincja Frosinone
+NAME_PT: Frosinone
+NAME_RU: Фрозиноне
+NAME_SV: Frosinone
+NAME_TR: Frosinone ili
+NAME_VI: Frosinone
+NAME_ZH: 弗罗西诺内省
+NE_ID: 1159317017

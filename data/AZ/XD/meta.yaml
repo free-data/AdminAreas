@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1734
+DISS_ME: 1734
+ISO_3166_2: AZ-XVD
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Xocavənd
+NAME_ALT: Khojavend
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.XD
+NOTE: part of Nagorno-Karabakh
+HASC_MAYBE: null
+REGION: Yukhari Garabakh Economic Region
+REGION_COD: AZ-07
+PROVNUM_NE: 58
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: XD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ65
+FIPS_ALT: AJ|
+WOE_ID: 20070259
+WOE_LABEL: Xocavand, AZ, Azerbaijan
+WOE_NAME: Xocavənd
+LATITUDE: 39.6307
+LONGITUDE: 46.99
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 5
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 409423
+GN_NAME: Xocavand Rayonu
+GNS_ID: 334502
+GNS_NAME: Xocavand Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.65
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ65
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q330813
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Xocavənd
+NAME_EN: Khojavend District
+NAME_ES: Xocavənd
+NAME_FR: Khojavend
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Xocavəndi járás
+NAME_ID: Khojavend
+NAME_IT: distretto di Xocavənd
+NAME_JA: ホジャヴェンド県
+NAME_KO: 호자벤트 구
+NAME_NL: Xocavənd
+NAME_PL: Rejon Xocavənd
+NAME_PT: Khojavend
+NAME_RU: Ходжавендский район
+NAME_SV: Chodzjavänd
+NAME_TR: Hocavend Rayonu
+NAME_VI: Khojavend
+NAME_ZH: 霍賈文德區
+NE_ID: 1159309397

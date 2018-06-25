@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1426
+DISS_ME: 1426
+ISO_3166_2: CO-VAU
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Vaupés
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comisaría
+TYPE_EN: Commissiary
+CODE_LOCAL: null
+CODE_HASC: CO.VP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: VP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO30
+FIPS_ALT: null
+WOE_ID: 2345075
+WOE_LABEL: Vaupes, CO, Colombia
+WOE_NAME: Vaupés
+LATITUDE: 0.790971
+LONGITUDE: -70.5869
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3666254
+GN_NAME: Departamento del Vaupes
+GNS_ID: -601114
+GNS_NAME: Vaupes, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO30
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q234505
+NAME_AR: إدارة فاوبيس
+NAME_BN: ভুপ্স বিভাগ
+NAME_DE: Departamento del Vaupés
+NAME_EN: Vaupés Department
+NAME_ES: Vaupés
+NAME_FR: Vaupés
+NAME_EL: Βαουπές
+NAME_HI: वॉपेस विभाग
+NAME_HU: Vaupés megye
+NAME_ID: Departemen Vaupés
+NAME_IT: dipartimento di Vaupés
+NAME_JA: バウペス県
+NAME_KO: 바우페스 주
+NAME_NL: Vaupés
+NAME_PL: Vaupés
+NAME_PT: Vaupés
+NAME_RU: Ваупес
+NAME_SV: Vaupés
+NAME_TR: Vaupés
+NAME_VI: Khu vực hành chính Vaupés
+NAME_ZH: 沃佩斯省
+NE_ID: 1159310173

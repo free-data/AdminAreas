@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1712
+DISS_ME: 1712
+ISO_3166_2: AZ-SIY
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Siyəzən
+NAME_ALT: Siazan
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.SY
+NOTE: null
+HASC_MAYBE: null
+REGION: Guba-Khachmaz Economic Region
+REGION_COD: AZ-05
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ53
+FIPS_ALT: AJ|
+WOE_ID: 20070278
+WOE_LABEL: Siyazan, AZ, Azerbaijan
+WOE_NAME: Siyəzən
+LATITUDE: 41.0414
+LONGITUDE: 49.0973
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 828304
+GN_NAME: Siazan Rayon
+GNS_ID: 334495
+GNS_NAME: Siyazan Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ53
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q820940
+NAME_AR: مقاطعة سيازن
+NAME_BN: সিজান জেলা
+NAME_DE: Siyəzən
+NAME_EN: Siazan District
+NAME_ES: Siyəzən
+NAME_FR: Siyəzən
+NAME_EL: Σιαζάν
+NAME_HI: सिज़ान जिला
+NAME_HU: Siyəzəni járás
+NAME_ID: Siazan
+NAME_IT: distretto di Siyəzən
+NAME_JA: シアザン県
+NAME_KO: 시예젠 구
+NAME_NL: Siyəzən
+NAME_PL: Rejon Siyəzən
+NAME_PT: Siazan
+NAME_RU: Сиазаньский район
+NAME_SV: Siyəzən Rayonu
+NAME_TR: Siyezen Rayonu
+NAME_VI: Siazan
+NAME_ZH: 錫阿贊區
+NE_ID: 1159312287

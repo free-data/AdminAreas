@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1473
+DISS_ME: 1473
+ISO_3166_2: TD-WF
+WIKIPEDIA: null
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Wadi Fira
+NAME_ALT: Biltine
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.BI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD02
+FIPS_ALT: null
+WOE_ID: 2344946
+WOE_LABEL: Wadi Fira, TD, Chad
+WOE_NAME: Wadi Fira
+LATITUDE: 15.0457
+LONGITUDE: 21.5596
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 244877
+GN_NAME: Wadi Fira Region
+GNS_ID: -1091188
+GNS_NAME: Wadi Fira
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD02
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q860813
+NAME_AR: منطقة وادي فيرا
+NAME_BN: ওয়াডি ফিরা অঞ্চল
+NAME_DE: Region Wadi Fira
+NAME_EN: Wadi Fira Region
+NAME_ES: Región de Wadi Fira
+NAME_FR: Wadi Fira
+NAME_EL: Γουάντι Φίρα
+NAME_HI: वादी फिरा क्षेत्र
+NAME_HU: null
+NAME_ID: Region Wadi Fira
+NAME_IT: regione di Wadi Fira
+NAME_JA: ワジ・フィラ州
+NAME_KO: 와디피라 주
+NAME_NL: Wadi Fira
+NAME_PL: Region Wadi Fira
+NAME_PT: Wadi Fira
+NAME_RU: Вади-Фера
+NAME_SV: Wadi Fira
+NAME_TR: Wadi Fira Bölgesi
+NAME_VI: Khu vực Wadi Fira
+NAME_ZH: 瓦迪菲拉區
+NE_ID: 1159310381

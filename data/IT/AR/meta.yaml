@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5387
+DISS_ME: 5387
+ISO_3166_2: IT-AR
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 5
+NAME: Arezzo
+NAME_ALT: Tuscany|Toscane|Toskana
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 52
+CODE_HASC: IT.AR
+NOTE: ITE
+HASC_MAYBE: null
+REGION: Toscana
+REGION_COD: IT-52
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: AR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT16
+FIPS_ALT: null
+WOE_ID: 12591866
+WOE_LABEL: null
+WOE_NAME: Arezzo
+LATITUDE: 43.5298
+LONGITUDE: 11.7758
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3182882
+GN_NAME: Province of Arezzo
+GNS_ID: -110638
+GNS_NAME: Arezzo, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.AR
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT16
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16115
+NAME_AR: مقاطعة أريتسو
+NAME_BN: অ্যারেজ্জো-এর প্রদেশ
+NAME_DE: Provinz Arezzo
+NAME_EN: Province of Arezzo
+NAME_ES: Arezzo
+NAME_FR: province d'Arezzo
+NAME_EL: Αρέτσο
+NAME_HI: अरेजो प्रांत
+NAME_HU: Arezzo megye
+NAME_ID: Provinsi Arezzo
+NAME_IT: provincia di Arezzo
+NAME_JA: アレッツォ県
+NAME_KO: 아레초 현
+NAME_NL: Arezzo
+NAME_PL: Prowincja Arezzo
+NAME_PT: Arezzo
+NAME_RU: Ареццо
+NAME_SV: Arezzo
+NAME_TR: Arezzo ili
+NAME_VI: Arezzo
+NAME_ZH: 阿雷佐省
+NE_ID: 1159317005

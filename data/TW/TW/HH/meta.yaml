@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1162
+DISS_ME: 1162
+ISO_3166_2: TW-HSQ
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 1
+NAME: Hsinchu
+NAME_ALT: Xinzhu
+NAME_LOCAL: null
+TYPE: Hsien
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: TW.TW.HH
+NOTE: null
+HASC_MAYBE: null
+REGION: Taiwan Province
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: HH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2347334
+WOE_LABEL: null
+WOE_NAME: Hsinchu County
+LATITUDE: 24.6748
+LONGITUDE: 121.163
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1675107
+GN_NAME: Hsinchu
+GNS_ID: -2631085
+GNS_NAME: Xinzhu Xian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.HSZ
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW09
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q74054
+NAME_AR: مقاطعة هسينشو
+NAME_BN: হেসিনচু কাউন্টি
+NAME_DE: Landkreis Hsinchu
+NAME_EN: Hsinchu County
+NAME_ES: Condado de Hsinchu
+NAME_FR: comté de Hsinchu
+NAME_EL: Χσίντσου
+NAME_HI: सिंचू काउंटी
+NAME_HU: null
+NAME_ID: Kabupaten Hsinchu
+NAME_IT: Contea di Hsinchu
+NAME_JA: 新竹県
+NAME_KO: 신주 현
+NAME_NL: Hsinchu
+NAME_PL: Xinzhu
+NAME_PT: Condado de Hsinchu
+NAME_RU: Синьчжу
+NAME_SV: Hsinchu
+NAME_TR: Hsinchu County
+NAME_VI: Tân Trúc
+NAME_ZH: 新竹縣
+NE_ID: 1159310395

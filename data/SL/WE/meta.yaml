@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SLE-761
+DISS_ME: 761
+ISO_3166_2: SL-W
+WIKIPEDIA: null
+ISO_A2: SL
+ADM0_SR: 1
+NAME: Western
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SL.WE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: WE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: SL04
+FIPS_ALT: null
+WOE_ID: 2347003
+WOE_LABEL: Western Area, SL, Sierra Leone
+WOE_NAME: Western
+LATITUDE: 8.31041
+LONGITUDE: -13.0935
+SOV_A3: SLE
+ADM0_A3: SLE
+ADM0_LABEL: 2
+ADMIN: Sierra Leone
+GEONUNIT: Sierra Leone
+GU_A3: SLE
+GN_ID: 2403068
+GN_NAME: Western Area
+GNS_ID: -1321856
+GNS_NAME: Western Area
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SL.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: SL04
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1050475
+NAME_AR: المقاطعة الغربية
+NAME_BN: পশ্চিমাঞ্চল
+NAME_DE: Western
+NAME_EN: Western Area
+NAME_ES: Área Occidental
+NAME_FR: Zone de l'Ouest
+NAME_EL: Δυτική Περιφέρεια
+NAME_HI: पश्चिमी क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Barat
+NAME_IT: Area occidentale della Sierra Leone
+NAME_JA: 西部地域
+NAME_KO: 서부 구
+NAME_NL: Western
+NAME_PL: Obszar Zachodni
+NAME_PT: Western Area
+NAME_RU: Западная область
+NAME_SV: Freetown Peninsula
+NAME_TR: Western Area
+NAME_VI: Khu vực Phía Tây
+NAME_ZH: 西部區
+NE_ID: 1159310107

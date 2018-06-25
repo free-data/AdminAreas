@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2118
+DISS_ME: 2118
+ISO_3166_2: GB-NTL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Neath Port Talbot
+NAME_ALT: Neath and Port Talbot
+NAME_LOCAL: null
+TYPE: Unitary Authority (wales)
+TYPE_EN: Unitary Authority (wales)
+CODE_LOCAL: null
+CODE_HASC: GB.NP
+NOTE: null
+HASC_MAYBE: null
+REGION: East Wales
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 17
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKY5
+FIPS_ALT: UKY5
+WOE_ID: 12602224
+WOE_LABEL: null
+WOE_NAME: Neath and Port Talbot County Borough
+LATITUDE: 51.6459
+LONGITUDE: -3.73935
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Wales
+GU_A3: WLS
+GN_ID: 3333245
+GN_NAME: Neath Port Talbot
+GNS_ID: 6077687
+GNS_NAME: Neath Port Talbot, County Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Y5
+REGION_SUB: South Wales
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q748078
+NAME_AR: null
+NAME_BN: নিথ পোর্ট তালবোট কাউন্টি বোরো
+NAME_DE: Neath Port Talbot
+NAME_EN: Neath Port Talbot County Borough
+NAME_ES: Neath-Port Talbot
+NAME_FR: Neath Port Talbot
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Neath Port Talbot
+NAME_ID: null
+NAME_IT: distretto di contea di Neath Port Talbot
+NAME_JA: ニース・ポート・タルボット
+NAME_KO: 니스포트탤벗
+NAME_NL: Neath Port Talbot
+NAME_PL: Neath Port Talbot
+NAME_PT: Neath Port Talbot
+NAME_RU: Нит — Порт-Толбот
+NAME_SV: Neath Port Talbot
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 下塔尔波特港
+NE_ID: 1159312715

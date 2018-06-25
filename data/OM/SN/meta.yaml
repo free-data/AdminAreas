@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: OMN-5496
+DISS_ME: 5496
+ISO_3166_2: OM-SS
+WIKIPEDIA: null
+ISO_A2: OM
+ADM0_SR: 1
+NAME: Ash Sharqiyah North
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mintaqah
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: OM.SN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 19
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: MU12
+FIPS_ALT: null
+WOE_ID: 2346256
+WOE_LABEL: Ash Sharqiyah, OM, Oman
+WOE_NAME: Ash Sharqiyah
+LATITUDE: 22.2943
+LONGITUDE: 58.565
+SOV_A3: OMN
+ADM0_A3: OMN
+ADM0_LABEL: 2
+ADMIN: Oman
+GEONUNIT: Oman
+GU_A3: OMN
+GN_ID: 8394433
+GN_NAME: Muhafazat Shamal ash Sharqiyah
+GNS_ID: 11612743
+GNS_NAME: Shamal ash Sharqiyah
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: OM.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: MU12
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q4501876
+NAME_AR: محافظة شمال الشرقية
+NAME_BN: আশ শারকিয়াহ গভর্নোরেট
+NAME_DE: Schamal asch-Scharqiyya
+NAME_EN: Ash Sharqiyah North Governorate
+NAME_ES: Gobernación Norte del Ash Sharqiyah
+NAME_FR: Ach-Charqiya du Nord
+NAME_EL: Ας Σαρκίγια Νόρθ Γκοβερνοράτε
+NAME_HI: एश शरीकिया उत्तरी गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Asy-Syarqiyah Utara
+NAME_IT: Ash Sharqiyah North Governorate
+NAME_JA: 北シャルキーヤ地方
+NAME_KO: 북동부 주
+NAME_NL: Asj Sjarqiyah
+NAME_PL: Ash Sharqiyah North Governorate
+NAME_PT: Governamento de Ash Sharqiyah Norte
+NAME_RU: Северная Эш-Шаркия
+NAME_SV: Nord-Ash Sharqiyah
+NAME_TR: Ash Sharqiyah Kuzey Yönetimi
+NAME_VI: Tỉnh Bắc Ash Sharqiyah
+NAME_ZH: 東北省
+NE_ID: 1159317139

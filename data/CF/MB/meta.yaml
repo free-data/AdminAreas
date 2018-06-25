@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-868
+DISS_ME: 868
+ISO_3166_2: CF-MB
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Mbomou
+NAME_ALT: M'Bomou
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.MB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT08
+FIPS_ALT: null
+WOE_ID: 2345096
+WOE_LABEL: null
+WOE_NAME: Mbomou
+LATITUDE: 5.48563
+LONGITUDE: 23.4601
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 237556
+GN_NAME: Mbomou
+GNS_ID: -1347709
+GNS_NAME: Mbomou, Prefecture du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT08
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q848582
+NAME_AR: محافظة مبومو
+NAME_BN: ম্বমৌ প্রশাসনিক অঞ্চল
+NAME_DE: Mbomou
+NAME_EN: Mbomou Prefecture
+NAME_ES: Mbomou
+NAME_FR: Mbomou
+NAME_EL: Μπόμου
+NAME_HI: बोमू प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Mbomou
+NAME_IT: Prefettura di Mbomou
+NAME_JA: ムボム州
+NAME_KO: 음보무 주
+NAME_NL: Mbomou
+NAME_PL: Prefektura Mbomou
+NAME_PT: Mbomou
+NAME_RU: Мбому
+NAME_SV: Mbomou
+NAME_TR: Mbomou Bölgesi
+NAME_VI: Tỉnh Mbomou
+NAME_ZH: 姆博穆省
+NE_ID: 1159308973

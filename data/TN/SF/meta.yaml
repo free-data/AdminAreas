@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-114
+DISS_ME: 114
+ISO_3166_2: TN-61
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 5
+NAME: Sfax
+NAME_ALT: Safāqis|Ṣafāqis|Ṣfāqis
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.SF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: SF
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 4
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS32
+FIPS_ALT: null
+WOE_ID: 2347252
+WOE_LABEL: Safaqis, TN, Tunisia
+WOE_NAME: Sfax
+LATITUDE: 34.6495
+LONGITUDE: 11.0329
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2467450
+GN_NAME: Gouvernorat de Sfax
+GNS_ID: -728708
+GNS_NAME: Sfax, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS32
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q241145
+NAME_AR: ولاية صفاقس
+NAME_BN: স্ফ্যাক্স গভর্নোরেট
+NAME_DE: Gouvernorat Sfax
+NAME_EN: Sfax Governorate
+NAME_ES: Gobernación de Sfax
+NAME_FR: gouvernorat de Sfax
+NAME_EL: Σφαξ
+NAME_HI: स्फैक्स गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Sfax
+NAME_IT: governatorato di Sfax
+NAME_JA: スファックス県
+NAME_KO: 스팍스 주
+NAME_NL: Sfax
+NAME_PL: Gubernatorstwo Safakis
+NAME_PT: Sfax
+NAME_RU: Сфакс
+NAME_SV: Sfax
+NAME_TR: Sfaks ili
+NAME_VI: Tỉnh Sfax
+NAME_ZH: 斯法克斯省
+NE_ID: 1159309343

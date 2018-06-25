@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5020
+DISS_ME: 5020
+ISO_3166_2: BS-CS
+WIKIPEDIA: http://en.wikipedia.org/wiki/Central_Andros
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Central Andros
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Second Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: CS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF38
+FIPS_ALT: null
+WOE_ID: 24551243
+WOE_LABEL: Central Andros, BS, The Bahamas
+WOE_NAME: Central Andros
+LATITUDE: 24.4757
+LONGITUDE: -77.9355
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030543
+GN_NAME: Central Andros District
+GNS_ID: 11057031
+GNS_NAME: Central Andros District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF38
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2096558
+NAME_AR: سنترال أندروس
+NAME_BN: সেন্ট্রারাল এন্ড্রোস
+NAME_DE: Central Andros
+NAME_EN: Central Andros
+NAME_ES: Central Andros
+NAME_FR: Central Andros
+NAME_EL: Κεντρικό Άντρος
+NAME_HI: मध्य एंड्रोस
+NAME_HU: null
+NAME_ID: Central Andros
+NAME_IT: Central Andros
+NAME_JA: セントラル・アンドロス
+NAME_KO: 센트럴안드로스
+NAME_NL: Central Andros
+NAME_PL: Central Andros
+NAME_PT: Central Andros
+NAME_RU: Центральный Андрос
+NAME_SV: Central Andros District
+NAME_TR: Central Andros
+NAME_VI: Miền Trung Andros
+NAME_ZH: null
+NE_ID: 1159316257

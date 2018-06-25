@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MRT-2790
+DISS_ME: 2790
+ISO_3166_2: MR-10
+WIKIPEDIA: null
+ISO_A2: MR
+ADM0_SR: 1
+NAME: Guidimaka
+NAME_ALT: Guidimagha|Guidimakha
+NAME_LOCAL: null
+TYPE: Wilayat|Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: MR.GD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 1
+FIPS: MR10
+FIPS_ALT: null
+WOE_ID: 2346250
+WOE_LABEL: Guidimaka, MR, Mauritania
+WOE_NAME: Guidimaka
+LATITUDE: 15.3352
+LONGITUDE: -12.1235
+SOV_A3: MRT
+ADM0_A3: MRT
+ADM0_LABEL: 2
+ADMIN: Mauritania
+GEONUNIT: Mauritania
+GU_A3: MRT
+GN_ID: 2379216
+GN_NAME: Guidimaka
+GNS_ID: -1401127
+GNS_NAME: Guidimaka, Wilaya du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MR.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MR10
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q768119
+NAME_AR: ولاية غيديماغا
+NAME_BN: গোইডিমাকা অঞ্চল
+NAME_DE: Guidimaka
+NAME_EN: Guidimaka Region
+NAME_ES: Guidimaka
+NAME_FR: Guidimakha
+NAME_EL: Γκιντιμάγκα
+NAME_HI: गिडीमाका क्षेत्र
+NAME_HU: null
+NAME_ID: Guidimaka
+NAME_IT: regione di Guidimagha
+NAME_JA: ギディマカ州
+NAME_KO: 기디마카 주
+NAME_NL: Guidimakha
+NAME_PL: Ghidimagha
+NAME_PT: Guidimaka
+NAME_RU: Кудимага
+NAME_SV: Guidimaka
+NAME_TR: Guidimaka Bölgesi
+NAME_VI: Khu vực Guidimaka
+NAME_ZH: 吉迪馬卡省
+NE_ID: 1159314027

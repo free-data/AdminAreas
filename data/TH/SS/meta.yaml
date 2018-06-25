@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-423
+DISS_ME: 423
+ISO_3166_2: TH-74
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Samut Sakhon
+NAME_ALT: Krokkrak Maha Chai|Mahachai|Samudrasagara
+NAME_LOCAL: จังหวัดสมุทรสาคร
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH55
+FIPS_ALT: null
+WOE_ID: 2347179
+WOE_LABEL: Samut Sakhon, TH, Thailand
+WOE_NAME: Samut Sakhon
+LATITUDE: 13.5655
+LONGITUDE: 100.225
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1606587
+GN_NAME: Changwat Samut Sakhon
+GNS_ID: -3254707
+GNS_NAME: Samut Sakhon, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.55
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH55
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q334686
+NAME_AR: محافظة ساموت ساخون
+NAME_BN: সামুত সাখন
+NAME_DE: Samut Sakhon
+NAME_EN: Samut Sakhon
+NAME_ES: Provincia de Samut Sakhon
+NAME_FR: Samut Sakhon
+NAME_EL: Σάμουτ Σάκον
+NAME_HI: समुत साखोन प्रान्त
+NAME_HU: null
+NAME_ID: Samut Sakhon
+NAME_IT: provincia di Samut Sakhon
+NAME_JA: サムットサーコーン県
+NAME_KO: 사뭇사콘 주
+NAME_NL: Changwat Samut Sakhon
+NAME_PL: Prowincja Samut Sakhon
+NAME_PT: Samut Sakhon
+NAME_RU: Самутсакхон
+NAME_SV: Samut Sakhon
+NAME_TR: Samut Sakhon
+NAME_VI: Samut Sakhon
+NAME_ZH: 龍仔厝府
+NE_ID: 1159308213

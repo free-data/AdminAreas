@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KAZ-3203
+DISS_ME: 3203
+ISO_3166_2: KZ-KAR
+WIKIPEDIA: null
+ISO_A2: KZ
+ADM0_SR: 1
+NAME: Qaraghandy
+NAME_ALT: Karaganda|Karagandinskaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblasy
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KZ.QG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: QG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: KZ12
+FIPS_ALT: null
+WOE_ID: 20070178
+WOE_LABEL: Qaraghandy, KZ, Kazakhstan
+WOE_NAME: Qaraghandy
+LATITUDE: 48.0823
+LONGITUDE: 70.1925
+SOV_A3: KAZ
+ADM0_A3: KAZ
+ADM0_LABEL: 2
+ADMIN: Kazakhstan
+GEONUNIT: Kazakhstan
+GU_A3: KAZ
+GN_ID: 1523401
+GN_NAME: Qaraghandy Oblysy
+GNS_ID: -2338086
+GNS_NAME: Karagandinskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KZ.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: KZ12
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q485429
+NAME_AR: أوبليس كراغندي
+NAME_BN: কারাগান্ডি অঞ্চল
+NAME_DE: Qaraghandy
+NAME_EN: Karagandy Region
+NAME_ES: Provincia de Karagandá
+NAME_FR: Oblys de Karaganda
+NAME_EL: Περιφέρεια Καραγκάντα
+NAME_HI: काराग़ान्दी प्रांत
+NAME_HU: Karagandi terület
+NAME_ID: Provinsi Qaraghandy
+NAME_IT: regione di Karaganda
+NAME_JA: カラガンダ州
+NAME_KO: 카라간다 주
+NAME_NL: Oblast Qarağandı
+NAME_PL: Obwód karagandzki
+NAME_PT: Qaraghandy
+NAME_RU: Карагандинская область
+NAME_SV: Qaraghandy
+NAME_TR: Karagandı Eyaleti
+NAME_VI: Karagandy
+NAME_ZH: 卡拉干達州
+NE_ID: 1159314727

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 5
+SOVEREIGNT: Dominican Republic
+SOV_A3: DOM
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Dominican Republic
+ADM0_A3: DOM
+GEOU_DIF: 0
+GEOUNIT: Dominican Republic
+GU_A3: DOM
+SU_DIF: 0
+SUBUNIT: Dominican Republic
+SU_A3: DOM
+BRK_DIFF: 0
+NAME: Dominican Rep.
+NAME_LONG: Dominican Republic
+BRK_A3: DOM
+BRK_NAME: Dominican Rep.
+BRK_GROUP: null
+ABBREV: Dom. Rep.
+POSTAL: DO
+FORMAL_EN: Dominican Republic
+FORMAL_FR: null
+NAME_CIAWF: Dominican Republic
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Dominican Republic
+NAME_ALT: null
+MAPCOLOR7: 5
+MAPCOLOR8: 2
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+POP_EST: 10734247
+POP_RANK: 14
+GDP_MD_EST: 161900
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: DR
+ISO_A2: DO
+ISO_A3: DOM
+ISO_A3_EH: DOM
+ISO_N3: 214
+UN_A3: 214
+WB_A2: DO
+WB_A3: DOM
+WOE_ID: 23424800
+WOE_ID_EH: 23424800
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: DOM
+ADM0_A3_US: DOM
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Caribbean
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 14
+LONG_LEN: 18
+ABBREV_LEN: 9
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4.5
+MAX_LABEL: 9.5
+NE_ID: 1159320563
+WIKIDATAID: Q786
+NAME_AR: جمهورية الدومينيكان
+NAME_BN: ডোমিনিকান প্রজাতন্ত্র
+NAME_DE: Dominikanische Republik
+NAME_EN: Dominican Republic
+NAME_ES: República Dominicana
+NAME_FR: République dominicaine
+NAME_EL: Δομινικανή Δημοκρατία
+NAME_HI: डोमिनिकन गणराज्य
+NAME_HU: Dominikai Köztársaság
+NAME_ID: Republik Dominika
+NAME_IT: Repubblica Dominicana
+NAME_JA: ドミニカ共和国
+NAME_KO: 도미니카 공화국
+NAME_NL: Dominicaanse Republiek
+NAME_PL: Dominikana
+NAME_PT: República Dominicana
+NAME_RU: Доминиканская Республика
+NAME_SV: Dominikanska republiken
+NAME_TR: Dominik Cumhuriyeti
+NAME_VI: Cộng hòa Dominica
+NAME_ZH: 多明尼加

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1977
+DISS_ME: 1977
+ISO_3166_2: DO-17
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Peravia
+NAME_ALT: José Trujillo Valdez
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.PV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR35
+FIPS_ALT: DR17
+WOE_ID: 2345186
+WOE_LABEL: Peravia, DO, Dominican Republic
+WOE_NAME: Peravia
+LATITUDE: 18.359
+LONGITUDE: -70.3799
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3495015
+GN_NAME: Provincia de Peravia
+GNS_ID: -3364133
+GNS_NAME: Peravia, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR35
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1331932
+NAME_AR: محافظة بيرافيا
+NAME_BN: পেরাভিয়া প্রদেশ
+NAME_DE: Peravia
+NAME_EN: Peravia Province
+NAME_ES: Peravia
+NAME_FR: Peravia
+NAME_EL: Περαβία
+NAME_HI: पेराविया प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Peravia
+NAME_IT: provincia di Peravia
+NAME_JA: ペラビア州
+NAME_KO: 페라비아 주
+NAME_NL: Peravia
+NAME_PL: Prowincja Peravia
+NAME_PT: Peravia
+NAME_RU: Перавия
+NAME_SV: Peravia
+NAME_TR: Prevaia Province
+NAME_VI: Peravia
+NAME_ZH: 佩拉維亞省
+NE_ID: 1159311725

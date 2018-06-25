@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: ZAF-1216
+DISS_ME: 1216
+ISO_3166_2: ZA-NL
+WIKIPEDIA: null
+ISO_A2: ZA
+ADM0_SR: 1
+NAME: KwaZulu-Natal
+NAME_ALT: Natal and Zululand
+NAME_LOCAL: null
+TYPE: Provinsie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZA.NL
+NOTE: CSS 5, Formerly part of Natal, Cape of Good Hope
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: NL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 13
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: SF02
+FIPS_ALT: SF02
+WOE_ID: 2346982
+WOE_LABEL: Kwazulu Natal, ZA, South Africa
+WOE_NAME: KwaZulu-Natal
+LATITUDE: -28.7468
+LONGITUDE: 30.8231
+SOV_A3: ZAF
+ADM0_A3: ZAF
+ADM0_LABEL: 2
+ADMIN: South Africa
+GEONUNIT: South Africa
+GU_A3: ZAF
+GN_ID: 972062
+GN_NAME: Province of KwaZulu-Natal
+GNS_ID: -1264758
+GNS_NAME: KwaZulu-Natal
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZA.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: SF02
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q81725
+NAME_AR: كوازولو ناتال
+NAME_BN: কোয়া-জুলু নাটাল প্রদেশ
+NAME_DE: KwaZulu-Natal
+NAME_EN: KwaZulu-Natal
+NAME_ES: KwaZulu-Natal
+NAME_FR: KwaZulu-Natal
+NAME_EL: Νατάλ
+NAME_HI: क्वाज़ूलू-नताल प्रान्त
+NAME_HU: KwaZulu-Natal
+NAME_ID: KwaZulu-Natal
+NAME_IT: KwaZulu-Natal
+NAME_JA: クワズール・ナタール州
+NAME_KO: 콰줄루나탈 주
+NAME_NL: KwaZoeloe-Natal
+NAME_PL: KwaZulu-Natal
+NAME_PT: KwaZulu-Natal
+NAME_RU: Квазулу-Натал
+NAME_SV: KwaZulu-Natal
+NAME_TR: KwaZulu-Natal
+NAME_VI: KwaZulu-Natal
+NAME_ZH: 夸祖魯-納塔爾省
+NE_ID: 1159309747

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MLI-2794
+DISS_ME: 2794
+ISO_3166_2: ML-3
+WIKIPEDIA: null
+ISO_A2: ML
+ADM0_SR: 1
+NAME: Sikasso
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: ML.SK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: SK
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: ML06
+FIPS_ALT: null
+WOE_ID: 2346185
+WOE_LABEL: Sikasso, ML, Mali
+WOE_NAME: Sikasso
+LATITUDE: 11.155
+LONGITUDE: -6.54441
+SOV_A3: MLI
+ADM0_A3: MLI
+ADM0_LABEL: 2
+ADMIN: Mali
+GEONUNIT: Mali
+GU_A3: MLI
+GN_ID: 2451184
+GN_NAME: Sikasso Region
+GNS_ID: -1074134
+GNS_NAME: Sikasso
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ML.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ML06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q461298
+NAME_AR: منطقة سيكاسو
+NAME_BN: সিকাসো অঞ্চল
+NAME_DE: Region Sikasso
+NAME_EN: Sikasso Region
+NAME_ES: Sikasso
+NAME_FR: Région de Sikasso
+NAME_EL: Περιφέρεια Σικασσό
+NAME_HI: सिकासो क्षेत्र
+NAME_HU: Sikasso régió
+NAME_ID: Region Sikasso
+NAME_IT: regione di Sikasso
+NAME_JA: シカソ州
+NAME_KO: 시카소 주
+NAME_NL: Sikasso
+NAME_PL: Region Sikasso
+NAME_PT: Sikasso
+NAME_RU: Сикасо
+NAME_SV: Sikasso
+NAME_TR: Sikasso Bölgesi
+NAME_VI: Khu vực Sikasso
+NAME_ZH: 锡卡索区
+NE_ID: 1159313999

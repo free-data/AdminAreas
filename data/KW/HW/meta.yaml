@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: KWT-3506
+DISS_ME: 3506
+ISO_3166_2: KW-HA
+WIKIPEDIA: null
+ISO_A2: KW
+ADM0_SR: 1
+NAME: Hawalli
+NAME_ALT: Hawali, Howali
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KW.HW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: HW
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: KU08
+FIPS_ALT: null
+WOE_ID: 20070167
+WOE_LABEL: Hawalli, KW, Kuwait
+WOE_NAME: Hawalli
+LATITUDE: 29.3243
+LONGITUDE: 48.0306
+SOV_A3: KWT
+ADM0_A3: KWT
+ADM0_LABEL: 3
+ADMIN: Kuwait
+GEONUNIT: Kuwait
+GU_A3: KWT
+GN_ID: 285628
+GN_NAME: Muhafazat Hawalli
+GNS_ID: -789713
+GNS_NAME: Hawalli
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KW.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: KU08
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q747432
+NAME_AR: محافظة حولي
+NAME_BN: হাওয়াল্যি গভর্নোরেট
+NAME_DE: Gouvernement Hawalli
+NAME_EN: Hawalli Governorate
+NAME_ES: Hawalli
+NAME_FR: Hawalli
+NAME_EL: Χαβάλι
+NAME_HI: हवाली गवर्नरेट
+NAME_HU: Havalli kormányzóság
+NAME_ID: Kegubernuran Hawalli
+NAME_IT: Hawalli
+NAME_JA: ハワリ県
+NAME_KO: 하왈리 주
+NAME_NL: Hawalli
+NAME_PL: Hawalli
+NAME_PT: Hawalli
+NAME_RU: Хавалли
+NAME_SV: Muḩāfaz̧at Ḩawallī
+NAME_TR: Hawalli Yönetimi
+NAME_VI: Tỉnh Hawalli
+NAME_ZH: 哈瓦利省
+NE_ID: 1159315229

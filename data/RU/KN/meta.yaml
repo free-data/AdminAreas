@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2324
+DISS_ME: 2324
+ISO_3166_2: RU-KGD
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Kaliningrad
+NAME_ALT: Kaliningradskaya Oblast
+NAME_LOCAL: Калининградская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.KN
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwestern
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS23
+FIPS_ALT: null
+WOE_ID: 2346938
+WOE_LABEL: Kaliningradskaya Oblast, RU, Russia
+WOE_NAME: Kaliningrad
+LATITUDE: 54.6636
+LONGITUDE: 21.2287
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 554230
+GN_NAME: Kaliningradskaya Oblast'
+GNS_ID: -2918856
+GNS_NAME: Kaliningradskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.23
+REGION_SUB: Kaliningrad
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS23
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q1749
+NAME_AR: أوبلاست كالينينغرادسكايا
+NAME_BN: কালিনিনগ্রাদ ওব্লাস্ট
+NAME_DE: Oblast Kaliningrad
+NAME_EN: Kaliningrad Oblast
+NAME_ES: Óblast de Kaliningrado
+NAME_FR: Oblast de Kaliningrad
+NAME_EL: Περιφέρεια Καλίνινγκραντ
+NAME_HI: कलिनिनग्रैड ओब्लास्ट
+NAME_HU: Kalinyingrádi terület
+NAME_ID: Oblast Kaliningrad
+NAME_IT: oblast' di Kaliningrad
+NAME_JA: カリーニングラード州
+NAME_KO: 칼리닌그라드 주
+NAME_NL: Oblast Kaliningrad
+NAME_PL: Obwód kaliningradzki
+NAME_PT: Oblast de Kaliningrado
+NAME_RU: Калининградская область
+NAME_SV: Kaliningrad oblast
+NAME_TR: Kaliningrad Oblastı
+NAME_VI: Kaliningrad
+NAME_ZH: 加里宁格勒州
+NE_ID: 1159312831

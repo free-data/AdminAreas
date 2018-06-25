@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1767
+DISS_ME: 1767
+ISO_3166_2: AF-KAB
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Kabul
+NAME_ALT: Cabul|Kabol|Kaboul
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.KB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 34
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF13
+FIPS_ALT: null
+WOE_ID: 2344559
+WOE_LABEL: Kabul, AF, Afghanistan
+WOE_NAME: Kabul
+LATITUDE: 34.4949
+LONGITUDE: 69.3846
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1138957
+GN_NAME: Wilayat-e Kabul
+GNS_ID: -3378436
+GNS_NAME: Kabul, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF13
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q188933
+NAME_AR: ولاية كابول
+NAME_BN: কাবুল প্রদেশ
+NAME_DE: Kabul
+NAME_EN: Kabul Province
+NAME_ES: Provincia de Kabul
+NAME_FR: Kaboul
+NAME_EL: Καμπούλ
+NAME_HI: काबुल प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Kabul
+NAME_IT: provincia di Kabul
+NAME_JA: カーブル州
+NAME_KO: 카불 주
+NAME_NL: Kabul
+NAME_PL: Kabul
+NAME_PT: Cabul
+NAME_RU: Кабул
+NAME_SV: Kabul
+NAME_TR: Kâbil Vilayeti
+NAME_VI: Tỉnh Kabul
+NAME_ZH: 喀布尔省
+NE_ID: 1159312091

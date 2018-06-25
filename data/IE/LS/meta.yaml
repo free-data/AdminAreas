@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-723
+DISS_ME: 723
+ISO_3166_2: IE-LS
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Laoighis
+NAME_ALT: Laois|Leix|Queens
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.LS
+NOTE: null
+HASC_MAYBE: null
+REGION: Midlands
+REGION_COD: null
+PROVNUM_NE: 26
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI15
+FIPS_ALT: null
+WOE_ID: 2345260
+WOE_LABEL: Laois, IE, Ireland
+WOE_NAME: Laoighis
+LATITUDE: 53.0116
+LONGITUDE: -7.32962
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2963031
+GN_NAME: Laois
+GNS_ID: -1504100
+GNS_NAME: Laois, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.15
+REGION_SUB: Laoighis
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI15
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q55299
+NAME_AR: مقاطعة ليش
+NAME_BN: কাউন্টি লাওইস
+NAME_DE: County Laois
+NAME_EN: County Laois
+NAME_ES: Condado de Laois
+NAME_FR: comté de Laois
+NAME_EL: Κομητεία Λέιοαϊς
+NAME_HI: काउंटी लाओइस
+NAME_HU: Laois megye
+NAME_ID: County Laois
+NAME_IT: Laois
+NAME_JA: ラオース州
+NAME_KO: 레이시 주
+NAME_NL: County Laois
+NAME_PL: Laois
+NAME_PT: Condado de Laois
+NAME_RU: Лиишь
+NAME_SV: Laois
+NAME_TR: County Laois
+NAME_VI: Hạt Laois
+NAME_ZH: 萊伊什郡
+NE_ID: 1159311009

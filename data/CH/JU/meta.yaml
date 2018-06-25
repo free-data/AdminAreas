@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-160
+DISS_ME: 160
+ISO_3166_2: CH-JU
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Jura
+NAME_ALT: Giura
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.JU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: JU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ26
+FIPS_ALT: null
+WOE_ID: 2347108
+WOE_LABEL: Canton of Jura, CH, Switzerland
+WOE_NAME: Jura
+LATITUDE: 47.3636
+LONGITUDE: 7.19817
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2660207
+GN_NAME: Canton du Jura
+GNS_ID: -2552595
+GNS_NAME: Jura, Canton du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.JU
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ26
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12755
+NAME_AR: كانتون جورا
+NAME_BN: জুরা
+NAME_DE: Kanton Jura
+NAME_EN: Canton of Jura
+NAME_ES: Cantón del Jura
+NAME_FR: canton du Jura
+NAME_EL: Τζούρα
+NAME_HI: जूरा कैन्टन
+NAME_HU: Jura kanton
+NAME_ID: Kanton Jura
+NAME_IT: Canton Giura
+NAME_JA: ジュラ州
+NAME_KO: 쥐라 주
+NAME_NL: Kanton Jura
+NAME_PL: Kanton Jura
+NAME_PT: Cantão do Jura
+NAME_RU: Юра
+NAME_SV: Kanton Jura
+NAME_TR: Jura
+NAME_VI: Jura
+NAME_ZH: 汝拉州
+NE_ID: 1159307653

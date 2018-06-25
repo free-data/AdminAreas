@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1714
+DISS_ME: 1714
+ISO_3166_2: AZ-SAB
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Sabirabad
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.SB
+NOTE: null
+HASC_MAYBE: null
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 50
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ46
+FIPS_ALT: AJ|
+WOE_ID: 20070281
+WOE_LABEL: null
+WOE_NAME: Sabirabad
+LATITUDE: 39.8179
+LONGITUDE: 48.8122
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147284
+GN_NAME: Sabirabad Rayon
+GNS_ID: -2708271
+GNS_NAME: Sabirabad Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ46
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q382132
+NAME_AR: مقاطعة صابرآباد
+NAME_BN: সাবিরাবাদ জেলা
+NAME_DE: Sabirabad
+NAME_EN: Sabirabad District
+NAME_ES: Sabirabad
+NAME_FR: Sabirabad
+NAME_EL: Σαμπιραμπάντ
+NAME_HI: सबीराबाद जिला
+NAME_HU: null
+NAME_ID: Sabirabad
+NAME_IT: distretto di Sabirabad
+NAME_JA: サビラバド県
+NAME_KO: 사비라바트 구
+NAME_NL: Sabirabad
+NAME_PL: Rejon Sabirabad
+NAME_PT: Sabirabad
+NAME_RU: Сабирабадский район
+NAME_SV: Sabirabad Rayonu
+NAME_TR: Sabirabad Rayonu
+NAME_VI: Sabirabad
+NAME_ZH: 薩比拉巴德區
+NE_ID: 1159312291

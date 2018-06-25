@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5681
+DISS_ME: 5681
+ISO_3166_2: GB-OLD
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Oldham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.OL
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: GB.MN
+PROVNUM_NE: 20024
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: Manch'er
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKK1
+FIPS_ALT: UKI2
+WOE_ID: -12602158
+WOE_LABEL: null
+WOE_NAME: Greater Manchester
+LATITUDE: 53.5527
+LONGITUDE: -2.03581
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333179
+GN_NAME: Borough of Oldham
+GNS_ID: 6077621
+GNS_NAME: Oldham, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.K1
+REGION_SUB: Greater Manchester
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1278608
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Metropolitan Borough of Oldham
+NAME_EN: Oldham
+NAME_ES: null
+NAME_FR: district métropolitain de Oldham
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Metropolitan Borough of Oldham
+NAME_JA: メトロポリタン・バラ・オブ・オールダム
+NAME_KO: 올덤 도시 자치구
+NAME_NL: Oldham
+NAME_PL: Metropolitan Borough of Oldham
+NAME_PT: null
+NAME_RU: Олдем
+NAME_SV: Oldham
+NAME_TR: Oldham Metropoliten Borough
+NAME_VI: null
+NAME_ZH: 奧爾德姆都市自治市
+NE_ID: 1159317501

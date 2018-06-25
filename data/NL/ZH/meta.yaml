@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NLD-3485
+DISS_ME: 3485
+ISO_3166_2: NL-ZH
+WIKIPEDIA: null
+ISO_A2: NL
+ADM0_SR: 1
+NAME: Zuid-Holland
+NAME_ALT: Hollande-méridionale|South Holland
+NAME_LOCAL: null
+TYPE: Provincie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: NL.ZH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: NL11
+FIPS_ALT: null
+WOE_ID: 2346383
+WOE_LABEL: South Holland, NL, Netherlands
+WOE_NAME: Zuid-Holland
+LATITUDE: 52.0075
+LONGITUDE: 4.52252
+SOV_A3: NL1
+ADM0_A3: NLD
+ADM0_LABEL: 6
+ADMIN: Netherlands
+GEONUNIT: null
+GU_A3: NLD
+GN_ID: 2743698
+GN_NAME: Provincie Zuid-Holland
+GNS_ID: -2156600
+GNS_NAME: Zuid-Holland, Provincie
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NL.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NL11
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q694
+NAME_AR: جنوب هولندا
+NAME_BN: সাউথ হল্যান্ড
+NAME_DE: Provinz Südholland
+NAME_EN: South Holland
+NAME_ES: Holanda Meridional
+NAME_FR: Hollande-Méridionale
+NAME_EL: Νότια Ολλανδία
+NAME_HI: दक्षिण हॉलैंड
+NAME_HU: Dél-Holland
+NAME_ID: Holland Selatan
+NAME_IT: Olanda Meridionale
+NAME_JA: 南ホラント州
+NAME_KO: 자위트홀란트 주
+NAME_NL: Zuid-Holland
+NAME_PL: Holandia Południowa
+NAME_PT: Holanda do Sul
+NAME_RU: Южная Голландия
+NAME_SV: Zuid-Holland
+NAME_TR: Güney Hollanda
+NAME_VI: Zuid-Holland
+NAME_ZH: 南荷蘭省
+NE_ID: 1159315447

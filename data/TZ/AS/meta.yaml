@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3391
+DISS_ME: 3391
+ISO_3166_2: TZ-01
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Arusha
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.AS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: AS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ26
+FIPS_ALT: null
+WOE_ID: 2347352
+WOE_LABEL: Arusha, TZ, Tanzania
+WOE_NAME: Arusha
+LATITUDE: -3.02634
+LONGITUDE: 36.0865
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 161322
+GN_NAME: Arusha Region
+GNS_ID: -2561036
+GNS_NAME: Arusha, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ26
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q329261
+NAME_AR: إقليم أروشا
+NAME_BN: আরোশা অঞ্চল
+NAME_DE: Arusha
+NAME_EN: Arusha Region
+NAME_ES: Región de Arusha
+NAME_FR: Région d'Arusha
+NAME_EL: Περιφέρεια Αρούσα
+NAME_HI: अरुशा प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Arusha
+NAME_IT: regione di Arusha
+NAME_JA: アルーシャ州
+NAME_KO: 아루샤 주
+NAME_NL: Arusha
+NAME_PL: Arusza
+NAME_PT: Arusha
+NAME_RU: Аруша
+NAME_SV: Arusha
+NAME_TR: Arusha Region
+NAME_VI: Arusha
+NAME_ZH: 阿鲁沙区
+NE_ID: 1159315037

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1694
+DISS_ME: 1694
+ISO_3166_2: AZ-HAC
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Hajigabul
+NAME_ALT: Ali Bayramli
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.HA
+NOTE: null
+HASC_MAYBE: AZ.HA|AZE-BAK
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 57
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ23
+FIPS_ALT: AJ|
+WOE_ID: 20070282
+WOE_LABEL: Haciqabul, AZ, Azerbaijan
+WOE_NAME: Əli Bayramlı
+LATITUDE: 40.1106
+LONGITUDE: 48.8984
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 828315
+GN_NAME: Hajigabul Rayon
+GNS_ID: 334841
+GNS_NAME: Haciqabul Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ23
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q476690
+NAME_AR: مقاطعة هايغابول
+NAME_BN: হাজিগাবোল জেলা
+NAME_DE: Hacıqabul
+NAME_EN: Hajigabul District
+NAME_ES: Hacıqabul
+NAME_FR: Hacıqabul
+NAME_EL: Χατζιγκαμπούλ
+NAME_HI: हाजीगबल जिला
+NAME_HU: null
+NAME_ID: Hajigabul
+NAME_IT: distretto di Hacıqabul
+NAME_JA: ハジュガブル県
+NAME_KO: 하즈가불 구
+NAME_NL: Hacıqabul
+NAME_PL: Rejon Hacıqabul
+NAME_PT: Hajigabul
+NAME_RU: Аджикабулский район
+NAME_SV: Hadzjyqabul
+NAME_TR: Hacıkabul Rayonu
+NAME_VI: Hacuqabul
+NAME_ZH: 卡齊穆罕默德區
+NE_ID: 1159312249

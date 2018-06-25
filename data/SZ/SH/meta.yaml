@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SWZ-537
+DISS_ME: 537
+ISO_3166_2: SZ-SH
+WIKIPEDIA: null
+ISO_A2: SZ
+ADM0_SR: 1
+NAME: Shiselweni
+NAME_ALT: Shiselwini
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: SZ.SH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: WZ04
+FIPS_ALT: null
+WOE_ID: 20069890
+WOE_LABEL: Shiselweni, SZ, Swaziland
+WOE_NAME: Shiselweni
+LATITUDE: -27.0243
+LONGITUDE: 31.4265
+SOV_A3: SWZ
+ADM0_A3: SWZ
+ADM0_LABEL: 2
+ADMIN: Swaziland
+GEONUNIT: Swaziland
+GU_A3: SWZ
+GN_ID: 934867
+GN_NAME: Shiselweni District
+GNS_ID: -1331810
+GNS_NAME: Shiselweni
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SZ.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: WZ04
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q845934
+NAME_AR: مقاطعة شيزلويني
+NAME_BN: শিসেলওয়েনি জেলা
+NAME_DE: Shiselweni
+NAME_EN: Shiselweni District
+NAME_ES: Shishelweni
+NAME_FR: Shiselweni
+NAME_EL: Σισελουένι
+NAME_HI: शिसेल्वेनी जिला
+NAME_HU: null
+NAME_ID: Distrik Shiselweni
+NAME_IT: distretto di Shiselweni
+NAME_JA: シセルウェニ
+NAME_KO: 시셀웨니 구
+NAME_NL: Shiselweni
+NAME_PL: Dystrykt Shiselweni
+NAME_PT: Shishelweni
+NAME_RU: Шиселвени
+NAME_SV: Shiselweni
+NAME_TR: Shiselweni District
+NAME_VI: Quận Shiselweni
+NAME_ZH: 希塞卢韦尼
+NE_ID: 1159307773

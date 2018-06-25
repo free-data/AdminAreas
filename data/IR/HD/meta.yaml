@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3233
+DISS_ME: 3233
+ISO_3166_2: IR-24
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Hamadan
+NAME_ALT: Hamedan
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.HD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20024
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: HD
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR09
+FIPS_ALT: IR27
+WOE_ID: 2345774
+WOE_LABEL: Hamadan, IR, Iran
+WOE_NAME: Hamadan
+LATITUDE: 34.8342
+LONGITUDE: 48.5738
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 132142
+GN_NAME: Ostan-e Hamadan
+GNS_ID: -3065708
+GNS_NAME: Hamadan, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q187373
+NAME_AR: همدان
+NAME_BN: হামাদন প্রদেশ
+NAME_DE: Hamadan
+NAME_EN: Hamadan Province
+NAME_ES: Hamadán
+NAME_FR: Province de Hamedan
+NAME_EL: Χαμαντάν
+NAME_HI: हमादान प्रांत
+NAME_HU: Hamadán tartomány
+NAME_ID: Provinsi Hamadān
+NAME_IT: provincia di Hamadan
+NAME_JA: ハマダーン州
+NAME_KO: 하마단 주
+NAME_NL: Hamadan
+NAME_PL: Hamadan
+NAME_PT: Hamadã
+NAME_RU: Хамадан
+NAME_SV: Hamadan
+NAME_TR: Hamedan Eyaleti
+NAME_VI: Hamadan
+NAME_ZH: 哈馬丹省
+NE_ID: 1159314299

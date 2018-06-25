@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2235
+DISS_ME: 2235
+ISO_3166_2: BG-16
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Plovdiv
+NAME_ALT: Philippopolis
+NAME_LOCAL: Пловдив
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.PD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20028
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: PD
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU51
+FIPS_ALT: BU34
+WOE_ID: 20070068
+WOE_LABEL: Plovdiv, BG, Bulgaria
+WOE_NAME: Plovdiv
+LATITUDE: 42.3061
+LONGITUDE: 24.8449
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 728194
+GN_NAME: Plovdiv
+GNS_ID: -837297
+GNS_NAME: Plovdiv, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.51
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU51
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q187874
+NAME_AR: مقاطعة بلوفديف
+NAME_BN: প্লোভদিভ প্রদেশ
+NAME_DE: Oblast Plowdiw
+NAME_EN: Plovdiv Province
+NAME_ES: Plovdiv
+NAME_FR: Plovdiv
+NAME_EL: Επαρχία Φιλιππούπολης
+NAME_HI: प्लोवदीव प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Plovdiv
+NAME_IT: distretto di Plovdiv
+NAME_JA: プロヴディフ州
+NAME_KO: 플로브디프 주
+NAME_NL: Plovdiv
+NAME_PL: Obwód Płowdiw
+NAME_PT: Plovdiv
+NAME_RU: Пловдивская область
+NAME_SV: Plovdiv
+NAME_TR: Filibe ili
+NAME_VI: Plovdiv
+NAME_ZH: 普羅夫迪夫州
+NE_ID: 1159312475

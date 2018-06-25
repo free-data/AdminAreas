@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2104
+DISS_ME: 2104
+ISO_3166_2: GB-CMN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Carmarthenshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority (wales)
+TYPE_EN: Unitary Authority (wales)
+CODE_LOCAL: null
+CODE_HASC: GB.CI
+NOTE: null
+HASC_MAYBE: null
+REGION: East Wales
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 15
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKX7
+FIPS_ALT: UKX7
+WOE_ID: 12602216
+WOE_LABEL: null
+WOE_NAME: Carmarthenshire County
+LATITUDE: 51.8622
+LONGITUDE: -4.20485
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Wales
+GU_A3: WLS
+GN_ID: 2653753
+GN_NAME: Carmarthenshire
+GNS_ID: -2591847
+GNS_NAME: Carmarthenshire, County of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.X7
+REGION_SUB: West Wales
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q217840
+NAME_AR: null
+NAME_BN: কার্মাদেনশায়ার
+NAME_DE: Carmarthenshire
+NAME_EN: Carmarthenshire
+NAME_ES: Carmarthenshire
+NAME_FR: Carmarthenshire
+NAME_EL: null
+NAME_HI: कार्मार्थनशायर
+NAME_HU: Carmarthenshire
+NAME_ID: Carmarthenshire
+NAME_IT: Carmarthenshire
+NAME_JA: カーマーゼンシャー
+NAME_KO: 카마던셔
+NAME_NL: Carmarthenshire
+NAME_PL: Carmarthenshire
+NAME_PT: Carmarthenshire
+NAME_RU: Кармартеншир
+NAME_SV: Carmarthenshire
+NAME_TR: null
+NAME_VI: Carmarthenshire
+NAME_ZH: 卡马森郡
+NE_ID: 1159312693

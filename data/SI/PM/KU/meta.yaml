@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-197
+DISS_ME: 197
+ISO_3166_2: SI-056
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Kuzma
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PM.KU
+NOTE: null
+HASC_MAYBE: null
+REGION: Pomurska
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SII2
+FIPS_ALT: null
+WOE_ID: -55848370
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.8461
+LONGITUDE: 16.0916
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239272
+GN_NAME: Obcina Kuzma
+GNS_ID: 244015
+GNS_NAME: Kuzma, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.I2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI97
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q906636
+NAME_AR: بلدية كوزما
+NAME_BN: কুজমা পৌরসভা
+NAME_DE: Kuzma
+NAME_EN: Kuzma Municipality
+NAME_ES: Municipalidad del Kuzma
+NAME_FR: Kuzma
+NAME_EL: Κούζμα
+NAME_HI: कुज़्मा नगरपालिका
+NAME_HU: Kuzma
+NAME_ID: Kotamadya Kuzma
+NAME_IT: Kuzma
+NAME_JA: クズマ
+NAME_KO: 쿠즈마
+NAME_NL: Kuzma
+NAME_PL: Gmina Kuzma
+NAME_PT: Kuzma
+NAME_RU: Кузма
+NAME_SV: Kumza
+NAME_TR: Kuzma Belediyesi
+NAME_VI: Đô thị tự trị Kuzma
+NAME_ZH: null
+NE_ID: 1159308541

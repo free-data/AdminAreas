@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1973
+DISS_ME: 1973
+ISO_3166_2: DO-16
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 4
+NAME: Pedernales
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.PN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR16
+FIPS_ALT: null
+WOE_ID: 2345185
+WOE_LABEL: Pedernales, DO, Dominican Republic
+WOE_NAME: Pedernales
+LATITUDE: 17.9396
+LONGITUDE: -71.5201
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3495136
+GN_NAME: Provincia de Pedernales
+GNS_ID: -3364012
+GNS_NAME: Pedernales, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR16
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1352533
+NAME_AR: محافظة بيدرناليس
+NAME_BN: পেডের্নালিস প্রদেশ
+NAME_DE: Pedernales
+NAME_EN: Pedernales Province
+NAME_ES: Pedernales
+NAME_FR: Pedernales
+NAME_EL: Πεδερνάλες
+NAME_HI: पेडर्नलेस प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Pedernales
+NAME_IT: provincia di Pedernales
+NAME_JA: ペデルナレス州
+NAME_KO: 페데르날레스 주
+NAME_NL: Pedernales
+NAME_PL: Prowincja Pedernales
+NAME_PT: Pedernales
+NAME_RU: Педерналес
+NAME_SV: Pedernales
+NAME_TR: Pedernales Province
+NAME_VI: Pedernales
+NAME_ZH: 佩德納萊斯省
+NE_ID: 1159311633

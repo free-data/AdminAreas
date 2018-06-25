@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1792
+DISS_ME: 1792
+ISO_3166_2: KH-19
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Stœng Trêng
+NAME_ALT: Stung Treng|Stueng Traeng|Stung Treng
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB17
+FIPS_ALT: null
+WOE_ID: 2344942
+WOE_LABEL: Stoeng Treng, KH, Cambodia
+WOE_NAME: Stœng Trêng
+LATITUDE: 13.6662
+LONGITUDE: 106.095
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1822028
+GN_NAME: Khett Stoeng Treng
+GNS_ID: -1032941
+GNS_NAME: Stoeng Treng, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q837889
+NAME_AR: محافظة ستونغ ترينغ
+NAME_BN: সে্তা স্টাং প্রদেশ
+NAME_DE: Stung Treng
+NAME_EN: Stung Treng Province
+NAME_ES: Provincia de Stung Treng
+NAME_FR: Stoeng Treng
+NAME_EL: Στουνγκ Τρενγκ
+NAME_HI: स्टंग ट्रेंग प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Stung Treng
+NAME_IT: provincia di Stung Treng
+NAME_JA: ストゥントレン州
+NAME_KO: 스퉁트렝 주
+NAME_NL: Stoeng Treng
+NAME_PL: Prowincja Stoeng Treng
+NAME_PT: Stung Treng
+NAME_RU: Стынгтраенг
+NAME_SV: Stung Treng
+NAME_TR: Stung Treng Province
+NAME_VI: Stung Treng
+NAME_ZH: 上丁省
+NE_ID: 1159311581

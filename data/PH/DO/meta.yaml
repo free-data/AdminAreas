@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2597
+DISS_ME: 2597
+ISO_3166_2: PH-DAO
+WIKIPEDIA: http://en.wikipedia.org/wiki/Davao_Oriental
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Davao Oriental
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.DO
+NOTE: null
+HASC_MAYBE: null
+REGION: Davao (Region XI)
+REGION_COD: PH-11
+PROVNUM_NE: 20073
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP26
+FIPS_ALT: null
+WOE_ID: 2346681
+WOE_LABEL: null
+WOE_NAME: Davao Oriental
+LATITUDE: 7.06305
+LONGITUDE: 126.286
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1715342
+GN_NAME: Province of Davao Oriental
+GNS_ID: -2424072
+GNS_NAME: Davao Oriental, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.26
+REGION_SUB: Davao Oriental
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP26
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13806
+NAME_AR: دافاو أورينتال
+NAME_BN: দাভাও ওরিয়েন্টাল
+NAME_DE: Davao Oriental
+NAME_EN: Davao Oriental
+NAME_ES: Davao Oriental
+NAME_FR: Davao oriental
+NAME_EL: Νταβάο Οριεντάλ
+NAME_HI: दावाओ ओरिएंटल
+NAME_HU: null
+NAME_ID: Davao Oriental
+NAME_IT: Provincia di Davao Oriental
+NAME_JA: 東ダバオ州
+NAME_KO: 동다바오 주
+NAME_NL: Davao Oriental
+NAME_PL: Davao Oriental
+NAME_PT: Davao Oriental
+NAME_RU: Восточный Давао
+NAME_SV: Davao Oriental
+NAME_TR: Davao Oriental
+NAME_VI: Davao Oriental
+NAME_ZH: 东达沃省
+NE_ID: 1159313411

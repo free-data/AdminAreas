@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: ARM-1673
+DISS_ME: 1673
+ISO_3166_2: AM-KT
+WIKIPEDIA: null
+ISO_A2: AM
+ADM0_SR: 1
+NAME: Kotayk
+NAME_ALT: Kotaik|Kotayk'
+NAME_LOCAL: Կոտայք|Котайк
+TYPE: Marz
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AM.KT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: KT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: AM05
+FIPS_ALT: null
+WOE_ID: 20070208
+WOE_LABEL: Kotayk', AM, Armenia
+WOE_NAME: Kotayk
+LATITUDE: 40.3747
+LONGITUDE: 44.7191
+SOV_A3: ARM
+ADM0_A3: ARM
+ADM0_LABEL: 2
+ADMIN: Armenia
+GEONUNIT: Armenia
+GU_A3: ARM
+GN_ID: 828262
+GN_NAME: Kotayk'i Marz
+GNS_ID: 330427
+GNS_NAME: Kotayk'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AM.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hye
+GNS_ADM1: AM05
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q4511
+NAME_AR: محافظة كوتايك
+NAME_BN: কোতায়েক অঞ্চল
+NAME_DE: Region Kotajk
+NAME_EN: Kotayk Region
+NAME_ES: Kotayk'
+NAME_FR: Kotayk
+NAME_EL: Κοτάικ
+NAME_HI: कोटायक प्रांत
+NAME_HU: Kotajk tartomány
+NAME_ID: Kotayk
+NAME_IT: provincia di Kotayk'
+NAME_JA: コタイク地方
+NAME_KO: 코타이크 주
+NAME_NL: Kotayk
+NAME_PL: Prowincja Kotajk
+NAME_PT: Kotayk
+NAME_RU: Котайкская область
+NAME_SV: Kotajk
+NAME_TR: Kotayk
+NAME_VI: Kotayk
+NAME_ZH: 科泰克省
+NE_ID: 1159312165

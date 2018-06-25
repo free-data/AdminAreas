@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5034
+DISS_ME: 5034
+ISO_3166_2: BS-RI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ragged_Island_(Bahamas)
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Ragged Island
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.RI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: RI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF18
+FIPS_ALT: null
+WOE_ID: 2344775
+WOE_LABEL: Ragged Island, BS, The Bahamas
+WOE_NAME: Ragged Island
+LATITUDE: 22.2296
+LONGITUDE: -75.7413
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 3571629
+GN_NAME: Ragged Island District
+GNS_ID: -1544028
+GNS_NAME: Ragged Island District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BF18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1532634
+NAME_AR: جزيرة راجد
+NAME_BN: রাগেড আইল্যান্ড
+NAME_DE: Ragged Island
+NAME_EN: Ragged Island
+NAME_ES: Isla Ragged
+NAME_FR: Ragged Island
+NAME_EL: Νησί Ράγκιντ
+NAME_HI: रैग्ड द्वीप
+NAME_HU: null
+NAME_ID: Pulau Ragged
+NAME_IT: Ragged Island
+NAME_JA: ラグド島
+NAME_KO: 래기드 섬
+NAME_NL: Ragged Island
+NAME_PL: Ragged Island
+NAME_PT: Ragged Island
+NAME_RU: Рэггид-Айленд
+NAME_SV: Ragged Island District
+NAME_TR: Ragged Adassı
+NAME_VI: Đảo Ragged
+NAME_ZH: 拉吉德岛
+NE_ID: 1159316287

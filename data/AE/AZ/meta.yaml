@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: ARE-349
+DISS_ME: 349
+ISO_3166_2: AE-AZ
+WIKIPEDIA: null
+ISO_A2: AE
+ADM0_SR: 3
+NAME: Abu Dhabi
+NAME_ALT: Aboû Dabî|Abu Dabi|Abū Ẓabī|Abū Ẓaby
+NAME_LOCAL: null
+TYPE: Emirate
+TYPE_EN: Emirate
+CODE_LOCAL: null
+CODE_HASC: AE.AZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: AZ
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: AE01
+FIPS_ALT: null
+WOE_ID: 2347109
+WOE_LABEL: Abu Dhabi, AE, United Arab Emirates
+WOE_NAME: Abu Dhabi
+LATITUDE: 23.5238
+LONGITUDE: 54.0817
+SOV_A3: ARE
+ADM0_A3: ARE
+ADM0_LABEL: 2
+ADMIN: United Arab Emirates
+GEONUNIT: United Arab Emirates
+GU_A3: ARE
+GN_ID: 292969
+GN_NAME: Abu Zaby
+GNS_ID: -782065
+GNS_NAME: Abu Zaby
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AE.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: AE01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q187712
+NAME_AR: إمارة أبوظبي
+NAME_BN: আবুধাবি আমিরাত
+NAME_DE: Abu Dhabi
+NAME_EN: Abu Dhabi Emirate
+NAME_ES: Abu Dabi
+NAME_FR: Abou Dabi
+NAME_EL: Άμπου Ντάμπι
+NAME_HI: अबू धाबी अमीरात
+NAME_HU: null
+NAME_ID: Abu Dhabi Emirate
+NAME_IT: Emirato di Abu Dhabi
+NAME_JA: アブダビ
+NAME_KO: 아부다비
+NAME_NL: Abu Dhabi
+NAME_PL: Abu Zabi
+NAME_PT: Emirados Abu Dhabi
+NAME_RU: Абу-Даби
+NAME_SV: Emiratet Abu Dhabi
+NAME_TR: Abu Dabi Emirliği
+NAME_VI: Abu Dhabi
+NAME_ZH: 阿布扎比
+NE_ID: 1159307647

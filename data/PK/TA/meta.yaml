@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: PAK-1112
+DISS_ME: 1112
+ISO_3166_2: PK-TA
+WIKIPEDIA: null
+ISO_A2: PK
+ADM0_SR: 1
+NAME: F.A.T.A.
+NAME_ALT: Federally Administered Tribal Areas
+NAME_LOCAL: null
+TYPE: Territory
+TYPE_EN: Territory
+CODE_LOCAL: null
+CODE_HASC: PK.TA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: PK01
+FIPS_ALT: null
+WOE_ID: 2346495
+WOE_LABEL: Federally Administered Tribal Areas, PK, Pakistan
+WOE_NAME: F.A.T.A.
+LATITUDE: 32.6148
+LONGITUDE: 69.8985
+SOV_A3: PAK
+ADM0_A3: PAK
+ADM0_LABEL: 2
+ADMIN: Pakistan
+GEONUNIT: Pakistan
+GU_A3: PAK
+GN_ID: 1179245
+GN_NAME: Federally Administered Tribal Areas
+GNS_ID: -2760141
+GNS_NAME: Federally Administered Tribal Areas
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PK.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: PK01
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.5
+MIN_ZOOM: 5
+WIKIDATAID: Q208270
+NAME_AR: المناطق القبلية الخاضعة للإدارة الاتحادية
+NAME_BN: ফেডারেলি এডমিনিস্ট্রেটিভ এরিয়া
+NAME_DE: Stammesgebiete unter Bundesverwaltung
+NAME_EN: Federally Administered Tribal Areas
+NAME_ES: Áreas tribales
+NAME_FR: Régions tribales
+NAME_EL: Πακιστανίν
+NAME_HI: संघ-शासित जनजातीय क्षेत्र
+NAME_HU: null
+NAME_ID: Federally Administered Tribal Areas
+NAME_IT: aree tribali di amministrazione federale
+NAME_JA: 連邦直轄部族地域
+NAME_KO: 연방 직할 부족 지역
+NAME_NL: Federaal Bestuurde Stamgebieden
+NAME_PL: Terytoria Plemienne Administrowane Federalnie
+NAME_PT: Território Federal das Áreas Tribais
+NAME_RU: Территория племён федерального управления
+NAME_SV: Federalt administrerade stamområden
+NAME_TR: Federal yönetilen kabile alanları
+NAME_VI: Các khu vực Hành chính Bộ lạc Liên bang
+NAME_ZH: 联邦直辖部落地区
+NE_ID: 1159309347

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CPV-5048
+DISS_ME: 5048
+ISO_3166_2: CV-CR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Santa_Cruz_(Cape_Verde)
+ISO_A2: CV
+ADM0_SR: 3
+NAME: Santa Cruz
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: 73
+CODE_HASC: CV.CZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Ilhas de Sotavento
+REGION_COD: CV-S
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: CR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: CV16
+FIPS_ALT: null
+WOE_ID: 56051561
+WOE_LABEL: Santa Cruz, CV, Cape Verde
+WOE_NAME: Santa Cruz
+LATITUDE: 15.1157
+LONGITUDE: -23.5494
+SOV_A3: CPV
+ADM0_A3: CPV
+ADM0_LABEL: 2
+ADMIN: Cape Verde
+GEONUNIT: Cape Verde
+GU_A3: CPV
+GN_ID: 3411925
+GN_NAME: Concelho de Santa Cruz
+GNS_ID: 9146340
+GNS_NAME: Santa Cruz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CV.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CV16
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q497472
+NAME_AR: سانتا كروز
+NAME_BN: সান্তা ক্রুজের
+NAME_DE: Santa Cruz
+NAME_EN: Santa Cruz
+NAME_ES: Santa Cruz
+NAME_FR: Santa Cruz
+NAME_EL: Δήμος Σάντα Κρουζ
+NAME_HI: सांता क्रुज़
+NAME_HU: Santa Cruz
+NAME_ID: Santa Cruz
+NAME_IT: contea di Santa Cruz
+NAME_JA: サンタ・クルス
+NAME_KO: 산타크루스 시
+NAME_NL: Santa Cruz
+NAME_PL: Santa Cruz
+NAME_PT: Santa Cruz
+NAME_RU: Санта-Круз
+NAME_SV: Santa Cruz
+NAME_TR: Santa Cruz
+NAME_VI: Santa Cruz
+NAME_ZH: 聖克魯斯縣
+NE_ID: 1159316317

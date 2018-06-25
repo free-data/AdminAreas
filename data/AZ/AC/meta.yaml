@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1722
+DISS_ME: 1722
+ISO_3166_2: AZ-AGC
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Ağcabədi
+NAME_ALT: Agjabadi
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.AC
+NOTE: null
+HASC_MAYBE: null
+REGION: Aran Economic Region
+REGION_COD: AZ-06
+PROVNUM_NE: 35
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: AC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ02
+FIPS_ALT: AJ|
+WOE_ID: 20070214
+WOE_LABEL: null
+WOE_NAME: Agcabadi
+LATITUDE: 39.971
+LONGITUDE: 47.4145
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 148615
+GN_NAME: Aghjabadi Rayon
+GNS_ID: -2704670
+GNS_NAME: Agcabadi Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ02
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q330818
+NAME_AR: مقاطعة آقجبدي
+NAME_BN: আগজাবাদি জেলা
+NAME_DE: Ağcabədi
+NAME_EN: Aghjabadi District
+NAME_ES: Ağcabədi
+NAME_FR: Ağcabədi
+NAME_EL: Αγκτζαμπάντι
+NAME_HI: एग्जाबेड़ी जिला
+NAME_HU: Ağcabədi járás
+NAME_ID: Agjabadi
+NAME_IT: distretto di Ağcabədi
+NAME_JA: アグジャバディ県
+NAME_KO: 아그자베디 구
+NAME_NL: Ağcabədi
+NAME_PL: Rejon Ağcabədi
+NAME_PT: Aghjabadi
+NAME_RU: Агджабединский район
+NAME_SV: Ağcabədi
+NAME_TR: Ağcabedi Rayonu
+NAME_VI: Aghjabedi
+NAME_ZH: 阿格賈貝迪區
+NE_ID: 1159312309

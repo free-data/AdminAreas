@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2642
+DISS_ME: 2642
+ISO_3166_2: BI-NG
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Ngozi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY19
+FIPS_ALT: null
+WOE_ID: 2344912
+WOE_LABEL: Ngozi, BI, Burundi
+WOE_NAME: Ngozi
+LATITUDE: -2.86902
+LONGITUDE: 29.896
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 430567
+GN_NAME: Ngozi Province
+GNS_ID: 6039220
+GNS_NAME: Ngozi, iProvense ya
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: run
+GNS_ADM1: BY19
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q720852
+NAME_AR: مقاطعة نغوزي
+NAME_BN: গোজি প্রদেশ
+NAME_DE: Ngozi
+NAME_EN: Ngozi Province
+NAME_ES: Provincia de Ngozi
+NAME_FR: province de Ngozi
+NAME_EL: Νγκόζι
+NAME_HI: नोगोज़ी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Ngozi
+NAME_IT: provincia di Ngozi
+NAME_JA: ンゴジ県
+NAME_KO: 응고지 주
+NAME_NL: Ngozi
+NAME_PL: Prowincja Ngozi
+NAME_PT: Ngozi
+NAME_RU: Нгози
+NAME_SV: Ngozi
+NAME_TR: Ngozi Province
+NAME_VI: Tỉnh Ngozi
+NAME_ZH: 恩戈齊省
+NE_ID: 1159313327

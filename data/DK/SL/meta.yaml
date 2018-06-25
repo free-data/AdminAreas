@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: DNK-3420
+DISS_ME: 3420
+ISO_3166_2: DK-85
+WIKIPEDIA: null
+ISO_A2: DK
+ADM0_SR: 3
+NAME: Sjaælland
+NAME_ALT: Sjaelland|Zealand
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: DK.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 12
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 28362582
+WOE_LABEL: Sjaelland, DK, Denmark
+WOE_NAME: Sjaælland
+LATITUDE: 55.4417
+LONGITUDE: 11.7483
+SOV_A3: DN1
+ADM0_A3: DNK
+ADM0_LABEL: 5
+ADMIN: Denmark
+GEONUNIT: Denmark
+GU_A3: DNK
+GN_ID: 6418541
+GN_NAME: Region Sjaelland
+GNS_ID: 9257984
+GNS_NAME: Sjaeland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DK.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: dan
+GNS_ADM1: DA20
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q26589
+NAME_AR: إقليم شيلندا
+NAME_BN: null
+NAME_DE: Region Sjælland
+NAME_EN: Region Zealand
+NAME_ES: Región de Selandia
+NAME_FR: Sjælland
+NAME_EL: Σγιέλαν
+NAME_HI: null
+NAME_HU: Sjælland régió
+NAME_ID: Region Sjælland
+NAME_IT: Selandia
+NAME_JA: シェラン地域
+NAME_KO: 셸란 지역
+NAME_NL: Seeland
+NAME_PL: Zelandia
+NAME_PT: Zelândia
+NAME_RU: Зеландия
+NAME_SV: Region Själland
+NAME_TR: null
+NAME_VI: Zealand
+NAME_ZH: 西兰大区
+NE_ID: 1159315453

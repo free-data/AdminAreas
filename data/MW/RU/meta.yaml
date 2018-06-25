@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1903
+DISS_ME: 1903
+ISO_3166_2: MW-RU
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Rumphi
+NAME_ALT: Rumpi
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.RU
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: MWI-NRT
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI21
+FIPS_ALT: null
+WOE_ID: 20070126
+WOE_LABEL: Rumphi, MW, Malawi
+WOE_NAME: Rumphi
+LATITUDE: -10.7114
+LONGITUDE: 33.953
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 924100
+GN_NAME: Rumphi District
+GNS_ID: -1486758
+GNS_NAME: Rumphi
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MI21
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1044312
+NAME_AR: إقليم رومفي
+NAME_BN: রুম্পি জেলা
+NAME_DE: Rumphi-Distrikt
+NAME_EN: Rumphi District
+NAME_ES: Distrito de Rumphi
+NAME_FR: District de Rumphi
+NAME_EL: Ρούμφι
+NAME_HI: रुम्फी जिला
+NAME_HU: null
+NAME_ID: Distrik Rumphi
+NAME_IT: distretto di Rumphi
+NAME_JA: ルンピ
+NAME_KO: 룸피 현
+NAME_NL: Rumphi
+NAME_PL: Dystrykt Rumphi
+NAME_PT: Rumphi
+NAME_RU: Румфи
+NAME_SV: Rumphi
+NAME_TR: Rumphi
+NAME_VI: Quận Rumphi
+NAME_ZH: 倫比縣
+NE_ID: 1159311203

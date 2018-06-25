@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3381
+DISS_ME: 3381
+ISO_3166_2: TZ-10
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 3
+NAME: Kusini-Pemba
+NAME_ALT: Pemba South
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.PS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: PS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ20
+FIPS_ALT: null
+WOE_ID: 2347371
+WOE_LABEL: Pemba South, TZ, Tanzania
+WOE_NAME: Kusini-Pemba
+LATITUDE: -5.34982
+LONGITUDE: 39.7495
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 3
+ADMIN: United Republic of Tanzania
+GEONUNIT: Zanzibar
+GU_A3: TZZ
+GN_ID: 150732
+GN_NAME: Pemba South Region
+GNS_ID: -2572719
+GNS_NAME: Kusini Pemba, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ20
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q498067
+NAME_AR: إقليم جنوب بيمبا
+NAME_BN: সাউথ পেম্বা অঞ্চল
+NAME_DE: Pemba Kusini
+NAME_EN: South Pemba Region
+NAME_ES: Región de Pemba South
+NAME_FR: Pemba Sud
+NAME_EL: Πέμπα
+NAME_HI: दक्षिण पेम्बा क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Pemba Selatan
+NAME_IT: regione di Pemba Sud
+NAME_JA: ペンバ南部州
+NAME_KO: 펨바 남부 주
+NAME_NL: Zuid-Pemba
+NAME_PL: Pemba Południowa
+NAME_PT: Pemba Sul
+NAME_RU: Пемба Южная
+NAME_SV: Södra Pemba
+NAME_TR: South Pemba Bölgesi
+NAME_VI: Pemba South
+NAME_ZH: 南奔巴區
+NE_ID: 1159314881

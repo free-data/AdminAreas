@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2640
+DISS_ME: 2640
+ISO_3166_2: BI-KY
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Kayanza
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.KY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KY
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY15
+FIPS_ALT: null
+WOE_ID: 2344908
+WOE_LABEL: Kayanza, BI, Burundi
+WOE_NAME: Kayanza
+LATITUDE: -3.02498
+LONGITUDE: 29.6613
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 430951
+GN_NAME: Kayanza Province
+GNS_ID: 6039604
+GNS_NAME: Kayanza, Province de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BY15
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q720848
+NAME_AR: مقاطعة كايانزا
+NAME_BN: কানজা প্রদেশ
+NAME_DE: Kayanza
+NAME_EN: Kayanza Province
+NAME_ES: Provincia de Kayanza
+NAME_FR: province de Kayanza
+NAME_EL: Καγιάνζα
+NAME_HI: कयांजा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Kayanza
+NAME_IT: provincia di Kayanza
+NAME_JA: カヤンザ県
+NAME_KO: 카얀자 주
+NAME_NL: Kayanza
+NAME_PL: Prowincja Kayanza
+NAME_PT: Kayanza
+NAME_RU: Каянза
+NAME_SV: Kayanza
+NAME_TR: Kayanza Province
+NAME_VI: Tỉnh Kayanza
+NAME_ZH: 卡揚扎省
+NE_ID: 1159313323

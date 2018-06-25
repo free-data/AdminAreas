@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2250
+DISS_ME: 2250
+ISO_3166_2: BG-12
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Montana
+NAME_ALT: Mikhaylovgrad|Mihailovgrad
+NAME_LOCAL: Монтана
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU47
+FIPS_ALT: BU33
+WOE_ID: 20070056
+WOE_LABEL: Montana, BG, Bulgaria
+WOE_NAME: Montana
+LATITUDE: 43.487
+LONGITUDE: 23.1788
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 453753
+GN_NAME: Oblast Montana
+GNS_ID: -3431449
+GNS_NAME: Montana
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: BU47
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012057
+NAME_AR: محافظة مونتانا
+NAME_BN: null
+NAME_DE: Oblast Montana
+NAME_EN: Montana Province
+NAME_ES: Provincia de Montana
+NAME_FR: Montana
+NAME_EL: Επαρχία Μοντάνα
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Provinsi Montana
+NAME_IT: distretto di Montana
+NAME_JA: モンタナ州
+NAME_KO: 몬타나 주
+NAME_NL: Montana
+NAME_PL: Obwód Montana
+NAME_PT: Montana
+NAME_RU: Монтанская область
+NAME_SV: Montana
+NAME_TR: Montana ili
+NAME_VI: Montana
+NAME_ZH: 蒙塔納州
+NE_ID: 1159312497

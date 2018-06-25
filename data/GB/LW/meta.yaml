@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2769
+DISS_ME: 2769
+ISO_3166_2: GB-LEW
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Lewisham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.LW
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20041
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Lewisham
+POSTAL: LW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKH6
+WOE_ID: 12695814
+WOE_LABEL: null
+WOE_NAME: London Borough of Lewisham
+LATITUDE: 51.4418
+LONGITUDE: -0.0112858
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077608
+GNS_NAME: Lewisham, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q215030
+NAME_AR: null
+NAME_BN: null
+NAME_DE: London Borough of Lewisham
+NAME_EN: London Borough of Lewisham
+NAME_ES: Municipio de Lewisham
+NAME_FR: district londonien de Lewisham
+NAME_EL: null
+NAME_HI: लूविशम बरो
+NAME_HU: Lewisham kerület
+NAME_ID: null
+NAME_IT: Lewisham
+NAME_JA: ルイシャム・ロンドン特別区
+NAME_KO: 루이셤 구
+NAME_NL: Lewisham
+NAME_PL: London Borough of Lewisham
+NAME_PT: Lewisham
+NAME_RU: Луишем
+NAME_SV: London Borough of Lewisham
+NAME_TR: Lewisham
+NAME_VI: Khu Lewisham của Luân Đôn
+NAME_ZH: 劉易舍姆區
+NE_ID: 1159314787

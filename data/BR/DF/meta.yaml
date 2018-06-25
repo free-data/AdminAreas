@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-599
+DISS_ME: 599
+ISO_3166_2: BR-DF
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Distrito Federal
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito Federal
+TYPE_EN: Federal District
+CODE_LOCAL: null
+CODE_HASC: BR.DF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: D.F.
+POSTAL: DF
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 16
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR07
+FIPS_ALT: null
+WOE_ID: 2344850
+WOE_LABEL: Distrito Federal, BR, Brazil
+WOE_NAME: Distrito Federal
+LATITUDE: -15.7665
+LONGITUDE: -47.7902
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3463504
+GN_NAME: Distrito Federal
+GNS_ID: -642823
+GNS_NAME: Federal, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: BR07
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q119158
+NAME_AR: القطاع الفدرالي البرازيلي
+NAME_BN: ফেডারেল জেলা
+NAME_DE: Bundesdistrikt von Brasilien
+NAME_EN: Federal District
+NAME_ES: Distrito Federal
+NAME_FR: District fédéral
+NAME_EL: Φεντεράλ
+NAME_HI: फेडरल डिस्ट्रिक्ट
+NAME_HU: Szövetségi kerület
+NAME_ID: Distrik Federal Brasil
+NAME_IT: Distretto Federale
+NAME_JA: ブラジリア連邦直轄区
+NAME_KO: 연방구
+NAME_NL: Federaal District
+NAME_PL: Dystrykt Federalny
+NAME_PT: Distrito Federal
+NAME_RU: Федеральный округ
+NAME_SV: Brasiliens federala distrikt
+NAME_TR: Federal Bölge
+NAME_VI: Quận liên bang Brasil
+NAME_ZH: 聯邦區
+NE_ID: 1159307927

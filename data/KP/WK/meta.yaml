@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PRK-3303
+DISS_ME: 3303
+ISO_3166_2: KP-06
+WIKIPEDIA: null
+ISO_A2: KP
+ADM0_SR: 1
+NAME: Hwanghae-bukto
+NAME_ALT: North Hwanghae|North Hwanghai
+NAME_LOCAL: 황해북도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KP.WK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: WB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 14
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: KN07
+FIPS_ALT: null
+WOE_ID: 2345953
+WOE_LABEL: Hwanghae-bukto, KP, North Korea
+WOE_NAME: Hwanghae-bukto
+LATITUDE: 38.5962
+LONGITUDE: 126.297
+SOV_A3: PRK
+ADM0_A3: PRK
+ADM0_LABEL: 2
+ADMIN: North Korea
+GEONUNIT: North Korea
+GU_A3: PRK
+GN_ID: 1876888
+GN_NAME: Hwanghae-bukto
+GNS_ID: -176109
+GNS_NAME: Hwanghae-bukto
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KP.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KN07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q109342
+NAME_AR: هوانغهاي الشمالية
+NAME_BN: নর্থ হোয়াংঘে প্রদেশ
+NAME_DE: Hwanghae-pukto
+NAME_EN: North Hwanghae Province
+NAME_ES: Hwanghae del Norte
+NAME_FR: Hwanghae du Nord
+NAME_EL: Βόρειο Χουανγκέ
+NAME_HI: उत्तरी ह्वांगहे प्रांत
+NAME_HU: Észak-Hvanghe
+NAME_ID: Hwanghae Utara
+NAME_IT: Nord Hwanghae
+NAME_JA: 黄海北道
+NAME_KO: 황해북도
+NAME_NL: Hwanghae-pukto
+NAME_PL: Hwanghae Północne
+NAME_PT: Hwanghae Norte
+NAME_RU: Хванхэ-Пукто
+NAME_SV: Norra Hwanghae
+NAME_TR: Kuzey Hwanghae
+NAME_VI: Hwanghae Bắc
+NAME_ZH: 黄海北道
+NE_ID: 1159315273

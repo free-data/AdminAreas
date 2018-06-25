@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5104
+DISS_ME: 5104
+ISO_3166_2: KN-06
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint John Capesterre
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.JC
+NOTE: null
+HASC_MAYBE: null
+REGION: Saint Kitts
+REGION_COD: KN-K
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: JCA
+POSTAL: JC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 21
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC06
+FIPS_ALT: null
+WOE_ID: 2346969
+WOE_LABEL: Saint John Capesterre, KN, Saint Kitts and Nevis
+WOE_NAME: Saint John Capesterre
+LATITUDE: 17.382
+LONGITUDE: -62.7967
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575176
+GN_NAME: Saint John Capesterre
+GNS_ID: -1359318
+GNS_NAME: Saint John Capesterre
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q668498
+NAME_AR: أبرشية القديس جون كابيستير
+NAME_BN: সেন্ট জন ক্যাপ্রিস্টার প্যারিশ
+NAME_DE: Saint John Capisterre
+NAME_EN: Saint John Capisterre Parish
+NAME_ES: Parroquia de Saint John Capisterre
+NAME_FR: Saint-John Capisterre
+NAME_EL: Σεντ Τζον Κέιπστερ
+NAME_HI: सेंट जॉन कैपिसटेरे पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint John Capisterre
+NAME_IT: parrocchia di Saint John Capisterre
+NAME_JA: セント・ジョン・キャピスタ教区
+NAME_KO: 세인트존카피스테르 교구
+NAME_NL: Saint John Capisterre
+NAME_PL: Saint John Capisterre
+NAME_PT: Saint John Capisterre
+NAME_RU: Сент-Джон-Капистер
+NAME_SV: Saint John Capesterre
+NAME_TR: Saint John Capisterre
+NAME_VI: Giáo xứ Saint John Capisterre
+NAME_ZH: 聖約翰卡皮斯特萊區
+NE_ID: 1159316441

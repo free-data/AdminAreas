@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5756
+DISS_ME: 5756
+ISO_3166_2: LV-012
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Babites
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG45
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.8913
+LONGITUDE: 23.7639
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628318
+GN_NAME: Babites Novads
+GNS_ID: 10973370
+GNS_NAME: Babites Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.45
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG45
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2079353
+NAME_AR: بلدية ببيت
+NAME_BN: বাবিতে পৌরসভা
+NAME_DE: Bezirk Babīte
+NAME_EN: Babīte Municipality
+NAME_ES: Municipalidad de Babīte
+NAME_FR: Babīte
+NAME_EL: Μπαμπίτε
+NAME_HI: बैबिते नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Babīte
+NAME_IT: Babīte
+NAME_JA: バビーテ
+NAME_KO: 바비테 시
+NAME_NL: Babītes novads
+NAME_PL: Gmina Babīte
+NAME_PT: Babite
+NAME_RU: Бабитский край
+NAME_SV: Babite kommun
+NAME_TR: Babite Belediyesi
+NAME_VI: Đô thị tự trị Babite
+NAME_ZH: null
+NE_ID: 1159317633

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: VCT-5068
+DISS_ME: 5068
+ISO_3166_2: VC-05
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_Patrick_Parish_(Saint_Vincent_and_the_Grenadines)
+ISO_A2: VC
+ADM0_SR: 8
+NAME: Saint Patrick
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: VC.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: VC05
+FIPS_ALT: null
+WOE_ID: 2347675
+WOE_LABEL: Saint Patrick, VC, Saint Vincent and the Grenadines
+WOE_NAME: Saint Patrick
+LATITUDE: 13.2313
+LONGITUDE: -61.2534
+SOV_A3: VCT
+ADM0_A3: VCT
+ADM0_LABEL: 8
+ADMIN: Saint Vincent and the Grenadines
+GEONUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+GN_ID: 3577818
+GN_NAME: Parish of Saint Patrick
+GNS_ID: -1204546
+GNS_NAME: Saint Patrick, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VC.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: VC05
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1864637
+NAME_AR: أبرشية القديس باتريك
+NAME_BN: সেন্ট প্যাট্রিক প্যারিশ
+NAME_DE: Saint Patrick Parish
+NAME_EN: Saint Patrick Parish
+NAME_ES: San Patricio
+NAME_FR: Saint-Patrick
+NAME_EL: Άγιος Πατρίκιος
+NAME_HI: सेंट पैट्रिक पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Patrick
+NAME_IT: parrocchia di Saint Patrick
+NAME_JA: セント・パトリック教区
+NAME_KO: 세인트패트릭 교구
+NAME_NL: Saint Patrick
+NAME_PL: Saint Patrick
+NAME_PT: São Patrício
+NAME_RU: Сент-Патрик
+NAME_SV: Saint Patrick Parish
+NAME_TR: Saint Patrick Parish
+NAME_VI: Saint Patrick
+NAME_ZH: 聖派屈克區
+NE_ID: 1159316355

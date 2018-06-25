@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 4
+SOVEREIGNT: New Zealand
+SOV_A3: NZ1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Dependency
+ADMIN: Cook Islands
+ADM0_A3: COK
+GEOU_DIF: 0
+GEOUNIT: Cook Islands
+GU_A3: COK
+SU_DIF: 0
+SUBUNIT: Cook Islands
+SU_A3: COK
+BRK_DIFF: 0
+NAME: Cook Is.
+NAME_LONG: Cook Islands
+BRK_A3: COK
+BRK_NAME: Cook Is.
+BRK_GROUP: null
+ABBREV: Cook Is.
+POSTAL: CK
+FORMAL_EN: null
+FORMAL_FR: null
+NAME_CIAWF: Cook Islands
+NOTE_ADM0: Assoc. with N.Z.
+NOTE_BRK: null
+NAME_SORT: Cook Islands
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 3
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+POP_EST: 9290
+POP_RANK: 5
+GDP_MD_EST: 244.1
+POP_YEAR: 2017
+LASTCENSUS: -99
+GDP_YEAR: 2010
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: CW
+ISO_A2: CK
+ISO_A3: COK
+ISO_A3_EH: COK
+ISO_N3: 184
+UN_A3: 184
+WB_A2: -99
+WB_A3: -99
+WOE_ID: 23424795
+WOE_ID_EH: 23424795
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: COK
+ADM0_A3_US: COK
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Oceania
+REGION_UN: Oceania
+SUBREGION: Polynesia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 8
+LONG_LEN: 12
+ABBREV_LEN: 8
+TINY: 3
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321129
+WIKIDATAID: Q26988
+NAME_AR: جزر كوك
+NAME_BN: কুক দ্বীপপুঞ্জ
+NAME_DE: Cookinseln
+NAME_EN: Cook Islands
+NAME_ES: Islas Cook
+NAME_FR: Îles Cook
+NAME_EL: Νήσοι Κουκ
+NAME_HI: कुक द्वीपसमूह
+NAME_HU: Cook-szigetek
+NAME_ID: Kepulauan Cook
+NAME_IT: Isole Cook
+NAME_JA: クック諸島
+NAME_KO: 쿡 제도
+NAME_NL: Cookeilanden
+NAME_PL: Wyspy Cooka
+NAME_PT: Ilhas Cook
+NAME_RU: Острова Кука
+NAME_SV: Cooköarna
+NAME_TR: Cook Adaları
+NAME_VI: Quần đảo Cook
+NAME_ZH: 库克群岛

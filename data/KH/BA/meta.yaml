@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1778
+DISS_ME: 1778
+ISO_3166_2: KH-2
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Batdâmbâng
+NAME_ALT: Battambang|Baat Dambang|Bat Dâm Bâng
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB29
+FIPS_ALT: CB01
+WOE_ID: 20070098
+WOE_LABEL: Batdambang, KH, Cambodia
+WOE_NAME: Batdâmbâng
+LATITUDE: 12.9675
+LONGITUDE: 103.068
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1821310
+GN_NAME: Khett Batdambang
+GNS_ID: -1033691
+GNS_NAME: Batdambang, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB29
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q810923
+NAME_AR: محافظة باتامبانغ
+NAME_BN: ব্যাটামবং প্রদেশ
+NAME_DE: Battambang
+NAME_EN: Battambang Province
+NAME_ES: Provincia de Battambang
+NAME_FR: province de Battambang
+NAME_EL: Μπαταμπάνγκ
+NAME_HI: बैटमबैंग प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Battambang
+NAME_IT: provincia di Battambang
+NAME_JA: バタンバン州
+NAME_KO: 바탐방 주
+NAME_NL: Battambang
+NAME_PL: Prowincja Battambang
+NAME_PT: Battambang
+NAME_RU: Баттамбанг
+NAME_SV: Battambang
+NAME_TR: Battambang Province
+NAME_VI: Battambang
+NAME_ZH: 馬德望省
+NE_ID: 1159311551

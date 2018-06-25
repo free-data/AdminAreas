@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1345
+DISS_ME: 1345
+ISO_3166_2: SV-CU
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: Cuscatlán
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.CU
+NOTE: null
+HASC_MAYBE: SV.CH|SLV-CSC
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: CU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES04
+FIPS_ALT: ES03
+WOE_ID: 2345295
+WOE_LABEL: CuscatlÃ¡n, SV, El Salvador
+WOE_NAME: Cuscatlán
+LATITUDE: 13.8166
+LONGITUDE: -89.0055
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3586831
+GN_NAME: Departamento de Cuscatlan
+GNS_ID: -1144600
+GNS_NAME: Cuscatlan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES04
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1130677
+NAME_AR: إدارة كوسكاتلان
+NAME_BN: কুসকাতলান বিভাগ
+NAME_DE: Departamento Cuscatlán
+NAME_EN: Cuscatlán Department
+NAME_ES: Cuscatlán
+NAME_FR: département de Cuscatlán
+NAME_EL: Διαμέρισμα Κουσκατλάν
+NAME_HI: कूसकातलान
+NAME_HU: Cuscatlán megye
+NAME_ID: Departemen Cuscatlán
+NAME_IT: dipartimento di Cuscatlán
+NAME_JA: クスカトラン県
+NAME_KO: 쿠스카틀란 주
+NAME_NL: Cuscatlán
+NAME_PL: Cuscatlán
+NAME_PT: Cuscatlán
+NAME_RU: Кускатлан
+NAME_SV: Cuscatlan
+NAME_TR: Cuscatian Departmanı
+NAME_VI: Khu vực hành chính Cuscatlán
+NAME_ZH: 库斯卡特兰省
+NE_ID: 1159309041

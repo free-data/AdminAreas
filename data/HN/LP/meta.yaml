@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-649
+DISS_ME: 649
+ISO_3166_2: HN-LP
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: La Paz
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.LP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LP
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO12
+FIPS_ALT: HO10
+WOE_ID: 2345634
+WOE_LABEL: La Paz, HN, Honduras
+WOE_NAME: La Paz
+LATITUDE: 14.138
+LONGITUDE: -87.9144
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3607251
+GN_NAME: Departamento de La Paz
+GNS_ID: -1123912
+GNS_NAME: La Paz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: HO12
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q866886
+NAME_AR: إدارة لا باز
+NAME_BN: লা পাজ বিভাগ
+NAME_DE: La Paz
+NAME_EN: La Paz Department
+NAME_ES: La Paz
+NAME_FR: département de La Paz
+NAME_EL: Λα Παζ
+NAME_HI: ला-पाज़ विभाग
+NAME_HU: La Paz megye
+NAME_ID: Departemen La Paz
+NAME_IT: dipartimento di La Paz
+NAME_JA: ラパス県
+NAME_KO: 라파스 주
+NAME_NL: La Paz
+NAME_PL: La Paz
+NAME_PT: La Paz
+NAME_RU: Ла-Пас
+NAME_SV: Departamento de La Paz
+NAME_TR: La paz
+NAME_VI: La Paz
+NAME_ZH: 拉巴斯省
+NE_ID: 1159309113

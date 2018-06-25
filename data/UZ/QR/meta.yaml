@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: UZB-356
+DISS_ME: 356
+ISO_3166_2: UZ-QR
+WIKIPEDIA: null
+ISO_A2: UZ
+ADM0_SR: 1
+NAME: Karakalpakstan
+NAME_ALT: Qoraqalpog`iston autonomous republic|Kara-Kalpakia|Qoraqalpoghiston|Qoraqalpog`iston|Qoraqalpoghiston Respublikasi
+NAME_LOCAL: null
+TYPE: Repuplikasi
+TYPE_EN: Automonous Region
+CODE_LOCAL: null
+CODE_HASC: UZ.QR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: QR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 14
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: UZ09
+FIPS_ALT: null
+WOE_ID: 2347663
+WOE_LABEL: Qoraqalpoghiston, UZ, Uzbekistan
+WOE_NAME: Karakalpakstan
+LATITUDE: 43.8529
+LONGITUDE: 59.2233
+SOV_A3: UZB
+ADM0_A3: UZB
+ADM0_LABEL: 2
+ADMIN: Uzbekistan
+GEONUNIT: Uzbekistan
+GU_A3: UZB
+GN_ID: 453752
+GN_NAME: Karakalpakstan
+GNS_ID: -3431454
+GNS_NAME: Qoraqalpog`iston Respublikasi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UZ.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: UZ09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q484245
+NAME_AR: قرقل باغستان
+NAME_BN: কারাকালপাকতান
+NAME_DE: Karakalpakistan
+NAME_EN: Karakalpakstan
+NAME_ES: Karakalpakia
+NAME_FR: Karakalpakistan
+NAME_EL: Καρακαλπακστάν
+NAME_HI: क़ाराक़ालपाक़स्तान
+NAME_HU: Karakalpaksztán
+NAME_ID: Karakalpakstan
+NAME_IT: Karakalpakstan
+NAME_JA: カラカルパクスタン共和国
+NAME_KO: 카라칼파크스탄 공화국
+NAME_NL: Karakalpakië
+NAME_PL: Karakałpacja
+NAME_PT: Caracalpaquistão
+NAME_RU: Каракалпакстан
+NAME_SV: Karakalpakstan
+NAME_TR: Karakalpakistan
+NAME_VI: Qaraqalpaqstan
+NAME_ZH: 卡拉卡爾帕克斯坦自治共和國
+NE_ID: 1159308515

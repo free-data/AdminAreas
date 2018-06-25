@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-3412
+DISS_ME: 3412
+ISO_3166_2: IE-MN
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Monaghan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: Administrative County
+CODE_LOCAL: null
+CODE_HASC: IE.MN
+NOTE: null
+HASC_MAYBE: IR.MN
+REGION: Border
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: SP32
+WOE_ID: 2345266
+WOE_LABEL: Monaghan, IE, Ireland
+WOE_NAME: Monaghan
+LATITUDE: 54.2106
+LONGITUDE: -6.94174
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2962567
+GN_NAME: County Monaghan
+GNS_ID: -1504567
+GNS_NAME: Monaghan, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.22
+REGION_SUB: Ulster
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q184760
+NAME_AR: مقاطعة موناغان
+NAME_BN: কাউন্টি মোনাঘান
+NAME_DE: Monaghan
+NAME_EN: County Monaghan
+NAME_ES: Condado de Monaghan
+NAME_FR: Comté de Monaghan
+NAME_EL: Κομητεία Μόναχαν
+NAME_HI: काउंटी मोनाघन
+NAME_HU: Monaghan megye
+NAME_ID: County Monaghan
+NAME_IT: Monaghan
+NAME_JA: モナハン州
+NAME_KO: 모나한 주
+NAME_NL: County Monaghan
+NAME_PL: Monaghan
+NAME_PT: Condado de Monaghan
+NAME_RU: Монахан
+NAME_SV: Monaghan
+NAME_TR: Monaghan County
+NAME_VI: Hạt Monaghan
+NAME_ZH: 莫纳亨郡
+NE_ID: 1159315457

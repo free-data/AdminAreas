@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1490
+DISS_ME: 1490
+ISO_3166_2: HR-19
+WIKIPEDIA: http://en.wikipedia.org/wiki/Dubrova%C4%8Dko-neretvanska_%C5%BEupanija
+ISO_A2: HR
+ADM0_SR: 3
+NAME: Dubrovacko-Neretvanska
+NAME_ALT: Dubrovnik-Neretva
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.DN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: DN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 22
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR03
+FIPS_ALT: null
+WOE_ID: 12577973
+WOE_LABEL: null
+WOE_NAME: Dubrovačko-neretvanska
+LATITUDE: 42.761
+LONGITUDE: 16.8699
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337513
+GN_NAME: Dubrovacko-Neretvanska Zupanija
+GNS_ID: 9031000
+GNS_NAME: Dubrovacko-Neretvanska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR03
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58289
+NAME_AR: مقاطعة دوبروفنيك-نيريتفا
+NAME_BN: দুব্রভনিক-নেরেতভা কাউন্টি
+NAME_DE: Gespanschaft Dubrovnik-Neretva
+NAME_EN: Dubrovnik-Neretva County
+NAME_ES: Dubrovnik-Neretva
+NAME_FR: Comitat de Dubrovnik-Neretva
+NAME_EL: Ντουμπρόβνικ-Νερέτβα
+NAME_HI: डूब्रोव्निक-नेरेट्वा काउंटी
+NAME_HU: Dubrovnik-Neretva megye
+NAME_ID: Kabupaten Dubrovnik-Neretva
+NAME_IT: regione raguseo-narentana
+NAME_JA: ドゥブロヴニク＝ネレトヴァ郡
+NAME_KO: 두브로브니크네레트바 주
+NAME_NL: Dubrovnik-Neretva
+NAME_PL: Dubrovačko-neretvanska županija
+NAME_PT: Dubrovnik-Neretva
+NAME_RU: Дубровницко-Неретванская жупания
+NAME_SV: Dubrovnik-Neretvas län
+NAME_TR: Dubrovnik-Neretva
+NAME_VI: Hạt Dubrovnik-Neretva
+NAME_ZH: 杜布羅夫斯克-內雷特瓦縣
+NE_ID: 1159312431

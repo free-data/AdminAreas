@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2334
+DISS_ME: 2334
+ISO_3166_2: RU-NGR
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Novgorod
+NAME_ALT: Novgorodskaya Oblast
+NAME_LOCAL: Новгородская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwestern
+REGION_COD: null
+PROVNUM_NE: 20075
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS52
+FIPS_ALT: null
+WOE_ID: 2346913
+WOE_LABEL: Novgorodskaya Oblast, RU, Russia
+WOE_NAME: Novgorod
+LATITUDE: 58.4228
+LONGITUDE: 32.9454
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 519324
+GN_NAME: Novgorodskaya Oblast'
+GNS_ID: -2968545
+GNS_NAME: Novgorodskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.52
+REGION_SUB: Northwestern
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS52
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2240
+NAME_AR: نوفغورود أوبلاست
+NAME_BN: নোভগরদ ওব্লাস্ট
+NAME_DE: Oblast Nowgorod
+NAME_EN: Novgorod Oblast
+NAME_ES: Óblast de Nóvgorod
+NAME_FR: oblast de Novgorod
+NAME_EL: Περιφέρεια Νόβγκοροντ
+NAME_HI: नोवगोरोड ओब्लास्ट
+NAME_HU: Novgorodi terület
+NAME_ID: Oblast Novgorod
+NAME_IT: oblast' di Novgorod
+NAME_JA: ノヴゴロド州
+NAME_KO: 노브고로드 주
+NAME_NL: Oblast Novgorod
+NAME_PL: Obwód nowogrodzki
+NAME_PT: Oblast de Novgorod
+NAME_RU: Новгородская область
+NAME_SV: Novgorod oblast
+NAME_TR: Novgorod Oblastı
+NAME_VI: Novgorod
+NAME_ZH: 諾夫哥羅德州
+NE_ID: 1159313149

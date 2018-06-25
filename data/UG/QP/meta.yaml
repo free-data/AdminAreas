@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3112
+DISS_ME: 3112
+ISO_3166_2: UG-206
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kapchorwa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.QP
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 20027
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: KP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGA5
+FIPS_ALT: UG39
+WOE_ID: -20070423
+WOE_LABEL: Kapchorwa, UG, Uganda
+WOE_NAME: Kapchorwa
+LATITUDE: 1.35008
+LONGITUDE: 34.4652
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443341
+GN_NAME: Kapchorwa District
+GNS_ID: 9050394
+GNS_NAME: Kapchorwa District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG37
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1229921
+NAME_AR: مقاطعة كابشوروا
+NAME_BN: কাপচোয়া জেলা
+NAME_DE: Distrikt Kapchorwa
+NAME_EN: Kapchorwa District
+NAME_ES: Distrito de Kapchorwa
+NAME_FR: Kapchorwa
+NAME_EL: Καπτσόρουα
+NAME_HI: कैपकोरवा जिला
+NAME_HU: null
+NAME_ID: Distrik Kapchorwa
+NAME_IT: Kapchorwa
+NAME_JA: カプチョルワ県
+NAME_KO: 카프초르와 구
+NAME_NL: Kapchorwa
+NAME_PL: Dystrykt Kapchorwa
+NAME_PT: Distrito de Kapchorwa
+NAME_RU: Капчорва
+NAME_SV: Kapchorwa distriktet
+NAME_TR: Kapshorwa District
+NAME_VI: Quận Kapchorwa
+NAME_ZH: 卡普喬魯瓦區
+NE_ID: 1159313725

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: AUS-2651
+DISS_ME: 2651
+ISO_3166_2: AU-WA
+WIKIPEDIA: null
+ISO_A2: AU
+ADM0_SR: 6
+NAME: Western Australia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: AU.WA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: W.A.
+POSTAL: WA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 17
+MAPCOLOR9: 2
+MAPCOLOR13: 7
+FIPS: AS08
+FIPS_ALT: null
+WOE_ID: 2344706
+WOE_LABEL: Western Australia, AU, Australia
+WOE_NAME: Western Australia
+LATITUDE: -25.8483
+LONGITUDE: 121.646
+SOV_A3: AU1
+ADM0_A3: AUS
+ADM0_LABEL: 2
+ADMIN: Australia
+GEONUNIT: Australia
+GU_A3: AUS
+GN_ID: 2058645
+GN_NAME: State of Western Australia
+GNS_ID: -1608952
+GNS_NAME: Western Australia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AU.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: AS08
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q3206
+NAME_AR: أستراليا الغربية
+NAME_BN: পশ্চিম অস্ট্রেলিয়া
+NAME_DE: Western Australia
+NAME_EN: Western Australia
+NAME_ES: Australia Occidental
+NAME_FR: Australie-Occidentale
+NAME_EL: Δυτική Αυστραλία
+NAME_HI: पश्चिमी ऑस्ट्रेलिया
+NAME_HU: Nyugat-Ausztrália
+NAME_ID: Australia Barat
+NAME_IT: Australia Occidentale
+NAME_JA: 西オーストラリア州
+NAME_KO: 웨스턴오스트레일리아 주
+NAME_NL: West-Australië
+NAME_PL: Australia Zachodnia
+NAME_PT: Austrália Ocidental
+NAME_RU: Западная Австралия
+NAME_SV: Western Australia
+NAME_TR: Batı Avustralya
+NAME_VI: Tây Úc
+NAME_ZH: 西澳大利亚州
+NE_ID: 1159315805

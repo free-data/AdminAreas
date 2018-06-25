@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1855
+DISS_ME: 1855
+ISO_3166_2: JP-12
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Chiba
+NAME_ALT: Tiba|Tsiba
+NAME_LOCAL: 千葉県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.CH
+NOTE: null
+HASC_MAYBE: JP.IB
+REGION: Kanto
+REGION_COD: JPN-KNT
+PROVNUM_NE: 30
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA04
+FIPS_ALT: JA14
+WOE_ID: 2345854
+WOE_LABEL: Chiba Prefecture, JP, Japan
+WOE_NAME: Chiba
+LATITUDE: 35.489
+LONGITUDE: 140.318
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 2113014
+GN_NAME: Chiba-ken
+GNS_ID: -226439
+GNS_NAME: Chiba-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA04
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q80011
+NAME_AR: تشيبا
+NAME_BN: চিবা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Chiba
+NAME_EN: Chiba Prefecture
+NAME_ES: Prefectura de Chiba
+NAME_FR: Préfecture de Chiba
+NAME_EL: Τσίμπα
+NAME_HI: शिबा प्रीफेक्चर
+NAME_HU: Csiba prefektúra
+NAME_ID: Prefektur Chiba
+NAME_IT: prefettura di Chiba
+NAME_JA: 千葉県
+NAME_KO: 지바현
+NAME_NL: Chiba
+NAME_PL: Prefektura Chiba
+NAME_PT: Chiba
+NAME_RU: Тиба
+NAME_SV: Chiba prefektur
+NAME_TR: Chiba ili
+NAME_VI: Chiba
+NAME_ZH: 千葉縣
+NE_ID: 1159309421

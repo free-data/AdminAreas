@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1956
+DISS_ME: 1956
+ISO_3166_2: GT-PR
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: El Progreso
+NAME_ALT: Guastatoya
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.PR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PR
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT05
+FIPS_ALT: null
+WOE_ID: 2345556
+WOE_LABEL: El Progreso, GT, Guatemala
+WOE_NAME: El Progreso
+LATITUDE: 14.9038
+LONGITUDE: -90.0911
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3596416
+GN_NAME: Departamento de El Progreso
+GNS_ID: -1134930
+GNS_NAME: El Progreso
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT05
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q795591
+NAME_AR: إدارة البروغريسو
+NAME_BN: এল প্রোগ্রেসো বিভাগ
+NAME_DE: Departamento El Progreso
+NAME_EN: El Progreso Department
+NAME_ES: El Progreso
+NAME_FR: département d'El Progreso
+NAME_EL: Ελ Προγκρέσο
+NAME_HI: एल प्रोग्रेसो विभाग
+NAME_HU: El Progreso megye
+NAME_ID: Departemen El Progreso
+NAME_IT: dipartimento di El Progreso
+NAME_JA: エル・プログレソ県
+NAME_KO: 엘프로그레소 주
+NAME_NL: El Progreso
+NAME_PL: El Progreso
+NAME_PT: El Progreso
+NAME_RU: Эль-Прогресо
+NAME_SV: Departamento de El Progreso
+NAME_TR: El Progreso Departmanı
+NAME_VI: El Progreso
+NAME_ZH: 普羅格雷索省
+NE_ID: 1159311667

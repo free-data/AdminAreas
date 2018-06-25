@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5035
+DISS_ME: 5035
+ISO_3166_2: BS-CK
+WIKIPEDIA: http://en.wikipedia.org/wiki/Crooked_Island_and_Long_Cay
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Crooked Island and Long Cay
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.CK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: CK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 27
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF40
+FIPS_ALT: null
+WOE_ID: 24551238
+WOE_LABEL: Crooked Island, BS, The Bahamas
+WOE_NAME: Crooked Island
+LATITUDE: 22.7472
+LONGITUDE: -74.2405
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030545
+GN_NAME: Crooked Island and Long Cay District
+GNS_ID: 11057033
+GNS_NAME: Crooked Island and Long Cay District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.40
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF40
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1140993
+NAME_AR: جزيرة كروكد
+NAME_BN: ক্রুকেড আইল্যান্ড
+NAME_DE: Crooked Island
+NAME_EN: Crooked Island
+NAME_ES: Isla de Crooked
+NAME_FR: Crooked Island
+NAME_EL: Κρουκντ Άιλαντ
+NAME_HI: क्रूकेड आइलैंड
+NAME_HU: null
+NAME_ID: Pulau Crooked
+NAME_IT: Crooked Island
+NAME_JA: クルックド島
+NAME_KO: 크루커드 섬
+NAME_NL: Crooked Island
+NAME_PL: Crooked Island
+NAME_PT: Crooked Island
+NAME_RU: Крукед-Айленд
+NAME_SV: Crooked Island
+NAME_TR: Crooked Adası
+NAME_VI: Đảo Crooked
+NAME_ZH: 克魯克德島
+NE_ID: 1159316291

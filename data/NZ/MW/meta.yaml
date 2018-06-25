@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3334
+DISS_ME: 3334
+ISO_3166_2: NZ-MWT
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Manawatu-Wanganui
+NAME_ALT: Manawatu Whanganui|Wanganui-Mawanatu
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.MW
+NOTE: null
+HASC_MAYBE: null
+REGION: North Island
+REGION_COD: NZ-N
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 17
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZF3
+FIPS_ALT: null
+WOE_ID: 15021764
+WOE_LABEL: Manawatu Wanganui, NZ, New Zealand
+WOE_NAME: Manawatu-Wanganui
+LATITUDE: -39.8518
+LONGITUDE: 175.627
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2179671
+GN_NAME: Manawatu-Wanganui
+GNS_ID: 11483302
+GNS_NAME: Manawatu-Wanganui Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.F3
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q139907
+NAME_AR: ماناواتو - وانجانوي
+NAME_BN: মানাওয়াতু ওয়াংগানাই অঞ্চল
+NAME_DE: Manawatu-Wanganui
+NAME_EN: Manawatu-Wanganui Region
+NAME_ES: Manawatu-Wanganui
+NAME_FR: Manawatu-Wanganui
+NAME_EL: Μαναουάτου-Γουανγκανούι
+NAME_HI: मनावातु-वांगनुई प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Manawatu-Wanganui
+NAME_IT: Manawatu-Wanganui
+NAME_JA: マナワツ・ワンガヌイ地方
+NAME_KO: 마너와투왕거누이 지방
+NAME_NL: Manawatu-Wanganui
+NAME_PL: Manawatu-Wanganui
+NAME_PT: Manawatu-Wanganui
+NAME_RU: Манавату-Уангануи
+NAME_SV: Manawatu-Wanganui
+NAME_TR: Manawatu-Wanguni Bölgesi
+NAME_VI: Khu vực Manawatu-Wanganui
+NAME_ZH: 马纳瓦图－旺加努伊
+NE_ID: 1159314925

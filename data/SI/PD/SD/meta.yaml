@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-234
+DISS_ME: 234
+ISO_3166_2: SI-178
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Selnica ob Dravi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIL5
+WOE_ID: -55848382
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.5799
+LONGITUDE: 15.4976
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344919
+GN_NAME: Obcina Selnica ob Dravi
+GNS_ID: 9123435
+GNS_NAME: Selnica ob Dravi, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.L5
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q919934
+NAME_AR: بلدية سيلنيكا أوب درافي
+NAME_BN: সেলনিকা অব দ্রাভি পৌরসভা
+NAME_DE: Selnica ob Dravi
+NAME_EN: Selnica ob Dravi Municipality
+NAME_ES: Selnica ob Dravi
+NAME_FR: Selnica ob Dravi
+NAME_EL: Σέλνικα ομπ Ντραβί
+NAME_HI: सेल्निका ओब द्रावी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Selnica ob Dravi
+NAME_IT: Selnica ob Dravi
+NAME_JA: セルニツァ・オブ・ドラヴィ
+NAME_KO: 셀니차오브드라비
+NAME_NL: Selnica ob Dravi
+NAME_PL: Gmina Selnica ob Dravi
+NAME_PT: Selnica ob Dravi
+NAME_RU: Сельница-об-Драви
+NAME_SV: Selnica ob Dravi kommun
+NAME_TR: Selnica ob Dravi
+NAME_VI: Selnica ob Dravi
+NAME_ZH: null
+NE_ID: 1159308625

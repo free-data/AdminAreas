@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: YEM-3511
+DISS_ME: 3511
+ISO_3166_2: YE-AB
+WIKIPEDIA: null
+ISO_A2: YE
+ADM0_SR: 1
+NAME: Abyan
+NAME_ALT: null
+NAME_LOCAL: أبين‎
+TYPE: Muhafazah
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: YE.AB
+NOTE: null
+HASC_MAYBE: YE.AB|YEM-ABY
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070036
+WOE_LABEL: Abyan, YE, Yemen
+WOE_NAME: Abyan
+LATITUDE: 13.8269
+LONGITUDE: 46.2119
+SOV_A3: YEM
+ADM0_A3: YEM
+ADM0_LABEL: 2
+ADMIN: Yemen
+GEONUNIT: Yemen
+GU_A3: YEM
+GN_ID: 80425
+GN_NAME: Muhafazat Abyan
+GNS_ID: -3182060
+GNS_NAME: Abyan, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: YE.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: YM01
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q241774
+NAME_AR: محافظة أبين
+NAME_BN: আবিয়ান গভর্নোরেট
+NAME_DE: Gouvernement Abyan
+NAME_EN: Abyan Governorate
+NAME_ES: Gobernación de Abyan
+NAME_FR: Gouvernorat d'Abyan
+NAME_EL: Αμπγιάν
+NAME_HI: अबयन प्रान्त
+NAME_HU: Abjan kormányzóság
+NAME_ID: Kegubernuran Abyan
+NAME_IT: governatorato di Abyan
+NAME_JA: アビヤン県
+NAME_KO: 아브얀 주
+NAME_NL: Abyan
+NAME_PL: Abjan
+NAME_PT: Abyan
+NAME_RU: Абьян
+NAME_SV: Abyan
+NAME_TR: Abyan ili
+NAME_VI: Tỉnh Abyan
+NAME_ZH: 阿比扬省
+NE_ID: 1159315171

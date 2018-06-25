@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-378
+DISS_ME: 378
+ISO_3166_2: TH-82
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 4
+NAME: Phangnga
+NAME_ALT: null
+NAME_LOCAL: จังหวัดพังงา
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PG
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH61
+FIPS_ALT: TH61
+WOE_ID: 2347185
+WOE_LABEL: Phangnga, TH, Thailand
+WOE_NAME: Phangnga
+LATITUDE: 8.57678
+LONGITUDE: 98.394
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1151462
+GN_NAME: Changwat Phangnga
+GNS_ID: -3252747
+GNS_NAME: Phangnga, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH61
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q273306
+NAME_AR: محافظة فانغ نغا
+NAME_BN: পাং নাগা
+NAME_DE: Phangnga
+NAME_EN: Phang Nga
+NAME_ES: Provincia de Phang Nga
+NAME_FR: Phang Nga
+NAME_EL: Πανγκ Νγκά
+NAME_HI: फंग अंगा प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Phang Nga
+NAME_IT: provincia di Phang Nga
+NAME_JA: パンガー県
+NAME_KO: 팡응아 주
+NAME_NL: Changwat Phang Nga
+NAME_PL: Prowincja Phang Nga
+NAME_PT: Phangnga
+NAME_RU: Пхангнга
+NAME_SV: Phang Nga
+NAME_TR: Phang Nga
+NAME_VI: Phang Nga
+NAME_ZH: 攀牙府
+NE_ID: 1159308007

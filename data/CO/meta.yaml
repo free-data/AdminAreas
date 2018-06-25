@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: Colombia
+SOV_A3: COL
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Colombia
+ADM0_A3: COL
+GEOU_DIF: 0
+GEOUNIT: Colombia
+GU_A3: COL
+SU_DIF: 0
+SUBUNIT: Colombia
+SU_A3: COL
+BRK_DIFF: 0
+NAME: Colombia
+NAME_LONG: Colombia
+BRK_A3: COL
+BRK_NAME: Colombia
+BRK_GROUP: null
+ABBREV: Col.
+POSTAL: CO
+FORMAL_EN: Republic of Colombia
+FORMAL_FR: null
+NAME_CIAWF: Colombia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Colombia
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 1
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+POP_EST: 47698524
+POP_RANK: 15
+GDP_MD_EST: 688000
+POP_YEAR: 2017
+LASTCENSUS: 2006
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: CO
+ISO_A2: CO
+ISO_A3: COL
+ISO_A3_EH: COL
+ISO_N3: 170
+UN_A3: 170
+WB_A2: CO
+WB_A3: COL
+WOE_ID: 23424787
+WOE_ID_EH: 23424787
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: COL
+ADM0_A3_US: COL
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: South America
+REGION_UN: Americas
+SUBREGION: South America
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 2
+MAX_LABEL: 7
+NE_ID: 1159320517
+WIKIDATAID: Q739
+NAME_AR: كولومبيا
+NAME_BN: কলম্বিয়া
+NAME_DE: Kolumbien
+NAME_EN: Colombia
+NAME_ES: Colombia
+NAME_FR: Colombie
+NAME_EL: Κολομβία
+NAME_HI: कोलम्बिया
+NAME_HU: Kolumbia
+NAME_ID: Kolombia
+NAME_IT: Colombia
+NAME_JA: コロンビア
+NAME_KO: 콜롬비아
+NAME_NL: Colombia
+NAME_PL: Kolumbia
+NAME_PT: Colômbia
+NAME_RU: Колумбия
+NAME_SV: Colombia
+NAME_TR: Kolombiya
+NAME_VI: Colombia
+NAME_ZH: 哥伦比亚

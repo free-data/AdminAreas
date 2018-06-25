@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-751
+DISS_ME: 751
+ISO_3166_2: PT-05
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Castelo Branco
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.CB
+NOTE: null
+HASC_MAYBE: null
+REGION: Centro
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: CB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO06
+FIPS_ALT: null
+WOE_ID: 2346566
+WOE_LABEL: Castelo Branco, PT, Portugal
+WOE_NAME: Castelo Branco
+LATITUDE: 39.9984
+LONGITUDE: -7.58224
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2269513
+GN_NAME: Distrito de Castelo Branco
+GNS_ID: -2162528
+GNS_NAME: Castelo Branco, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q273529
+NAME_AR: محافظة كاستيلو برانكو
+NAME_BN: কাস্টেলো ব্রাঙ্কো জেলা
+NAME_DE: Distrikt Castelo Branco
+NAME_EN: Castelo Branco District
+NAME_ES: Distrito de Castelo Branco
+NAME_FR: District de Castelo Branco
+NAME_EL: Καστέλο Μπράνκο
+NAME_HI: कास्टेलो ब्रैंको जिला
+NAME_HU: Castelo Branco
+NAME_ID: Distrik Castelo Branco
+NAME_IT: distretto di Castelo Branco
+NAME_JA: カステロ・ブランコ県
+NAME_KO: 카스텔루브랑쿠 현
+NAME_NL: Castelo Branco
+NAME_PL: Dystrykt Castelo Branco
+NAME_PT: Distrito de Castelo Branco
+NAME_RU: Каштелу-Бранку
+NAME_SV: Castelo Branco
+NAME_TR: Castello Branco District
+NAME_VI: Castelo Branco
+NAME_ZH: 布朗庫堡區
+NE_ID: 1159310579

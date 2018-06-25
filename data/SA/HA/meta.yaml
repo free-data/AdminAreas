@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: SAU-847
+DISS_ME: 847
+ISO_3166_2: SA-06
+WIKIPEDIA: null
+ISO_A2: SA
+ADM0_SR: 1
+NAME: Ha'il
+NAME_ALT: Hail
+NAME_LOCAL: null
+TYPE: Emirate|Mintaqah
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SA.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 7
+FIPS: SA13
+FIPS_ALT: null
+WOE_ID: 2346957
+WOE_LABEL: Hail, SA, Saudi Arabia
+WOE_NAME: Ha'il
+LATITUDE: 27.2652
+LONGITUDE: 41.7076
+SOV_A3: SAU
+ADM0_A3: SAU
+ADM0_LABEL: 2
+ADMIN: Saudi Arabia
+GEONUNIT: Saudi Arabia
+GU_A3: SAU
+GN_ID: 106280
+GN_NAME: Mintaqat Ha'il
+GNS_ID: -3095160
+GNS_NAME: Ha'il, Mintaqat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SA.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SA13
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q243656
+NAME_AR: منطقة حائل
+NAME_BN: হাইল অঞ্চল
+NAME_DE: Provinz Ha'il
+NAME_EN: Ha'il Region
+NAME_ES: Provincia de Haíl
+NAME_FR: Haïl
+NAME_EL: Επαρχία Χαΐλ
+NAME_HI: हाइल प्रान्त
+NAME_HU: Háil tartomány
+NAME_ID: Provinsi Ha'il
+NAME_IT: Ha'il
+NAME_JA: ハーイル州
+NAME_KO: 하일 주
+NAME_NL: Hail
+NAME_PL: Hail
+NAME_PT: Ha'il
+NAME_RU: Хаиль
+NAME_SV: Ha'il
+NAME_TR: Hail Bölgesi
+NAME_VI: Tỉnh Ha'il
+NAME_ZH: 哈伊勒省
+NE_ID: 1159309299

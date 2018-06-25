@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: YEM-158
+DISS_ME: 158
+ISO_3166_2: YE-TA
+WIKIPEDIA: null
+ISO_A2: YE
+ADM0_SR: 5
+NAME: Ta`izz
+NAME_ALT: Taez|Taiz|Taizz
+NAME_LOCAL: تعز
+TYPE: Muhafazah
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: YE.TA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: YM25
+FIPS_ALT: YM17
+WOE_ID: 20070041
+WOE_LABEL: Ta`izz, YE, Yemen
+WOE_NAME: Ta`izz
+LATITUDE: 13.4282
+LONGITUDE: 43.7305
+SOV_A3: YEM
+ADM0_A3: YEM
+ADM0_LABEL: 2
+ADMIN: Yemen
+GEONUNIT: Yemen
+GU_A3: YEM
+GN_ID: 70222
+GN_NAME: Muhafazat Ta`izz
+GNS_ID: -3192365
+GNS_NAME: Ta`izz, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: YE.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: YM25
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q388330
+NAME_AR: محافظة تعز
+NAME_BN: তা'ইজ গভর্নোরেট
+NAME_DE: Gouvernement Ta'izz
+NAME_EN: Ta'izz Governorate
+NAME_ES: Gobernación de Ta'izz
+NAME_FR: Gouvernorat de Ta'izz
+NAME_EL: Ταΐζ Γκοβερνοράτε
+NAME_HI: ताइज़ प्रान्त
+NAME_HU: Taizz kormányzóság
+NAME_ID: Kegubernuran Ta'izz
+NAME_IT: governatorato di Ta'izz
+NAME_JA: タイズ県
+NAME_KO: 타이즈 주
+NAME_NL: Ta'izz
+NAME_PL: Taizz
+NAME_PT: Ta'izz
+NAME_RU: Таиз
+NAME_SV: Taizz
+NAME_TR: Taiz ili
+NAME_VI: Tỉnh Ta'izz
+NAME_ZH: 塔伊茲省
+NE_ID: 1159308129

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEL-3481
+DISS_ME: 3481
+ISO_3166_2: BE-WLG
+WIKIPEDIA: null
+ISO_A2: BE
+ADM0_SR: 1
+NAME: Liege
+NAME_ALT: Luik
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BE.LG
+NOTE: null
+HASC_MAYBE: null
+REGION: Walloon
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 7153300
+WOE_LABEL: Liege, BE, Belgium
+WOE_NAME: Liege
+LATITUDE: 50.5794
+LONGITUDE: 5.67651
+SOV_A3: BEL
+ADM0_A3: BEL
+ADM0_LABEL: 2
+ADMIN: Belgium
+GEONUNIT: Walloon Region
+GU_A3: BWR
+GN_ID: 2792411
+GN_NAME: Province de Liege
+GNS_ID: -1964018
+GNS_NAME: Liege, Province de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BE.WLG
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: BE14
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1127
+NAME_AR: لياج
+NAME_BN: লিয়েজ
+NAME_DE: Provinz Lüttich
+NAME_EN: Liège
+NAME_ES: Provincia de Lieja
+NAME_FR: province de Liège
+NAME_EL: Λιέγη
+NAME_HI: लीज
+NAME_HU: Liège
+NAME_ID: Liège
+NAME_IT: provincia di Liegi
+NAME_JA: リエージュ州
+NAME_KO: 리에주 주
+NAME_NL: Luik
+NAME_PL: Prowincja Liège
+NAME_PT: Liège
+NAME_RU: Льеж
+NAME_SV: Liège
+NAME_TR: Liège
+NAME_VI: Liège
+NAME_ZH: 列日省
+NE_ID: 1159315375

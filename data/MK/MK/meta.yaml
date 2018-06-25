@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-3006
+DISS_ME: 3006
+ISO_3166_2: MK-51
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Makedonska Kamenica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.MK
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 20020
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: MK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 19
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK52
+FIPS_ALT: null
+WOE_ID: 24550851
+WOE_LABEL: Makedonska Kamenica Municipality, MK, Macedonia
+WOE_NAME: Makedonska Kamenica
+LATITUDE: 42.0394
+LONGITUDE: 22.5221
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 862956
+GN_NAME: Opstina Makedonska Kamenica
+GNS_ID: 9043554
+GNS_NAME: Makedonska Kamenica, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.62
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK62
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2041219
+NAME_AR: بلدية ماكيدونسكا كامينيكا
+NAME_BN: মেকাডনস্কা কামেনিয়া পৌরসভা
+NAME_DE: Opština Makedonska Kamenica
+NAME_EN: Makedonska Kamenica Municipality
+NAME_ES: Municipalidad de Makedonska Kamenica
+NAME_FR: Makedonska Kamenitsa
+NAME_EL: Δήμος Ματσεντόνσκα Καμένιτσα
+NAME_HI: मैकेडोंस्का कमैनिका नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Makedonska Kamenica
+NAME_IT: Makedonska Kamenica
+NAME_JA: マケドンスカ・カメニツァ
+NAME_KO: 마케돈스카카메니차 시
+NAME_NL: Makedonska Kamenica
+NAME_PL: Gmina Makedonska Kamenica
+NAME_PT: Makedonska Kamencia kommune
+NAME_RU: Македонска-Каменица
+NAME_SV: Makedonska Kamenica
+NAME_TR: Makedonska Kamenica Belediyesi
+NAME_VI: Đô thị tự trị Makedonska Kamenica
+NAME_ZH: 馬其頓卡梅尼察區
+NE_ID: 1159314573

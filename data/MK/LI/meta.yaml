@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2920
+DISS_ME: 2920
+ISO_3166_2: MK-48
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Lipkovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.LI
+NOTE: null
+HASC_MAYBE: null
+REGION: Skopje
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: LI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK01
+FIPS_ALT: null
+WOE_ID: 24550842
+WOE_LABEL: Lipkovo Municipality, MK, Macedonia
+WOE_NAME: Lipkovo
+LATITUDE: 42.1401
+LONGITUDE: 21.579
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863875
+GN_NAME: Opstina Lipkovo
+GNS_ID: 9075641
+GNS_NAME: Lipkovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.59
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK59
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2041236
+NAME_AR: بلدية ليبكوفو
+NAME_BN: লিপকোভ পৌরসভা
+NAME_DE: Opština Lipkovo
+NAME_EN: Lipkovo Municipality
+NAME_ES: Municipalidad de Lipkovo
+NAME_FR: Lipkovo
+NAME_EL: Δήμος Λιπκόβου
+NAME_HI: लिपकोवो नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Lipkovo
+NAME_IT: Lipkovo
+NAME_JA: リプコヴォ
+NAME_KO: 립코보 시
+NAME_NL: Lipkovo
+NAME_PL: Gmina Lipkovo
+NAME_PT: Município de Lipkovo
+NAME_RU: Община Липково
+NAME_SV: Opsjtina Lipkovo
+NAME_TR: Lipkovo Belediyesi
+NAME_VI: Đô thị tự trị Lipkovo
+NAME_ZH: 里普科沃區
+NE_ID: 1159314451

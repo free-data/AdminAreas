@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1465
+DISS_ME: 1465
+ISO_3166_2: TD-KA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Kanem_Region
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Kanem
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.KM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 5
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD06
+FIPS_ALT: null
+WOE_ID: 2344950
+WOE_LABEL: null
+WOE_NAME: Kanem
+LATITUDE: 15.2641
+LONGITUDE: 15.8001
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 2430873
+GN_NAME: Kanem Region
+GNS_ID: -1096956
+GNS_NAME: Kanem, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q849841
+NAME_AR: منطقة كانم
+NAME_BN: কানেম অঞ্চল
+NAME_DE: Region Kanem
+NAME_EN: Kanem Region
+NAME_ES: Región de Kanem
+NAME_FR: Kanem
+NAME_EL: Κανέμ
+NAME_HI: कानेम प्रदेश
+NAME_HU: null
+NAME_ID: Region Kanem
+NAME_IT: regione di Kanem
+NAME_JA: カネム州
+NAME_KO: 카넴 주
+NAME_NL: Kanem
+NAME_PL: Region Kanem
+NAME_PT: Kanem
+NAME_RU: Канем
+NAME_SV: Kanem
+NAME_TR: Kanem Bölgesi
+NAME_VI: Khu vực Kanem
+NAME_ZH: 加奈姆區
+NE_ID: 1159310375

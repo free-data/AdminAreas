@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-3428
+DISS_ME: 3428
+ISO_3166_2: SE-O
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 4
+NAME: Västra Götaland
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.VG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: VG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070562
+WOE_LABEL: Vastra Gotaland, SE, Sweden
+WOE_NAME: Västra Götaland
+LATITUDE: 58.2428
+LONGITUDE: 12.8371
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 3337386
+GN_NAME: Vaestra Goetalands Laen
+GNS_ID: 6233463
+GNS_NAME: Vastra Gotalands Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: SW28
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103093
+NAME_AR: محافظة وسترا يوتالاند
+NAME_BN: ভঁসট্রা গোঁটাল্যান্ড কাউন্টি
+NAME_DE: Västra Götalands län
+NAME_EN: Västra Götaland County
+NAME_ES: Provincia de Västra Götaland
+NAME_FR: Comté de Västra Götaland
+NAME_EL: Κομητεία Βέστρα Γκέταλαντ
+NAME_HI: वेस्त्रा योतालान्द लैन
+NAME_HU: Västra Götaland megye
+NAME_ID: Daerah Västra Götaland
+NAME_IT: contea di Västra Götaland
+NAME_JA: ヴェストラ・イェータランド県
+NAME_KO: 베스트라예탈란드 주
+NAME_NL: Västra Götalands län
+NAME_PL: Västra Götalands län
+NAME_PT: condado da Västra Götaland
+NAME_RU: Вестра-Гёталанд
+NAME_SV: Västra Götalands län
+NAME_TR: Västra Götaland ili
+NAME_VI: hạt Västra Götaland
+NAME_ZH: 西约塔兰省
+NE_ID: 1159315463

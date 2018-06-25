@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-4839
+DISS_ME: 4839
+ISO_3166_2: TR-75
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ardahan_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Ardahan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.AR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20021
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU86
+FIPS_ALT: null
+WOE_ID: 20070284
+WOE_LABEL: Ardahan, TR, Turkey
+WOE_NAME: Ardahan
+LATITUDE: 41.1809
+LONGITUDE: 42.8342
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 862470
+GN_NAME: Ardahan
+GNS_ID: 9034903
+GNS_NAME: Ardahan Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.86
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU86
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q79840
+NAME_AR: أرداهان
+NAME_BN: আরদাহান প্রদেশ
+NAME_DE: Ardahan
+NAME_EN: Ardahan Province
+NAME_ES: Provincia de Ardahan
+NAME_FR: Ardahan
+NAME_EL: Αρνταχάν
+NAME_HI: अर्दहन प्रांत
+NAME_HU: Ardahan
+NAME_ID: Provinsi Ardahan
+NAME_IT: provincia di Ardahan
+NAME_JA: アルダハン県
+NAME_KO: 아르다한 주
+NAME_NL: Ardahan
+NAME_PL: Ardahan
+NAME_PT: Ardahan
+NAME_RU: Ардахан
+NAME_SV: Ardahan
+NAME_TR: Ardahan
+NAME_VI: Ardahan
+NAME_ZH: 阿尔达汉省
+NE_ID: 1159315905

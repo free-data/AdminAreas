@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3281
+DISS_ME: 3281
+ISO_3166_2: LA-SL
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Saravan
+NAME_ALT: Salavan|Salavane|Saravane
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA19
+FIPS_ALT: LA09
+WOE_ID: 20070157
+WOE_LABEL: Salavan, LA, Laos
+WOE_NAME: Saravan
+LATITUDE: 15.7614
+LONGITUDE: 106.248
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1653333
+GN_NAME: Salavan
+GNS_ID: -2668219
+GNS_NAME: Salavan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LA19
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q302656
+NAME_AR: سالافان
+NAME_BN: সালভান প্রদেশ
+NAME_DE: Provinz Salavan
+NAME_EN: Salavan Province
+NAME_ES: Salavan
+NAME_FR: Province de Saravane
+NAME_EL: Σαλαβάν
+NAME_HI: सलावान प्रान्त
+NAME_HU: Szalavan tartomány
+NAME_ID: Provinsi Salavan
+NAME_IT: provincia di Salavan
+NAME_JA: サーラワン県
+NAME_KO: 살라완 주
+NAME_NL: Salavan
+NAME_PL: Prowincja Saravane
+NAME_PT: Saravane
+NAME_RU: Сараван
+NAME_SV: Saravane
+NAME_TR: Salavan Province
+NAME_VI: Saravane
+NAME_ZH: 沙拉湾省
+NE_ID: 1159315177

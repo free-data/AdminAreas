@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-307
+DISS_ME: 307
+ISO_3166_2: RO-HR
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Harghita
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.HR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO20
+FIPS_ALT: null
+WOE_ID: 2346634
+WOE_LABEL: Harghita, RO, Romania
+WOE_NAME: Harghita
+LATITUDE: 46.6393
+LONGITUDE: 25.5853
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 676309
+GN_NAME: Judetul Harghita
+GNS_ID: -1161165
+GNS_NAME: Harghita, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO20
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q190702
+NAME_AR: مقاطعة هارغيتا
+NAME_BN: হারঘিতা কাউন্টি
+NAME_DE: Kreis Harghita
+NAME_EN: Harghita County
+NAME_ES: Harghita
+NAME_FR: Județ de Harghita
+NAME_EL: Χαργκίτα
+NAME_HI: हरघिता काउंटी
+NAME_HU: Hargita megye
+NAME_ID: Provinsi Harghita
+NAME_IT: distretto di Harghita
+NAME_JA: ハルギタ県
+NAME_KO: 하르기타 주
+NAME_NL: Harghita
+NAME_PL: Okręg Harghita
+NAME_PT: Harghita
+NAME_RU: Харгита
+NAME_SV: Harghita
+NAME_TR: Harghita ili
+NAME_VI: Hạt Harghita
+NAME_ZH: 哈爾吉塔縣
+NE_ID: 1159308827

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 6
+SOVEREIGNT: Saint Vincent and the Grenadines
+SOV_A3: VCT
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Saint Vincent and the Grenadines
+ADM0_A3: VCT
+GEOU_DIF: 0
+GEOUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+SU_DIF: 0
+SUBUNIT: Saint Vincent and the Grenadines
+SU_A3: VCT
+BRK_DIFF: 0
+NAME: St. Vin. and Gren.
+NAME_LONG: Saint Vincent and the Grenadines
+BRK_A3: VCT
+BRK_NAME: St. Vin. and Gren.
+BRK_GROUP: null
+ABBREV: St.V.G.
+POSTAL: VC
+FORMAL_EN: Saint Vincent and the Grenadines
+FORMAL_FR: null
+NAME_CIAWF: Saint Vincent and the Grenadines
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: St. Vincent and the Grenadines
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 1
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+POP_EST: 102089
+POP_RANK: 9
+GDP_MD_EST: 1241
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: VC
+ISO_A2: VC
+ISO_A3: VCT
+ISO_A3_EH: VCT
+ISO_N3: 670
+UN_A3: 670
+WB_A2: VC
+WB_A3: VCT
+WOE_ID: 23424981
+WOE_ID_EH: 23424981
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: VCT
+ADM0_A3_US: VCT
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Caribbean
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 18
+LONG_LEN: 32
+ABBREV_LEN: 7
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321409
+WIKIDATAID: Q757
+NAME_AR: سانت فينسنت والغرينادين
+NAME_BN: সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ
+NAME_DE: St. Vincent und die Grenadinen
+NAME_EN: Saint Vincent and the Grenadines
+NAME_ES: San Vicente y las Granadinas
+NAME_FR: Saint-Vincent-et-les-Grenadines
+NAME_EL: Άγιος Βικέντιος και Γρεναδίνες
+NAME_HI: सन्त विन्सेण्ट और ग्रेनाडाइन्स
+NAME_HU: Saint Vincent és a Grenadine-szigetek
+NAME_ID: Saint Vincent dan Grenadines
+NAME_IT: Saint Vincent e Grenadine
+NAME_JA: セントビンセント・グレナディーン
+NAME_KO: 세인트빈센트 그레나딘
+NAME_NL: Saint Vincent en de Grenadines
+NAME_PL: Saint Vincent i Grenadyny
+NAME_PT: São Vicente e Granadinas
+NAME_RU: Сент-Винсент и Гренадины
+NAME_SV: Saint Vincent och Grenadinerna
+NAME_TR: Saint Vincent ve Grenadinler
+NAME_VI: Saint Vincent và Grenadines
+NAME_ZH: 圣文森特和格林纳丁斯

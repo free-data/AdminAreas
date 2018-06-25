@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4916
+DISS_ME: 4916
+ISO_3166_2: HU-SD
+WIKIPEDIA: http://en.wikipedia.org/wiki/Szeged
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Szeged
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: Great Southern Plain
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU19
+FIPS_ALT: null
+WOE_ID: 56043624
+WOE_LABEL: Szeged, HU, Hungary
+WOE_NAME: Szeged
+LATITUDE: 46.2689
+LONGITUDE: 20.1431
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -721589
+GN_NAME: Csongrad megye
+GNS_ID: -867008
+GNS_NAME: Szeged Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Csongrád
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU19
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q81581
+NAME_AR: سيجد
+NAME_BN: সেজড
+NAME_DE: Szeged
+NAME_EN: Szeged
+NAME_ES: Szeged
+NAME_FR: Szeged
+NAME_EL: Σέγκεντ
+NAME_HI: जगेड
+NAME_HU: Szeged
+NAME_ID: Szeged
+NAME_IT: Seghedino
+NAME_JA: セゲド
+NAME_KO: 세게드
+NAME_NL: Szeged
+NAME_PL: Segedyn
+NAME_PT: Szeged
+NAME_RU: Сегед
+NAME_SV: Szeged
+NAME_TR: Szeged
+NAME_VI: Szeged
+NAME_ZH: 塞格德
+NE_ID: 1159316061

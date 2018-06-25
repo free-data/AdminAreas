@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5763
+DISS_ME: 5763
+ISO_3166_2: LV-040
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Jaunpils
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.JU
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG73
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.7686
+LONGITUDE: 22.9132
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628313
+GN_NAME: Jaunpils Novads
+GNS_ID: 10971820
+GNS_NAME: Jaunpils Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.73
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG73
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2072154
+NAME_AR: بلدية ياونبيلس
+NAME_BN: জনপিলস পৌরসভা
+NAME_DE: Bezirk Jaunpils
+NAME_EN: Jaunpils Municipality
+NAME_ES: Municipalidad de Jaunpils
+NAME_FR: Jaunpils
+NAME_EL: Τζονπίλς
+NAME_HI: जौन्पिल्स नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Jaunpils
+NAME_IT: Jaunpils
+NAME_JA: ヤウンピルス
+NAME_KO: 야운필스 시
+NAME_NL: Jaunpils novads
+NAME_PL: Gmina Jaunpils
+NAME_PT: Município de Jaunpils
+NAME_RU: Яунпилсский край
+NAME_SV: Jaunpils novads
+NAME_TR: Jaunpils Belediyesi
+NAME_VI: Đô thị tự trị Jaunpils
+NAME_ZH: null
+NE_ID: 1159317643

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1158
+DISS_ME: 1158
+ISO_3166_2: TW-PIF
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 1
+NAME: Pingtung
+NAME_ALT: Pingdong
+NAME_LOCAL: null
+TYPE: Hsien
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: TW.TW.PT
+NOTE: Contains the Island Liuch'iu Y?, which should belong to Kaohsiung Shi Special Municipality
+HASC_MAYBE: null
+REGION: Taiwan Province
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2347340
+WOE_LABEL: null
+WOE_NAME: Pingtung County
+LATITUDE: 22.5344
+LONGITUDE: 120.661
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1670479
+GN_NAME: Pingtung
+GNS_ID: -2635733
+GNS_NAME: Pingdong Xian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.PIF
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW18
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q194989
+NAME_AR: مقاطعة بينغتونغ
+NAME_BN: পিংটুং কাউন্টি
+NAME_DE: Landkreis Pingtung
+NAME_EN: Pingtung County
+NAME_ES: Condado de Pingtung
+NAME_FR: comté de Pingtung
+NAME_EL: Πίνγκτουνγκ
+NAME_HI: पिंगटूंग काउंटी
+NAME_HU: null
+NAME_ID: Kabupaten Pingtung
+NAME_IT: Contea di Pingtung
+NAME_JA: 屏東県
+NAME_KO: 핑둥 현
+NAME_NL: Pingtung
+NAME_PL: Pingdong
+NAME_PT: Condado de Pingtung
+NAME_RU: Пиндун
+NAME_SV: Pingtung
+NAME_TR: Pingtung
+NAME_VI: Bình Đông
+NAME_ZH: 屏東縣
+NE_ID: 1159310391

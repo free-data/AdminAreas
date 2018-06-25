@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-972
+DISS_ME: 972
+ISO_3166_2: SI-077
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Moravce
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.LJ.MO
+NOTE: null
+HASC_MAYBE: null
+REGION: Osrednjeslovenska
+REGION_COD: null
+PROVNUM_NE: 108
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI77
+FIPS_ALT: null
+WOE_ID: -55848346
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.1337
+LONGITUDE: 14.7576
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239132
+GN_NAME: Obcina Moravce
+GNS_ID: 243736
+GNS_NAME: Moravce, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI77
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1012761
+NAME_AR: مورافسكه، مورافسكه
+NAME_BN: মোরাভি পৌরসভা
+NAME_DE: Moravče
+NAME_EN: Moravče Municipality
+NAME_ES: Municipalidad del Moravče
+NAME_FR: Moravče
+NAME_EL: Μοράβτσε
+NAME_HI: मोरेव्से नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Moravče
+NAME_IT: Moravče
+NAME_JA: モラフチェ
+NAME_KO: 모라브체
+NAME_NL: Moravče
+NAME_PL: Gmina Moravče
+NAME_PT: Moravče
+NAME_RU: Моравче
+NAME_SV: Moravce kommun
+NAME_TR: Moravce Belediyesi
+NAME_VI: Moravče
+NAME_ZH: 摩拉夫切
+NE_ID: 1159310741

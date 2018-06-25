@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SLE-790
+DISS_ME: 790
+ISO_3166_2: SL-E
+WIKIPEDIA: null
+ISO_A2: SL
+ADM0_SR: 1
+NAME: Eastern
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SL.EA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: EA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: SL01
+FIPS_ALT: null
+WOE_ID: 2347000
+WOE_LABEL: Eastern, SL, Sierra Leone
+WOE_NAME: Eastern
+LATITUDE: 8.27415
+LONGITUDE: -10.9314
+SOV_A3: SLE
+ADM0_A3: SLE
+ADM0_LABEL: 2
+ADMIN: Sierra Leone
+GEONUNIT: Sierra Leone
+GU_A3: SLE
+GN_ID: 2409543
+GN_NAME: Eastern Province
+GNS_ID: -1315369
+GNS_NAME: Eastern Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SL.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: SL01
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1050497
+NAME_AR: المحافظة الشرقية
+NAME_BN: ইস্টার্ন প্রদেশ
+NAME_DE: Eastern
+NAME_EN: Eastern Province
+NAME_ES: Provincia del Este
+NAME_FR: Province de l'Est
+NAME_EL: Ανατολική Περιφέρεια
+NAME_HI: पूर्वी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Timur
+NAME_IT: provincia dell'Est
+NAME_JA: 東部州
+NAME_KO: 동부 주
+NAME_NL: Eastern
+NAME_PL: Prowincja Wschodnia
+NAME_PT: Eastern
+NAME_RU: Восточная провинция
+NAME_SV: Östra provinsen
+NAME_TR: Eastern Province
+NAME_VI: Tỉnh Phía Đông
+NAME_ZH: 東方省
+NE_ID: 1159308939

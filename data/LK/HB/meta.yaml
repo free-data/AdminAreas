@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2465
+DISS_ME: 2465
+ISO_3166_2: LK-33
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Hambantŏṭa
+NAME_ALT: Hambantota
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.HB
+NOTE: null
+HASC_MAYBE: null
+REGION: Dakuṇu paḷāta
+REGION_COD: LK-3
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: HB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE07
+FIPS_ALT: null
+WOE_ID: 23706497
+WOE_LABEL: null
+WOE_NAME: Hambantota
+LATITUDE: 6.2704
+LONGITUDE: 81.1619
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1244925
+GN_NAME: Hambantota District
+GNS_ID: -2218947
+GNS_NAME: Hambantota
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1244925
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE34
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q723006
+NAME_AR: مديرية هامبانتوتا
+NAME_BN: হাম্বানটুটা  জেলা
+NAME_DE: Hambantota
+NAME_EN: Hambantota District
+NAME_ES: Distrito de Hambantota
+NAME_FR: district d'Hambantota
+NAME_EL: Χαμπαντότα
+NAME_HI: हम्बन्तोट' जिला
+NAME_HU: null
+NAME_ID: Distrik Hambantota
+NAME_IT: Distretto di Hambantota
+NAME_JA: ハンバントタ県
+NAME_KO: 함반토타 구
+NAME_NL: Hambantota
+NAME_PL: Dystrykt Hambantota
+NAME_PT: Hambantota
+NAME_RU: Хамбантота
+NAME_SV: Hambantota distriktet
+NAME_TR: Hambantota District
+NAME_VI: Quận Hambantota
+NAME_ZH: 漢班托特區
+NE_ID: 1159311427

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2586
+DISS_ME: 2586
+ISO_3166_2: PH-NSA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Northern_Samar
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Northern Samar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.NS
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern Visayas (Region VIII)
+REGION_COD: PH-08
+PROVNUM_NE: 20040
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP67
+FIPS_ALT: null
+WOE_ID: 2346720
+WOE_LABEL: null
+WOE_NAME: Northern Samar
+LATITUDE: 12.3786
+LONGITUDE: 124.812
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1697549
+GN_NAME: Province of Northern Samar
+GNS_ID: -2442055
+GNS_NAME: Northern Samar, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.67
+REGION_SUB: Northern Samar
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP67
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13864
+NAME_AR: سامار الشمالية
+NAME_BN: নর্দান সামার
+NAME_DE: Northern Samar
+NAME_EN: Northern Samar
+NAME_ES: Sámar del Norte
+NAME_FR: Samar du Nord
+NAME_EL: Βόρειο Σαμάρ
+NAME_HI: उत्तरी सामार प्रान्त
+NAME_HU: null
+NAME_ID: Samar Utara
+NAME_IT: Provincia di Northern Samar
+NAME_JA: 北サマル州
+NAME_KO: 북사마르 주
+NAME_NL: Northern Samar
+NAME_PL: Northern Samar
+NAME_PT: Northern Samar
+NAME_RU: Северный Самар
+NAME_SV: Norra Samar
+NAME_TR: Kuzey Samar
+NAME_VI: Bắc Samar
+NAME_ZH: 北薩馬省
+NE_ID: 1159313449

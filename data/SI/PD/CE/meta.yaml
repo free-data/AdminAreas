@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-198
+DISS_ME: 198
+ISO_3166_2: SI-153
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Cerkvenjak
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.CE
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 138
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIF9
+WOE_ID: -55848361
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.5598
+LONGITUDE: 15.9531
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344929
+GN_NAME: Obcina Cerkvenjak
+GNS_ID: 9123446
+GNS_NAME: Cerkvenjak, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.F9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1252438
+NAME_AR: بلدية سيركفنياك
+NAME_BN: চার্কভেঞ্জাক পৌরসভা
+NAME_DE: Gemeinde Cerkvenjak
+NAME_EN: Cerkvenjak Municipality
+NAME_ES: Municipalidad del Cerkvenjak
+NAME_FR: Municipalité de Cerkvenjak
+NAME_EL: Κέρκβεντζακ
+NAME_HI: चर्कवेन्नयेक नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Cerkvenjak
+NAME_IT: Cerkvenjak
+NAME_JA: ツェルクヴェニャク
+NAME_KO: 체르크베냐크 지방 자치제
+NAME_NL: Cerkvenjak
+NAME_PL: Gmina Cerkvenjak
+NAME_PT: Município de Cerkvenjak
+NAME_RU: Церквеняк
+NAME_SV: Cerkvenjak kommun
+NAME_TR: Cerkvenjak Belediyesi
+NAME_VI: Đô thị tự trị Cerkvenjak
+NAME_ZH: 采尔克韦尼亚克
+NE_ID: 1159308543

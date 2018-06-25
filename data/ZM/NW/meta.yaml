@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: ZMB-521
+DISS_ME: 521
+ISO_3166_2: ZM-06
+WIKIPEDIA: null
+ISO_A2: ZM
+ADM0_SR: 1
+NAME: North-Western
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZM.NW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: NW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: ZA06
+FIPS_ALT: null
+WOE_ID: 2347801
+WOE_LABEL: North-Western, ZM, Zambia
+WOE_NAME: North-Western
+LATITUDE: -12.7303
+LONGITUDE: 24.7847
+SOV_A3: ZMB
+ADM0_A3: ZMB
+ADM0_LABEL: 2
+ADMIN: Zambia
+GEONUNIT: Zambia
+GU_A3: ZMB
+GN_ID: 900594
+GN_NAME: North-Western Province
+GNS_ID: -2301348
+GNS_NAME: North-Western
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZM.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZA06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q846320
+NAME_AR: المحافظة الشمالية الغربية، زامبيا
+NAME_BN: নর্থ-ওয়েস্টার্ন প্রদেশ
+NAME_DE: Nordwestprovinz
+NAME_EN: Northwestern Province
+NAME_ES: Provincia del Noroeste
+NAME_FR: Province Nord-Occidentale
+NAME_EL: Βορειοδυτική Επαρχία
+NAME_HI: उत्तर पश्चिमी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Barat Laut
+NAME_IT: provincia Nord-Occidentale
+NAME_JA: 北西州
+NAME_KO: 북서부 주
+NAME_NL: North-Western
+NAME_PL: Prowincja Północno-Zachodnia
+NAME_PT: Noroeste
+NAME_RU: Северо-Западная провинция
+NAME_SV: North-Western
+NAME_TR: Kuzeybatı Bölgesi
+NAME_VI: Tỉnh Tây Bắc
+NAME_ZH: 西北省
+NE_ID: 1159307891

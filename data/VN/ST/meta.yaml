@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-508
+DISS_ME: 508
+ISO_3166_2: VN-52
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 5
+NAME: Sóc Trăng
+NAME_ALT: Soc Trang
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: đồng bằng sông Cửu Long
+REGION_COD: VNM-STR
+PROVNUM_NE: 10
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM65
+FIPS_ALT: null
+WOE_ID: 2347748
+WOE_LABEL: Soc Trang, VN, Vietnam
+WOE_NAME: Sóc Trăng
+LATITUDE: 9.5614
+LONGITUDE: 105.9
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1559972
+GN_NAME: Tinh Soc Trang
+GNS_ID: -3736199
+GNS_NAME: Soc Trang, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.65
+REGION_SUB: null
+SUB_CODE: VM73
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM65
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q33272
+NAME_AR: مقاطعة سك ترانج
+NAME_BN: সখ তাং
+NAME_DE: Sóc Trăng
+NAME_EN: Sóc Trăng
+NAME_ES: Sóc Trăng
+NAME_FR: Province de Sóc Trăng
+NAME_EL: Σοκ Τρανγκ
+NAME_HI: सोक ट्रांग
+NAME_HU: null
+NAME_ID: Provinsi Soc Trang
+NAME_IT: provincia di Soc Trang
+NAME_JA: ソクチャン省
+NAME_KO: 속짱 성
+NAME_NL: Sóc Trăng
+NAME_PL: Prowincja Sóc Trăng
+NAME_PT: Soc Trang
+NAME_RU: Шокчанг
+NAME_SV: Soc Trang
+NAME_TR: Soc Trang
+NAME_VI: Sóc Trăng
+NAME_ZH: 朔莊省
+NE_ID: 1159308017

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1421
+DISS_ME: 1421
+ISO_3166_2: CO-NSA
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Norte de Santander
+NAME_ALT: Santander del Norte
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: CO.NS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 28
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: NS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 18
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO21
+FIPS_ALT: null
+WOE_ID: 2345066
+WOE_LABEL: Norte de Santander, CO, Colombia
+WOE_NAME: Norte de Santander
+LATITUDE: 8.086
+LONGITUDE: -72.8175
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3673798
+GN_NAME: Departamento de Norte de Santander
+GNS_ID: -593497
+GNS_NAME: Norte de Santander, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO21
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q233058
+NAME_AR: إدارة نورتي دي سانتاندر
+NAME_BN: নর্থে ডি সান্তান্ডের বিভাগ
+NAME_DE: Departamento de Norte de Santander
+NAME_EN: Norte de Santander Department
+NAME_ES: Norte de Santander
+NAME_FR: Norte de Santander
+NAME_EL: Νόρτε ντε Σαντάντερ
+NAME_HI: नोर्टे डी सैनटेंडर विभाग
+NAME_HU: Észak-Santander megye
+NAME_ID: Departemen Norte de Santander
+NAME_IT: dipartimento di Norte de Santander
+NAME_JA: ノルテ・デ・サンタンデール県
+NAME_KO: 노르테데산탄데르 주
+NAME_NL: Norte de Santander
+NAME_PL: Norte de Santander
+NAME_PT: Norte de Santander
+NAME_RU: Северный Сантандер
+NAME_SV: Norte de Santander
+NAME_TR: Norte de Santander
+NAME_VI: Norte de Santander
+NAME_ZH: 北桑坦德省
+NE_ID: 1159310161

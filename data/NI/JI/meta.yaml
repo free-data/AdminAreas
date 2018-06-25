@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-656
+DISS_ME: 656
+ISO_3166_2: NI-JI
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Jinotega
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.JI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JI
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU07
+FIPS_ALT: null
+WOE_ID: 2346423
+WOE_LABEL: Jinotega, NI, Nicaragua
+WOE_NAME: Jinotega
+LATITUDE: 13.6975
+LONGITUDE: -85.5417
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3618928
+GN_NAME: Departamento de Jinotega
+GNS_ID: -1112096
+GNS_NAME: Jinotega
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q728120
+NAME_AR: جينوتيغا
+NAME_BN: জিনোতেগা
+NAME_DE: Departamento Jinotega
+NAME_EN: Jinotega Department
+NAME_ES: Departamento de Jinotega
+NAME_FR: département de Jinotega
+NAME_EL: Χινοτέγκα
+NAME_HI: जिनोटेगा
+NAME_HU: Jinotega megye
+NAME_ID: Departemen Jinotega
+NAME_IT: dipartimento di Jinotega
+NAME_JA: ヒノテガ県
+NAME_KO: 히노테가 주
+NAME_NL: Jinotega
+NAME_PL: Jinotega
+NAME_PT: Jinotega
+NAME_RU: Хинотега
+NAME_SV: Jinotega
+NAME_TR: Jinotega
+NAME_VI: Jinotega
+NAME_ZH: 希諾特加省
+NE_ID: 1159309067

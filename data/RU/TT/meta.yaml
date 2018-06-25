@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2394
+DISS_ME: 2394
+ISO_3166_2: RU-TA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tatarstan
+NAME_ALT: Kazan|Kazanskaya G.|Tatar A.S.S.R.|Tatarskaya A.S.S.R.|Republic of Tatarstan|Respublika Tatars
+NAME_LOCAL: Республика Татарстан
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.TT
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20098
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS73
+FIPS_ALT: null
+WOE_ID: 2346878
+WOE_LABEL: Tatarstan, RU, Russia
+WOE_NAME: Tatarstan
+LATITUDE: 55.374
+LONGITUDE: 50.7364
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 484048
+GN_NAME: Respublika Tatarstan
+GNS_ID: -3016810
+GNS_NAME: Tatarstan, Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.73
+REGION_SUB: Volga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS73
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5481
+NAME_AR: تتارستان
+NAME_BN: তাতারস্তান
+NAME_DE: Tatarstan
+NAME_EN: Republic of Tatarstan
+NAME_ES: Tartaristán
+NAME_FR: Tatarstan
+NAME_EL: Δημοκρατία του Ταταρστάν
+NAME_HI: तातारस्तान
+NAME_HU: Tatárföld
+NAME_ID: Tatarstan
+NAME_IT: Tatarstan
+NAME_JA: タタールスタン共和国
+NAME_KO: 타타르 공화국
+NAME_NL: Tatarije
+NAME_PL: Tatarstan
+NAME_PT: Tartaristão
+NAME_RU: Татарстан
+NAME_SV: Tatarstan
+NAME_TR: Tataristan
+NAME_VI: Tatarstan
+NAME_ZH: 鞑靼斯坦共和国
+NE_ID: 1159313215

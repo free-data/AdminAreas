@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5684
+DISS_ME: 5684
+ISO_3166_2: GB-MAN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Manchester
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.MN
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: GB.MN
+PROVNUM_NE: 20024
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: Manch'er
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKI2
+FIPS_ALT: UKI2
+WOE_ID: -12602158
+WOE_LABEL: null
+WOE_NAME: Greater Manchester
+LATITUDE: 53.4597
+LONGITUDE: -2.26678
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333169
+GN_NAME: City and Borough of Manchester
+GNS_ID: 6077611
+GNS_NAME: Manchester, City and Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.I2
+REGION_SUB: Greater Manchester
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q18125
+NAME_AR: مانشستر
+NAME_BN: ম্যানচেস্টার
+NAME_DE: Manchester
+NAME_EN: Manchester
+NAME_ES: Mánchester
+NAME_FR: Manchester
+NAME_EL: Μάντσεστερ
+NAME_HI: मैन्चेस्टर
+NAME_HU: Manchester
+NAME_ID: Manchester
+NAME_IT: Manchester
+NAME_JA: マンチェスター
+NAME_KO: 맨체스터
+NAME_NL: Manchester
+NAME_PL: Manchester
+NAME_PT: Manchester
+NAME_RU: Манчестер
+NAME_SV: Manchester
+NAME_TR: Manchester
+NAME_VI: Manchester
+NAME_ZH: 曼彻斯特
+NE_ID: 1159317507

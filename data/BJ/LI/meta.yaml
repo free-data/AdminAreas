@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BEN-2175
+DISS_ME: 2175
+ISO_3166_2: BJ-LI
+WIKIPEDIA: null
+ISO_A2: BJ
+ADM0_SR: 1
+NAME: Littoral
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BJ.LI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: LI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: BN14
+FIPS_ALT: BN02
+WOE_ID: 55967673
+WOE_LABEL: Littoral, BJ, Benin
+WOE_NAME: Littoral
+LATITUDE: 6.36623
+LONGITUDE: 2.42192
+SOV_A3: BEN
+ADM0_A3: BEN
+ADM0_LABEL: 5
+ADMIN: Benin
+GEONUNIT: Benin
+GU_A3: BEN
+GN_ID: 2597275
+GN_NAME: Littoral
+GNS_ID: 9145897
+GNS_NAME: Littoral, Departement du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BJ.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: BN14
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q29158
+NAME_AR: الإدارة الساحلية
+NAME_BN: লিট্টোরাল বিভাগ
+NAME_DE: Littoral
+NAME_EN: Littoral Department
+NAME_ES: Littoral
+NAME_FR: Littoral
+NAME_EL: Λίττοραλ
+NAME_HI: लिटोरल विभाग
+NAME_HU: Littoral
+NAME_ID: Departemen Littoral
+NAME_IT: dipartimento del Litorale
+NAME_JA: リトラル県
+NAME_KO: 리토랄 주
+NAME_NL: Littoral
+NAME_PL: Departament Littoral
+NAME_PT: Littoral
+NAME_RU: Литораль
+NAME_SV: Littoral
+NAME_TR: Littoral Departmanı
+NAME_VI: Littoral
+NAME_ZH: 濱海省
+NE_ID: 1159311487

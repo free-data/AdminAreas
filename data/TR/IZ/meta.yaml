@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2230
+DISS_ME: 2230
+ISO_3166_2: TR-35
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Izmir
+NAME_ALT: İzmir|Esmirna|Smirne|Smyrna
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.IZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20037
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: IZ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU35
+FIPS_ALT: null
+WOE_ID: 2347290
+WOE_LABEL: Ä°zmir, TR, Turkey
+WOE_NAME: Izmir
+LATITUDE: 38.2426
+LONGITUDE: 27.3977
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 311044
+GN_NAME: Izmir
+GNS_ID: -755099
+GNS_NAME: Izmir Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU35
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q344490
+NAME_AR: إزمير
+NAME_BN: ইজমির প্রদেশ
+NAME_DE: Izmir
+NAME_EN: Izmir Province
+NAME_ES: Provincia de Esmirna
+NAME_FR: Izmir
+NAME_EL: Επαρχία Σμύρνης
+NAME_HI: इज़मिर प्रांत
+NAME_HU: İzmir
+NAME_ID: Provinsi İzmir
+NAME_IT: provincia di Smirne
+NAME_JA: イズミル県
+NAME_KO: 이즈미르 주
+NAME_NL: İzmir
+NAME_PL: İzmir
+NAME_PT: Esmirna
+NAME_RU: Измир
+NAME_SV: İzmir
+NAME_TR: İzmir
+NAME_VI: İzmir
+NAME_ZH: 伊兹密尔省
+NE_ID: 1159312359

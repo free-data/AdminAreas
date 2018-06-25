@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: KGZ-1118
+DISS_ME: 1118
+ISO_3166_2: KG-N
+WIKIPEDIA: null
+ISO_A2: KG
+ADM0_SR: 1
+NAME: Naryn
+NAME_ALT: Tien-Shanskaya Oblast', Tyan'-Shan'
+NAME_LOCAL: null
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KG.NA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: NA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 6
+FIPS: KG04
+FIPS_ALT: KG04
+WOE_ID: 20070191
+WOE_LABEL: Naryn, KG, Kyrgyzstan
+WOE_NAME: Naryn
+LATITUDE: 41.3438
+LONGITUDE: 75.9766
+SOV_A3: KGZ
+ADM0_A3: KGZ
+ADM0_LABEL: 2
+ADMIN: Kyrgyzstan
+GEONUNIT: Kyrgyzstan
+GU_A3: KGZ
+GN_ID: 1527590
+GN_NAME: Naryn Oblasty
+GNS_ID: -2332589
+GNS_NAME: Naryn Oblasty
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KG.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: KG04
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q486375
+NAME_AR: نارين أوبلاستي
+NAME_BN: নায়েন অঞ্চল
+NAME_DE: Gebiet Naryn
+NAME_EN: Naryn Region
+NAME_ES: Provincia de Naryn
+NAME_FR: Province de Naryn
+NAME_EL: Ναρίν
+NAME_HI: नारीन प्रांत
+NAME_HU: Narin tartomány
+NAME_ID: Provinsi Naryn
+NAME_IT: provincia di Naryn
+NAME_JA: ナルイン州
+NAME_KO: 나린 주
+NAME_NL: Naryn
+NAME_PL: Obwód naryński
+NAME_PT: Naryn
+NAME_RU: Нарынская область
+NAME_SV: Naryn
+NAME_TR: Narın ili
+NAME_VI: Khu vực Naryn
+NAME_ZH: 納倫州
+NE_ID: 1159309465

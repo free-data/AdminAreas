@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: MMR-3269
+DISS_ME: 3269
+ISO_3166_2: MM-06
+WIKIPEDIA: null
+ISO_A2: MM
+ADM0_SR: 1
+NAME: Yangon
+NAME_ALT: Rangoon|Rangum|Rangun|Rang£n
+NAME_LOCAL: null
+TYPE: Yin
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: MM.YA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: YA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: BM17
+FIPS_ALT: BM14
+WOE_ID: 2344823
+WOE_LABEL: Yangon, MM, Myanmar
+WOE_NAME: Yangon
+LATITUDE: 17.1117
+LONGITUDE: 96.111
+SOV_A3: MMR
+ADM0_A3: MMR
+ADM0_LABEL: 2
+ADMIN: Myanmar
+GEONUNIT: Myanmar
+GU_A3: MMR
+GN_ID: 1298822
+GN_NAME: Yangon Division
+GNS_ID: -440625
+GNS_NAME: Yangon Division
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MM.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BM17
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q856781
+NAME_AR: إقليم يانغون
+NAME_BN: ইয়াগন অঞ্চল
+NAME_DE: Yangon-Region
+NAME_EN: Yangon Region
+NAME_ES: Región de Yangon
+NAME_FR: Région de Yangon
+NAME_EL: Γιάνγκον
+NAME_HI: यांगोन मण्डल
+NAME_HU: null
+NAME_ID: Region Yangon
+NAME_IT: regione di Yangon
+NAME_JA: ヤンゴン管区
+NAME_KO: 양곤 구
+NAME_NL: Rangoon
+NAME_PL: Rangun
+NAME_PT: Yangon
+NAME_RU: Янгон
+NAME_SV: Yangonregionen
+NAME_TR: Yangon Bölgesi
+NAME_VI: Vùng Yangon
+NAME_ZH: 仰光省
+NE_ID: 1159314047

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: United States of America
+SOV_A3: US1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Country
+ADMIN: United States of America
+ADM0_A3: USA
+GEOU_DIF: 0
+GEOUNIT: United States of America
+GU_A3: USA
+SU_DIF: 0
+SUBUNIT: United States
+SU_A3: USA
+BRK_DIFF: 0
+NAME: United States of America
+NAME_LONG: United States
+BRK_A3: USA
+BRK_NAME: United States
+BRK_GROUP: null
+ABBREV: U.S.A.
+POSTAL: US
+FORMAL_EN: United States of America
+FORMAL_FR: null
+NAME_CIAWF: United States
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: United States of America
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+POP_EST: 326625791
+POP_RANK: 17
+GDP_MD_EST: 18560000
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 1. Developed region: G7
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: 0
+FIPS_10_: US
+ISO_A2: US
+ISO_A3: USA
+ISO_A3_EH: USA
+ISO_N3: 840
+UN_A3: 840
+WB_A2: US
+WB_A3: USA
+WOE_ID: 23424977
+WOE_ID_EH: 23424977
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: USA
+ADM0_A3_US: USA
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Northern America
+REGION_WB: North America
+NAME_LEN: 24
+LONG_LEN: 13
+ABBREV_LEN: 6
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 1.7
+MAX_LABEL: 5.7
+NE_ID: 1159321369
+WIKIDATAID: Q30
+NAME_AR: الولايات المتحدة
+NAME_BN: মার্কিন যুক্তরাষ্ট্র
+NAME_DE: Vereinigte Staaten
+NAME_EN: United States of America
+NAME_ES: Estados Unidos
+NAME_FR: États-Unis
+NAME_EL: Ηνωμένες Πολιτείες Αμερικής
+NAME_HI: संयुक्त राज्य अमेरिका
+NAME_HU: Amerikai Egyesült Államok
+NAME_ID: Amerika Serikat
+NAME_IT: Stati Uniti d'America
+NAME_JA: アメリカ合衆国
+NAME_KO: 미국
+NAME_NL: Verenigde Staten van Amerika
+NAME_PL: Stany Zjednoczone
+NAME_PT: Estados Unidos
+NAME_RU: Соединённые Штаты Америки
+NAME_SV: USA
+NAME_TR: Amerika Birleşik Devletleri
+NAME_VI: Hoa Kỳ
+NAME_ZH: 美国

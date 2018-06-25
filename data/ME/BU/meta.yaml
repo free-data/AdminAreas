@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1499
+DISS_ME: 1499
+ISO_3166_2: ME-05
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Budva
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.BU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MJ00
+FIPS_ALT: null
+WOE_ID: 29389243
+WOE_LABEL: Budva, ME, Montenegro
+WOE_NAME: Budva
+LATITUDE: 42.3039
+LONGITUDE: 18.8929
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3203104
+GN_NAME: Opstina Budva
+GNS_ID: -76640
+GNS_NAME: Budva, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: srp
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3739214
+NAME_AR: بلدية بودفا
+NAME_BN: বুদ্ভা পৌরসভা
+NAME_DE: Gemeinde Budva
+NAME_EN: Budva Municipality
+NAME_ES: Municipio de Budva
+NAME_FR: Municipalité de Budva
+NAME_EL: Μπούντβα
+NAME_HI: बुडवा नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Budva
+NAME_IT: Budua
+NAME_JA: ブドヴァ
+NAME_KO: 부드바 지방 자치제
+NAME_NL: Budva Municipality
+NAME_PL: Budva
+NAME_PT: Budva
+NAME_RU: Будва
+NAME_SV: Budva
+NAME_TR: Budva Belediyesi
+NAME_VI: Đô thị tự trị Budva
+NAME_ZH: null
+NE_ID: 1159310603

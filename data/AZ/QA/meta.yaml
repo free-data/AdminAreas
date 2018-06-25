@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1724
+DISS_ME: 1724
+ISO_3166_2: AZ-QAB
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Qəbələ
+NAME_ALT: Qabala
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.QA
+NOTE: null
+HASC_MAYBE: null
+REGION: Shaki-Zaqatala Economic Region
+REGION_COD: AZ-03
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: QA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ38
+FIPS_ALT: null
+WOE_ID: 20070235
+WOE_LABEL: Qabala, AZ, Azerbaijan
+WOE_NAME: Qəbələ
+LATITUDE: 40.9578
+LONGITUDE: 47.7784
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 585738
+GN_NAME: Qabala Rayon
+GNS_ID: -2707303
+GNS_NAME: Qabala Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ38
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q593872
+NAME_AR: مقاطعة غابالا
+NAME_BN: কাবালা জেলা
+NAME_DE: Qəbələ
+NAME_EN: Qabala District
+NAME_ES: Qəbələ
+NAME_FR: Qabala
+NAME_EL: Καμπάλα
+NAME_HI: कबाला जिला
+NAME_HU: Qəbələi járás
+NAME_ID: Qabala
+NAME_IT: distretto di Qəbələ
+NAME_JA: ガバラ県
+NAME_KO: 게벨레 구
+NAME_NL: Qəbələ
+NAME_PL: Rejon Qəbələ
+NAME_PT: Qabala
+NAME_RU: Габалинский район
+NAME_SV: Qəbələ
+NAME_TR: Kabala Rayonu
+NAME_VI: Gabala
+NAME_ZH: 蓋貝萊區
+NE_ID: 1159312315

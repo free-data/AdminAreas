@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3383
+DISS_ME: 3383
+ISO_3166_2: TZ-07
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 6
+NAME: Kaskazini-Unguja
+NAME_ALT: Zanzibar North
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.ZN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: ZN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ22
+FIPS_ALT: null
+WOE_ID: 2347373
+WOE_LABEL: Zanzibar North, TZ, Tanzania
+WOE_NAME: Kaskazini-Unguja
+LATITUDE: -5.84474
+LONGITUDE: 39.2294
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 3
+ADMIN: United Republic of Tanzania
+GEONUNIT: Zanzibar
+GU_A3: TZZ
+GN_ID: 148725
+GN_NAME: Zanzibar North Region
+GNS_ID: -2574829
+GNS_NAME: Kaskazini Unguja, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ22
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q147116
+NAME_AR: إقليم شمال زنجبار
+NAME_BN: জাঞ্জিবার উত্তর অঞ্চল
+NAME_DE: Zanzibar North
+NAME_EN: Zanzibar North Region
+NAME_ES: Región de Zanzibar North
+NAME_FR: Unguja Nord
+NAME_EL: Ζανζιμπάρ Νορθ Ρίτζιον
+NAME_HI: जंज़ीबार उत्तरी क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Utara Zanzibar
+NAME_IT: regione di Zanzibar Nord
+NAME_JA: ザンジバル北部州
+NAME_KO: 잔지바르 북부 주
+NAME_NL: Noord-Zanzibar
+NAME_PL: Zanzibar Północny
+NAME_PT: Zanzibar North
+NAME_RU: Занзибар Северный
+NAME_SV: Norra Zanzibar
+NAME_TR: Kuzey Zanzibar Bölgesi
+NAME_VI: Zanzibar North
+NAME_ZH: 尚西巴北區
+NE_ID: 1159315505

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: ATG-5098
+DISS_ME: 5098
+ISO_3166_2: AG-04
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_John_Parish_(Antigua_and_Barbuda)
+ISO_A2: AG
+ADM0_SR: 1
+NAME: Saint John
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: AG.JO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: AC04
+FIPS_ALT: null
+WOE_ID: 2344543
+WOE_LABEL: Saint John, AG, Antigua and Barbuda
+WOE_NAME: Saint John
+LATITUDE: 17.1101
+LONGITUDE: -61.8237
+SOV_A3: ATG
+ADM0_A3: ATG
+ADM0_LABEL: 6
+ADMIN: Antigua and Barbuda
+GEONUNIT: Antigua
+GU_A3: ACA
+GN_ID: 3576023
+GN_NAME: Parish of Saint John
+GNS_ID: -1323513
+GNS_NAME: Saint John
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AG.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AC04
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q548816
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Saint John
+NAME_EN: Saint John Parish
+NAME_ES: Parroquia de Saint John
+NAME_FR: Saint-John
+NAME_EL: Άγιος Ιωάννης
+NAME_HI: सेंट जॉन पल्ली
+NAME_HU: null
+NAME_ID: Paroki Saint John
+NAME_IT: Saint John
+NAME_JA: null
+NAME_KO: 세인트존 교구
+NAME_NL: Saint John
+NAME_PL: Saint John
+NAME_PT: Saint John
+NAME_RU: null
+NAME_SV: Parish of Saint John
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 圣约翰区
+NE_ID: 1159316419

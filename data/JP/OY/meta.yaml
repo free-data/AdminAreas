@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1822
+DISS_ME: 1822
+ISO_3166_2: JP-33
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Okayama
+NAME_ALT: null
+NAME_LOCAL: 岡山県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.OY
+NOTE: null
+HASC_MAYBE: JP.EH
+REGION: Chugoku
+REGION_COD: JPN-CGK
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: OY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA31
+FIPS_ALT: JA05
+WOE_ID: 2345880
+WOE_LABEL: Okayama Prefecture, JP, Japan
+WOE_NAME: Okayama
+LATITUDE: 34.8521
+LONGITUDE: 133.831
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1854381
+GN_NAME: Okayama-ken
+GNS_ID: -240215
+GNS_NAME: Okayama-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.31
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA31
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q132936
+NAME_AR: أوكاياما
+NAME_BN: ওকায়ামা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Okayama
+NAME_EN: Okayama Prefecture
+NAME_ES: Prefectura de Okayama
+NAME_FR: Préfecture d'Okayama
+NAME_EL: Οκαγιάμα
+NAME_HI: ओकायामा प्रान्त
+NAME_HU: Okajama prefektúra
+NAME_ID: Prefektur Okayama
+NAME_IT: prefettura di Okayama
+NAME_JA: 岡山県
+NAME_KO: 오카야마 현
+NAME_NL: Okayama
+NAME_PL: Prefektura Okayama
+NAME_PT: Okayama
+NAME_RU: Окаяма
+NAME_SV: Okayama prefektur
+NAME_TR: Okayama
+NAME_VI: Okayama
+NAME_ZH: 岡山縣
+NE_ID: 1159312173

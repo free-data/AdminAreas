@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2257
+DISS_ME: 2257
+ISO_3166_2: BG-25
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Targovishte
+NAME_ALT: Torgovishte|Tâgovište
+NAME_LOCAL: Търговищка
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.TU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: TU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU60
+FIPS_ALT: BU35|BU60
+WOE_ID: 20070072
+WOE_LABEL: Turgovishte, BG, Bulgaria
+WOE_NAME: Targovishte
+LATITUDE: 43.2251
+LONGITUDE: 26.3637
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 864560
+GN_NAME: Oblast Turgovishte
+GNS_ID: 9085995
+GNS_NAME: Turgovishte
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.60
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BU60
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012589
+NAME_AR: مقاطعة تارغوفيشته
+NAME_BN: টার্গভিস্তে প্রদেশ
+NAME_DE: Oblast Targowischte
+NAME_EN: Targovishte Province
+NAME_ES: Tărgovište
+NAME_FR: Targovichté
+NAME_EL: Ταργκόβιστε
+NAME_HI: टैगोविस्टी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Targovishte
+NAME_IT: distretto di Tărgovište
+NAME_JA: トゥルゴヴィシテ州
+NAME_KO: 터르고비슈테 주
+NAME_NL: Targovisjte
+NAME_PL: Obwód Tyrgowiszte
+NAME_PT: Targovishte
+NAME_RU: Тырговиштская область
+NAME_SV: Targovisjte
+NAME_TR: Eski Cuma ili
+NAME_VI: Targovishte
+NAME_ZH: 特爾戈維什特州
+NE_ID: 1159312451

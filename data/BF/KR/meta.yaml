@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2829
+DISS_ME: 2829
+ISO_3166_2: BF-KOT
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Kouritenga
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.KR
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre-Est
+REGION_COD: null
+PROVNUM_NE: 20038
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV28
+FIPS_ALT: null
+WOE_ID: 2347623
+WOE_LABEL: null
+WOE_NAME: Kouritenga
+LATITUDE: 12.1587
+LONGITUDE: -0.291527
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2358700
+GN_NAME: Kouritenga Province
+GNS_ID: -1720072
+GNS_NAME: Kouritenga, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV82
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1141767
+NAME_AR: مقاطعة كوريتينغا
+NAME_BN: কুরিটেঙ্গা প্রদেশ
+NAME_DE: Kouritenga
+NAME_EN: Kouritenga Province
+NAME_ES: Provincia de Kouritenga
+NAME_FR: Kouritenga
+NAME_EL: Κουριτένγκα
+NAME_HI: कौरितेंगा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Kouritenga
+NAME_IT: provincia di Kouritenga
+NAME_JA: クリテンガ県
+NAME_KO: 쿠리텡가 현
+NAME_NL: Kouritenga
+NAME_PL: Prowincja Kouritenga
+NAME_PT: Kouritenga
+NAME_RU: Куритенга
+NAME_SV: Kouritenga Province
+NAME_TR: Kouritenga Province
+NAME_VI: Kouritenga
+NAME_ZH: 庫里滕加省
+NE_ID: 1159313935

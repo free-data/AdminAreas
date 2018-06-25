@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1584
+DISS_ME: 1584
+ISO_3166_2: HR-09
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 3
+NAME: Licko-Senjska
+NAME_ALT: Lika-Senj
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.LS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR08
+FIPS_ALT: null
+WOE_ID: 12577978
+WOE_LABEL: LiÄko-senjska, HR, Croatia
+WOE_NAME: Licko-Senjska
+LATITUDE: 44.7521
+LONGITUDE: 15.2031
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337520
+GN_NAME: Licko-Senjska Zupanija
+GNS_ID: 9031073
+GNS_NAME: Licko-Senjska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR08
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58081
+NAME_AR: مقاطعة ليكا سني
+NAME_BN: লিকা-সেঞ্জ কাউন্টি
+NAME_DE: Gespanschaft Lika-Senj
+NAME_EN: Lika-Senj County
+NAME_ES: Lika-Senj
+NAME_FR: Comitat de Lika-Senj
+NAME_EL: Λίκα-Σεντζ
+NAME_HI: लिका-सेंज काउंटी
+NAME_HU: Lika-Zengg megye
+NAME_ID: Kabupaten Lika-Senj
+NAME_IT: regione della Lika e di Segna
+NAME_JA: リカ＝セニ郡
+NAME_KO: 리카센 주
+NAME_NL: Lika-Senj
+NAME_PL: Ličko-senjska županija
+NAME_PT: Condado de Lika-Senj
+NAME_RU: Лицко-Сеньская жупания
+NAME_SV: Lika-Senjs län
+NAME_TR: Lika-Senj
+NAME_VI: Hạt Lika-Senj
+NAME_ZH: 利卡-塞尼縣
+NE_ID: 1159312507

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2778
+DISS_ME: 2778
+ISO_3166_2: GB-STE
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Stoke-on-Trent
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.SO
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: null
+PROVNUM_NE: 20032
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Stok-o-T
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKN4
+FIPS_ALT: UKN4
+WOE_ID: 12696161
+WOE_LABEL: null
+WOE_NAME: Stoke-on-Trent City
+LATITUDE: 53.0034
+LONGITUDE: -2.16701
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333204
+GN_NAME: City of Stoke-on-Trent
+GNS_ID: 6077646
+GNS_NAME: Stoke-on-Trent, City of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.N4
+REGION_SUB: Staffordshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q134902
+NAME_AR: ستوك أون ترينت
+NAME_BN: স্টোক অন ট্রেন্ট
+NAME_DE: Stoke-on-Trent
+NAME_EN: Stoke-on-Trent
+NAME_ES: Stoke-on-Trent
+NAME_FR: Stoke-on-Trent
+NAME_EL: Στόουκ ον Τρεντ
+NAME_HI: स्टॉक ऑन ट्रेंट
+NAME_HU: Stoke-on-Trent
+NAME_ID: Stoke-on-Trent
+NAME_IT: Stoke-on-Trent
+NAME_JA: ストーク・オン・トレント
+NAME_KO: 스토크온트렌트
+NAME_NL: Stoke-on-Trent
+NAME_PL: Stoke-on-Trent
+NAME_PT: Stoke-on-Trent
+NAME_RU: Сток-он-Трент
+NAME_SV: Stoke-on-Trent
+NAME_TR: Stoke-on-Trent
+NAME_VI: Stoke-on-Trent
+NAME_ZH: 特倫特河畔斯托克
+NE_ID: 1159314803

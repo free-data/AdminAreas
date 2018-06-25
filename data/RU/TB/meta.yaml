@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2375
+DISS_ME: 2375
+ISO_3166_2: RU-TAM
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tambov
+NAME_ALT: Tambovskaya Oblast
+NAME_LOCAL: Тамбовская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.TB
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS72
+FIPS_ALT: null
+WOE_ID: 2346927
+WOE_LABEL: Tambovskaya Oblast, RU, Russia
+WOE_NAME: Tambov
+LATITUDE: 52.7808
+LONGITUDE: 41.5945
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 484638
+GN_NAME: Tambovskaya Oblast'
+GNS_ID: -3015840
+GNS_NAME: Tambovskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.72
+REGION_SUB: Central Black Earth
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS72
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3550
+NAME_AR: تامبوف أوبلاست
+NAME_BN: তাম্বোভ ওব্লাস্ট
+NAME_DE: Oblast Tambow
+NAME_EN: Tambov Oblast
+NAME_ES: Tambov
+NAME_FR: oblast de Tambov
+NAME_EL: Περιφέρεια Ταμπόβ
+NAME_HI: तांबोव ओब्लास्ट
+NAME_HU: Tambovi terület
+NAME_ID: Oblast Tambov
+NAME_IT: oblast' di Tambov
+NAME_JA: タンボフ州
+NAME_KO: 탐보프 주
+NAME_NL: Oblast Tambov
+NAME_PL: Obwód tambowski
+NAME_PT: Oblast de Tambov
+NAME_RU: Тамбовская область
+NAME_SV: Tambov oblast
+NAME_TR: Tambov Oblastı
+NAME_VI: Tambov
+NAME_ZH: 坦波夫州
+NE_ID: 1159313187

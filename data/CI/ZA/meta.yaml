@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CIV-3449
+DISS_ME: 3449
+ISO_3166_2: CI-08
+WIKIPEDIA: null
+ISO_A2: CI
+ADM0_SR: 1
+NAME: Zanzan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CI.ZA
+NOTE: Expired 2015.11.27, requires updating.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: ZA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: IV11
+FIPS_ALT: null
+WOE_ID: 55967007
+WOE_LABEL: null
+WOE_NAME: Zanzan
+LATITUDE: 8.60755
+LONGITUDE: -3.41485
+SOV_A3: CIV
+ADM0_A3: CIV
+ADM0_LABEL: 2
+ADMIN: Ivory Coast
+GEONUNIT: Ivory Coast
+GU_A3: CIV
+GN_ID: 2597325
+GN_NAME: Zanzan
+GNS_ID: 9149756
+GNS_NAME: Zanzan, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CI.92
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: IV92
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q147081
+NAME_AR: إقليم زانزان
+NAME_BN: জানজান অঞ্চল
+NAME_DE: Region Zanzan
+NAME_EN: Zanzan Region
+NAME_ES: Zanzan
+NAME_FR: Zanzan
+NAME_EL: Ζανζάν
+NAME_HI: ज़नजान प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Zanzan
+NAME_IT: regione di Zanzan
+NAME_JA: ザンザン州
+NAME_KO: 장잔 주
+NAME_NL: Zanzan
+NAME_PL: Region Zanzan
+NAME_PT: Zanzan
+NAME_RU: Занзан
+NAME_SV: Region Zanzan
+NAME_TR: Zanzan Bölgesi
+NAME_VI: Khu vực Zanzan
+NAME_ZH: 赞赞区
+NE_ID: 1159315121

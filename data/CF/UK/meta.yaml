@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-809
+DISS_ME: 809
+ISO_3166_2: CF-UK
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Ouaka
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.UK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: UK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT11
+FIPS_ALT: null
+WOE_ID: 2345098
+WOE_LABEL: null
+WOE_NAME: Ouaka
+LATITUDE: 5.99454
+LONGITUDE: 20.7064
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 236887
+GN_NAME: Ouaka
+GNS_ID: -1349264
+GNS_NAME: Ouaka
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT11
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q848560
+NAME_AR: محافظة أواكا
+NAME_BN: ওউকা প্রশাসনিক অঞ্চল
+NAME_DE: Ouaka
+NAME_EN: Ouaka Prefecture
+NAME_ES: Ouaka
+NAME_FR: Ouaka
+NAME_EL: Ουάκα
+NAME_HI: ओका प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Ouaka
+NAME_IT: prefettura di Ouaka
+NAME_JA: ワカ州
+NAME_KO: 와카 주
+NAME_NL: Ouaka
+NAME_PL: Prefektura Ouaka
+NAME_PT: Ouaka
+NAME_RU: Уака
+NAME_SV: Ouaka
+NAME_TR: Ouaka Bölgesi
+NAME_VI: Tỉnh Ouaka
+NAME_ZH: 瓦卡省
+NE_ID: 1159308957

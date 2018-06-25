@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2031
+DISS_ME: 2031
+ISO_3166_2: GB-MDB
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Middlesbrough
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.MB
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Mid'boro
+POSTAL: MB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKI5
+FIPS_ALT: UKI5
+WOE_ID: 12696141
+WOE_LABEL: null
+WOE_NAME: Middlesbrough
+LATITUDE: 54.5364
+LONGITUDE: -1.23971
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333172
+GN_NAME: Borough of Middlesbrough
+GNS_ID: 6077614
+GNS_NAME: Middlesbrough, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.I5
+REGION_SUB: Durham
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q171866
+NAME_AR: ميدلزبرة
+NAME_BN: মিডলসব্রো
+NAME_DE: Middlesbrough
+NAME_EN: Middlesbrough
+NAME_ES: Middlesbrough
+NAME_FR: Middlesbrough
+NAME_EL: Μίντλεσμπρο
+NAME_HI: null
+NAME_HU: Middlesbrough
+NAME_ID: Middlesbrough
+NAME_IT: Middlesbrough
+NAME_JA: ミドルズブラ
+NAME_KO: 미들즈브러
+NAME_NL: Middlesbrough
+NAME_PL: Middlesbrough
+NAME_PT: Middlesbrough
+NAME_RU: Мидлсбро
+NAME_SV: Middlesbrough
+NAME_TR: Middlesbrough
+NAME_VI: Middlesbrough
+NAME_ZH: 米德爾斯伯勒
+NE_ID: 1159312853

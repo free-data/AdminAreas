@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3295
+DISS_ME: 3295
+ISO_3166_2: LA-XE
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Xékong
+NAME_ALT: Sekong
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.XE
+NOTE: split from Saravan
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: XE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA26
+FIPS_ALT: null
+WOE_ID: 20070158
+WOE_LABEL: Xekong, LA, Laos
+WOE_NAME: Xékong
+LATITUDE: 15.6414
+LONGITUDE: 106.982
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1904615
+GN_NAME: Khoueng Xekong
+GNS_ID: 382284
+GNS_NAME: Xekong
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LA26
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q585707
+NAME_AR: محافظة سيكونغ
+NAME_BN: সেকং প্রদেশ
+NAME_DE: Sekong
+NAME_EN: Sekong Province
+NAME_ES: Sekong
+NAME_FR: Province de Sékong
+NAME_EL: Ξεκόνγκ
+NAME_HI: सेकोंग प्रान्त
+NAME_HU: Szekong tartomány
+NAME_ID: Provinsi Xekong
+NAME_IT: provincia di Xekong
+NAME_JA: セーコーン県
+NAME_KO: 세콩 주
+NAME_NL: Sekong
+NAME_PL: Prowincja Xékong
+NAME_PT: Sekong
+NAME_RU: Секонг
+NAME_SV: Sekong
+NAME_TR: Sekong Province
+NAME_VI: Sekong
+NAME_ZH: 塞公省
+NE_ID: 1159315203

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-5571
+DISS_ME: 5571
+ISO_3166_2: IE-WD
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Waterford
+NAME_ALT: Port Láirge city
+NAME_LOCAL: null
+TYPE: Cathair
+TYPE_EN: City
+CODE_LOCAL: null
+CODE_HASC: IE.WD
+NOTE: HASC and ISO combine with surrounding county
+HASC_MAYBE: null
+REGION: South-East
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: WD
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI41
+FIPS_ALT: null
+WOE_ID: 2345271
+WOE_LABEL: Waterford, IE, Ireland
+WOE_NAME: Waterford
+LATITUDE: 52.2284
+LONGITUDE: -7.07931
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 7778674
+GN_NAME: Waterford City
+GNS_ID: 10934245
+GNS_NAME: Phort Lairge, Cathair
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.41
+REGION_SUB: Waterford
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: EI41
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q184594
+NAME_AR: مقاطعة وترفورد
+NAME_BN: কাউন্টি ওয়াটারফোর্ড
+NAME_DE: County Waterford
+NAME_EN: County Waterford
+NAME_ES: Waterford
+NAME_FR: comté de Waterford
+NAME_EL: Κομητεία Ουότερφορντ
+NAME_HI: काउंटी वॉटरफोर्ड
+NAME_HU: Waterford megye
+NAME_ID: County Waterford
+NAME_IT: Waterford
+NAME_JA: ウォーターフォード州
+NAME_KO: 워터퍼드 주
+NAME_NL: County Waterford
+NAME_PL: Waterford
+NAME_PT: Condado de Waterford
+NAME_RU: Уотерфорд
+NAME_SV: Waterford
+NAME_TR: Waterford County
+NAME_VI: Hạt Waterford
+NAME_ZH: 沃特福德郡
+NE_ID: 1159317301

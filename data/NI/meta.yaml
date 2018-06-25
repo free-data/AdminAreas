@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 5
+SOVEREIGNT: Nicaragua
+SOV_A3: NIC
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Nicaragua
+ADM0_A3: NIC
+GEOU_DIF: 0
+GEOUNIT: Nicaragua
+GU_A3: NIC
+SU_DIF: 0
+SUBUNIT: Nicaragua
+SU_A3: NIC
+BRK_DIFF: 0
+NAME: Nicaragua
+NAME_LONG: Nicaragua
+BRK_A3: NIC
+BRK_NAME: Nicaragua
+BRK_GROUP: null
+ABBREV: Nic.
+POSTAL: NI
+FORMAL_EN: Republic of Nicaragua
+FORMAL_FR: null
+NAME_CIAWF: Nicaragua
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Nicaragua
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+POP_EST: 6025951
+POP_RANK: 13
+GDP_MD_EST: 33550
+POP_YEAR: 2017
+LASTCENSUS: 2005
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: NU
+ISO_A2: NI
+ISO_A3: NIC
+ISO_A3_EH: NIC
+ISO_N3: 558
+UN_A3: 558
+WB_A2: NI
+WB_A3: NIC
+WOE_ID: 23424915
+WOE_ID_EH: 23424915
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: NIC
+ADM0_A3_US: NIC
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Americas
+SUBREGION: Central America
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 9
+LONG_LEN: 9
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321091
+WIKIDATAID: Q811
+NAME_AR: نيكاراغوا
+NAME_BN: নিকারাগুয়া
+NAME_DE: Nicaragua
+NAME_EN: Nicaragua
+NAME_ES: Nicaragua
+NAME_FR: Nicaragua
+NAME_EL: Νικαράγουα
+NAME_HI: निकारागुआ
+NAME_HU: Nicaragua
+NAME_ID: Nikaragua
+NAME_IT: Nicaragua
+NAME_JA: ニカラグア
+NAME_KO: 니카라과
+NAME_NL: Nicaragua
+NAME_PL: Nikaragua
+NAME_PT: Nicarágua
+NAME_RU: Никарагуа
+NAME_SV: Nicaragua
+NAME_TR: Nikaragua
+NAME_VI: Nicaragua
+NAME_ZH: 尼加拉瓜

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5769
+DISS_ME: 5769
+ISO_3166_2: LV-053
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Lielvardes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.LL
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG87
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.7332
+LONGITUDE: 24.9523
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628331
+GN_NAME: Lielvardes Novads
+GNS_ID: 10979233
+GNS_NAME: Lielvardes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.87
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG87
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q279004
+NAME_AR: بلدية ليلفارد
+NAME_BN: লিয়েল্ভার্দে পৌরসভা
+NAME_DE: Bezirk Lielvārde
+NAME_EN: Lielvārde Municipality
+NAME_ES: Municipalidad de Lielvārde
+NAME_FR: Lielvārde
+NAME_EL: Λιελβάρντε
+NAME_HI: लाइलवर्दे नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Lielvārde
+NAME_IT: Lielvārde
+NAME_JA: リエルワールデ
+NAME_KO: 리엘바르데 시
+NAME_NL: Lielvārdes novads
+NAME_PL: Gmina Lielvārde
+NAME_PT: Lielvarde
+NAME_RU: Лиелвардский край
+NAME_SV: Lielvārdes novads
+NAME_TR: Lielvarde Belediyesi
+NAME_VI: Đô thị tự trị Lielvarde
+NAME_ZH: 利耶爾瓦爾代自治市
+NE_ID: 1159317679

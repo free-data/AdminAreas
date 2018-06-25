@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3210
+DISS_ME: 3210
+ISO_3166_2: IR-06
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 5
+NAME: Bushehr
+NAME_ALT: Banader va Jazayer-e Khalij-e Fars|Bushire|Persian Gulf|Ports and Islands of the Persian Gulf
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.BS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR22
+FIPS_ALT: null
+WOE_ID: 2345781
+WOE_LABEL: Bushehr, IR, Iran
+WOE_NAME: Bushehr
+LATITUDE: 28.8273
+LONGITUDE: 51.4225
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 139816
+GN_NAME: Ostan-e Bushehr
+GNS_ID: -3057165
+GNS_NAME: Bushehr, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR22
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q132945
+NAME_AR: بوشهر
+NAME_BN: বুশেহর প্রদেশ
+NAME_DE: Buschehr
+NAME_EN: Bushehr Province
+NAME_ES: Bushehr
+NAME_FR: Province de Bouchehr
+NAME_EL: null
+NAME_HI: बुशहर प्रांत
+NAME_HU: Busehr tartomány
+NAME_ID: Provinsi Bushehr
+NAME_IT: provincia di Bushehr
+NAME_JA: ブーシェフル州
+NAME_KO: 부셰르 주
+NAME_NL: Bushehr
+NAME_PL: Buszehr
+NAME_PT: Bushehr
+NAME_RU: Бушир
+NAME_SV: Bushehr
+NAME_TR: Buşehr Eyaleti
+NAME_VI: Bushehr
+NAME_ZH: 布什爾省
+NE_ID: 1159314055

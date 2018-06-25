@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1773
+DISS_ME: 1773
+ISO_3166_2: AF-SAM
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Samangan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF32
+FIPS_ALT: null
+WOE_ID: 2344577
+WOE_LABEL: Samangan, AF, Afghanistan
+WOE_NAME: Samangan
+LATITUDE: 36.0506
+LONGITUDE: 67.683
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1127766
+GN_NAME: Samangan
+GNS_ID: -3389750
+GNS_NAME: Samangan, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF32
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q183015
+NAME_AR: ولاية سمنكان
+NAME_BN: সামাঙ্গন প্রদেশ
+NAME_DE: Samangan
+NAME_EN: Samangan
+NAME_ES: Provincia de Samangān
+NAME_FR: Samangân
+NAME_EL: Σαμανγκάν
+NAME_HI: समंगान प्रान्त
+NAME_HU: null
+NAME_ID: Samangan
+NAME_IT: Samangan
+NAME_JA: サマンガーン州
+NAME_KO: 사망간 주
+NAME_NL: Samangan
+NAME_PL: Samangan
+NAME_PT: Samangan
+NAME_RU: Саманган
+NAME_SV: Samangan
+NAME_TR: Samangan Vilayeti
+NAME_VI: Samangan
+NAME_ZH: 萨曼甘省
+NE_ID: 1159312105

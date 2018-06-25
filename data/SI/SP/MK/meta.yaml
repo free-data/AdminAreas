@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1032
+DISS_ME: 1032
+ISO_3166_2: SI-075
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Miren-Kostanjevica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SP.MK
+NOTE: null
+HASC_MAYBE: null
+REGION: Goriška
+REGION_COD: null
+PROVNUM_NE: 94
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 18
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIJ5
+FIPS_ALT: null
+WOE_ID: -55848371
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.8477
+LONGITUDE: 13.6373
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239080
+GN_NAME: Obcina Miren-Kostanjevica
+GNS_ID: 243472
+GNS_NAME: Miren-Kostanjevica, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.J5
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: div
+GNS_ADM1: SI49
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q658076
+NAME_AR: بلدية ميرين-كوسفانيفيتسا
+NAME_BN: মিরেনকস্তণজেভ পৌরসভা
+NAME_DE: Miren-Kostanjevica
+NAME_EN: Miren–Kostanjevica Municipality
+NAME_ES: Miren-Kostanjevica
+NAME_FR: Miren-Kostanjevica
+NAME_EL: Μιρέν-Κοσταντζεβίκα
+NAME_HI: मिरेन-कोस्टानयेविका नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Miren–Kostanjevica
+NAME_IT: Merna-Castagnevizza
+NAME_JA: ミレン＝コスタニェヴィツァ
+NAME_KO: 미렌코스타네비차
+NAME_NL: Miren-Kostanjevica
+NAME_PL: Gmina Miren-Kostanjevica
+NAME_PT: Miren-Kostanjevica
+NAME_RU: Мирен-Костаньевица
+NAME_SV: Miren-kostanjevica kommun
+NAME_TR: Miren-Kostanjevica
+NAME_VI: Miren-Kostanjevica
+NAME_ZH: null
+NE_ID: 1159310875

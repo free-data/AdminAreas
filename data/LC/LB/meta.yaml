@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: LCA-5082
+DISS_ME: 5082
+ISO_3166_2: LC-07
+WIKIPEDIA: http://en.wikipedia.org/wiki/Laborie_Quarter
+ISO_A2: LC
+ADM0_SR: 1
+NAME: Laborie
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Quarter
+TYPE_EN: Quarter
+CODE_LOCAL: null
+CODE_HASC: LC.LB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: ST07
+FIPS_ALT: null
+WOE_ID: 2347029
+WOE_LABEL: Laborie, LC, St. Lucia
+WOE_NAME: Laborie
+LATITUDE: 13.7676
+LONGITUDE: -60.9867
+SOV_A3: LCA
+ADM0_A3: LCA
+ADM0_LABEL: 7
+ADMIN: Saint Lucia
+GEONUNIT: Saint Lucia
+GU_A3: LCA
+GN_ID: 3576662
+GN_NAME: Quarter of Laborie
+GNS_ID: -1313931
+GNS_NAME: Laborie, Quarter of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LC.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ST07
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q599347
+NAME_AR: حي لابوري
+NAME_BN: লেবুরি কোয়ার্টার
+NAME_DE: Laborie
+NAME_EN: Laborie Quarter
+NAME_ES: Laborie
+NAME_FR: District de Laborie
+NAME_EL: Λαμπόρι
+NAME_HI: लेबोरी क्वार्टर
+NAME_HU: null
+NAME_ID: Laborie Quarter
+NAME_IT: quartiere di Laborie
+NAME_JA: ラボリー地区
+NAME_KO: 라보리 구
+NAME_NL: Laborie
+NAME_PL: Laborie
+NAME_PT: Laborie
+NAME_RU: Лаборье
+NAME_SV: Laborie Quarter
+NAME_TR: Laborie
+NAME_VI: Laborie
+NAME_ZH: 拉博列區
+NE_ID: 1159316387

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5670
+DISS_ME: 5670
+ISO_3166_2: GB-BPL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Blackpool
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.BP
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: GB.LA
+PROVNUM_NE: 20091
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKA9
+FIPS_ALT: UKH2
+WOE_ID: -12602160
+WOE_LABEL: null
+WOE_NAME: Lancashire
+LATITUDE: 53.8406
+LONGITUDE: -3.00469
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333127
+GN_NAME: Borough of Blackpool
+GNS_ID: 6077569
+GNS_NAME: Blackpool, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.A9
+REGION_SUB: Lancashire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q170377
+NAME_AR: بلاكبول
+NAME_BN: ব্ল্যাকপুল
+NAME_DE: Blackpool
+NAME_EN: Blackpool
+NAME_ES: Blackpool
+NAME_FR: Blackpool
+NAME_EL: Μπλάκπουλ
+NAME_HI: null
+NAME_HU: Blackpool
+NAME_ID: Blackpool
+NAME_IT: Blackpool
+NAME_JA: ブラックプール
+NAME_KO: 블랙풀
+NAME_NL: Blackpool
+NAME_PL: Blackpool
+NAME_PT: Blackpool
+NAME_RU: Блэкпул
+NAME_SV: Blackpool
+NAME_TR: Blackpool
+NAME_VI: Blackpool
+NAME_ZH: 黑潭
+NE_ID: 1159317483

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: USA-3539
+DISS_ME: 3539
+ISO_3166_2: US-RI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Rhode_Island
+ISO_A2: US
+ADM0_SR: 6
+NAME: Rhode Island
+NAME_ALT: State of Rhode Island and Providence Plantations|RI|R.I.
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: US44
+CODE_HASC: US.RI
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeast
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: R.I.
+POSTAL: RI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 0
+NAME_LEN: 12
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: US44
+FIPS_ALT: null
+WOE_ID: 2347598
+WOE_LABEL: Rhode Island, US, United States
+WOE_NAME: Rhode Island
+LATITUDE: 41.6242
+LONGITUDE: -71.5082
+SOV_A3: US1
+ADM0_A3: USA
+ADM0_LABEL: 2
+ADMIN: United States of America
+GEONUNIT: United States of America
+GU_A3: USA
+GN_ID: 5224323
+GN_NAME: Rhode Island
+GNS_ID: -1
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: US.RI
+REGION_SUB: New England
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q1387
+NAME_AR: رود آيلاند
+NAME_BN: রোড আইল্যান্ড
+NAME_DE: Rhode Island
+NAME_EN: Rhode Island
+NAME_ES: Rhode Island
+NAME_FR: Rhode Island
+NAME_EL: Ρόουντ Άιλαντ
+NAME_HI: रोड आइलैंड
+NAME_HU: Rhode Island
+NAME_ID: Rhode Island
+NAME_IT: Rhode Island
+NAME_JA: ロードアイランド州
+NAME_KO: 로드아일랜드주
+NAME_NL: Rhode Island
+NAME_PL: Rhode Island
+NAME_PT: Rhode Island
+NAME_RU: Род-Айленд
+NAME_SV: Rhode Island
+NAME_TR: Rhode Island
+NAME_VI: Rhode Island
+NAME_ZH: 羅德島州
+NE_ID: 1159312213

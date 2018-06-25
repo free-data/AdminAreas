@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2946
+DISS_ME: 2946
+ISO_3166_2: MK-54
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Negotino
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: Vardar
+REGION_COD: null
+PROVNUM_NE: 20069
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK69
+FIPS_ALT: null
+WOE_ID: 24550790
+WOE_LABEL: Negotino Municipality, MK, Macedonia
+WOE_NAME: Negotino
+LATITUDE: 41.3722
+LONGITUDE: 22.1394
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863881
+GN_NAME: Opstina Negotino
+GNS_ID: 9075652
+GNS_NAME: Negotino, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.69
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK69
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3246545
+NAME_AR: بلدية نيغوتينو
+NAME_BN: নাগোটিনো পৌরসভা
+NAME_DE: Opština Negotino
+NAME_EN: Negotino Municipality
+NAME_ES: Municipalidad de Negotino
+NAME_FR: Municipalité de Negotino
+NAME_EL: Δήμος Νεγκότινου
+NAME_HI: नेगोतिनो नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Negotino
+NAME_IT: Comune di Negotino
+NAME_JA: ネゴティノ
+NAME_KO: 네고티노 시
+NAME_NL: Negotino
+NAME_PL: Gmina Negotino
+NAME_PT: Negotino
+NAME_RU: Неготино
+NAME_SV: Negotino
+NAME_TR: Negotino Belediyesi
+NAME_VI: Đô thị tự trị Negotino
+NAME_ZH: 內戈蒂諾區
+NE_ID: 1159314511

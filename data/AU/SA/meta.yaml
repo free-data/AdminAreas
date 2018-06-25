@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: AUS-2655
+DISS_ME: 2655
+ISO_3166_2: AU-SA
+WIKIPEDIA: null
+ISO_A2: AU
+ADM0_SR: 3
+NAME: South Australia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: AU.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: S.A.
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 7
+FIPS: AS05
+FIPS_ALT: null
+WOE_ID: 2344703
+WOE_LABEL: South Australia, AU, Australia
+WOE_NAME: South Australia
+LATITUDE: -29.6504
+LONGITUDE: 135.783
+SOV_A3: AU1
+ADM0_A3: AUS
+ADM0_LABEL: 2
+ADMIN: Australia
+GEONUNIT: Australia
+GU_A3: AUS
+GN_ID: 2061327
+GN_NAME: State of South Australia
+GNS_ID: -1601186
+GNS_NAME: South Australia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AU.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: AS05
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q35715
+NAME_AR: جنوب أستراليا
+NAME_BN: সাউথ অস্ট্রেলিয়া
+NAME_DE: South Australia
+NAME_EN: South Australia
+NAME_ES: Australia Meridional
+NAME_FR: Australie-Méridionale
+NAME_EL: Νότια Αυστραλία
+NAME_HI: दक्षिण ऑस्ट्रेलिया
+NAME_HU: Dél-Ausztrália
+NAME_ID: Australia Selatan
+NAME_IT: Australia Meridionale
+NAME_JA: 南オーストラリア州
+NAME_KO: 사우스오스트레일리아 주
+NAME_NL: Zuid-Australië
+NAME_PL: Australia Południowa
+NAME_PT: Austrália Meridional
+NAME_RU: Южная Австралия
+NAME_SV: South Australia
+NAME_TR: Güney Avustralya
+NAME_VI: Nam Úc
+NAME_ZH: 南澳大利亚州
+NE_ID: 1159313267

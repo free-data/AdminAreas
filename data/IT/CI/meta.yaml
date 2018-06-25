@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5371
+DISS_ME: 5371
+ISO_3166_2: IT-CI
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 3
+NAME: Carbonia-Iglesias
+NAME_ALT: Cerdeña|Sardenha
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 09
+CODE_HASC: IT.CI
+NOTE: ITG
+HASC_MAYBE: null
+REGION: Sardegna
+REGION_COD: IT-88
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 17
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT14
+FIPS_ALT: null
+WOE_ID: 28301713
+WOE_LABEL: null
+WOE_NAME: Carbonia-Iglesias
+LATITUDE: 39.2402
+LONGITUDE: 8.57559
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 6457400
+GN_NAME: Provincia di Carbonia-Iglesias
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.CI
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16152
+NAME_AR: مقاطعة كاربونيا-إغليسياس
+NAME_BN: কার্বনিয়া-ইগ্লেসিয়াস প্রদেশ
+NAME_DE: Provinz Carbonia-Iglesias
+NAME_EN: Province of Carbonia-Iglesias
+NAME_ES: Carbonia-Iglesias
+NAME_FR: Province de Carbonia-Iglesias
+NAME_EL: Καρμπόνια-Ιγκλέσιας
+NAME_HI: कार्बोनिया-इग्लेसिअस प्रांत
+NAME_HU: Carbonia-Iglesias megye
+NAME_ID: Provinsi Carbonia-Iglesias
+NAME_IT: provincia di Carbonia-Iglesias
+NAME_JA: カルボーニア＝イグレージアス県
+NAME_KO: 카르보니아이글레시아스 현
+NAME_NL: Carbonia-Iglesias
+NAME_PL: Prowincja Carbonia-Iglesias
+NAME_PT: Carbonia-Iglesias
+NAME_RU: Карбония-Иглезиас
+NAME_SV: Carbonia-Iglesias
+NAME_TR: Carbonia-Iglesias ili
+NAME_VI: Carbonia-Iglesias
+NAME_ZH: 卡博尼亞-伊格萊西亞斯省
+NE_ID: 1159315799

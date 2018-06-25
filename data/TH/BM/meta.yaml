@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-416
+DISS_ME: 416
+ISO_3166_2: TH-10
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Bangkok Metropolis
+NAME_ALT: Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi
+NAME_LOCAL: จังหวัดเชียงใหม่
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.BM
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 34
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 18
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH40
+FIPS_ALT: null
+WOE_ID: 2347165
+WOE_LABEL: Bangkok, TH, Thailand
+WOE_NAME: Bangkok Metropolis
+LATITUDE: 13.793
+LONGITUDE: 100.626
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1609348
+GN_NAME: Krung Thep Mahanakhon
+GNS_ID: -3250085
+GNS_NAME: Krung Thep Mahanakhon
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.40
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH40
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1861
+NAME_AR: بانكوك
+NAME_BN: ব্যাংকক
+NAME_DE: Bangkok
+NAME_EN: Bangkok
+NAME_ES: Bangkok
+NAME_FR: Bangkok
+NAME_EL: Μπανγκόκ
+NAME_HI: बैंकॉक
+NAME_HU: Bangkok
+NAME_ID: Bangkok
+NAME_IT: Bangkok
+NAME_JA: バンコク
+NAME_KO: 방콕
+NAME_NL: Bangkok
+NAME_PL: Bangkok
+NAME_PT: Banguecoque
+NAME_RU: Бангкок
+NAME_SV: Bangkok
+NAME_TR: Bangkok
+NAME_VI: Bangkok
+NAME_ZH: 曼谷
+NE_ID: 1159308197

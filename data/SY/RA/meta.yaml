@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-136
+DISS_ME: 136
+ISO_3166_2: SY-RA
+WIKIPEDIA: null
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Ar Raqqah
+NAME_ALT: Al Rakka|Raqqa|Al Rashid|Rashid
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.RA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: RA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY04
+FIPS_ALT: null
+WOE_ID: 2347072
+WOE_LABEL: Ar Raqqah, SY, Syria
+WOE_NAME: Ar Raqqah
+LATITUDE: 36.0067
+LONGITUDE: 38.9127
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 172957
+GN_NAME: Muhafazat ar Raqqah
+GNS_ID: -2538947
+GNS_NAME: Raqqah, Muhafazat ar
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY04
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q235563
+NAME_AR: محافظة الرقة
+NAME_BN: null
+NAME_DE: Gouvernement ar-Raqqa
+NAME_EN: Al-Raqqah Governorate
+NAME_ES: Gobernación de Ar-Raqqa
+NAME_FR: Gouvernorat de Racca
+NAME_EL: Αρ Ρακκά
+NAME_HI: अर-रक़्क़ाह​ प्रान्त
+NAME_HU: Rakka kormányzóság
+NAME_ID: Kegubernuran Ar-Raqqah
+NAME_IT: governatorato di al-Raqqa
+NAME_JA: ラッカ県
+NAME_KO: 락까 주
+NAME_NL: Ar-Raqqah
+NAME_PL: Ar-Rakka
+NAME_PT: Ar-Raqqah
+NAME_RU: Ракка
+NAME_SV: Ar-Raqqah
+NAME_TR: Rakka
+NAME_VI: Ar-Raqqah
+NAME_ZH: 拉卡省
+NE_ID: 1159308429

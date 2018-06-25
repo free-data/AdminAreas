@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: ZAF-1926
+DISS_ME: 1926
+ISO_3166_2: ZA-EC
+WIKIPEDIA: null
+ISO_A2: ZA
+ADM0_SR: 1
+NAME: Eastern Cape
+NAME_ALT: Oos-Kaap
+NAME_LOCAL: null
+TYPE: Provinsie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZA.EC
+NOTE: CSS 2, Formerly part of Cape of Good Hope
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: EC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: SF05
+FIPS_ALT: SF05
+WOE_ID: 2346979
+WOE_LABEL: Eastern Cape, ZA, South Africa
+WOE_NAME: Eastern Cape
+LATITUDE: -32.0622
+LONGITUDE: 26.6417
+SOV_A3: ZAF
+ADM0_A3: ZAF
+ADM0_LABEL: 2
+ADMIN: South Africa
+GEONUNIT: South Africa
+GU_A3: ZAF
+GN_ID: 1085593
+GN_NAME: Province of Eastern Cape
+GNS_ID: 204039
+GNS_NAME: Eastern Cape
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZA.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: SF05
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q130840
+NAME_AR: كيب الشرقية
+NAME_BN: পূর্ব কেপ প্রদেশ
+NAME_DE: Ostkap
+NAME_EN: Eastern Cape
+NAME_ES: Provincia Oriental del Cabo
+NAME_FR: Cap-Oriental
+NAME_EL: Ανατολικότερο Ακρωτήριο
+NAME_HI: पूर्वी केप प्रान्त
+NAME_HU: null
+NAME_ID: Eastern Cape
+NAME_IT: provincia del Capo Orientale
+NAME_JA: 東ケープ州
+NAME_KO: 이스턴케이프 주
+NAME_NL: Oost-Kaap
+NAME_PL: Prowincja Przylądkowa Wschodnia
+NAME_PT: Cabo Oriental
+NAME_RU: Восточно-Капская провинция
+NAME_SV: Östra Kapprovinsen
+NAME_TR: Doğu Kap
+NAME_VI: Đông Cape
+NAME_ZH: 東開普省
+NE_ID: 1159311157

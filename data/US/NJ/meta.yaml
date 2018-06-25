@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: USA-3558
+DISS_ME: 3558
+ISO_3166_2: US-NJ
+WIKIPEDIA: http://en.wikipedia.org/wiki/New_Jersey
+ISO_A2: US
+ADM0_SR: 5
+NAME: New Jersey
+NAME_ALT: NJ|N.J.
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: US34
+CODE_HASC: US.NJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeast
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: N.J.
+POSTAL: NJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 0
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: US34
+FIPS_ALT: null
+WOE_ID: 2347589
+WOE_LABEL: New Jersey, US, United States
+WOE_NAME: New Jersey
+LATITUDE: 40.0449
+LONGITUDE: -74.4653
+SOV_A3: US1
+ADM0_A3: USA
+ADM0_LABEL: 2
+ADMIN: United States of America
+GEONUNIT: United States of America
+GU_A3: USA
+GN_ID: 5101760
+GN_NAME: New Jersey
+GNS_ID: -1
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: US.NJ
+REGION_SUB: Middle Atlantic
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 3.5
+MAX_LABEL: 7.5
+MIN_ZOOM: 2
+WIKIDATAID: Q1408
+NAME_AR: نيوجيرسي
+NAME_BN: নিউ জার্সি
+NAME_DE: New Jersey
+NAME_EN: New Jersey
+NAME_ES: Nueva Jersey
+NAME_FR: New Jersey
+NAME_EL: Νιου Τζέρσεϊ
+NAME_HI: न्यू जर्सी
+NAME_HU: New Jersey
+NAME_ID: New Jersey
+NAME_IT: New Jersey
+NAME_JA: ニュージャージー州
+NAME_KO: 뉴저지 주
+NAME_NL: New Jersey
+NAME_PL: New Jersey
+NAME_PT: Nova Jérsia
+NAME_RU: Нью-Джерси
+NAME_SV: New Jersey
+NAME_TR: New Jersey
+NAME_VI: New Jersey
+NAME_ZH: 新泽西州
+NE_ID: 1159315267

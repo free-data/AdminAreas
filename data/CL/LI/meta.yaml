@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: CHL-2703
+DISS_ME: 2703
+ISO_3166_2: CL-LI
+WIKIPEDIA: null
+ISO_A2: CL
+ADM0_SR: 1
+NAME: Libertador General Bernardo O'Higgins
+NAME_ALT: Libertador
+NAME_LOCAL: null
+TYPE: Región
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CL.LI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20011
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: LI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 37
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: CI08
+FIPS_ALT: null
+WOE_ID: 2345025
+WOE_LABEL: O'Higgins Region, CL, Chile
+WOE_NAME: Libertador General Bernardo O'Higgins
+LATITUDE: -34.5255
+LONGITUDE: -71.0756
+SOV_A3: CHL
+ADM0_A3: CHL
+ADM0_LABEL: 2
+ADMIN: Chile
+GEONUNIT: Chile
+GU_A3: CHL
+GN_ID: 3883281
+GN_NAME: Region del Libertador General Bernardo O'Higgins
+GNS_ID: -888979
+GNS_NAME: Libertador General Bernardo O'Higgins, Region del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CL.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CI08
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q2133
+NAME_AR: إقليم أوهيغينز
+NAME_BN: লিবার্তাদো জেনারেল বার্নাডো ও'হিগিন্স অঞ্চল
+NAME_DE: Región del Libertador General Bernardo O’Higgins
+NAME_EN: Libertador General Bernardo O'Higgins Region
+NAME_ES: Región de O'Higgins
+NAME_FR: Région du Libertador General Bernardo O'Higgins
+NAME_EL: Ο'Χίγκινς
+NAME_HI: लिबर्टडोर जनरल बर्नार्डो ओ'हिगिन्स क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Libertador General Bernardo O'Higgins
+NAME_IT: regione del Libertador General Bernardo O'Higgins
+NAME_JA: リベルタドール・ベルナルド・オイギンス州
+NAME_KO: 리베르타도르헤네랄베르나르도오이긴스 주
+NAME_NL: Libertador General Bernardo O'Higgins
+NAME_PL: Libertador
+NAME_PT: Região de O'Higgins
+NAME_RU: Либертадор-Хенераль-Бернардо-О’Хиггинс
+NAME_SV: Región de O'Higgins
+NAME_TR: O'Higgins bölgesi
+NAME_VI: Khu vực Libertador General Bernardo O'Higgins
+NAME_ZH: 奥伊金斯将军解放者大区
+NE_ID: 1159313639

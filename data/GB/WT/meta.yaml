@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2774
+DISS_ME: 2774
+ISO_3166_2: GB-WRT
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Warrington
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.WT
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: null
+PROVNUM_NE: 20023
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: War'gton
+POSTAL: WT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKP2
+FIPS_ALT: UKP2
+WOE_ID: 12696172
+WOE_LABEL: null
+WOE_NAME: Warrington Borough
+LATITUDE: 53.3766
+LONGITUDE: -2.55468
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333216
+GN_NAME: Borough of Warrington
+GNS_ID: 6077658
+GNS_NAME: Warrington, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.P2
+REGION_SUB: Cheshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q215733
+NAME_AR: null
+NAME_BN: ওয়ারিংটন
+NAME_DE: Warrington
+NAME_EN: Warrington
+NAME_ES: Warrington
+NAME_FR: Warrington
+NAME_EL: Γουόρινγκτον
+NAME_HI: null
+NAME_HU: Warrington
+NAME_ID: null
+NAME_IT: Warrington
+NAME_JA: ウォリントン
+NAME_KO: 워링턴
+NAME_NL: Warrington
+NAME_PL: Warrington
+NAME_PT: Warrington
+NAME_RU: Уоррингтон
+NAME_SV: Warrington
+NAME_TR: Warrington
+NAME_VI: null
+NAME_ZH: 沃灵顿
+NE_ID: 1159314793

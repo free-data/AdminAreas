@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2362
+DISS_ME: 2362
+ISO_3166_2: RU-KRS
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Kursk
+NAME_ALT: Kurskaya Oblast
+NAME_LOCAL: Курская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.KS
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20044
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS41
+FIPS_ALT: null
+WOE_ID: 2346905
+WOE_LABEL: Kurskaya Oblast, RU, Russia
+WOE_NAME: Kursk
+LATITUDE: 51.7358
+LONGITUDE: 36.2921
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 538555
+GN_NAME: Kurskaya Oblast'
+GNS_ID: -2941655
+GNS_NAME: Kurskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.41
+REGION_SUB: Central Black Earth
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS41
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q3178
+NAME_AR: كورسك أوبلاست
+NAME_BN: কুরস্ক ওব্লাস্ট
+NAME_DE: Oblast Kursk
+NAME_EN: Kursk Oblast
+NAME_ES: óblast de Kursk
+NAME_FR: Oblast de Koursk
+NAME_EL: Περιφέρεια Κουρσκ
+NAME_HI: कुर्सक ओब्लास्ट
+NAME_HU: Kurszki terület
+NAME_ID: Oblast Kursk
+NAME_IT: oblast' di Kursk
+NAME_JA: クルスク州
+NAME_KO: 쿠르스크 주
+NAME_NL: Oblast Koersk
+NAME_PL: Obwód kurski
+NAME_PT: Oblast de Kursk
+NAME_RU: Курская область
+NAME_SV: Kursk oblast
+NAME_TR: Kursk Oblastı
+NAME_VI: Kursk
+NAME_ZH: 库尔斯克州
+NE_ID: 1159313159

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Myanmar
+SOV_A3: MMR
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Myanmar
+ADM0_A3: MMR
+GEOU_DIF: 0
+GEOUNIT: Myanmar
+GU_A3: MMR
+SU_DIF: 0
+SUBUNIT: Myanmar
+SU_A3: MMR
+BRK_DIFF: 0
+NAME: Myanmar
+NAME_LONG: Myanmar
+BRK_A3: MMR
+BRK_NAME: Myanmar
+BRK_GROUP: null
+ABBREV: Myan.
+POSTAL: MM
+FORMAL_EN: Republic of the Union of Myanmar
+FORMAL_FR: null
+NAME_CIAWF: Burma
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Myanmar
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 2
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+POP_EST: 55123814
+POP_RANK: 16
+GDP_MD_EST: 311100
+POP_YEAR: 2017
+LASTCENSUS: 1983
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: BM
+ISO_A2: MM
+ISO_A3: MMR
+ISO_A3_EH: MMR
+ISO_N3: 104
+UN_A3: 104
+WB_A2: MM
+WB_A3: MMR
+WOE_ID: 23424763
+WOE_ID_EH: 23424763
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: MMR
+ADM0_A3_US: MMR
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: South-Eastern Asia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321067
+WIKIDATAID: Q836
+NAME_AR: ميانمار
+NAME_BN: মায়ানমার
+NAME_DE: Myanmar
+NAME_EN: Myanmar
+NAME_ES: Birmania
+NAME_FR: Birmanie
+NAME_EL: Μιανμάρ
+NAME_HI: म्यान्मार
+NAME_HU: Mianmar
+NAME_ID: Myanmar
+NAME_IT: Birmania
+NAME_JA: ミャンマー
+NAME_KO: 미얀마
+NAME_NL: Myanmar
+NAME_PL: Mjanma
+NAME_PT: Mianmar
+NAME_RU: Мьянма
+NAME_SV: Burma
+NAME_TR: Myanmar
+NAME_VI: Myanma
+NAME_ZH: 缅甸

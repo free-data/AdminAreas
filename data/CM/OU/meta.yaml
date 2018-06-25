@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: CMR-798
+DISS_ME: 798
+ISO_3166_2: CM-OU
+WIKIPEDIA: null
+ISO_A2: CM
+ADM0_SR: 1
+NAME: Ouest
+NAME_ALT: West
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CM.OU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: OU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 3
+FIPS: CM08
+FIPS_ALT: null
+WOE_ID: 2345036
+WOE_LABEL: Ouest, CM, Cameroon
+WOE_NAME: Ouest
+LATITUDE: 5.36694
+LONGITUDE: 10.5889
+SOV_A3: CMR
+ADM0_A3: CMR
+ADM0_LABEL: 2
+ADMIN: Cameroon
+GEONUNIT: Cameroon
+GU_A3: CMR
+GN_ID: 2222934
+GN_NAME: West Region
+GNS_ID: -3158040
+GNS_NAME: Ouest, Region de l'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CM.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CM08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q165784
+NAME_AR: الغرب
+NAME_BN: ওয়েস্ট
+NAME_DE: Ouest
+NAME_EN: West
+NAME_ES: Región del Oeste
+NAME_FR: région de l'Ouest
+NAME_EL: Δυτική Περιφέρεια
+NAME_HI: पश्चिम
+NAME_HU: null
+NAME_ID: Region Barat
+NAME_IT: regione dell'Ovest
+NAME_JA: 西部州
+NAME_KO: 서부 주
+NAME_NL: Ouest
+NAME_PL: Region Zachodni
+NAME_PT: Oeste
+NAME_RU: Западный регион
+NAME_SV: Västra regionen
+NAME_TR: Batı Bölgesi
+NAME_VI: Khu vực Phía Tây
+NAME_ZH: 西部区
+NE_ID: 1159309027

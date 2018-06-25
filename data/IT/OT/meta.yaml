@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5375
+DISS_ME: 5375
+ISO_3166_2: IT-OT
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 3
+NAME: Olbia-Tempio
+NAME_ALT: Cerdeña|Sardenha
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 07
+CODE_HASC: IT.OT
+NOTE: ITG
+HASC_MAYBE: null
+REGION: Sardegna
+REGION_COD: IT-88
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: OT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT14
+FIPS_ALT: null
+WOE_ID: 28301716
+WOE_LABEL: null
+WOE_NAME: Olbia-Tempio
+LATITUDE: 40.9282
+LONGITUDE: 9.28605
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 6457401
+GN_NAME: Provincia di Olbia-Tempio
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.OT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16224
+NAME_AR: مقاطعة أولبيا تمبيو
+NAME_BN: ওল্বিয়া-টেম্পিও প্রদেশ
+NAME_DE: Provinz Olbia-Tempio
+NAME_EN: Province of Olbia-Tempio
+NAME_ES: Olbia-Tempio
+NAME_FR: Province d'Olbia-Tempio
+NAME_EL: Όλμπια-Τέμπιο
+NAME_HI: ओल्बिया-टेम्पियो प्रांत
+NAME_HU: Olbia-Tempio megye
+NAME_ID: Provinsi Olbia-Tempio
+NAME_IT: provincia di Olbia-Tempio
+NAME_JA: オルビア＝テンピオ県
+NAME_KO: 올비아템피오 현
+NAME_NL: Olbia-Tempio
+NAME_PL: Prowincja Olbia-Tempio
+NAME_PT: Olbia-Tempio
+NAME_RU: Ольбия-Темпио
+NAME_SV: Olbia-Tempio
+NAME_TR: Olbia-Tempio ili
+NAME_VI: Olbia-Tempio
+NAME_ZH: 奧爾比亞-坦皮奧省
+NE_ID: 1159317095

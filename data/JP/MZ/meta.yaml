@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1831
+DISS_ME: 1831
+ISO_3166_2: JP-45
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Miyazaki
+NAME_ALT: null
+NAME_LOCAL: 宮崎県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.MZ
+NOTE: null
+HASC_MAYBE: JP.OT
+REGION: Kyushu
+REGION_COD: JPN-KYS
+PROVNUM_NE: 49
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: MZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA25
+FIPS_ALT: JA30
+WOE_ID: 2345874
+WOE_LABEL: Miyazaki Prefecture, JP, Japan
+WOE_NAME: Miyazaki
+LATITUDE: 32.0981
+LONGITUDE: 131.286
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1856710
+GN_NAME: Miyazaki-ken
+GNS_ID: -236958
+GNS_NAME: Miyazaki-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA25
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q130300
+NAME_AR: ميازاكي
+NAME_BN: মিয়াযাকি প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Miyazaki
+NAME_EN: Miyazaki Prefecture
+NAME_ES: Prefectura de Miyazaki
+NAME_FR: Préfecture de Miyazaki
+NAME_EL: Μιγιαζάκι
+NAME_HI: मियाज़ाकि प्रीफेक्चर
+NAME_HU: Mijazaki prefektúra
+NAME_ID: Prefektur Miyazaki
+NAME_IT: prefettura di Miyazaki
+NAME_JA: 宮崎県
+NAME_KO: 미야자키 현
+NAME_NL: Miyazaki
+NAME_PL: Prefektura Miyazaki
+NAME_PT: Miyazaki
+NAME_RU: Миядзаки
+NAME_SV: Miyazaki prefektur
+NAME_TR: Miyazaki
+NAME_VI: Miyazaki
+NAME_ZH: 宮崎縣
+NE_ID: 1159311903

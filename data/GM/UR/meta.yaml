@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GMB-2152
+DISS_ME: 2152
+ISO_3166_2: GM-U
+WIKIPEDIA: http://en.wikipedia.org/wiki/Upper_River_Division
+ISO_A2: GM
+ADM0_SR: 1
+NAME: Upper River
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: GM.UR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: URR
+POSTAL: UR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: GA04
+FIPS_ALT: null
+WOE_ID: 2345446
+WOE_LABEL: Upper River, GM, The Gambia
+WOE_NAME: Upper River
+LATITUDE: 13.3797
+LONGITUDE: -14.1857
+SOV_A3: GMB
+ADM0_A3: GMB
+ADM0_LABEL: 5
+ADMIN: Gambia
+GEONUNIT: Gambia
+GU_A3: GMB
+GN_ID: 2411711
+GN_NAME: Upper River Division
+GNS_ID: -1201608
+GNS_NAME: Upper River
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GA04
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q824373
+NAME_AR: شعبة النهر العليا
+NAME_BN: আপার রিভার ডিভিশন
+NAME_DE: Upper River Region
+NAME_EN: Upper River Division
+NAME_ES: División Upper River
+NAME_FR: Division de Upper River
+NAME_EL: Άνω Ποταμός
+NAME_HI: ऊपरी नदी मंडल
+NAME_HU: null
+NAME_ID: Upper River Division
+NAME_IT: divisione dell'Upper River
+NAME_JA: ガンビア川上流地方
+NAME_KO: 어퍼리버 구
+NAME_NL: Upper River
+NAME_PL: Upper River Division
+NAME_PT: Upper River
+NAME_RU: Верхняя Река
+NAME_SV: Upper River Division
+NAME_TR: Upper River Bölgesi
+NAME_VI: Phân vùng Thượng nguồn Sông
+NAME_ZH: 上河區
+NE_ID: 1159311543

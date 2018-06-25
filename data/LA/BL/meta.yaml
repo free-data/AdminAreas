@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3292
+DISS_ME: 3292
+ISO_3166_2: LA-BL
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Bolikhamxai
+NAME_ALT: Bolikhamsai|Bolikhamxay|Borikhamzay|Borikane|Borikhan|Borikhane
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA23
+FIPS_ALT: LA23
+WOE_ID: 20070163
+WOE_LABEL: Bolikhamxai, LA, Laos
+WOE_NAME: Bolikhamxai
+LATITUDE: 18.538
+LONGITUDE: 104.039
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1904617
+GN_NAME: Bolikhamxai
+GNS_ID: 382291
+GNS_NAME: Bolikhamxai
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LA23
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2403514
+NAME_AR: محافظة بوليخاماسي
+NAME_BN: বলিখামসাই প্রদেশ
+NAME_DE: Bolikhamsai
+NAME_EN: Bolikhamsai Province
+NAME_ES: Bolikhamxai
+NAME_FR: Province de Borikhamxay
+NAME_EL: Μπολικχαμξάι
+NAME_HI: बोलिखमसाइ प्रान्त
+NAME_HU: Bolikhamszaj tartomány
+NAME_ID: Provinsi Bolikhamsai
+NAME_IT: provincia di Bolikhamxai
+NAME_JA: ボーリカムサイ県
+NAME_KO: 볼리캄사이 주
+NAME_NL: Bolikhamsai
+NAME_PL: Prowincja Bolikhamxai
+NAME_PT: Borikhamxai
+NAME_RU: Борикхамсай
+NAME_SV: Bolikhamsai
+NAME_TR: bolikhamsai Province
+NAME_VI: Borikhamxay
+NAME_ZH: 博利坎赛省
+NE_ID: 1159315197

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3076
+DISS_ME: 3076
+ISO_3166_2: UG-210
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Pallisa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.PS
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20039
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: PL
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGB5
+FIPS_ALT: UG60
+WOE_ID: -20070441
+WOE_LABEL: Pallisa, UG, Uganda
+WOE_NAME: Pallisa
+LATITUDE: 1.18799
+LONGITUDE: 33.688
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443362
+GN_NAME: Pallisa District
+GNS_ID: 9050805
+GNS_NAME: Pallisa District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.60
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG59
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375843
+NAME_AR: مقاطعة باليسا
+NAME_BN: পালিসা জেলা
+NAME_DE: Pallisa-Distrikt
+NAME_EN: Pallisa District
+NAME_ES: Distrito de Pallisa
+NAME_FR: Pallisa
+NAME_EL: Παλίσσα
+NAME_HI: पल्लीसा जिला
+NAME_HU: null
+NAME_ID: Distrik Pallisa
+NAME_IT: Pallisa
+NAME_JA: パリサ県
+NAME_KO: 팔리사 구
+NAME_NL: Pallisa
+NAME_PL: Dystrykt Pallisa
+NAME_PT: Pallisa
+NAME_RU: Паллиса
+NAME_SV: Pallisadistriktet
+NAME_TR: Pallisa District
+NAME_VI: Quận Pallisa
+NAME_ZH: 帕利薩區
+NE_ID: 1159311327

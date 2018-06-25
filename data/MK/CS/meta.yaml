@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2926
+DISS_ME: 2926
+ISO_3166_2: MK-82
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Čučer Sandevo
+NAME_ALT: Cucer Sandevo
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.CS
+NOTE: null
+HASC_MAYBE: null
+REGION: Skopje
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: CS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 13
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK20
+FIPS_ALT: null
+WOE_ID: 24550830
+WOE_LABEL: Cucer-Sandevo Municipality, MK, Macedonia
+WOE_NAME: Cucer Sandevo
+LATITUDE: 42.1353
+LONGITUDE: 21.3885
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863842
+GN_NAME: Opstina Cucer-Sandevo
+GNS_ID: 9075604
+GNS_NAME: Cucer-Sandevo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK20
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q629720
+NAME_AR: بلدية تشوتشر سانديفو
+NAME_BN: কুচার-সান্দেভো পৌরসভা
+NAME_DE: Opština Čučer-Sandevo
+NAME_EN: Čučer-Sandevo Municipality
+NAME_ES: Municipalidad de Čučer-Sandevo
+NAME_FR: Tchoutcher Sandevo
+NAME_EL: Δήμος Τσούτσερ Σάντσεβο
+NAME_HI: कुसेर-सेंदेवो नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Čučer-Sandevo
+NAME_IT: Čučer-Sandevo
+NAME_JA: チュチェル・サンデヴォ
+NAME_KO: 추체르산데보 시
+NAME_NL: Čučer-Sandevo
+NAME_PL: Gmina Czuczer-Sandewo
+NAME_PT: Município Cucer-Sandevo
+NAME_RU: Чучер-Сандево
+NAME_SV: Čučer-Sandevo
+NAME_TR: Cucer-Sandevo Belediyesi
+NAME_VI: Đô thị tự trị Cucer-Sandevo
+NAME_ZH: 楚塞尔桑德沃区
+NE_ID: 1159314465

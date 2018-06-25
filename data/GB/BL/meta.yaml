@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2094
+DISS_ME: 2094
+ISO_3166_2: GB-BLA
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Ballymena
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: GB.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Ireland
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK55
+FIPS_ALT: UKQ9
+WOE_ID: 20078313
+WOE_LABEL: null
+WOE_NAME: Ballymena
+LATITUDE: 54.9003
+LONGITUDE: -6.22753
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Northern Ireland
+GU_A3: NIR
+GN_ID: 2656491
+GN_NAME: Ballymena District
+GNS_ID: -2589100
+GNS_NAME: Ballymena District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Q9
+REGION_SUB: East of Northern Ireland
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q805424
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Ballymena
+NAME_EN: Ballymena Borough
+NAME_ES: null
+NAME_FR: District de Ballymena
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: distretto di Ballymena
+NAME_JA: バリーミーナ区
+NAME_KO: 밸리미나 구
+NAME_NL: Ballymena
+NAME_PL: null
+NAME_PT: null
+NAME_RU: Бэллимена
+NAME_SV: Ballymena District
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 巴利米納區
+NE_ID: 1159312805

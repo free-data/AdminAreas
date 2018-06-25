@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2610
+DISS_ME: 2610
+ISO_3166_2: RU-ZAB
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Chita
+NAME_ALT: Transbaikalia|Zabaykal'skaya|Transbaikalien|Chitinskaya Oblast
+NAME_LOCAL: Читинская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: Siberian
+REGION_COD: null
+PROVNUM_NE: 20054
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS14
+FIPS_ALT: null
+WOE_ID: 2346894
+WOE_LABEL: Chitinskaya Oblast, RU, Russia
+WOE_NAME: Chita
+LATITUDE: 52.159
+LONGITUDE: 116.559
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 7779061
+GN_NAME: Zabaykal'skiy Kray
+GNS_ID: 11130914
+GNS_NAME: Zabaykal'skiy Kray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.93
+REGION_SUB: East Siberian
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: RS93
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q6838
+NAME_AR: زابايكالسكي كراي
+NAME_BN: জাবায়কালস্কি ক্রা
+NAME_DE: Region Transbaikalien
+NAME_EN: Zabaykalsky Krai
+NAME_ES: Zabaikalie
+NAME_FR: Kraï de Transbaïkalie
+NAME_EL: Κράι Υπερβαϊκάλης
+NAME_HI: ज़बायकाल्स्की क्राय
+NAME_HU: Bajkálontúli határterület
+NAME_ID: Krai Zabaykalsky
+NAME_IT: Territorio della Transbajkalia
+NAME_JA: ザバイカリエ地方
+NAME_KO: 자바이칼 지방
+NAME_NL: Kraj Transbaikal
+NAME_PL: Kraj Zabajkalski
+NAME_PT: Krai de Zabaykalsky
+NAME_RU: Забайкальский край
+NAME_SV: Zabajkalskij kraj
+NAME_TR: Zabaykalskiy Krayı
+NAME_VI: Zabaykalsky
+NAME_ZH: 外貝加爾邊疆區
+NE_ID: 1159313617

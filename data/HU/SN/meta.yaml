@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4904
+DISS_ME: 4904
+ISO_3166_2: HU-SN
+WIKIPEDIA: http://en.wikipedia.org/wiki/Sopron
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Sopron
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.SN
+NOTE: null
+HASC_MAYBE: null
+REGION: Western Transdanubia
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU34
+FIPS_ALT: null
+WOE_ID: 56043628
+WOE_LABEL: Sopron, HU, Hungary
+WOE_NAME: Sopron
+LATITUDE: 47.6911
+LONGITUDE: 16.6001
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -3051977
+GN_NAME: Gyor-Moson-Sopron megye
+GNS_ID: -866328
+GNS_NAME: Sopron Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Gyor-Moson-Sopron
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU34
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q168648
+NAME_AR: شوبرون
+NAME_BN: null
+NAME_DE: Sopron
+NAME_EN: Sopron
+NAME_ES: Sopron
+NAME_FR: Sopron
+NAME_EL: Σόπρον
+NAME_HI: सोपरोन
+NAME_HU: Sopron
+NAME_ID: Sopron
+NAME_IT: Sopron
+NAME_JA: ショプロン
+NAME_KO: 쇼프론
+NAME_NL: Sopron
+NAME_PL: Sopron
+NAME_PT: Sopron
+NAME_RU: Шопрон
+NAME_SV: Sopron
+NAME_TR: Sopron
+NAME_VI: Sopron
+NAME_ZH: 肖普朗
+NE_ID: 1159316033

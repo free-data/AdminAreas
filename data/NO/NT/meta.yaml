@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-925
+DISS_ME: 925
+ISO_3166_2: NO-17
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 5
+NAME: Nord-Trøndelag
+NAME_ALT: Nord-Troendelag fylke|Nordre Trondhjem|Norður-Þrændalög
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.NT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: NT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO10
+FIPS_ALT: null
+WOE_ID: 2346393
+WOE_LABEL: Nord-Trondelag, NO, Norway
+WOE_NAME: Nord-Trøndelag
+LATITUDE: 64.2773
+LONGITUDE: 12.2637
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3144148
+GN_NAME: Nord-Trondelag Fylke
+GNS_ID: -272822
+GNS_NAME: Nord-Trondelag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50629
+NAME_AR: نور تروندلاغ
+NAME_BN: নর্ড-ট্রন্ডেলাগ
+NAME_DE: Nord-Trøndelag
+NAME_EN: Nord-Trøndelag
+NAME_ES: Nord-Trøndelag
+NAME_FR: Comté de Nord-Trøndelag
+NAME_EL: Νόρντ-Τροντελάγκ
+NAME_HI: नोर्ड-ट्रॉन्डेलैग
+NAME_HU: Nord-Trøndelag megye
+NAME_ID: Nord-Trøndelag
+NAME_IT: Nord-Trøndelag
+NAME_JA: ヌール・トロンデラーグ県
+NAME_KO: 노르트뢰넬라그 주
+NAME_NL: Nord-Trøndelag
+NAME_PL: Nord-Trøndelag
+NAME_PT: Nord-Trøndelag
+NAME_RU: Нур-Трёнделаг
+NAME_SV: Nord-Trøndelag fylke
+NAME_TR: Nord-Trøndelag
+NAME_VI: Nord-Trøndelag
+NAME_ZH: 北特伦德拉格郡
+NE_ID: 1159309661

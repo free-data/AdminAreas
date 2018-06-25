@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-261
+DISS_ME: 261
+ISO_3166_2: SI-183
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Šempeter-Vrtojba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SP.SV
+NOTE: null
+HASC_MAYBE: null
+REGION: Goriška
+REGION_COD: null
+PROVNUM_NE: 93
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIL6
+WOE_ID: -55848371
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 45.9187
+LONGITUDE: 13.6431
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344898
+GN_NAME: Obcina Sempeter-Vrtojba
+GNS_ID: 9123312
+GNS_NAME: Sempeter-Vrtojba, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.L6
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q391428
+NAME_AR: بلدية شيمبيتر - فرتويبا
+NAME_BN: সেম্পীটার-ভ্রত্রইবা পৌরসভা
+NAME_DE: Šempeter-Vrtojba
+NAME_EN: Šempeter–Vrtojba Municipality
+NAME_ES: Šempeter-Vrtojba
+NAME_FR: Šempeter-Vrtojba
+NAME_EL: Σέμπετερ-Βρτότζμπα
+NAME_HI: सैम्पीटर-व्रतोईबा नगरपालिका
+NAME_HU: Šempeter–Vrtojba község
+NAME_ID: Kotamadya Šempeter–Vrtojba
+NAME_IT: San Pietro-Vertoiba
+NAME_JA: シェンペテル＝ヴロトイバ
+NAME_KO: 솀페테르브르토이바
+NAME_NL: Šempeter-Vrtojba
+NAME_PL: Šempeter pri Gorici
+NAME_PT: Šempeter-Vrtojba
+NAME_RU: Шемпетер-Вртойба
+NAME_SV: Senoeter Vrtojba kommun
+NAME_TR: Sepmeter-Vrtojba Belediyesi
+NAME_VI: Šempeter-Vrtojba
+NAME_ZH: null
+NE_ID: 1159308683

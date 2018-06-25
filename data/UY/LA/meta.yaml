@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-19
+DISS_ME: 19
+ISO_3166_2: UY-LA
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: Lavalleja
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY08
+FIPS_ALT: null
+WOE_ID: 2347647
+WOE_LABEL: Lavalleja, UY, Uruguay
+WOE_NAME: Lavalleja
+LATITUDE: -33.8788
+LONGITUDE: -54.8724
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3442007
+GN_NAME: Departamento de Lavalleja
+GNS_ID: -907330
+GNS_NAME: Lavalleja, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY08
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q460435
+NAME_AR: إدارة لافاليخا
+NAME_BN: লাভেলেজা বিভাগ
+NAME_DE: Departamento Lavalleja
+NAME_EN: Lavalleja Department
+NAME_ES: Departamento de Lavalleja
+NAME_FR: Lavalleja
+NAME_EL: Λαβαλέτζα
+NAME_HI: लावालिया विभाग
+NAME_HU: Lavalleja megye
+NAME_ID: Departemen Lavalleja
+NAME_IT: dipartimento di Lavalleja
+NAME_JA: ラバジェハ県
+NAME_KO: 라바예하 주
+NAME_NL: Lavalleja
+NAME_PL: Lavalleja
+NAME_PT: Lavalleja
+NAME_RU: Лавальеха
+NAME_SV: Lavalleja
+NAME_TR: Lavalleja Departmanı
+NAME_VI: Lavalleja
+NAME_ZH: 拉瓦耶哈省
+NE_ID: 1159307759

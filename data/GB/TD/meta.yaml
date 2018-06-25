@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5685
+DISS_ME: 5685
+ISO_3166_2: GB-TRF
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Trafford
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.TD
+NOTE: null
+HASC_MAYBE: null
+REGION: North West
+REGION_COD: GB.MN
+PROVNUM_NE: 20024
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: Manch'er
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKO6
+FIPS_ALT: UKI2
+WOE_ID: -12602158
+WOE_LABEL: null
+WOE_NAME: Greater Manchester
+LATITUDE: 53.4147
+LONGITUDE: -2.37777
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333211
+GN_NAME: Borough of Trafford
+GNS_ID: 6077653
+GNS_NAME: Trafford, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.O6
+REGION_SUB: Greater Manchester
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q915954
+NAME_AR: ترافورد
+NAME_BN: ট্রাফোর্ড
+NAME_DE: Trafford
+NAME_EN: Trafford
+NAME_ES: Trafford
+NAME_FR: Trafford
+NAME_EL: Τράφορντ
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Trafford
+NAME_JA: トラフォード
+NAME_KO: 트래퍼드
+NAME_NL: Trafford
+NAME_PL: Metropolitan Borough of Trafford
+NAME_PT: Trafford
+NAME_RU: Траффорд
+NAME_SV: Trafford
+NAME_TR: Trafford
+NAME_VI: Trafford
+NAME_ZH: 特拉福德
+NE_ID: 1159317509

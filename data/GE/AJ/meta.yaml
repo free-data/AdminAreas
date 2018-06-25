@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GEO-3027
+DISS_ME: 3027
+ISO_3166_2: GE-AJ
+WIKIPEDIA: null
+ISO_A2: GE
+ADM0_SR: 1
+NAME: Ajaria
+NAME_ALT: Batumi
+NAME_LOCAL: null
+TYPE: Avtonomiuri Respublika
+TYPE_EN: Autonomous Republic
+CODE_LOCAL: null
+CODE_HASC: GE.AJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: AJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: GG04
+FIPS_ALT: null
+WOE_ID: 20070400
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 41.6552
+LONGITUDE: 42.0537
+SOV_A3: GEO
+ADM0_A3: GEO
+ADM0_LABEL: 2
+ADMIN: Georgia
+GEONUNIT: Ajaria
+GU_A3: GEA
+GN_ID: 615929
+GN_NAME: Ajaria
+GNS_ID: -2325824
+GNS_NAME: Ach'aris Avt'onomiuri Resp'ublik'a
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GE.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: GG04
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q45693
+NAME_AR: أجاريا
+NAME_BN: আদজারা স্বায়ত্তশাসিত প্রজাতন্ত্র
+NAME_DE: Adscharien
+NAME_EN: Adjara
+NAME_ES: Ayaria
+NAME_FR: Adjarie
+NAME_EL: Αζαρία
+NAME_HI: अद्जारा
+NAME_HU: Adzsaria
+NAME_ID: Ajaria
+NAME_IT: Agiaria
+NAME_JA: アジャリア自治共和国
+NAME_KO: 아자리야 공화국
+NAME_NL: Adzjarië
+NAME_PL: Adżaria
+NAME_PT: Adjara
+NAME_RU: Аджария
+NAME_SV: Adzjarien
+NAME_TR: Acara Özerk Cumhuriyeti
+NAME_VI: Adjara
+NAME_ZH: 阿扎尔
+NE_ID: 1159314341

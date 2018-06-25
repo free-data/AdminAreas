@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TKM-359
+DISS_ME: 359
+ISO_3166_2: TM-L
+WIKIPEDIA: null
+ISO_A2: TM
+ADM0_SR: 1
+NAME: Chardzhou
+NAME_ALT: Lebap|Chardzhouskaya Oblast
+NAME_LOCAL: null
+TYPE: Welayat|Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TM.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: TX04
+FIPS_ALT: TX
+WOE_ID: 2347348
+WOE_LABEL: Chardzhou, TM, Turkmenistan
+WOE_NAME: Chardzhou
+LATITUDE: 38.6421
+LONGITUDE: 63.4465
+SOV_A3: TKM
+ADM0_A3: TKM
+ADM0_LABEL: 2
+ADMIN: Turkmenistan
+GEONUNIT: Turkmenistan
+GU_A3: TKM
+GN_ID: 1219651
+GN_NAME: Lebap
+GNS_ID: -2558153
+GNS_NAME: Lebap Welayaty
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TM.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TX04
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487389
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Lebap welaýaty
+NAME_EN: Lebap Region
+NAME_ES: Provincia de Lebap
+NAME_FR: Lebap
+NAME_EL: null
+NAME_HI: लेबाप प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Lebap
+NAME_IT: provincia di Lebap
+NAME_JA: レバプ州
+NAME_KO: 레바프 주
+NAME_NL: Lebap
+NAME_PL: Wilajet lebapski
+NAME_PT: Lebap
+NAME_RU: Лебапский велаят
+NAME_SV: Lebap
+NAME_TR: Lebap vilayeti
+NAME_VI: Lebap
+NAME_ZH: 列巴普州
+NE_ID: 1159308487

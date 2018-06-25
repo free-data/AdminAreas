@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: FIN-3184
+DISS_ME: 3184
+ISO_3166_2: FI-16
+WIKIPEDIA: http://en.wikipedia.org/wiki/P%C3%A4ij%C3%A4t-H%C3%A4me
+ISO_A2: FI
+ADM0_SR: 1
+NAME: Päijät-Häme
+NAME_ALT: Päijänne Tavastland
+NAME_LOCAL: null
+TYPE: Lääni
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: FI.PH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: FIN-HAM
+PROVNUM_NE: 20011
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 6
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 29389255
+WOE_LABEL: PÃ¤ijat-HÃ¤meen maakunta
+WOE_NAME: null
+LATITUDE: 61.2034
+LONGITUDE: 25.6876
+SOV_A3: FI1
+ADM0_A3: FIN
+ADM0_LABEL: 2
+ADMIN: Finland
+GEONUNIT: Finland
+GU_A3: FIN
+GN_ID: 831040
+GN_NAME: Paijat-Hame
+GNS_ID: 415031
+GNS_NAME: Paijat-Hame
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FI.07
+REGION_SUB: null
+SUB_CODE: FI02
+GNS_LEVEL: 1
+GNS_LANG: fin
+GNS_ADM1: FI27
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q5708
+NAME_AR: بايات هامي
+NAME_BN: পাইজান তাভাস্তিয়া
+NAME_DE: Päijät-Häme
+NAME_EN: Päijänne Tavastia
+NAME_ES: Päijänne Tavastia
+NAME_FR: Päijät-Häme
+NAME_EL: Παϊτζάνε Ταβάστια
+NAME_HI: पेयेन तवास्तिया
+NAME_HU: null
+NAME_ID: Päijänne Tavastia
+NAME_IT: Päijät-Häme
+NAME_JA: パイヤト＝ハメ県
+NAME_KO: 페이예트헤메 지역
+NAME_NL: Päijät-Häme
+NAME_PL: Päijät-Häme
+NAME_PT: Päijänne Tavastia
+NAME_RU: Пяйят-Хяме
+NAME_SV: Päijänne-Tavastland
+NAME_TR: Päijänne Tavastia
+NAME_VI: Päijänne Tavastia
+NAME_ZH: 派亞特海梅區
+NE_ID: 1159314859

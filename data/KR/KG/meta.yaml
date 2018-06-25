@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: KOR-2498
+DISS_ME: 2498
+ISO_3166_2: KR-41
+WIKIPEDIA: http://en.wikipedia.org/wiki/Gyeonggi_Province
+ISO_A2: KR
+ADM0_SR: 4
+NAME: Gyeonggi
+NAME_ALT: Kyonggi-do|Keiki-do|Kyunggi
+NAME_LOCAL: 경기도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: 31
+CODE_HASC: KR.KG
+NOTE: 31 (NSO Code)
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20004
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: KS13
+FIPS_ALT: null
+WOE_ID: 2345969
+WOE_LABEL: Kyeongki-Do, KR, South Korea
+WOE_NAME: Gyeonggi-do
+LATITUDE: 37.2562
+LONGITUDE: 127.205
+SOV_A3: KOR
+ADM0_A3: KOR
+ADM0_LABEL: 4
+ADMIN: South Korea
+GEONUNIT: South Korea
+GU_A3: KOR
+GN_ID: 1841610
+GN_NAME: Gyeonggi-do
+GNS_ID: -710790
+GNS_NAME: Gyeonggi-do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KR.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KS13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q20937
+NAME_AR: مقاطعة غيونغي
+NAME_BN: গিয়েওনগি
+NAME_DE: Gyeonggi-do
+NAME_EN: Gyeonggi Province
+NAME_ES: Gyeonggi
+NAME_FR: Gyeonggi
+NAME_EL: Γκιόνγκι-ντο
+NAME_HI: गियॉन्गी प्रांत
+NAME_HU: Kjonggi
+NAME_ID: Gyeonggi
+NAME_IT: Gyeonggi
+NAME_JA: 京畿道
+NAME_KO: 경기도
+NAME_NL: Gyeonggi-do
+NAME_PL: Gyeonggi
+NAME_PT: Gyeonggi
+NAME_RU: Кёнгидо
+NAME_SV: Gyeonggi
+NAME_TR: Gyeonggi
+NAME_VI: Gyeonggi
+NAME_ZH: 京畿道
+NE_ID: 1159312027

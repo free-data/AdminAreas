@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2026
+DISS_ME: 2026
+ISO_3166_2: GB-SCB
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Scottish Borders
+NAME_ALT: The Borders
+NAME_LOCAL: null
+TYPE: Unitary District
+TYPE_EN: Unitary District
+CODE_LOCAL: null
+CODE_HASC: GB.BO
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKT9
+FIPS_ALT: UKT9
+WOE_ID: 12602209
+WOE_LABEL: null
+WOE_NAME: The Scottish Borders
+LATITUDE: 55.4929
+LONGITUDE: -2.77899
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Scotland
+GU_A3: SCT
+GN_ID: 2655192
+GN_NAME: The Scottish Borders
+GNS_ID: -2590401
+GNS_NAME: Scottish Borders, The
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.T9
+REGION_SUB: Scottish Borders
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q211113
+NAME_AR: null
+NAME_BN: স্কটিশ বর্ডার
+NAME_DE: Scottish Borders
+NAME_EN: Scottish Borders
+NAME_ES: Scottish Borders
+NAME_FR: Scottish Borders
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Scottish Borders
+NAME_JA: スコティッシュ・ボーダーズ
+NAME_KO: 스코티시보더스
+NAME_NL: Scottish Borders
+NAME_PL: Scottish Borders
+NAME_PT: Scottish Borders
+NAME_RU: Скоттиш-Бордерс
+NAME_SV: Scottish Borders
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 蘇格蘭邊區
+NE_ID: 1159313065

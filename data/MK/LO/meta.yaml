@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2931
+DISS_ME: 2931
+ISO_3166_2: MK-49
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Lozovo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.LO
+NOTE: null
+HASC_MAYBE: null
+REGION: Vardar
+REGION_COD: null
+PROVNUM_NE: 20063
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: LO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK35
+FIPS_ALT: null
+WOE_ID: 24550785
+WOE_LABEL: null
+WOE_NAME: Lozovo Municipality
+LATITUDE: 41.7258
+LONGITUDE: 21.915
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 862975
+GN_NAME: Opstina Lozovo
+GNS_ID: 9043603
+GNS_NAME: Lozovo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.60
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK60
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1996470
+NAME_AR: بلدية لوزوفو
+NAME_BN: লোজোভো পৌরসভা
+NAME_DE: Opština Lozovo
+NAME_EN: Lozovo Municipality
+NAME_ES: Municipalidad de Lozovo
+NAME_FR: Lozovo
+NAME_EL: Δήμος Λοζόβου
+NAME_HI: लोज़ोवो नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Lozovo
+NAME_IT: Lozovo
+NAME_JA: ロゾヴォ
+NAME_KO: 로조보 시
+NAME_NL: Lozovo
+NAME_PL: Gmina Łozowo
+NAME_PT: Lozovo
+NAME_RU: Лозово
+NAME_SV: Lozovo
+NAME_TR: Lozova Belediyesi
+NAME_VI: Đô thị tự trị Lozovo
+NAME_ZH: 洛佐沃區
+NE_ID: 1159314477

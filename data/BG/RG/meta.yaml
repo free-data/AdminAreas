@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2256
+DISS_ME: 2256
+ISO_3166_2: BG-17
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Razgrad
+NAME_ALT: null
+NAME_LOCAL: Разград
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.RG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20021
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: RG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU52
+FIPS_ALT: BU35
+WOE_ID: 20070071
+WOE_LABEL: Razgrad, BG, Bulgaria
+WOE_NAME: Razgrad
+LATITUDE: 43.6291
+LONGITUDE: 26.5873
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 453751
+GN_NAME: Oblast Razgrad
+GNS_ID: -3431455
+GNS_NAME: Razgrad
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.52
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: BU52
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2790675
+NAME_AR: محافظة رازغراد
+NAME_BN: রাজগ্রাদ প্রদেশ
+NAME_DE: Oblast Rasgrad
+NAME_EN: Razgrad Province
+NAME_ES: Razgrad
+NAME_FR: Razgrad
+NAME_EL: Ράζγκραντ
+NAME_HI: रैज़ग्रेड प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Razgrad
+NAME_IT: distretto di Razgrad
+NAME_JA: ラズグラト州
+NAME_KO: 라즈그라드 주
+NAME_NL: Razgrad
+NAME_PL: Obwód Razgrad
+NAME_PT: Razgrad
+NAME_RU: Разградская область
+NAME_SV: Razgrad
+NAME_TR: Razgrad ili
+NAME_VI: Razgrad
+NAME_ZH: 拉兹格勒州
+NE_ID: 1159312449

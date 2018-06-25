@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1237
+DISS_ME: 1237
+ISO_3166_2: ID-SR
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 1
+NAME: Sulawesi Barat
+NAME_ALT: Sulsel
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.SR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID41
+FIPS_ALT: ID20
+WOE_ID: 28350155
+WOE_LABEL: West Sulawesi, ID, Indonesia
+WOE_NAME: Sulawesi Barat
+LATITUDE: -2.69615
+LONGITUDE: 119.316
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1996550
+GN_NAME: Provinsi Sulawesi Barat
+GNS_ID: 9198112
+GNS_NAME: Sulawesi Barat, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID41
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5082
+NAME_AR: سولاوسي الغربية
+NAME_BN: ওয়েস্ট সুলাবেসি
+NAME_DE: Westsulawesi
+NAME_EN: West Sulawesi
+NAME_ES: Célebes Occidental
+NAME_FR: Sulawesi occidental
+NAME_EL: Γουέστ Σουλαβέσι
+NAME_HI: पश्चिम सुलावेसी
+NAME_HU: null
+NAME_ID: Sulawesi Barat
+NAME_IT: Sulawesi Occidentale
+NAME_JA: 西スラウェシ州
+NAME_KO: 술라웨시바랏 주
+NAME_NL: West-Celebes
+NAME_PL: Celebes Zachodni
+NAME_PT: Celebes Ocidental
+NAME_RU: Западный Сулавеси
+NAME_SV: Sulawesi Barat
+NAME_TR: Batı Sulawesi
+NAME_VI: Tây Sulawesi
+NAME_ZH: 西苏拉威西省
+NE_ID: 1159310005

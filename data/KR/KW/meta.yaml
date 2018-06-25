@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: KOR-2496
+DISS_ME: 2496
+ISO_3166_2: KR-42
+WIKIPEDIA: http://en.wikipedia.org/wiki/Gangwon_Province_(South_Korea)
+ISO_A2: KR
+ADM0_SR: 1
+NAME: Gangwon
+NAME_ALT: Kang-Won-Do|Gang'weondo|Kangwon-do|Kogen-do|South Kangwon
+NAME_LOCAL: 강원도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: 32
+CODE_HASC: KR.KW
+NOTE: 32 (NSO Code)
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: KW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: KS06
+FIPS_ALT: null
+WOE_ID: 2345966
+WOE_LABEL: Kangwon-Do, KR, South Korea
+WOE_NAME: Gangwon-do
+LATITUDE: 37.7951
+LONGITUDE: 128.22
+SOV_A3: KOR
+ADM0_A3: KOR
+ADM0_LABEL: 2
+ADMIN: South Korea
+GEONUNIT: South Korea
+GU_A3: KOR
+GN_ID: 1843125
+GN_NAME: Gangwon-do
+GNS_ID: -709262
+GNS_NAME: Gangwon-do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KR.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KS06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q41071
+NAME_AR: مقاطعة غانغوون
+NAME_BN: গাংওয়ান
+NAME_DE: Gangwon-do
+NAME_EN: Gangwon Province
+NAME_ES: Gangwon
+NAME_FR: Gangwon
+NAME_EL: Γκάνγουον-ντο
+NAME_HI: गैंगवॉन प्रांत
+NAME_HU: Kangvon
+NAME_ID: Gangwon
+NAME_IT: Gangwon
+NAME_JA: 江原道
+NAME_KO: 강원도
+NAME_NL: Gangwon-do
+NAME_PL: Gangwon
+NAME_PT: Gangwon
+NAME_RU: Канвондо
+NAME_SV: Gangwon
+NAME_TR: Kangvon
+NAME_VI: Gangwon
+NAME_ZH: 江原道
+NE_ID: 1159312111

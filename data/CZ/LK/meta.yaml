@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CZE-1597
+DISS_ME: 1597
+ISO_3166_2: CZ-LI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Liberec_Region
+ISO_A2: CZ
+ADM0_SR: 1
+NAME: Liberecký
+NAME_ALT: Reichenberg| Liberec
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CZ.LK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: CZE-SVC
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: LK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: EZ83
+FIPS_ALT: EZ83
+WOE_ID: 20070498
+WOE_LABEL: LibereckÃ½, CZ, Czech Republic
+WOE_NAME: Liberecký
+LATITUDE: 50.7339
+LONGITUDE: 14.9186
+SOV_A3: CZE
+ADM0_A3: CZE
+ADM0_LABEL: 5
+ADMIN: Czech Republic
+GEONUNIT: Czech Republic
+GU_A3: CZE
+GN_ID: 3339541
+GN_NAME: Liberecky kraj
+GNS_ID: 9044937
+GNS_NAME: Liberecky Kraj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CZ.83
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: EZ83
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q193266
+NAME_AR: إقليم ليبيريتس
+NAME_BN: লাইবেরেক অঞ্চল
+NAME_DE: Liberecký kraj
+NAME_EN: Liberec Region
+NAME_ES: Región de Liberec
+NAME_FR: région de Liberec
+NAME_EL: Περιφέρεια Λίμπερετς
+NAME_HI: लिबेरेक प्रदेश
+NAME_HU: Libereci kerület
+NAME_ID: Daerah Liberec
+NAME_IT: regione di Liberec
+NAME_JA: リベレツ州
+NAME_KO: 리베레츠 주
+NAME_NL: Liberec
+NAME_PL: Kraj liberecki
+NAME_PT: Liberec
+NAME_RU: Либерецкий край
+NAME_SV: Liberec
+NAME_TR: Liberec Bölgesi
+NAME_VI: Liberec
+NAME_ZH: 利贝雷茨州
+NE_ID: 1159312681

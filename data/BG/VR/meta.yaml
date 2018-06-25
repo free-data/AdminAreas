@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2251
+DISS_ME: 2251
+ISO_3166_2: BG-06
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Vratsa
+NAME_ALT: Vraca
+NAME_LOCAL: Враца
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.VR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: VR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU64
+FIPS_ALT: BU33|BU64
+WOE_ID: 20070057
+WOE_LABEL: Vratsa, BG, Bulgaria
+WOE_NAME: Vratsa
+LATITUDE: 43.4325
+LONGITUDE: 23.832
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 725713
+GN_NAME: Oblast Vratsa
+GNS_ID: -839809
+GNS_NAME: Vratsa, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.64
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU64
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2012785
+NAME_AR: مقاطعة فراتسا
+NAME_BN: ভ্রাসা প্রদেশ
+NAME_DE: Oblast Wraza
+NAME_EN: Vratsa Province
+NAME_ES: Vratsa
+NAME_FR: Vratsa
+NAME_EL: Βράτσα
+NAME_HI: व्रतसा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Vratsa
+NAME_IT: distretto di Vraca
+NAME_JA: ヴラツァ州
+NAME_KO: 브라차 주
+NAME_NL: Vratsa
+NAME_PL: Obwód Wraca
+NAME_PT: Vratsa
+NAME_RU: Врачанская область
+NAME_SV: Vratsa
+NAME_TR: Vratsa ili
+NAME_VI: Vratsa
+NAME_ZH: 弗拉察州
+NE_ID: 1159312499

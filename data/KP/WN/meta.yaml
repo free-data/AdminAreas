@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PRK-3304
+DISS_ME: 3304
+ISO_3166_2: KP-05
+WIKIPEDIA: null
+ISO_A2: KP
+ADM0_SR: 5
+NAME: Hwanghae-namdo
+NAME_ALT: South Hwanghae|South Hwanghai
+NAME_LOCAL: 	황해남도
+TYPE: Do
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KP.WN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: WN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 14
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: KN06
+FIPS_ALT: null
+WOE_ID: 2345952
+WOE_LABEL: Hwanghae-namdo, KP, North Korea
+WOE_NAME: Hwanghae-namdo
+LATITUDE: 37.7337
+LONGITUDE: 125.279
+SOV_A3: PRK
+ADM0_A3: PRK
+ADM0_LABEL: 2
+ADMIN: North Korea
+GEONUNIT: North Korea
+GU_A3: PRK
+GN_ID: 1876884
+GN_NAME: Hwanghae-namdo
+GNS_ID: -176113
+GNS_NAME: Hwanghae-namdo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KP.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: KN06
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q626052
+NAME_AR: جنوب مقاطعة هوانغاي
+NAME_BN: দক্ষিন হয়াংহে প্রদেশ
+NAME_DE: Hwanghae-namdo
+NAME_EN: South Hwanghae Province
+NAME_ES: Hwanghae del Sur
+NAME_FR: Hwanghae du Sud
+NAME_EL: Νότιο Χουάνγκχε
+NAME_HI: दक्षिण ह्वांगे प्रांत
+NAME_HU: Dél-Hvanghe
+NAME_ID: Hwanghae Selatan
+NAME_IT: Sud Hwanghae
+NAME_JA: 黄海南道
+NAME_KO: 황해남도
+NAME_NL: Hwanghae-namdo
+NAME_PL: Hwanghae Południowe
+NAME_PT: Hwanghae Sul
+NAME_RU: Хванхэ-Намдо
+NAME_SV: Södra Hwanghae
+NAME_TR: Güney Hwanghae
+NAME_VI: Hwanghae Nam
+NAME_ZH: 黄海南道
+NE_ID: 1159315261

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3337
+DISS_ME: 3337
+ISO_3166_2: TZ-11
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 3
+NAME: Zanzibar South and Central
+NAME_ALT: Kusini Unguja|Zanzibar Central/South
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.ZS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: ZS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 26
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ21
+FIPS_ALT: null
+WOE_ID: 2347372
+WOE_LABEL: Zanzibar South and Central, TZ, Tanzania
+WOE_NAME: Zanzibar South and Central
+LATITUDE: -6.2741
+LONGITUDE: 39.4241
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 3
+ADMIN: United Republic of Tanzania
+GEONUNIT: Zanzibar
+GU_A3: TZZ
+GN_ID: 148728
+GN_NAME: Zanzibar Central/South Region
+GNS_ID: -2574825
+GNS_NAME: Kusini Unguja, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ21
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q643120
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Zanzibar Central/South
+NAME_EN: Zanzibar Central/South Region
+NAME_ES: Región de Zanzibar Central/South
+NAME_FR: Unguja Sud et Central
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: regione di Zanzibar Centro-Sud
+NAME_JA: ザンジバル中部・南部州
+NAME_KO: 잔지바르 중부·남부 주
+NAME_NL: Centraal- en Zuid-Zanzibar
+NAME_PL: Zanzibar Południowy
+NAME_PT: Zanzibar Central/South
+NAME_RU: Занзибар Центрально-Южный
+NAME_SV: Södra Zanzibar
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 尚西巴南區
+NE_ID: 1159314983

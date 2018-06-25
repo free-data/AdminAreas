@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GUY-673
+DISS_ME: 673
+ISO_3166_2: GY-UT
+WIKIPEDIA: null
+ISO_A2: GY
+ADM0_SR: 1
+NAME: Upper Takutu-Upper Essequibo
+NAME_ALT: Upper Takutu-Upper Essequibo
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GY.UT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: UT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 28
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: GY19
+FIPS_ALT: GY19
+WOE_ID: 2345611
+WOE_LABEL: Upper Demerara-Berbice, GY, Guyana
+WOE_NAME: Upper Takutu-Upper Essequibo
+LATITUDE: 5.36479
+LONGITUDE: -58.2455
+SOV_A3: GUY
+ADM0_A3: GUY
+ADM0_LABEL: 2
+ADMIN: Guyana
+GEONUNIT: Guyana
+GU_A3: GUY
+GN_ID: 3375469
+GN_NAME: Upper Demerara-Berbice Region
+GNS_ID: -923448
+GNS_NAME: Upper Demerara-Berbice
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GY.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: GY18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1516381
+NAME_AR: أبر كاتوكو - أبر ايسيكوبيو
+NAME_BN: আপার টাকুটু-আপার এসেকুইবো
+NAME_DE: Upper Takutu-Upper Essequibo
+NAME_EN: Upper Takutu-Upper Essequibo
+NAME_ES: Alto Tacutu-Alto Esequibo
+NAME_FR: Haut-Takutu-Haut-Essequibo
+NAME_EL: Άπερ Τακούτου-Άπερ Εσεκουίμπο
+NAME_HI: ऊपरी टकूटू-ऊपरी एसेकिबो
+NAME_HU: null
+NAME_ID: Takutu Hulu-Essequibo Hulu
+NAME_IT: Alto Takutu-Alto Essequibo
+NAME_JA: アッパー・タクトゥ＝アッパー・エセキボ州
+NAME_KO: 어퍼타쿠투어퍼에세키보 주
+NAME_NL: Upper Takutu-Upper Essequibo
+NAME_PL: Upper Takutu-Upper Essequibo
+NAME_PT: Alto Takutu-Alto Essequibo
+NAME_RU: Аппер-Такуту-Аппер-Эссекибо
+NAME_SV: Upper Takatu-Upper Esseqiubo
+NAME_TR: Upper Takutu- Upper Essequibo
+NAME_VI: Thượng Takutu-Thượng Essequibo
+NAME_ZH: 上塔库图-上埃塞奎博
+NE_ID: 1159308889

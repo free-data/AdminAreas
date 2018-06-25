@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2393
+DISS_ME: 2393
+ISO_3166_2: RU-SAR
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Saratov
+NAME_ALT: Saratovskaya Oblast
+NAME_LOCAL: Саратовская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.SR
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20053
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS67
+FIPS_ALT: null
+WOE_ID: 2346924
+WOE_LABEL: Saratovskaya Oblast, RU, Russia
+WOE_NAME: Saratov
+LATITUDE: 51.6742
+LONGITUDE: 46.6368
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 498671
+GN_NAME: Saratovskaya Oblast'
+GNS_ID: -2996578
+GNS_NAME: Saratovskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.67
+REGION_SUB: Volga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS67
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5334
+NAME_AR: ساراتوف أوبلاست
+NAME_BN: সারাতোভ ওব্লাস্ট
+NAME_DE: Oblast Saratow
+NAME_EN: Saratov Oblast
+NAME_ES: Óblast de Sarátov
+NAME_FR: Oblast de Saratov
+NAME_EL: Περιφέρεια Σαράτοβ
+NAME_HI: साराटोव ओब्लास्ट
+NAME_HU: Szaratovi terület
+NAME_ID: Oblast Saratov
+NAME_IT: oblast' di Saratov
+NAME_JA: サラトフ州
+NAME_KO: 사라토프 주
+NAME_NL: Oblast Saratov
+NAME_PL: Obwód saratowski
+NAME_PT: Oblast de Saratov
+NAME_RU: Саратовская область
+NAME_SV: Saratov oblast
+NAME_TR: Saratov Oblastı
+NAME_VI: Saratov
+NAME_ZH: 萨拉托夫州
+NE_ID: 1159313213

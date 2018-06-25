@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2491
+DISS_ME: 2491
+ISO_3166_2: BT-43
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Pemagatsel
+NAME_ALT: Pema Gatshel|Pemagatshel
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.PM
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT14
+FIPS_ALT: null
+WOE_ID: 2344881
+WOE_LABEL: Pemagatsel, BT, Bhutan
+WOE_NAME: Pemagatsel
+LATITUDE: 26.9641
+LONGITUDE: 91.3405
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337287
+GN_NAME: Pemagatshel Dzongkhag
+GNS_ID: 220707
+GNS_NAME: Pemagatshel Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT14
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q167279
+NAME_AR: مقاطعة بيماغاتشيل
+NAME_BN: পেমাগাটসেল জেলা
+NAME_DE: Pemagatshel
+NAME_EN: Pemagatshel District
+NAME_ES: Distrito de Pemagatshel
+NAME_FR: Pemagatshel
+NAME_EL: Πεμαγκάτσελ
+NAME_HI: पेमेगात्सेल जिला
+NAME_HU: Pemagatshel körzet
+NAME_ID: Distrik Pemagatshel
+NAME_IT: distretto di Pemagatshel
+NAME_JA: ペマガツェル県
+NAME_KO: 페마가첼 현
+NAME_NL: Pemagatshel
+NAME_PL: Dystrykt Pemagatshel
+NAME_PT: Pemagatshel
+NAME_RU: Пемагацел
+NAME_SV: Pemagatshel
+NAME_TR: Pemagatshe District
+NAME_VI: Quận Pemagatshel
+NAME_ZH: 佩马加策尔宗
+NE_ID: 1159311817

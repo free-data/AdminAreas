@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5663
+DISS_ME: 5663
+ISO_3166_2: GB-STY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: South Tyneside
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.SX
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKM7
+FIPS_ALT: null
+WOE_ID: -12602156
+WOE_LABEL: null
+WOE_NAME: Tyne and Wear
+LATITUDE: 54.9526
+LONGITUDE: -1.44209
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333199
+GN_NAME: Borough of South Tyneside
+GNS_ID: 6077641
+GNS_NAME: South Tyneside, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.M7
+REGION_SUB: Tyne and Wear
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1541228
+NAME_AR: null
+NAME_BN: null
+NAME_DE: South Tyneside
+NAME_EN: South Tyneside
+NAME_ES: null
+NAME_FR: South Tyneside
+NAME_EL: null
+NAME_HI: null
+NAME_HU: South Tyneside
+NAME_ID: null
+NAME_IT: South Tyneside
+NAME_JA: サウス・タインサイド
+NAME_KO: 사우스타인사이드
+NAME_NL: South Tyneside
+NAME_PL: South Tyneside
+NAME_PT: null
+NAME_RU: Саут-Тайнсайд
+NAME_SV: South Tyneside
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 南泰因賽德
+NE_ID: 1159317475

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-410
+DISS_ME: 410
+ISO_3166_2: TH-25
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Prachin Buri
+NAME_ALT: null
+NAME_LOCAL: จังหวัดปราจีนบุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PB
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 75
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH74
+FIPS_ALT: TH43
+WOE_ID: 20069926
+WOE_LABEL: Prachin Buri, TH, Thailand
+WOE_NAME: Prachin Buri
+LATITUDE: 14.1081
+LONGITUDE: 101.594
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1906687
+GN_NAME: Changwat Prachin Buri
+GNS_ID: -3253687
+GNS_NAME: Prachin Buri, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.74
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH74
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q321324
+NAME_AR: محافظة براشينبوري
+NAME_BN: প্রচীন বুরি
+NAME_DE: Prachinburi
+NAME_EN: Prachin Buri
+NAME_ES: Provincia de Prachinburi
+NAME_FR: Prachin Buri
+NAME_EL: Πρατσίνμπουρι
+NAME_HI: प्राचीनबुरी प्रान्त
+NAME_HU: null
+NAME_ID: Prachin Buri
+NAME_IT: provincia di Prachinburi
+NAME_JA: プラーチーンブリー県
+NAME_KO: 쁘라찐부리 주
+NAME_NL: Changwat Prachinburi
+NAME_PL: Prowincja Prachinburi
+NAME_PT: Prachin Buri
+NAME_RU: Прачинбури
+NAME_SV: Prachin Buri
+NAME_TR: Prachinburi
+NAME_VI: Prachinburi
+NAME_ZH: 巴真府
+NE_ID: 1159308183

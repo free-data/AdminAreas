@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1270
+DISS_ME: 1270
+ISO_3166_2: EC-W
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 3
+NAME: Galápagos
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.GA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC01
+FIPS_ALT: null
+WOE_ID: 2345202
+WOE_LABEL: Galapagos, EC, Ecuador
+WOE_NAME: Galápagos
+LATITUDE: -1.36804
+LONGITUDE: -89.685
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 3
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3657879
+GN_NAME: Provincia de Galapagos
+GNS_ID: -927135
+GNS_NAME: Galapagos, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q475038
+NAME_AR: مقاطعة غالاباغوس
+NAME_BN: গালাপাগোস প্রদেশ
+NAME_DE: Provinz Galápagos
+NAME_EN: Galápagos Province
+NAME_ES: Provincia de Galápagos
+NAME_FR: province de Galápagos
+NAME_EL: Γκαλαπάγκος
+NAME_HI: गैलापागोस प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Galápagos
+NAME_IT: provincia delle Galápagos
+NAME_JA: ガラパゴス県
+NAME_KO: 갈라파고스 주
+NAME_NL: Galápagos
+NAME_PL: Prowincja Galápagos
+NAME_PT: Galápagos
+NAME_RU: Галапагос
+NAME_SV: Galápagos
+NAME_TR: Galapagos Province
+NAME_VI: Tỉnh Galápagos
+NAME_ZH: 加拉帕戈斯省
+NE_ID: 1159309933

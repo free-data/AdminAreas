@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1170
+DISS_ME: 1170
+ISO_3166_2: TW-CYQ
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 7
+NAME: Chiayi
+NAME_ALT: Jiayi|Chiai
+NAME_LOCAL: null
+TYPE: Hsien
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: TW.TW.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: Taiwan Province
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 7153409
+WOE_LABEL: null
+WOE_NAME: Chiayi County
+LATITUDE: 23.4465
+LONGITUDE: 120.26
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1678835
+GN_NAME: Chiayi
+GNS_ID: -2627340
+GNS_NAME: Jiayi Xian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.CYQ
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q166977
+NAME_AR: مقاطعة شياي
+NAME_BN: চিয়ায়ি কাউন্টি
+NAME_DE: Landkreis Chiayi
+NAME_EN: Chiayi County
+NAME_ES: Condado del Chiayai
+NAME_FR: comté de Chiayi
+NAME_EL: Κομητεία Τσιαγί
+NAME_HI: चायेई काउंटी
+NAME_HU: null
+NAME_ID: Kabupaten Chiayi
+NAME_IT: contea di Chiayi
+NAME_JA: 嘉義県
+NAME_KO: 자이 현
+NAME_NL: Chiayi
+NAME_PL: Jiayi
+NAME_PT: Condado de Chiayi
+NAME_RU: Цзяи
+NAME_SV: Chiayi
+NAME_TR: Chiayi Country
+NAME_VI: Gia Nghĩa
+NAME_ZH: 嘉義縣
+NE_ID: 1159308289

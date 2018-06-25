@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-376
+DISS_ME: 376
+ISO_3166_2: TH-80
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Nakhon Si Thammarat
+NAME_ALT: Nakhon Thammarat|Nagara Sridharmaraj|Nakhon Sri Thammarat|Nakhornsrithamrat|Nakornsrithamaraj
+NAME_LOCAL: จังหวัดนครศรีธรรมราช
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.NT
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 19
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH64
+FIPS_ALT: null
+WOE_ID: 2347188
+WOE_LABEL: Nakhon Si Thammarat, TH, Thailand
+WOE_NAME: Nakhon Si Thammarat
+LATITUDE: 8.37448
+LONGITUDE: 99.7819
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1608525
+GN_NAME: Changwat Nakhon Si Thammarat
+GNS_ID: -3251563
+GNS_NAME: Nakhon Si Thammarat, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.64
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH64
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q244691
+NAME_AR: محافظة ناخون سي تاممارات
+NAME_BN: নাখন সি থামমারাত
+NAME_DE: Provinz Nakhon Si Thammarat
+NAME_EN: Nakhon Si Thammarat
+NAME_ES: Provincia de Nakhon Si Thammarat
+NAME_FR: Nakhon Si Thammarat
+NAME_EL: Επαρχία Νακόν Σι Ταμμαράτ
+NAME_HI: नखोन सी थम्मारात प्रान्त
+NAME_HU: Nakhonszithammarat tartomány
+NAME_ID: Provinsi Nakhon Si Thammarat
+NAME_IT: provincia di Nakhon Si Thammarat
+NAME_JA: ナコーンシータンマラート県
+NAME_KO: 나콘시탐마랏 주
+NAME_NL: Changwat Nakhon Si Thammarat
+NAME_PL: Prowincja Nakhon Si Thammarat
+NAME_PT: Província de Nakhon Si Thammarat
+NAME_RU: Накхонситхаммарат
+NAME_SV: Provins Nakhon Si Thammarat
+NAME_TR: Nakhon Si Thammarat
+NAME_VI: Nakhon Si Thammarat
+NAME_ZH: 洛坤府
+NE_ID: 1159308159

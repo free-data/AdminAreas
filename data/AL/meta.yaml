@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Albania
+SOV_A3: ALB
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Albania
+ADM0_A3: ALB
+GEOU_DIF: 0
+GEOUNIT: Albania
+GU_A3: ALB
+SU_DIF: 0
+SUBUNIT: Albania
+SU_A3: ALB
+BRK_DIFF: 0
+NAME: Albania
+NAME_LONG: Albania
+BRK_A3: ALB
+BRK_NAME: Albania
+BRK_GROUP: null
+ABBREV: Alb.
+POSTAL: AL
+FORMAL_EN: Republic of Albania
+FORMAL_FR: null
+NAME_CIAWF: Albania
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Albania
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 4
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+POP_EST: 3047987
+POP_RANK: 12
+GDP_MD_EST: 33900
+POP_YEAR: 2017
+LASTCENSUS: 2001
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: AL
+ISO_A2: AL
+ISO_A3: ALB
+ISO_A3_EH: ALB
+ISO_N3: 008
+UN_A3: 008
+WB_A2: AL
+WB_A3: ALB
+WOE_ID: 23424742
+WOE_ID_EH: 23424742
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ALB
+ADM0_A3_US: ALB
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159320325
+WIKIDATAID: Q222
+NAME_AR: ألبانيا
+NAME_BN: আলবেনিয়া
+NAME_DE: Albanien
+NAME_EN: Albania
+NAME_ES: Albania
+NAME_FR: Albanie
+NAME_EL: Αλβανία
+NAME_HI: अल्बानिया
+NAME_HU: Albánia
+NAME_ID: Albania
+NAME_IT: Albania
+NAME_JA: アルバニア
+NAME_KO: 알바니아
+NAME_NL: Albanië
+NAME_PL: Albania
+NAME_PT: Albânia
+NAME_RU: Албания
+NAME_SV: Albanien
+NAME_TR: Arnavutluk
+NAME_VI: Albania
+NAME_ZH: 阿尔巴尼亚

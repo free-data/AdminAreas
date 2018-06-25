@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDN-881
+DISS_ME: 881
+ISO_3166_2: SD-DN
+WIKIPEDIA: null
+ISO_A2: SD
+ADM0_SR: 1
+NAME: North Darfur
+NAME_ALT: North Darfur|Darfur ash Shamaliyah|Shamal Darfur|Darfur septentrional
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SD.ND
+NOTE: null
+HASC_MAYBE: null
+REGION: Darfur
+REGION_COD: SDN-DRF
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: N. Darfur
+POSTAL: ND
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 1
+FIPS: SU55
+FIPS_ALT: SU07
+WOE_ID: 20069895
+WOE_LABEL: Shamal Darfur, SD, Sudan
+WOE_NAME: North Darfur
+LATITUDE: 16.4602
+LONGITUDE: 25.506
+SOV_A3: SDN
+ADM0_A3: SDN
+ADM0_LABEL: 2
+ADMIN: Sudan
+GEONUNIT: Sudan
+GU_A3: SDN
+GN_ID: 408666
+GN_NAME: Northern Darfur State
+GNS_ID: 315442
+GNS_NAME: Northern Darfur State
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SD.55
+REGION_SUB: Darfour|Dārfūr
+SUB_CODE: SU33
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SU55
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q688306
+NAME_AR: ولاية شمال دارفور
+NAME_BN: দক্ষিন দারফুর
+NAME_DE: Schamal Darfur
+NAME_EN: North Darfur
+NAME_ES: Darfur del Norte
+NAME_FR: Darfour du Nord
+NAME_EL: Βόρειο Νταρφούρ
+NAME_HI: उत्तरी दार्फुर
+NAME_HU: null
+NAME_ID: Darfur Utara
+NAME_IT: Darfur Settentrionale
+NAME_JA: 北ダルフール州
+NAME_KO: 북다르푸르 주
+NAME_NL: Shamal-Darfur
+NAME_PL: Darfur Północny
+NAME_PT: Darfur do Norte
+NAME_RU: Северный Дарфур
+NAME_SV: Shamal Darfur
+NAME_TR: Kuzey Darfur Eyaleti
+NAME_VI: Bắc Darfur
+NAME_ZH: 北達爾富爾省
+NE_ID: 1159309217

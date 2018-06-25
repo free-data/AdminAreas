@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-141
+DISS_ME: 141
+ISO_3166_2: SY-HA
+WIKIPEDIA: null
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Hasaka (Al Haksa)
+NAME_ALT: Al Hasaka|Al-Haska|Al Hassake|El Haseke|Haseke|Hassakeh|Hazakieh|Hassetché|Al Jezira|Jezireh
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 17
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY01
+FIPS_ALT: null
+WOE_ID: 2347069
+WOE_LABEL: Al H'asakah, SY, Syria
+WOE_NAME: Hasaka (Al Haksa)
+LATITUDE: 36.3536
+LONGITUDE: 40.9092
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 173813
+GN_NAME: Muhafazat al Hasakah
+GNS_ID: -2538085
+GNS_NAME: Hasakah, Muhafazat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY01
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q233914
+NAME_AR: محافظة الحسكة
+NAME_BN: আল-হাসাকাহ গভর্নোরেট
+NAME_DE: Gouvernement al-Hasaka
+NAME_EN: Al-Hasakah Governorate
+NAME_ES: Gobernación de Hasaka
+NAME_FR: Gouvernorat d'al-Hasaka
+NAME_EL: Αλ Χασακά
+NAME_HI: अल-हसकाह प्रान्त
+NAME_HU: Haszaka kormányzóság
+NAME_ID: Kegubernuran Al-Hasakah
+NAME_IT: governatorato di al-Hasaka
+NAME_JA: ハサカ県
+NAME_KO: 하사카 주
+NAME_NL: Al-Hasakah
+NAME_PL: Al-Hasaka
+NAME_PT: Al-Hasakah
+NAME_RU: Хасеке
+NAME_SV: Al-Hasakah
+NAME_TR: Hasiçi
+NAME_VI: Al-Hasakah
+NAME_ZH: 哈塞克省
+NE_ID: 1159308439

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-4856
+DISS_ME: 4856
+ISO_3166_2: CF-MP
+WIKIPEDIA: http://en.wikipedia.org/wiki/Ombella-M%27Poko
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Ombella-M'Poko
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.MP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: MP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 8
+NAME_LEN: 14
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT17
+FIPS_ALT: null
+WOE_ID: 2345104
+WOE_LABEL: Ombella-M'Poko, CF, Central African Republic
+WOE_NAME: Ombella-M'Poko
+LATITUDE: 5.17659
+LONGITUDE: 17.802
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 2383765
+GN_NAME: Ombella-Mpoko
+GNS_ID: -1349192
+GNS_NAME: Ombella-Mpoko, Prefecture de l'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT17
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q378970
+NAME_AR: أومبلامبوكو
+NAME_BN: ওম্বেলা-ম'পোকো প্রশাসনিক অঞ্চল
+NAME_DE: Ombella-Mpoko
+NAME_EN: Ombella-M'Poko Prefecture
+NAME_ES: Ombella-M'Poko
+NAME_FR: Ombella-M'Poko
+NAME_EL: Ομπέλα-Μπόκο
+NAME_HI: ओम्बेला-मोपोको प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Ombella-M'Poko
+NAME_IT: prefettura di Ombella-M'Poko
+NAME_JA: オンベラ・ムポコ州
+NAME_KO: 옴벨라음포코 주
+NAME_NL: Ombella-M'Poko
+NAME_PL: Prefektura Ombella-M'Poko
+NAME_PT: Ombella-M'Poko
+NAME_RU: Омбелла-Мпоко
+NAME_SV: Ombella-Mpoko
+NAME_TR: Ombella-Mpoko
+NAME_VI: Tỉnh Ombella-M'Poko
+NAME_ZH: 翁貝拉－姆波科省
+NE_ID: 1159310111

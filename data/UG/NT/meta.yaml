@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3372
+DISS_ME: 3372
+ISO_3166_2: UG-411
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Ntungamo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.NT
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-STH
+PROVNUM_NE: 20036
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: NT
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG59
+FIPS_ALT: null
+WOE_ID: 20070440
+WOE_LABEL: Ntungamo, UG, Uganda
+WOE_NAME: Ntungamo
+LATITUDE: -0.976405
+LONGITUDE: 30.3139
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443361
+GN_NAME: Ntungamo District
+GNS_ID: 9050789
+GNS_NAME: Ntungamo District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.59
+REGION_SUB: null
+SUB_CODE: UG24
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG59
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q204642
+NAME_AR: مقاطعة نتونغامو
+NAME_BN: নানগামো জেলা
+NAME_DE: Distrikt Ntungamo
+NAME_EN: Ntungamo District
+NAME_ES: Distrito de Ntungamo
+NAME_FR: Ntungamo
+NAME_EL: Ντουνγκάμο
+NAME_HI: नटुंगामो जिला
+NAME_HU: null
+NAME_ID: Distrik Ntungamo
+NAME_IT: Ntungamo
+NAME_JA: ントゥンガモ県
+NAME_KO: 은퉁가모 구
+NAME_NL: Ntungamo
+NAME_PL: Dystrykt Ntungamo
+NAME_PT: Ntungamo
+NAME_RU: Нтунгамо
+NAME_SV: Ntungamodistriktet
+NAME_TR: Ntungamo District
+NAME_VI: Quận Ntungamo
+NAME_ZH: 恩通加莫区
+NE_ID: 1159315079

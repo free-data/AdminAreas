@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-995
+DISS_ME: 995
+ISO_3166_2: SI-126
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Šoštanj
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.SS
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 151
+GADM_LEVEL: 2
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: SS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIC7
+FIPS_ALT: null
+WOE_ID: -55848369
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.4223
+LONGITUDE: 14.9905
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239185
+GN_NAME: Obcina Sostanj
+GNS_ID: 243856
+GNS_NAME: Sostanj, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.C7
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI62
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q15923
+NAME_AR: بلدية شوشتاني
+NAME_BN: সস্তাঞ্জ পৌরসভা
+NAME_DE: Šoštanj
+NAME_EN: Šoštanj Municipality
+NAME_ES: Šoštanj
+NAME_FR: Šoštanj
+NAME_EL: Σοστάντζ
+NAME_HI: सोस्तांज नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Šoštanj
+NAME_IT: Šoštanj
+NAME_JA: ショーシュタニ
+NAME_KO: 쇼슈탄
+NAME_NL: Šoštanj
+NAME_PL: Gmina Šoštanj
+NAME_PT: Šoštanj
+NAME_RU: Шоштань
+NAME_SV: Sostanj kommun
+NAME_TR: Sostanj Belediyesi
+NAME_VI: Šoštanj
+NAME_ZH: 紹什塔尼
+NE_ID: 1159310793

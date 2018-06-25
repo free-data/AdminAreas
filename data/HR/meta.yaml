@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Croatia
+SOV_A3: HRV
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Croatia
+ADM0_A3: HRV
+GEOU_DIF: 0
+GEOUNIT: Croatia
+GU_A3: HRV
+SU_DIF: 0
+SUBUNIT: Croatia
+SU_A3: HRV
+BRK_DIFF: 0
+NAME: Croatia
+NAME_LONG: Croatia
+BRK_A3: HRV
+BRK_NAME: Croatia
+BRK_GROUP: null
+ABBREV: Cro.
+POSTAL: HR
+FORMAL_EN: Republic of Croatia
+FORMAL_FR: null
+NAME_CIAWF: Croatia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Croatia
+NAME_ALT: null
+MAPCOLOR7: 5
+MAPCOLOR8: 4
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+POP_EST: 4292095
+POP_RANK: 12
+GDP_MD_EST: 94240
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: HR
+ISO_A2: HR
+ISO_A3: HRV
+ISO_A3_EH: HRV
+ISO_N3: 191
+UN_A3: 191
+WB_A2: HR
+WB_A3: HRV
+WOE_ID: 23424843
+WOE_ID_EH: 23424843
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: HRV
+ADM0_A3_US: HRV
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320833
+WIKIDATAID: Q224
+NAME_AR: كرواتيا
+NAME_BN: ক্রোয়েশিয়া
+NAME_DE: Kroatien
+NAME_EN: Croatia
+NAME_ES: Croacia
+NAME_FR: Croatie
+NAME_EL: Κροατία
+NAME_HI: क्रोएशिया
+NAME_HU: Horvátország
+NAME_ID: Kroasia
+NAME_IT: Croazia
+NAME_JA: クロアチア
+NAME_KO: 크로아티아
+NAME_NL: Kroatië
+NAME_PL: Chorwacja
+NAME_PT: Croácia
+NAME_RU: Хорватия
+NAME_SV: Kroatien
+NAME_TR: Hırvatistan
+NAME_VI: Croatia
+NAME_ZH: 克罗地亚

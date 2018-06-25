@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3052
+DISS_ME: 3052
+ISO_3166_2: IQ-SD
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Sala ad-Din
+NAME_ALT: Salah ad-Din|Salaheddin
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 11
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ18
+FIPS_ALT: null
+WOE_ID: 2345850
+WOE_LABEL: S-Alah Ad Din, IQ, Iraq
+WOE_NAME: Sala ad-Din
+LATITUDE: 34.3421
+LONGITUDE: 43.7294
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 91695
+GN_NAME: Muhafazat Salah ad Din
+GNS_ID: -3110304
+GNS_NAME: Salah ad Din, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ18
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q190131
+NAME_AR: صلاح الدين
+NAME_BN: সালাহউদ্দিন প্রদেশ
+NAME_DE: Salah ad-Din
+NAME_EN: Saladin Governorate
+NAME_ES: Gobernación de Saladino
+NAME_FR: Salah ad-Din
+NAME_EL: Κυβερνείο Σαλαντίν
+NAME_HI: सलाहुद्दीन प्रान्त
+NAME_HU: Szaláh ed-Dín kormányzóság
+NAME_ID: Kegubernuran Salah ad Din
+NAME_IT: governatorato di Salah al-Din
+NAME_JA: サラーフッディーン県
+NAME_KO: 살라딘 주
+NAME_NL: Salah ad Din
+NAME_PL: Salah Ad-Din
+NAME_PT: Salah-ad-Din
+NAME_RU: Салах-эд-Дин
+NAME_SV: Saladin
+NAME_TR: Selahaddin ili
+NAME_VI: Tỉnh Saladin
+NAME_ZH: 萨拉赫丁省
+NE_ID: 1159314225

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GAB-2624
+DISS_ME: 2624
+ISO_3166_2: GA-8
+WIKIPEDIA: null
+ISO_A2: GA
+ADM0_SR: 5
+NAME: Ogooué-Maritime
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GA.OM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: OM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 15
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: GB08
+FIPS_ALT: null
+WOE_ID: 2345456
+WOE_LABEL: Ogooue-Martime, GA, Gabon
+WOE_NAME: Ogooué-Maritime
+LATITUDE: -0.682548
+LONGITUDE: 8.99566
+SOV_A3: GAB
+ADM0_A3: GAB
+ADM0_LABEL: 5
+ADMIN: Gabon
+GEONUNIT: Gabon
+GU_A3: GAB
+GN_ID: 2396924
+GN_NAME: Province de l' Ogooue-Maritime
+GNS_ID: -1329399
+GNS_NAME: Ogooue-Maritime
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GA.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GB08
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q823751
+NAME_AR: مقاطعة أوغووي - البحرية
+NAME_BN: ওগুয়ে-মেরিটাইম প্রদেশ
+NAME_DE: Ogooué-Maritime
+NAME_EN: Ogooué-Maritime Province
+NAME_ES: Provincia de Ogooué-Maritime
+NAME_FR: Ogooué-Maritime
+NAME_EL: Ογκοουέ-Μαριτίμε
+NAME_HI: ओगोउई-मेरीटाइम प्रांत
+NAME_HU: null
+NAME_ID: Ogooué-Maritime
+NAME_IT: provincia di Ogooué-Maritime
+NAME_JA: オゴウェ・マリティム州
+NAME_KO: 오고웨마리팀 주
+NAME_NL: Ogooué-Maritime
+NAME_PL: Ogowe Nadmorskie
+NAME_PT: Ogooué-Maritime
+NAME_RU: Огове-Маритим
+NAME_SV: Province de l'Ogooué-Maritime
+NAME_TR: Ogooué-Maritime
+NAME_VI: Ogooué-Maritime
+NAME_ZH: 濱海奧果韋省
+NE_ID: 1159313333

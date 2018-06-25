@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Liechtenstein
+SOV_A3: LIE
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Liechtenstein
+ADM0_A3: LIE
+GEOU_DIF: 0
+GEOUNIT: Liechtenstein
+GU_A3: LIE
+SU_DIF: 0
+SUBUNIT: Liechtenstein
+SU_A3: LIE
+BRK_DIFF: 0
+NAME: Liechtenstein
+NAME_LONG: Liechtenstein
+BRK_A3: LIE
+BRK_NAME: Liechtenstein
+BRK_GROUP: null
+ABBREV: Liech.
+POSTAL: FL
+FORMAL_EN: Principality of Liechtenstein
+FORMAL_FR: null
+NAME_CIAWF: Liechtenstein
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Liechtenstein
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 4
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+POP_EST: 38244
+POP_RANK: 7
+GDP_MD_EST: 4978
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2014
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 2. High income: nonOECD
+WIKIPEDIA: -99
+FIPS_10_: LS
+ISO_A2: LI
+ISO_A3: LIE
+ISO_A3_EH: LIE
+ISO_N3: 438
+UN_A3: 438
+WB_A2: LI
+WB_A3: LIE
+WOE_ID: 23424879
+WOE_ID_EH: 23424879
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: LIE
+ADM0_A3_US: LIE
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Western Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 13
+LONG_LEN: 13
+ABBREV_LEN: 6
+TINY: 6
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321021
+WIKIDATAID: Q347
+NAME_AR: ليختنشتاين
+NAME_BN: লিশটেনস্টাইন
+NAME_DE: Liechtenstein
+NAME_EN: Liechtenstein
+NAME_ES: Liechtenstein
+NAME_FR: Liechtenstein
+NAME_EL: Λίχτενσταϊν
+NAME_HI: लिक्टेन्स्टाइन
+NAME_HU: Liechtenstein
+NAME_ID: Liechtenstein
+NAME_IT: Liechtenstein
+NAME_JA: リヒテンシュタイン
+NAME_KO: 리히텐슈타인
+NAME_NL: Liechtenstein
+NAME_PL: Liechtenstein
+NAME_PT: Liechtenstein
+NAME_RU: Лихтенштейн
+NAME_SV: Liechtenstein
+NAME_TR: Lihtenştayn
+NAME_VI: Liechtenstein
+NAME_ZH: 列支敦斯登

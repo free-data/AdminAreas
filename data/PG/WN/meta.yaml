@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1257
+DISS_ME: 1257
+ISO_3166_2: PG-WBK
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 5
+NAME: West New Britain
+NAME_ALT: Nova Bretanha Ocidental|Nuova Britannia Occidentale
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.WN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: WN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 16
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP17
+FIPS_ALT: null
+WOE_ID: 2346597
+WOE_LABEL: West New Britain, PG, Papua New Guinea
+WOE_NAME: West New Britain
+LATITUDE: -5.91003
+LONGITUDE: 149.813
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2083546
+GN_NAME: West New Britain Province
+GNS_ID: -2203528
+GNS_NAME: West New Britain Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP17
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q667468
+NAME_AR: مقاطعة غرب بريطانيا الجديدة
+NAME_BN: পশ্চিম নিউ ব্রিটেন প্রদেশ
+NAME_DE: West New Britain Province
+NAME_EN: West New Britain Province
+NAME_ES: Nueva Bretaña del Oeste
+NAME_FR: Nouvelle-Bretagne occidentale
+NAME_EL: Δυτική Νέα Βρετανία
+NAME_HI: वेस्ट न्यू ब्रिटेन प्रोविंस
+NAME_HU: null
+NAME_ID: Provinsi Britania Baru Barat
+NAME_IT: provincia della Nuova Britannia Ovest
+NAME_JA: 西ニューブリテン州
+NAME_KO: 서뉴브리튼 주
+NAME_NL: West New Britain
+NAME_PL: Nowa Brytania Zachodnia
+NAME_PT: Nova Bretanha Ocidental
+NAME_RU: Западная Новая Британия
+NAME_SV: West New Britain
+NAME_TR: West New Britaion
+NAME_VI: Tỉnh Tây New Britain
+NAME_ZH: 西新不列顛省
+NE_ID: 1159308781

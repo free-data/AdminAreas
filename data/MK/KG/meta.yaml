@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2941
+DISS_ME: 2941
+ISO_3166_2: MK-45
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Krivogaštani
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: Pelagonia
+REGION_COD: null
+PROVNUM_NE: 20073
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK53
+FIPS_ALT: null
+WOE_ID: 24550781
+WOE_LABEL: null
+WOE_NAME: Krivogastani Municipality
+LATITUDE: 41.3012
+LONGITUDE: 21.3682
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863870
+GN_NAME: Opstina Krivogastani
+GNS_ID: 9075635
+GNS_NAME: Krivogastani, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.53
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK53
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2018930
+NAME_AR: بلدية كريفوغاشتاني
+NAME_BN: ক্রিভোগাস্টানি পৌরসভা
+NAME_DE: Opština Krivogaštani
+NAME_EN: Krivogaštani Municipality
+NAME_ES: Municipalidad de Krivogaštani
+NAME_FR: Krivogachtani
+NAME_EL: Δήμος Κριβοκάστανης
+NAME_HI: क्रिवोगस्तानी नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Krivogaštani
+NAME_IT: Krivogaštani
+NAME_JA: クリヴォガシュタニ
+NAME_KO: 크리보가슈타니 시
+NAME_NL: Krivogaštani
+NAME_PL: Gmina Kriwogasztani
+NAME_PT: Município de Krivogachtani
+NAME_RU: Кривогаштани
+NAME_SV: Krivogasjtani
+NAME_TR: Krivogastani Belediyesi
+NAME_VI: Đô thị tự trị Krivogastani
+NAME_ZH: 克里沃加什塔尼区
+NE_ID: 1159314499

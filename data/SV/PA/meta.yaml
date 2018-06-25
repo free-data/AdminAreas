@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1347
+DISS_ME: 1347
+ISO_3166_2: SV-PA
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: La Paz
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES06
+FIPS_ALT: null
+WOE_ID: 2345297
+WOE_LABEL: La Paz, SV, El Salvador
+WOE_NAME: La Paz
+LATITUDE: 13.4872
+LONGITUDE: -88.9628
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3585087
+GN_NAME: Departamento de La Paz
+GNS_ID: -1146354
+GNS_NAME: La Paz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES06
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1129788
+NAME_AR: إدارة لاباز
+NAME_BN: লা পাজ বিভাগ
+NAME_DE: La Paz
+NAME_EN: La Paz Department
+NAME_ES: La Paz
+NAME_FR: département de La Paz
+NAME_EL: Διαμέρισμα Λα Παζ
+NAME_HI: ला-पास
+NAME_HU: La Paz megye
+NAME_ID: Departemen La Paz
+NAME_IT: La Paz
+NAME_JA: ラ・パス県
+NAME_KO: 라파스 주
+NAME_NL: La Paz
+NAME_PL: La Paz
+NAME_PT: La Paz
+NAME_RU: Ла-Пас
+NAME_SV: La Paz
+NAME_TR: Le Paz Departmanı
+NAME_VI: Tỉnh La Paz
+NAME_ZH: 拉巴斯省
+NE_ID: 1159309045

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 6
+LABELRANK: 5
+SOVEREIGNT: United States of America
+SOV_A3: US1
+ADM0_DIF: 1
+LEVEL: 2
+TYPE: Dependency
+ADMIN: United States Minor Outlying Islands
+ADM0_A3: UMI
+GEOU_DIF: 0
+GEOUNIT: United States Minor Outlying Islands
+GU_A3: UMI
+SU_DIF: 0
+SUBUNIT: United States Minor Outlying Islands
+SU_A3: UMI
+BRK_DIFF: 0
+NAME: U.S. Minor Outlying Is.
+NAME_LONG: United States Minor Outlying Islands
+BRK_A3: UMI
+BRK_NAME: U.S. Minor Outlying Is.
+BRK_GROUP: null
+ABBREV: U.S. MOI
+POSTAL: UM
+FORMAL_EN: null
+FORMAL_FR: null
+NAME_CIAWF: null
+NOTE_ADM0: U.S.A.
+NOTE_BRK: null
+NAME_SORT: United States Minor Outlying Islands
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+POP_EST: 300
+POP_RANK: 2
+GDP_MD_EST: 0
+POP_YEAR: 0
+LASTCENSUS: -99
+GDP_YEAR: 0
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: -99
+ISO_A2: UM
+ISO_A3: UMI
+ISO_A3_EH: UMI
+ISO_N3: 581
+UN_A3: -099
+WB_A2: -99
+WB_A3: -99
+WOE_ID: 28289407
+WOE_ID_EH: 28289407
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: UMI
+ADM0_A3_US: UMI
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: North America
+REGION_UN: Seven seas (open ocean)
+SUBREGION: Seven seas (open ocean)
+REGION_WB: East Asia & Pacific
+NAME_LEN: 23
+LONG_LEN: 36
+ABBREV_LEN: 8
+TINY: -99
+HOMEPART: -99
+MIN_ZOOM: 0
+MIN_LABEL: 7
+MAX_LABEL: 11
+NE_ID: 1159321367
+WIKIDATAID: Q16645
+NAME_AR: جزر الولايات المتحدة الصغيرة النائية
+NAME_BN: মার্কিন যুক্তরাষ্ট্র পার্শ্ববর্তী ক্ষুদ্র দ্বীপপুঞ্জ
+NAME_DE: United States Minor Outlying Islands
+NAME_EN: United States Minor Outlying Islands
+NAME_ES: Islas ultramarinas de Estados Unidos
+NAME_FR: Îles mineures éloignées des États-Unis
+NAME_EL: Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών
+NAME_HI: संयुक्त राज्य अमेरिका के छोटे दूरस्थ द्वीपसमूह
+NAME_HU: Az Amerikai Egyesült Államok lakatlan külbirtokai
+NAME_ID: Kepulauan Terluar Kecil Amerika Serikat
+NAME_IT: Isole minori esterne degli Stati Uniti d'America
+NAME_JA: 合衆国領有小離島
+NAME_KO: 미국령 군소 제도
+NAME_NL: Kleine afgelegen eilanden van de Verenigde Staten
+NAME_PL: Dalekie Wyspy Mniejsze Stanów Zjednoczonych
+NAME_PT: Ilhas Menores Distantes dos Estados Unidos
+NAME_RU: Внешние малые острова США
+NAME_SV: Förenta staternas mindre öar i Oceanien och Västindien
+NAME_TR: United States Minor Outlying Islands
+NAME_VI: Các tiểu đảo xa của Hoa Kỳ
+NAME_ZH: 美国本土外小岛屿

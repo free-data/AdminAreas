@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-485
+DISS_ME: 485
+ISO_3166_2: VN-31
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Bình Định
+NAME_ALT: Binh Dinh
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.BD
+NOTE: null
+HASC_MAYBE: null
+REGION: Nam Trung Bộ
+REGION_COD: VNM-BDN
+PROVNUM_NE: 49
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM46
+FIPS_ALT: null
+WOE_ID: 2347730
+WOE_LABEL: Binh Dinh, VN, Vietnam
+WOE_NAME: Bình Định
+LATITUDE: 14.1075
+LONGITUDE: 108.971
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1587871
+GN_NAME: Tinh Binh Dinh
+GNS_ID: -3708241
+GNS_NAME: Binh Dinh, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.46
+REGION_SUB: null
+SUB_CODE: VM54
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: VM46
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36693
+NAME_AR: محافظة بنه دنه
+NAME_BN: বিহ্ন দিহ্ন
+NAME_DE: Bình Định
+NAME_EN: Binh Dinh
+NAME_ES: Bình Định
+NAME_FR: Province de Bình Định
+NAME_EL: Μπινχ Ντινχ
+NAME_HI: बिन्ह दिन्ह
+NAME_HU: null
+NAME_ID: Provinsi Binh Dinh
+NAME_IT: provincia di Binh Dinh
+NAME_JA: ビンディン省
+NAME_KO: 빈딘 성
+NAME_NL: Bình Định
+NAME_PL: Prowincja Bình Định
+NAME_PT: Binh Dinh
+NAME_RU: Биньдинь
+NAME_SV: Binh Dinh
+NAME_TR: Binh Dinh
+NAME_VI: Bình Định
+NAME_ZH: 平定省
+NE_ID: 1159308303

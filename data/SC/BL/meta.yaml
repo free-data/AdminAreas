@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SYC-5203
+DISS_ME: 5203
+ISO_3166_2: SC-06
+WIKIPEDIA: null
+ISO_A2: SC
+ADM0_SR: 4
+NAME: Baie Lazare
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SC.BL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 24549868
+WOE_LABEL: null
+WOE_NAME: Baie Lazare
+LATITUDE: -4.75461
+LONGITUDE: 55.4918
+SOV_A3: SYC
+ADM0_A3: SYC
+ADM0_LABEL: 5
+ADMIN: Seychelles
+GEONUNIT: Seychelles
+GU_A3: SYC
+GN_ID: 241439
+GN_NAME: Baie Lazare
+GNS_ID: -1322405
+GNS_NAME: Baie Lazare
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SC.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: SE06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2494551
+NAME_AR: باي لازاري
+NAME_BN: বাইয়ে লাজার
+NAME_DE: Baie Lazare
+NAME_EN: Baie Lazare
+NAME_ES: Baie Lazare
+NAME_FR: Baie Lazare
+NAME_EL: Μπάιε
+NAME_HI: बाए लाज़रे
+NAME_HU: null
+NAME_ID: Baie Lazare
+NAME_IT: Baie Lazare
+NAME_JA: バイエ・ロザーレ
+NAME_KO: 베라자르 구
+NAME_NL: Baie Lazare
+NAME_PL: Baie Lazare
+NAME_PT: Baie Lazare
+NAME_RU: Бэ-Лазар
+NAME_SV: Baie Lazare
+NAME_TR: Baie Lazare
+NAME_VI: Baie Lazare
+NAME_ZH: 貝拉扎爾區
+NE_ID: 1159316615

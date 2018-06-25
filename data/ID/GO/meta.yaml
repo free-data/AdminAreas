@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1837
+DISS_ME: 1837
+ISO_3166_2: ID-GO
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 1
+NAME: Gorontalo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.GO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 28
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: GO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID34
+FIPS_ALT: ID23
+WOE_ID: 2345732
+WOE_LABEL: Gorontalo, ID, Indonesia
+WOE_NAME: Gorontalo
+LATITUDE: 0.760501
+LONGITUDE: 122.331
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1923046
+GN_NAME: Propinsi Gorontalo
+GNS_ID: 6071834
+GNS_NAME: Gorontalo, Propinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID34
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5067
+NAME_AR: غورونتالو
+NAME_BN: গোরন্তালো প্রদেশ
+NAME_DE: Gorontalo
+NAME_EN: Gorontalo Province
+NAME_ES: Gorontalo
+NAME_FR: Gorontalo
+NAME_EL: Γκοροντάλο
+NAME_HI: गोरोंतालो
+NAME_HU: null
+NAME_ID: Gorontalo
+NAME_IT: Provincia di Gorontalo
+NAME_JA: ゴロンタロ州
+NAME_KO: 고론탈로 주
+NAME_NL: Gorontalo
+NAME_PL: Gorontalo
+NAME_PT: Gorontalo
+NAME_RU: Горонтало
+NAME_SV: Gorontalo
+NAME_TR: Gorontalo
+NAME_VI: Gorontalo
+NAME_ZH: 哥伦打洛省
+NE_ID: 1159311291

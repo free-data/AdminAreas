@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: North Korea
+SOV_A3: PRK
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: North Korea
+ADM0_A3: PRK
+GEOU_DIF: 0
+GEOUNIT: North Korea
+GU_A3: PRK
+SU_DIF: 0
+SUBUNIT: North Korea
+SU_A3: PRK
+BRK_DIFF: 0
+NAME: North Korea
+NAME_LONG: Dem. Rep. Korea
+BRK_A3: PRK
+BRK_NAME: Dem. Rep. Korea
+BRK_GROUP: null
+ABBREV: N.K.
+POSTAL: KP
+FORMAL_EN: Democratic People's Republic of Korea
+FORMAL_FR: null
+NAME_CIAWF: Korea, North
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Korea, Dem. Rep.
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+POP_EST: 25248140
+POP_RANK: 15
+GDP_MD_EST: 40000
+POP_YEAR: 2013
+LASTCENSUS: 2009
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: KN
+ISO_A2: KP
+ISO_A3: PRK
+ISO_A3_EH: PRK
+ISO_N3: 408
+UN_A3: 408
+WB_A2: KP
+WB_A3: PRK
+WOE_ID: 23424865
+WOE_ID_EH: 23424865
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: PRK
+ADM0_A3_US: PRK
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Eastern Asia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 11
+LONG_LEN: 15
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321181
+WIKIDATAID: Q423
+NAME_AR: كوريا الشمالية
+NAME_BN: উত্তর কোরিয়া
+NAME_DE: Nordkorea
+NAME_EN: North Korea
+NAME_ES: Corea del Norte
+NAME_FR: Corée du Nord
+NAME_EL: Βόρεια Κορέα
+NAME_HI: उत्तर कोरिया
+NAME_HU: Észak-Korea
+NAME_ID: Korea Utara
+NAME_IT: Corea del Nord
+NAME_JA: 朝鮮民主主義人民共和国
+NAME_KO: 조선민주주의인민공화국
+NAME_NL: Noord-Korea
+NAME_PL: Korea Północna
+NAME_PT: Coreia do Norte
+NAME_RU: Корейская Народно-Демократическая Республика
+NAME_SV: Nordkorea
+NAME_TR: Kuzey Kore
+NAME_VI: Cộng hòa Dân chủ Nhân dân Triều Tiên
+NAME_ZH: 朝鲜民主主义人民共和国

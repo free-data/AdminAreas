@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1397
+DISS_ME: 1397
+ISO_3166_2: CO-CAL
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Caldas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: CO.CL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: CL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO37
+FIPS_ALT: null
+WOE_ID: 2345053
+WOE_LABEL: Caldas, CO, Colombia
+WOE_NAME: Caldas
+LATITUDE: 5.29037
+LONGITUDE: -75.2793
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3687951
+GN_NAME: Departamento de Caldas
+GNS_ID: -579222
+GNS_NAME: Caldas, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO37
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q230607
+NAME_AR: إدارة كالداس
+NAME_BN: কালডাস বিভাগ
+NAME_DE: Departamento de Caldas
+NAME_EN: Caldas Department
+NAME_ES: Caldas
+NAME_FR: Caldas
+NAME_EL: Διαμέρισμα Κάλδα
+NAME_HI: कैलडस विभाग
+NAME_HU: Caldas megye
+NAME_ID: Departemen Caldas
+NAME_IT: dipartimento di Caldas
+NAME_JA: カルダス県
+NAME_KO: 칼다스 주
+NAME_NL: Caldas
+NAME_PL: Caldas
+NAME_PT: Caldas
+NAME_RU: Кальдас
+NAME_SV: Caldas
+NAME_TR: Caldas
+NAME_VI: Caldas
+NAME_ZH: 卡尔达斯省
+NE_ID: 1159310127

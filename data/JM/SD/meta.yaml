@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1382
+DISS_ME: 1382
+ISO_3166_2: JM-02
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Saint Andrew
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM08
+FIPS_ALT: null
+WOE_ID: 2345916
+WOE_LABEL: Saint Andrew, JM, Jamaica
+WOE_NAME: Saint Andrew
+LATITUDE: 18.0229
+LONGITUDE: -76.7685
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3488716
+GN_NAME: Parish of Saint Andrew
+GNS_ID: -3753577
+GNS_NAME: Saint Andrew, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM08
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2212935
+NAME_AR: أبريشة سانت أندرو
+NAME_BN: সেন্ট অ্যান্ড্রু
+NAME_DE: Saint Andrew
+NAME_EN: Saint Andrew
+NAME_ES: Parroquia de Saint Andrew
+NAME_FR: Saint Andrew
+NAME_EL: Άγιος Ανδρέας
+NAME_HI: सेंट एंड्रू पैरिश
+NAME_HU: null
+NAME_ID: Saint Andrew
+NAME_IT: parrocchia di Saint Andrew
+NAME_JA: セント・アンドリュー教区
+NAME_KO: 세인트앤드루 교구
+NAME_NL: Saint Andrew
+NAME_PL: Saint Andrew
+NAME_PT: Saint Andrew
+NAME_RU: Приход Сент-Андру
+NAME_SV: Saint Andrew Parish
+NAME_TR: Saint Andrew
+NAME_VI: Saint Andrew
+NAME_ZH: 聖安德魯區
+NE_ID: 1159310291

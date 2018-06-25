@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LSO-1205
+DISS_ME: 1205
+ISO_3166_2: LS-G
+WIKIPEDIA: null
+ISO_A2: LS
+ADM0_SR: 1
+NAME: Quthing
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LS.QT
+NOTE: null
+HASC_MAYBE: LS.MH|LSO-QTH
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: QT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: LT18
+FIPS_ALT: LT15
+WOE_ID: 20069867
+WOE_LABEL: Quthing, LS, Lesotho
+WOE_NAME: Quthing
+LATITUDE: -30.3539
+LONGITUDE: 27.9441
+SOV_A3: LSO
+ADM0_A3: LSO
+ADM0_LABEL: 5
+ADMIN: Lesotho
+GEONUNIT: Lesotho
+GU_A3: LSO
+GN_ID: 932184
+GN_NAME: Quthing
+GNS_ID: -1406172
+GNS_NAME: Quthing District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LS.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: LT18
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q839060
+NAME_AR: مقاطعة قوثنغ
+NAME_BN: কুতিং জেলা
+NAME_DE: Quthing
+NAME_EN: Quthing District
+NAME_ES: Quthing
+NAME_FR: District de Quthing
+NAME_EL: Κουτίνγκ
+NAME_HI: क्यूथिंग जिला
+NAME_HU: null
+NAME_ID: Distrik Quthing
+NAME_IT: distretto di Quthing
+NAME_JA: クティング県
+NAME_KO: 쿠팅 구
+NAME_NL: Quthing
+NAME_PL: Dystrykt Quthing
+NAME_PT: Quthing
+NAME_RU: Цгутинг
+NAME_SV: Quthing
+NAME_TR: Quthing Distring
+NAME_VI: Quận Quthing
+NAME_ZH: 古廷區
+NE_ID: 1159309713

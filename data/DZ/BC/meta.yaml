@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2148
+DISS_ME: 2148
+ISO_3166_2: DZ-08
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Béchar
+NAME_ALT: Colomb-Béchar|Bechar
+NAME_LOCAL: ولاية بشار
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.BC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BC
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG38
+FIPS_ALT: null
+WOE_ID: 2344608
+WOE_LABEL: Bechar, DZ, Algeria
+WOE_NAME: Béchar
+LATITUDE: 30.1882
+LONGITUDE: -2.81838
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2505525
+GN_NAME: Wilaya de Bechar
+GNS_ID: -460336
+GNS_NAME: Bechar
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG38
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q215467
+NAME_AR: ولاية بشار
+NAME_BN: বেকার প্রদেশ
+NAME_DE: Wilaya Bechar
+NAME_EN: Béchar Province
+NAME_ES: Provincia de Béchar
+NAME_FR: wilaya de Béchar
+NAME_EL: Μπεσάρ
+NAME_HI: बेचार प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Bechar
+NAME_IT: provincia di Béchar
+NAME_JA: ベシャール県
+NAME_KO: 베샤르 주
+NAME_NL: Béchar
+NAME_PL: Prowincja Baszszar
+NAME_PT: Béchar
+NAME_RU: Бешар
+NAME_SV: Béchar
+NAME_TR: Beşar Vilayeti
+NAME_VI: Béchar
+NAME_ZH: 贝沙尔省
+NE_ID: 1159312009

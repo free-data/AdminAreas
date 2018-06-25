@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: AUT-2326
+DISS_ME: 2326
+ISO_3166_2: AT-4
+WIKIPEDIA: null
+ISO_A2: AT
+ADM0_SR: 1
+NAME: Oberösterreich
+NAME_ALT: Upper Austria|Alta-Áustria|Alta Austria|Österreich ober der Enns|Oberösterreich
+NAME_LOCAL: null
+TYPE: Bundesländ|Länd
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: AT.OO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: OO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 14
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: AU04
+FIPS_ALT: null
+WOE_ID: 2344711
+WOE_LABEL: Upper Austria, AT, Austria
+WOE_NAME: Oberösterreich
+LATITUDE: 48.2377
+LONGITUDE: 13.856
+SOV_A3: AUT
+ADM0_A3: AUT
+ADM0_LABEL: 2
+ADMIN: Austria
+GEONUNIT: Austria
+GU_A3: AUT
+GN_ID: 2769848
+GN_NAME: Oberoesterreich
+GNS_ID: -1986906
+GNS_NAME: Oberosterreich, Bundesland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AT.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AU04
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q41967
+NAME_AR: النمسا العليا
+NAME_BN: আপার অস্ট্রিয়া
+NAME_DE: Oberösterreich
+NAME_EN: Upper Austria
+NAME_ES: Alta Austria
+NAME_FR: Haute-Autriche
+NAME_EL: Άνω Αυστρία
+NAME_HI: ऊपरी ऑस्ट्रिया
+NAME_HU: Felső-Ausztria
+NAME_ID: Austria Hulu
+NAME_IT: Alta Austria
+NAME_JA: オーバーエスターライヒ州
+NAME_KO: 오버외스터라이히 주
+NAME_NL: Opper-Oostenrijk
+NAME_PL: Górna Austria
+NAME_PT: Alta Áustria
+NAME_RU: Верхняя Австрия
+NAME_SV: Oberösterreich
+NAME_TR: Yukarı Avusturya
+NAME_VI: Oberösterreich
+NAME_ZH: 上奧地利
+NE_ID: 1159312643

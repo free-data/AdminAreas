@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5750
+DISS_ME: 5750
+ISO_3166_2: LV-056
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Livanu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.LV
+NOTE: null
+HASC_MAYBE: null
+REGION: Latgale
+REGION_COD: LV.BL
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG90
+FIPS_ALT: null
+WOE_ID: -2346042
+WOE_LABEL: Balvu Rajons, LV, Latvia
+WOE_NAME: Balvi
+LATITUDE: 56.3841
+LONGITUDE: 26.324
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628341
+GN_NAME: Livanu Novads
+GNS_ID: 10979993
+GNS_NAME: Livanu Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.90
+REGION_SUB: Latgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG90
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2277489
+NAME_AR: بلدية ليفاني
+NAME_BN: লিভানি পৌরসভা
+NAME_DE: Bezirk Līvāni
+NAME_EN: Līvāni Municipality
+NAME_ES: Municipalidad de Līvāni
+NAME_FR: Līvāni
+NAME_EL: Λιβάνι
+NAME_HI: लिवानी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Līvāni
+NAME_IT: Līvāni
+NAME_JA: リーヴァーニ
+NAME_KO: 리바니 시
+NAME_NL: Līvānu novads
+NAME_PL: Gmina Līvāni
+NAME_PT: Livani
+NAME_RU: Ливанский край
+NAME_SV: Līvānu novads
+NAME_TR: Livani Belediyesi
+NAME_VI: Đô thị tự trị Livani
+NAME_ZH: 利瓦尼自治市
+NE_ID: 1159317749

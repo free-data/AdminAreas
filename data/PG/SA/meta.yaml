@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1241
+DISS_ME: 1241
+ISO_3166_2: PG-SAN
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 1
+NAME: Sandaun
+NAME_ALT: West Sepik
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP18
+FIPS_ALT: null
+WOE_ID: 2346598
+WOE_LABEL: Sandaun, PG, Papua New Guinea
+WOE_NAME: Sandaun
+LATITUDE: -3.45778
+LONGITUDE: 141.741
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2087246
+GN_NAME: Sandaun Province
+GNS_ID: -2199497
+GNS_NAME: Sandaun Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP18
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q753689
+NAME_AR: محافظة سانداون
+NAME_BN: স্যানডুয়ান প্রদেশ
+NAME_DE: Sandaun Province
+NAME_EN: Sandaun Province
+NAME_ES: Sandaun
+NAME_FR: Sandaun
+NAME_EL: Σάντον
+NAME_HI: सांडुन प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Sandaun
+NAME_IT: provincia di Sandaun
+NAME_JA: サンダウン州
+NAME_KO: 산다운 주
+NAME_NL: Sandaun
+NAME_PL: Sandaun
+NAME_PT: Sandaun
+NAME_RU: Сандаун
+NAME_SV: Sandaun
+NAME_TR: Sandaun Province
+NAME_VI: Tỉnh Sandaun
+NAME_ZH: 桑道恩省
+NE_ID: 1159309907

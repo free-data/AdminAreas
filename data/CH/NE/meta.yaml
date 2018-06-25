@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-161
+DISS_ME: 161
+ISO_3166_2: CH-NE
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Neuchâtel
+NAME_ALT: Neuenburg
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ12
+FIPS_ALT: null
+WOE_ID: 2347094
+WOE_LABEL: Canton of Neuchatel, CH, Switzerland
+WOE_NAME: Neuchâtel
+LATITUDE: 46.9893
+LONGITUDE: 6.76076
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2659495
+GN_NAME: Canton de Neuchatel
+GNS_ID: -2553319
+GNS_NAME: Neuchatel, Canton de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.NE
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ12
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12738
+NAME_AR: كانتون نيوشاتل
+NAME_BN: ক্যান্টন অফ নুচাচেল
+NAME_DE: Kanton Neuenburg
+NAME_EN: Canton of Neuchâtel
+NAME_ES: Neuchâtel
+NAME_FR: canton de Neuchâtel
+NAME_EL: Καντόνι του Νεσατέλ
+NAME_HI: नोशातेल कैन्टन
+NAME_HU: Neuchâtel kanton
+NAME_ID: Kanton Neuchâtel
+NAME_IT: Canton Neuchâtel
+NAME_JA: ヌーシャテル州
+NAME_KO: 뇌샤텔 주
+NAME_NL: Neuchâtel
+NAME_PL: Neuchâtel
+NAME_PT: Neuchâtel
+NAME_RU: Невшатель
+NAME_SV: Neuchâtel
+NAME_TR: Neuchâtel
+NAME_VI: Bang Neuchâtel
+NAME_ZH: 納沙泰爾州
+NE_ID: 1159307655

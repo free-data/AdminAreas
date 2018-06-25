@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1283
+DISS_ME: 1283
+ISO_3166_2: CO-AMA
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Amazonas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comisaría
+TYPE_EN: Commissiary
+CODE_LOCAL: null
+CODE_HASC: CO.AM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: AM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO01
+FIPS_ALT: null
+WOE_ID: 2345047
+WOE_LABEL: Amazonas, CO, Colombia
+WOE_NAME: Amazonas
+LATITUDE: -1.26032
+LONGITUDE: -71.9171
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3689982
+GN_NAME: Departamento del Amazonas
+GNS_ID: -577156
+GNS_NAME: Amazonas, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO01
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q44724
+NAME_AR: إدارة أمازوناس
+NAME_BN: আমাজুনাস বিভাগ
+NAME_DE: Departamento de Amazonas
+NAME_EN: Amazonas Department
+NAME_ES: Amazonas
+NAME_FR: Amazonas
+NAME_EL: Διαμέρισμα Αμαζόνιου
+NAME_HI: अमेज़ोनास विभाग
+NAME_HU: Amazonas megye
+NAME_ID: Departemen Amazonas
+NAME_IT: dipartimento di Amazonas
+NAME_JA: アマソナス県
+NAME_KO: 아마소나스 주
+NAME_NL: Amazonas
+NAME_PL: Amazonas
+NAME_PT: Amazonas
+NAME_RU: Амасонас
+NAME_SV: Amazonas
+NAME_TR: Amazonas Departmantı
+NAME_VI: Amazonas
+NAME_ZH: 亚马孙省
+NE_ID: 1159310177

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: YEM-157
+DISS_ME: 157
+ISO_3166_2: YE-LA
+WIKIPEDIA: null
+ISO_A2: YE
+ADM0_SR: 1
+NAME: Lahij
+NAME_ALT: Laheg|Lahej|Lahj|Tuban
+NAME_LOCAL: لحج
+TYPE: Muhafazah
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: YE.LA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: LA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+FIPS: YM24
+FIPS_ALT: YM06
+WOE_ID: 20070040
+WOE_LABEL: Lahij, YE, Yemen
+WOE_NAME: Lahij
+LATITUDE: 13.1832
+LONGITUDE: 44.6561
+SOV_A3: YEM
+ADM0_A3: YEM
+ADM0_LABEL: 2
+ADMIN: Yemen
+GEONUNIT: Yemen
+GU_A3: YEM
+GN_ID: 6201197
+GN_NAME: Muhafazat Lahij
+GNS_ID: 9236596
+GNS_NAME: Lahij, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: YE.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: YM24
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q388318
+NAME_AR: محافظة لحج
+NAME_BN: null
+NAME_DE: Gouvernement Lahidsch
+NAME_EN: Lahij Governorate
+NAME_ES: Gobernación de Lahij
+NAME_FR: Gouvernorat de Lahij
+NAME_EL: null
+NAME_HI: लहिज प्रान्त
+NAME_HU: Lahidzs kormányzóság
+NAME_ID: Kegubernuran Lahij
+NAME_IT: governatorato di Lahij
+NAME_JA: ラヒジュ県
+NAME_KO: 라히즈 주
+NAME_NL: Lahij
+NAME_PL: Lahidż
+NAME_PT: Lahij
+NAME_RU: Лахдж
+NAME_SV: Lahij
+NAME_TR: Lahic ili
+NAME_VI: null
+NAME_ZH: 拉赫季省
+NE_ID: 1159308151

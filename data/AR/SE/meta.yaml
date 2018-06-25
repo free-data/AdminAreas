@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1304
+DISS_ME: 1304
+ISO_3166_2: AR-G
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Santiago del Estero
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 19
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR22
+FIPS_ALT: null
+WOE_ID: 2344696
+WOE_LABEL: Santiago del Estero, AR, Argentina
+WOE_NAME: Santiago del Estero
+LATITUDE: -27.6882
+LONGITUDE: -63.445
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3835868
+GN_NAME: Provincia de Santiago del Estero
+GNS_ID: -1015121
+GNS_NAME: Santiago del Estero
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR22
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q44827
+NAME_AR: محافظة سانتياغو ديل استيرو
+NAME_BN: স্যান্টিয়াগো ডেল এস্তেরো প্রদেশ
+NAME_DE: Santiago del Estero
+NAME_EN: Santiago del Estero Province
+NAME_ES: Provincia de Santiago del Estero
+NAME_FR: Santiago del Estero
+NAME_EL: Σαντιάγκο ντελ Εστέρο
+NAME_HI: सैन्टियागो डेल एस्त्रो प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Santiago del Estero
+NAME_IT: provincia di Santiago del Estero
+NAME_JA: サンティアゴ・デル・エステロ州
+NAME_KO: 산티아고델에스테로 주
+NAME_NL: Santiago del Estero
+NAME_PL: Santiago del Estero
+NAME_PT: Santiago del Estero
+NAME_RU: Сантьяго-дель-Эстеро
+NAME_SV: Santiago del Estero
+NAME_TR: Santiago del Estero eyaleti
+NAME_VI: Santiago del Estero
+NAME_ZH: 圣地亚哥－德尔埃斯特罗省
+NE_ID: 1159309779

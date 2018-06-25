@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-277
+DISS_ME: 277
+ISO_3166_2: RO-BH
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Bihor
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.BH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: BH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO05
+FIPS_ALT: null
+WOE_ID: 2346619
+WOE_LABEL: Bihor, RO, Romania
+WOE_NAME: Bihor
+LATITUDE: 47.0865
+LONGITUDE: 22.1155
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 684878
+GN_NAME: Judetul Bihor
+GNS_ID: -1152575
+GNS_NAME: Bihor, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO05
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q179588
+NAME_AR: مقاطعة بيهور
+NAME_BN: বিহোর কাউন্টি
+NAME_DE: Kreis Bihor
+NAME_EN: Bihor County
+NAME_ES: Bihor
+NAME_FR: județ de Bihor
+NAME_EL: Μπιχόρ
+NAME_HI: बिहोर काउंटी
+NAME_HU: Bihar megye
+NAME_ID: Provinsi Bihor
+NAME_IT: distretto di Bihor
+NAME_JA: ビホル県
+NAME_KO: 비호르 주
+NAME_NL: District Bihor
+NAME_PL: Okręg Bihor
+NAME_PT: Bihor
+NAME_RU: Бихор
+NAME_SV: Bihor
+NAME_TR: Bihor ili
+NAME_VI: Bihor
+NAME_ZH: 比霍爾縣
+NE_ID: 1159308789

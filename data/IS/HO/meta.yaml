@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ISL-709
+DISS_ME: 709
+ISO_3166_2: IS-1
+WIKIPEDIA: null
+ISO_A2: IS
+ADM0_SR: 1
+NAME: Höfuðborgarsvæði
+NAME_ALT: Capital Region
+NAME_LOCAL: null
+TYPE: Landsvæði
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: IS.HO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: IS.HO
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: HO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 16
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: IC39
+FIPS_ALT: null
+WOE_ID: -99
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 64.2277
+LONGITUDE: -21.536
+SOV_A3: ISL
+ADM0_A3: ISL
+ADM0_LABEL: 2
+ADMIN: Iceland
+GEONUNIT: Iceland
+GU_A3: ISL
+GN_ID: 3426182
+GN_NAME: Hofudborgarsvadi
+GNS_ID: 6261162
+GNS_NAME: Hofudhborgarsvaedhi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IS.39
+REGION_SUB: Reykjavík
+SUB_CODE: IC39
+GNS_LEVEL: 1
+GNS_LANG: isl
+GNS_ADM1: IC39
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q203304
+NAME_AR: إقليم العاصمة
+NAME_BN: কােপিটাল অঞ্চল
+NAME_DE: Höfuðborgarsvæðið
+NAME_EN: Capital Region
+NAME_ES: Höfuðborgarsvæði
+NAME_FR: Höfuðborgarsvæðið
+NAME_EL: Περιφέρεια Πρωτεύουσας της Ισλανδίας
+NAME_HI: राजधानी क्षेत्र
+NAME_HU: Nagy-Reykjavík
+NAME_ID: Wilayah Reykjavík Raya
+NAME_IT: Höfuðborgarsvæðið
+NAME_JA: 大レイキャヴィーク
+NAME_KO: 회뷔드보르가르스바이디
+NAME_NL: Höfuðborgarsvæðið
+NAME_PL: Höfuðborgarsvæðið
+NAME_PT: Höfuðborgarsvæði
+NAME_RU: Хёвюдборгарсвайдид
+NAME_SV: Höfuðborgarsvæðið
+NAME_TR: Başkent Bölgesi
+NAME_VI: Khu vực Thủ đô
+NAME_ZH: 大雷克雅未克区
+NE_ID: 1159311127

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-181
+DISS_ME: 181
+ISO_3166_2: SE-W
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 1
+NAME: Dalarna
+NAME_ALT: Dalecarlia|Kopparberg
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.KO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 26
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: KO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW10
+FIPS_ALT: null
+WOE_ID: 2347053
+WOE_LABEL: Dalarna, SE, Sweden
+WOE_NAME: Dalarna
+LATITUDE: 60.814
+LONGITUDE: 14.4404
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2699767
+GN_NAME: Dalarnas Laen
+GNS_ID: -2495786
+GNS_NAME: Dalarnas Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103732
+NAME_AR: مقاطعة دالرناس
+NAME_BN: দালার্না কাউন্টি
+NAME_DE: Dalarnas län
+NAME_EN: Dalarna County
+NAME_ES: Provincia de Dalarna
+NAME_FR: Comté de Dalécarlie
+NAME_EL: Νταλάρνα
+NAME_HI: दालारना लैन
+NAME_HU: Dalarna megye
+NAME_ID: Daerah Dalarna
+NAME_IT: Contea di Dalarna
+NAME_JA: ダーラナ県
+NAME_KO: 달라르나 주
+NAME_NL: Dalarnas län
+NAME_PL: Dalarna
+NAME_PT: Dalarna
+NAME_RU: Даларна
+NAME_SV: Dalarnas län
+NAME_TR: Dalarna ili
+NAME_VI: Dalarna
+NAME_ZH: 达拉纳省
+NE_ID: 1159308753

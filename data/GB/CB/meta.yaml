@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5697
+DISS_ME: 5697
+ISO_3166_2: GB-CBF
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Central Bedfordshire
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.CB
+NOTE: null
+HASC_MAYBE: null
+REGION: East
+REGION_COD: GB.BD
+PROVNUM_NE: 20051
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 20
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKZ6
+FIPS_ALT: UKA5
+WOE_ID: -12602163
+WOE_LABEL: null
+WOE_NAME: Bedfordshire
+LATITUDE: 52.0236
+LONGITUDE: -0.376341
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 7290535
+GN_NAME: Central Bedfordshire
+GNS_ID: 10875523
+GNS_NAME: Central Bedfordshire
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Z6
+REGION_SUB: Bedfordshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK25
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1053723
+NAME_AR: null
+NAME_BN: সেন্ট্রাল বেডফোর্ডশায়ার
+NAME_DE: Central Bedfordshire
+NAME_EN: Central Bedfordshire
+NAME_ES: Central Bedfordshire
+NAME_FR: Central Bedfordshire
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Central Bedfordshire
+NAME_JA: ベッドフォードシャー中心部
+NAME_KO: 센트럴베드퍼드셔
+NAME_NL: Central Bedfordshire
+NAME_PL: Central Bedfordshire
+NAME_PT: Central Bedfordshire
+NAME_RU: Центральный Бедфордшир
+NAME_SV: Central Bedfordshire
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 中央貝德福
+NE_ID: 1159312875

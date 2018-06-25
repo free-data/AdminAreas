@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-3423
+DISS_ME: 3423
+ISO_3166_2: CH-BL
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Basel-Landschaft
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.BL
+NOTE: null
+HASC_MAYBE: CH.BL|CHE-BLN
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ03
+FIPS_ALT: SZ03
+WOE_ID: 2347085
+WOE_LABEL: Canton of Basel-Country, CH, Switzerland
+WOE_NAME: Basel-Landschaft
+LATITUDE: 47.5056
+LONGITUDE: 7.72662
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2661603
+GN_NAME: Kanton Basel-Landschaft
+GNS_ID: -2551184
+GNS_NAME: Basel-Landschaft, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.BL
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ03
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12146
+NAME_AR: كانتون ريف بازل
+NAME_BN: ব্যাসেল-ল্যান্ড
+NAME_DE: Kanton Basel-Landschaft
+NAME_EN: Canton of Basel-Landschaft
+NAME_ES: Cantón de Basilea-Campiña
+NAME_FR: canton de Bâle-Campagne
+NAME_EL: Καντόνι της Μπάζελ-Λάντσαφτ
+NAME_HI: बासल-लान्डशाफ़्ट कैन्टन
+NAME_HU: Basel-Landschaft kanton
+NAME_ID: Kanton Basel-Negeri
+NAME_IT: Canton Basilea Campagna
+NAME_JA: バーゼル＝ラント準州
+NAME_KO: 바젤란트 주
+NAME_NL: Basel-Landschaft
+NAME_PL: Bazylea-Okręg
+NAME_PT: Basileia-Campo
+NAME_RU: Базель-Ланд
+NAME_SV: Basel-Landschaft
+NAME_TR: Basel-Landschaft
+NAME_VI: Basel-Landschaft
+NAME_ZH: 巴塞爾鄉村州
+NE_ID: 1159314893

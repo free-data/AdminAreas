@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1708
+DISS_ME: 1708
+ISO_3166_2: AZ-MAS
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Masallı
+NAME_ALT: Masally
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: Lankaran Economic Region
+REGION_COD: AZ-04
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ32
+FIPS_ALT: AJ|
+WOE_ID: 20070239
+WOE_LABEL: Masalli, AZ, Azerbaijan
+WOE_NAME: Masallı
+LATITUDE: 38.9858
+LONGITUDE: 48.698
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147551
+GN_NAME: Masally Rayon
+GNS_ID: -2707617
+GNS_NAME: Masalli Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ32
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q476695
+NAME_AR: مقاطعة ماساللي
+NAME_BN: মাসালি জেলা
+NAME_DE: Masallı
+NAME_EN: Masally District
+NAME_ES: Masallı
+NAME_FR: Masallı
+NAME_EL: Μασάλι
+NAME_HI: मेज़ली जिला
+NAME_HU: null
+NAME_ID: Masally
+NAME_IT: distretto di Masallı
+NAME_JA: マサッル県
+NAME_KO: 마살르 구
+NAME_NL: Masallı
+NAME_PL: Rejon Masallı
+NAME_PT: Masally
+NAME_RU: Масаллинский район
+NAME_SV: Masallı Rayonu
+NAME_TR: Masallı Rayonu
+NAME_VI: Masally
+NAME_ZH: 馬薩雷區
+NE_ID: 1159312279

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3384
+DISS_ME: 3384
+ISO_3166_2: TZ-15
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 3
+NAME: Zanzibar West
+NAME_ALT: Mjini-Magharibi|Zanzibar Urban/West
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.ZW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: ZW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ25
+FIPS_ALT: null
+WOE_ID: 2347376
+WOE_LABEL: Zanzibar West, TZ, Tanzania
+WOE_NAME: Zanzibar West
+LATITUDE: -6.1537
+LONGITUDE: 39.2425
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 3
+ADMIN: United Republic of Tanzania
+GEONUNIT: Zanzibar
+GU_A3: TZZ
+GN_ID: 148724
+GN_NAME: Zanzibar Urban/West Region
+GNS_ID: -2574830
+GNS_NAME: Mjini Magharibi, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ25
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q180822
+NAME_AR: زنجبار الحضرية / المقاطعة الغربية
+NAME_BN: জাাঞ্জিবার আরবান/ওয়েস্ট অঞ্চল
+NAME_DE: Zanzibar Urban/West
+NAME_EN: Zanzibar Urban/West Region
+NAME_ES: Región de Zanzibar Urban/West
+NAME_FR: Unguja Ville et Ouest
+NAME_EL: Μτζίνι Μαγκχαρίμπι
+NAME_HI: जंजीबार शहरी/पश्चिमी क्षेत्र
+NAME_HU: null
+NAME_ID: Wilayah Zanzibar Urban/Barat
+NAME_IT: regione di Zanzibar Urbana-Ovest
+NAME_JA: ザンジバル都市部・西部州
+NAME_KO: 잔지바르 도시·서부 주
+NAME_NL: Stedelijk- en West-Zanzibar
+NAME_PL: Zanzibar Zachodni
+NAME_PT: Zanzibar Urban/West
+NAME_RU: Занзибар Западный
+NAME_SV: Västra Zanzibar
+NAME_TR: Zanzibar Kırsal/Batı Bölgesi
+NAME_VI: Zanzibar West
+NAME_ZH: 尚西巴西區
+NE_ID: 1159314985

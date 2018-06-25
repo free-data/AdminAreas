@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5296
+DISS_ME: 5296
+ISO_3166_2: FR-68
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Haute-Rhin
+NAME_ALT: Alsacia
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.HR
+NOTE: null
+HASC_MAYBE: null
+REGION: Alsace
+REGION_COD: FR-A
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 10
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FR96
+FIPS_ALT: FRC1
+WOE_ID: 12597152
+WOE_LABEL: null
+WOE_NAME: Haut-Rhin
+LATITUDE: 47.886
+LONGITUDE: 7.25359
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3013663
+GN_NAME: Departement du Haut-Rhin
+GNS_ID: -1431716
+GNS_NAME: Haut-Rhin, Departement du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.68
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRC1
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12722
+NAME_AR: الراين الأعلى
+NAME_BN: হন্ত-রিন
+NAME_DE: Département Haut-Rhin
+NAME_EN: Haut-Rhin
+NAME_ES: Alto Rin
+NAME_FR: Haut-Rhin
+NAME_EL: Άνω Ρήνος
+NAME_HI: हौत-रिन
+NAME_HU: Haut-Rhin
+NAME_ID: Haut-Rhin
+NAME_IT: Alto Reno
+NAME_JA: オー＝ラン県
+NAME_KO: 오랭 주
+NAME_NL: Haut-Rhin
+NAME_PL: Górny Ren
+NAME_PT: Alto Reno
+NAME_RU: Верхний Рейн
+NAME_SV: Haut-Rhin
+NAME_TR: Haut-Rhin
+NAME_VI: Haut-Rhin
+NAME_ZH: 上莱茵省
+NE_ID: 1159313579

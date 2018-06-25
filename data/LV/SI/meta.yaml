@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5778
+DISS_ME: 5778
+ISO_3166_2: LV-091
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Siguldas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGC7
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 57.0998
+LONGITUDE: 24.8272
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628362
+GN_NAME: Siguldas Novads
+GNS_ID: 10984654
+GNS_NAME: Siguldas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.C7
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG84
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2299251
+NAME_AR: بلدية سيغولدا
+NAME_BN: সিগুল্ডা পৌরসভা
+NAME_DE: Bezirk Sigulda
+NAME_EN: Sigulda Municipality
+NAME_ES: Municipalidad de Sigulda
+NAME_FR: Sigulda
+NAME_EL: Σιγκούλντα
+NAME_HI: सिगुलडा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Sigulda
+NAME_IT: Sigulda
+NAME_JA: スィグルダ
+NAME_KO: 시굴다 시
+NAME_NL: Siguldas novads
+NAME_PL: Gmina Sigulda
+NAME_PT: Município de Sigulda
+NAME_RU: Сигулдский край
+NAME_SV: Siguldas novads
+NAME_TR: Sigulda Belediyesi
+NAME_VI: Đô thị tự trị Sigulda
+NAME_ZH: null
+NE_ID: 1159317665

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TGO-89
+DISS_ME: 89
+ISO_3166_2: TG-C
+WIKIPEDIA: null
+ISO_A2: TG
+ADM0_SR: 1
+NAME: Centre
+NAME_ALT: Région Centrale, Région du Centre
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TG.CE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: TGO-NYL
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 5
+FIPS: TO22
+FIPS_ALT: null
+WOE_ID: 56048436
+WOE_LABEL: Centrale Region, TG, Togo
+WOE_NAME: Centre
+LATITUDE: 8.5878
+LONGITUDE: 1.00462
+SOV_A3: TGO
+ADM0_A3: TGO
+ADM0_LABEL: 5
+ADMIN: Togo
+GEONUNIT: Togo
+GU_A3: TGO
+GN_ID: 2367237
+GN_NAME: Region Centrale
+GNS_ID: -1495998
+GNS_NAME: Centrale, Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TG.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TO22
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q515655
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Centre
+NAME_EN: Centre Region
+NAME_ES: Región Centro
+NAME_FR: Centre
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Region Centre
+NAME_IT: regione del Centro
+NAME_JA: 中部地方
+NAME_KO: 중부 주
+NAME_NL: Centre
+NAME_PL: Region Centre
+NAME_PT: Região Centro
+NAME_RU: Центральная область
+NAME_SV: Centre
+NAME_TR: Centre Bölgesi
+NAME_VI: null
+NAME_ZH: 中央大區
+NE_ID: 1159308983

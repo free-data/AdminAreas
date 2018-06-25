@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-959
+DISS_ME: 959
+ISO_3166_2: SI-055
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Kungota
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.KU
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI55
+FIPS_ALT: null
+WOE_ID: -55848374
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.6527
+LONGITUDE: 15.5921
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239213
+GN_NAME: Obcina Kungota
+GNS_ID: 243904
+GNS_NAME: Kungota, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.55
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI55
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q998566
+NAME_AR: بلدية كونغوتا
+NAME_BN: কুনগটা পৌরসভা
+NAME_DE: Kungota
+NAME_EN: Kungota Municipality
+NAME_ES: Kungota
+NAME_FR: Kungota
+NAME_EL: Κουνγκότα
+NAME_HI: कुंगोता नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Kungota
+NAME_IT: Kungota
+NAME_JA: クンゴタ
+NAME_KO: 쿤고타
+NAME_NL: Kungota
+NAME_PL: Gmina Kungota
+NAME_PT: Kungota
+NAME_RU: Кунгота
+NAME_SV: Kungota
+NAME_TR: Kungato Belediyesi
+NAME_VI: Kungota
+NAME_ZH: 昆戈塔
+NE_ID: 1159310713

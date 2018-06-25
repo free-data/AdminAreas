@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2983
+DISS_ME: 2983
+ISO_3166_2: LY-AJ
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Ajdabiya
+NAME_ALT: Aghdabiya
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.AJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: AJ
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY47
+FIPS_ALT: null
+WOE_ID: 2346130
+WOE_LABEL: Ajdabiya, LY, Libya
+WOE_NAME: Ajdabiya
+LATITUDE: 29.0419
+LONGITUDE: 21.74
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 7602692
+GN_NAME: Sha`biyat al Wahat
+GNS_ID: 10880265
+GNS_NAME: Wahat, Sha`biyat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.83
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY83
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1640928
+NAME_AR: شعبية إجدابيا
+NAME_BN: আজডাবিয়া জেলা
+NAME_DE: Munizip Adschdabiya
+NAME_EN: Ajdabiya District
+NAME_ES: Distrito del Ajdabiya
+NAME_FR: District d'Ajdabiya
+NAME_EL: Αζνταμπίγια
+NAME_HI: अदाबिया जिला
+NAME_HU: null
+NAME_ID: Distrik Ajdabiya
+NAME_IT: distretto di Agedabia
+NAME_JA: アジュダービヤー
+NAME_KO: 아즈다비야 지구
+NAME_NL: Ajdabiyah
+NAME_PL: Adżdabija
+NAME_PT: Ajdabiya
+NAME_RU: Адждабия
+NAME_SV: Ajdabuya distriktet
+NAME_TR: Ajdabiya District
+NAME_VI: Quận Ajdabiya
+NAME_ZH: 艾季達比亞省
+NE_ID: 1159314143

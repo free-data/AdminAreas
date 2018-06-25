@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: VEN-29
+DISS_ME: 29
+ISO_3166_2: VE-T
+WIKIPEDIA: null
+ISO_A2: VE
+ADM0_SR: 1
+NAME: Trujillo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: VE.TR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: TR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: VE21
+FIPS_ALT: null
+WOE_ID: 2347697
+WOE_LABEL: Trujillo, VE, Venezuela
+WOE_NAME: Trujillo
+LATITUDE: 9.49508
+LONGITUDE: -70.5519
+SOV_A3: VEN
+ADM0_A3: VEN
+ADM0_LABEL: 3
+ADMIN: Venezuela
+GEONUNIT: Venezuela
+GU_A3: VEN
+GN_ID: 3625974
+GN_NAME: Estado Trujillo
+GNS_ID: -959758
+GNS_NAME: Trujillo, Estado
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VE.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: VE21
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q202068
+NAME_AR: تروخيو
+NAME_BN: ট্রুজিল্লো
+NAME_DE: Bundesstaat Trujillo
+NAME_EN: Trujillo
+NAME_ES: Trujillo
+NAME_FR: État de Trujillo
+NAME_EL: Τρουτζίλο
+NAME_HI: त्रुइओ
+NAME_HU: null
+NAME_ID: Trujillo
+NAME_IT: Trujillo
+NAME_JA: トルヒージョ州
+NAME_KO: 트루히요 주
+NAME_NL: Trujillo
+NAME_PL: Trujillo
+NAME_PT: Trujillo
+NAME_RU: Трухильо
+NAME_SV: Trujillo
+NAME_TR: Trujillo
+NAME_VI: Trujillo
+NAME_ZH: 特鲁希略州
+NE_ID: 1159308091

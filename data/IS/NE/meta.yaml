@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ISL-702
+DISS_ME: 702
+ISO_3166_2: IS-6
+WIKIPEDIA: null
+ISO_A2: IS
+ADM0_SR: 1
+NAME: Norðurland eystra
+NAME_ALT: Northeast
+NAME_LOCAL: null
+TYPE: Landsvæði
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: IS.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: IS.NE
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 17
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: IC40
+FIPS_ALT: null
+WOE_ID: -99
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 65.3752
+LONGITUDE: -17.1782
+SOV_A3: ISL
+ADM0_A3: ISL
+ADM0_LABEL: 2
+ADMIN: Iceland
+GEONUNIT: Iceland
+GU_A3: ISL
+GN_ID: 3337404
+GN_NAME: Nordurland Eystra
+GNS_ID: 6261167
+GNS_NAME: Nordhurland Eystra
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IS.40
+REGION_SUB: Norðurland eystra
+SUB_CODE: IC40
+GNS_LEVEL: 1
+GNS_LANG: isl
+GNS_ADM1: IC40
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q241551
+NAME_AR: الإقليم الشمالي الشرقي
+NAME_BN: নর্থ ইস্টার্ন অঞ্চল
+NAME_DE: Norðurland eystra
+NAME_EN: Northeastern Region
+NAME_ES: Norðurland Eystra
+NAME_FR: Norðurland eystra
+NAME_EL: Βορειοανατολική Ισλανδία
+NAME_HI: पूर्वोत्तर क्षेत्र
+NAME_HU: null
+NAME_ID: Norðurland eystra
+NAME_IT: Norðurland eystra
+NAME_JA: 北アイスランド東部
+NAME_KO: 노르뒤를란드 에이스트라
+NAME_NL: Norðurland eystra
+NAME_PL: Okręg Północno-Wschodni
+NAME_PT: Norðurland Eystra
+NAME_RU: Нордюрланд-Эйстра
+NAME_SV: Norðurland eystra
+NAME_TR: Kuzeydoğu Bölgesi
+NAME_VI: Khu vực Đông Bắc
+NAME_ZH: 東北區
+NE_ID: 1159311121

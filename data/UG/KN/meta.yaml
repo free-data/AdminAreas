@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-2631
+DISS_ME: 2631
+ISO_3166_2: UG-101
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kalangala
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.KN
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-STB
+PROVNUM_NE: 20034
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG36
+FIPS_ALT: null
+WOE_ID: 20070420
+WOE_LABEL: Kalangala, UG, Uganda
+WOE_NAME: Kalangala
+LATITUDE: -0.355954
+LONGITUDE: 32.2457
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443338
+GN_NAME: Kalangala District
+GNS_ID: 9050383
+GNS_NAME: Kalangala District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.36
+REGION_SUB: null
+SUB_CODE: UG12
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG36
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q867219
+NAME_AR: مقاطعة كالانغالا
+NAME_BN: কালানগালা জেলা
+NAME_DE: Distrikt Kalangala
+NAME_EN: Kalangala District
+NAME_ES: Distrito de Kalangala
+NAME_FR: Kalangala
+NAME_EL: Καλανγκάλα
+NAME_HI: कलंगल जिला
+NAME_HU: null
+NAME_ID: Distrik Kalangala
+NAME_IT: Kalangala
+NAME_JA: カランガラ県
+NAME_KO: 칼랑갈라 구
+NAME_NL: Kalangala
+NAME_PL: Dystrykt Kalangala
+NAME_PT: Kalangala
+NAME_RU: Калангала
+NAME_SV: Kalangaladistriktet
+NAME_TR: Kalangala District
+NAME_VI: Kalangala
+NAME_ZH: 卡蘭加拉區
+NE_ID: 1159313349

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2584
+DISS_ME: 2584
+ISO_3166_2: PH-WSA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Samar
+ISO_A2: PH
+ADM0_SR: 4
+NAME: Samar
+NAME_ALT: Western Samar
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern Visayas (Region VIII)
+REGION_COD: PH-08
+PROVNUM_NE: 20039
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP55
+FIPS_ALT: null
+WOE_ID: 2346708
+WOE_LABEL: null
+WOE_NAME: Samar
+LATITUDE: 11.8292
+LONGITUDE: 124.999
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1690649
+GN_NAME: Province of Samar
+GNS_ID: -2449001
+GNS_NAME: Samar, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.55
+REGION_SUB: Samar
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP55
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13876
+NAME_AR: سامار
+NAME_BN: সামার
+NAME_DE: Samar
+NAME_EN: Samar
+NAME_ES: Sámar
+NAME_FR: Samar
+NAME_EL: Σαμάρ
+NAME_HI: सामार प्रान्त
+NAME_HU: null
+NAME_ID: Samar
+NAME_IT: Provincia di Samar
+NAME_JA: サマル州
+NAME_KO: 사마르 주
+NAME_NL: Samar
+NAME_PL: Samar
+NAME_PT: Samar
+NAME_RU: Самар
+NAME_SV: Samar
+NAME_TR: Samar
+NAME_VI: Samar
+NAME_ZH: 薩馬省
+NE_ID: 1159313435

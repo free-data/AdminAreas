@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-476
+DISS_ME: 476
+ISO_3166_2: VN-24
+WIKIPEDIA: null
+ISO_A2: VN
+ADM0_SR: 1
+NAME: Quảng Bình
+NAME_ALT: Quang Binh
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.QB
+NOTE: null
+HASC_MAYBE: null
+REGION: Bắc Trung Bộ
+REGION_COD: VNM-QBN
+PROVNUM_NE: 33
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: QB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM62
+FIPS_ALT: null
+WOE_ID: 2347746
+WOE_LABEL: Quang Binh, VN, Vietnam
+WOE_NAME: Quảng Bình
+LATITUDE: 17.4691
+LONGITUDE: 106.357
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1568839
+GN_NAME: Tinh Quang Binh
+GNS_ID: -3727314
+GNS_NAME: Quang Binh, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.62
+REGION_SUB: null
+SUB_CODE: VM70
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM62
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q23533
+NAME_AR: محافظة كوانغ بنه
+NAME_BN: কুয়াং বিন প্রদেশ
+NAME_DE: Quảng Bình
+NAME_EN: Quảng Bình
+NAME_ES: Quảng Bình
+NAME_FR: Province de Quảng Bình
+NAME_EL: Κουάνγκ Μπινχ
+NAME_HI: कैंग बिन्ह
+NAME_HU: Quang Binh
+NAME_ID: Provinsi Quang Binh
+NAME_IT: provincia di Quang Binh
+NAME_JA: クアンビン省
+NAME_KO: 꽝빈 성
+NAME_NL: Quảng Bình
+NAME_PL: Prowincja Quảng Bình
+NAME_PT: Quang Binh
+NAME_RU: Куангбинь
+NAME_SV: Quang Binh
+NAME_TR: Quang Binh
+NAME_VI: Quảng Bình
+NAME_ZH: 廣平省
+NE_ID: 1159308373

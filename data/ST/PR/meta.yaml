@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: STP-4862
+DISS_ME: 4862
+ISO_3166_2: ST-P
+WIKIPEDIA: http://en.wikipedia.org/wiki/Pr%C3%ADncipe_Province
+ISO_A2: ST
+ADM0_SR: 1
+NAME: Príncipe
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: ST.PR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: TP01
+FIPS_ALT: null
+WOE_ID: 2347233
+WOE_LABEL: Principe, ST, Sao Tome and Principe
+WOE_NAME: Principe
+LATITUDE: 1.60769
+LONGITUDE: 7.39374
+SOV_A3: STP
+ADM0_A3: STP
+ADM0_LABEL: 2
+ADMIN: Sao Tome and Principe
+GEONUNIT: Sao Tome and Principe
+GU_A3: STP
+GN_ID: 2410878
+GN_NAME: Principe
+GNS_ID: -1312697
+GNS_NAME: Principe
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ST.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TP00
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2366966
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: Príncipe Province
+NAME_ES: null
+NAME_FR: province de Principe
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Provincia di Príncipe
+NAME_JA: プリンシペ州
+NAME_KO: null
+NAME_NL: null
+NAME_PL: null
+NAME_PT: Príncipe
+NAME_RU: null
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: null
+NE_ID: 1159315955

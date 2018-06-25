@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2763
+DISS_ME: 2763
+ISO_3166_2: GB-NGM
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Nottingham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: East Midlands
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Nott'ham
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKJ8
+FIPS_ALT: UKJ8
+WOE_ID: 12696180
+WOE_LABEL: null
+WOE_NAME: Nottingham City
+LATITUDE: 52.9352
+LONGITUDE: -1.16592
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333178
+GN_NAME: City of Nottingham
+GNS_ID: 6077620
+GNS_NAME: Nottingham, City of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.J8
+REGION_SUB: Nottinghamshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q41262
+NAME_AR: نوتنغهام
+NAME_BN: নটিংহাম
+NAME_DE: Nottingham
+NAME_EN: Nottingham
+NAME_ES: Nottingham
+NAME_FR: Nottingham
+NAME_EL: Νότιγχαμ
+NAME_HI: नॉटिंघम
+NAME_HU: Nottingham
+NAME_ID: Nottingham
+NAME_IT: Nottingham
+NAME_JA: ノッティンガム
+NAME_KO: 노팅엄
+NAME_NL: Nottingham
+NAME_PL: Nottingham
+NAME_PT: Nottingham
+NAME_RU: Ноттингем
+NAME_SV: Nottingham
+NAME_TR: Nottingham
+NAME_VI: Nottingham
+NAME_ZH: 诺丁汉
+NE_ID: 1159314773

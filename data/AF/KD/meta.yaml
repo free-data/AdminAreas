@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1754
+DISS_ME: 1754
+ISO_3166_2: AF-KAN
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Kandahar
+NAME_ALT: Qandahar
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.KD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KD
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF23
+FIPS_ALT: null
+WOE_ID: 2344569
+WOE_LABEL: Kandahar, AF, Afghanistan
+WOE_NAME: Kandahar
+LATITUDE: 31.135
+LONGITUDE: 65.7163
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1138335
+GN_NAME: Kandahar
+GNS_ID: -3379065
+GNS_NAME: Kandahar, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF23
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q173808
+NAME_AR: ولاية قندهار
+NAME_BN: কান্দাহার প্রদেশ
+NAME_DE: Kandahar
+NAME_EN: Kandahar
+NAME_ES: Provincia de Kandahar
+NAME_FR: Kandahâr
+NAME_EL: Κανταχάρ
+NAME_HI: कंदहार प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Kandahar
+NAME_IT: provincia di Kandahar
+NAME_JA: カンダハール州
+NAME_KO: 칸다하르 주
+NAME_NL: Kandahar
+NAME_PL: Kandahar
+NAME_PT: Kandahar
+NAME_RU: Кандагар
+NAME_SV: Kandahar
+NAME_TR: Kandehar Vilayeti
+NAME_VI: Kandahar
+NAME_ZH: 坎大哈省
+NE_ID: 1159312065

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-1076
+DISS_ME: 1076
+ISO_3166_2: LV-007
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Aluksne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.AE
+NOTE: null
+HASC_MAYBE: EE.VR
+REGION: Vidzeme
+REGION_COD: LV.AL
+PROVNUM_NE: 26
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: AL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG41
+FIPS_ALT: EN21
+WOE_ID: -2346019
+WOE_LABEL: Aluksnes Rajons, LV, Latvia
+WOE_NAME: Aluksne
+LATITUDE: 57.4151
+LONGITUDE: 27.1693
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 461525
+GN_NAME: Aluksnes Rajons
+GNS_ID: 10985647
+GNS_NAME: Aluksnes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.02
+REGION_SUB: Vidzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG41
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q3393445
+NAME_AR: بلدية ألوكسنه
+NAME_BN: আলুক্সনে পৌরসভা
+NAME_DE: Bezirk Alūksne
+NAME_EN: Alūksne Municipality
+NAME_ES: Municipalidad de Alūksne
+NAME_FR: Alūksne
+NAME_EL: Αλούκσνε
+NAME_HI: अल्यूकने नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Alūksne
+NAME_IT: Alūksne
+NAME_JA: アルークスネ
+NAME_KO: 알룩스네 시
+NAME_NL: Alūksnes novads
+NAME_PL: Gmina Alūksnē
+NAME_PT: Município de Aluksne
+NAME_RU: Алуксненский край
+NAME_SV: Aluksne kommun
+NAME_TR: Aluksne Belediyesi
+NAME_VI: Đô thị tự trị Aluksne
+NAME_ZH: null
+NE_ID: 1159311065

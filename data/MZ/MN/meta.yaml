@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MOZ-1192
+DISS_ME: 1192
+ISO_3166_2: MZ-B
+WIKIPEDIA: null
+ISO_A2: MZ
+ADM0_SR: 1
+NAME: Manica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: MZ.MN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: MZ10
+FIPS_ALT: null
+WOE_ID: 2346320
+WOE_LABEL: Manica, MZ, Mozambique
+WOE_NAME: Manica
+LATITUDE: -20.811
+LONGITUDE: 33.4678
+SOV_A3: MOZ
+ADM0_A3: MOZ
+ADM0_LABEL: 2
+ADMIN: Mozambique
+GEONUNIT: Mozambique
+GU_A3: MOZ
+GN_ID: 1040947
+GN_NAME: Manica Province
+GNS_ID: -318733
+GNS_NAME: Manica
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MZ.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MZ10
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q622792
+NAME_AR: محافظة مانيكا
+NAME_BN: মনিকা প্রদেশ
+NAME_DE: Provinz Manica
+NAME_EN: Manica Province
+NAME_ES: Manica
+NAME_FR: province de Manica
+NAME_EL: Μανίκα
+NAME_HI: मानिका प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Manica
+NAME_IT: provincia di Manica
+NAME_JA: マニッカ州
+NAME_KO: 마니카 주
+NAME_NL: Manica
+NAME_PL: Manica
+NAME_PT: Manica
+NAME_RU: Маника
+NAME_SV: Manica
+NAME_TR: Manica Bölgesi
+NAME_VI: Tỉnh Manica
+NAME_ZH: 马尼卡省
+NE_ID: 1159309837

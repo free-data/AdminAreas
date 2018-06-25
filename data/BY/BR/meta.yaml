@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BLR-2338
+DISS_ME: 2338
+ISO_3166_2: BY-BR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Brest_Region
+ISO_A2: BY
+ADM0_SR: 1
+NAME: Brest
+NAME_ALT: Брест|Brestskaya Voblasts'|Brèst
+NAME_LOCAL: Brèsckaja voblasc'
+TYPE: Voblasts'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: BY.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: BR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: BO01
+FIPS_ALT: BO
+WOE_ID: 2344830
+WOE_LABEL: Brestskaya Voblasts', BY, Belarus
+WOE_NAME: Brest
+LATITUDE: 52.4289
+LONGITUDE: 25.3826
+SOV_A3: BLR
+ADM0_A3: BLR
+ADM0_LABEL: 2
+ADMIN: Belarus
+GEONUNIT: Belarus
+GU_A3: BLR
+GN_ID: 629631
+GN_NAME: Brestskaya Voblasts'
+GNS_ID: -1941833
+GNS_NAME: Brestskaya Voblasts'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BY.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: BO01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q173822
+NAME_AR: بريست أوبلاست
+NAME_BN: ব্রেস্ট অঞ্চল
+NAME_DE: Breszkaja Woblasz
+NAME_EN: Brest Region
+NAME_ES: Provincia de Brest
+NAME_FR: Voblast de Brest
+NAME_EL: Μπρεστ
+NAME_HI: ब्रेस्ट प्रदेश
+NAME_HU: Breszti terület
+NAME_ID: Provinsi Brest
+NAME_IT: Regione di Brėst
+NAME_JA: ブレスト州
+NAME_KO: 브레스트 주
+NAME_NL: Oblast Brest
+NAME_PL: Obwód brzeski
+NAME_PT: Brest
+NAME_RU: Брестская область
+NAME_SV: Brests voblast
+NAME_TR: Brest Voblastı
+NAME_VI: Khu vực Brest
+NAME_ZH: 布列斯特州
+NE_ID: 1159312991

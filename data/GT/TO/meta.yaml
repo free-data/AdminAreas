@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1955
+DISS_ME: 1955
+ISO_3166_2: GT-TO
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Totonicapán
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 8
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT21
+FIPS_ALT: null
+WOE_ID: 2345572
+WOE_LABEL: Totonicapan, GT, Guatemala
+WOE_NAME: Totonicapán
+LATITUDE: 15.0474
+LONGITUDE: -91.3884
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3588257
+GN_NAME: Departamento de Totonicapan
+GNS_ID: -1143134
+GNS_NAME: Totonicapan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q885644
+NAME_AR: إدارة توتونيكابان
+NAME_BN: তুতুনিকাপান বিভাগ
+NAME_DE: Departamento Totonicapán
+NAME_EN: Totonicapán Department
+NAME_ES: Totonicapán
+NAME_FR: département de Totonicapán
+NAME_EL: Τοτονικαπάν
+NAME_HI: टोटोनिकैपान विभाग
+NAME_HU: Totonicapán megye
+NAME_ID: Totonicapán Department
+NAME_IT: dipartimento di Totonicapán
+NAME_JA: トトニカパン県
+NAME_KO: 토토니카판 주
+NAME_NL: Totonicapán
+NAME_PL: Totonicapán
+NAME_PT: Totonicapán
+NAME_RU: Тотоникапан
+NAME_SV: Departamento de Totonicapán
+NAME_TR: Totonicapán
+NAME_VI: Totonicapán
+NAME_ZH: 托托尼卡潘省
+NE_ID: 1159311665

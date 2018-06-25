@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3073
+DISS_ME: 3073
+ISO_3166_2: UG-222
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Namutumba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGE1
+FIPS_ALT: null
+WOE_ID: -56190214
+WOE_LABEL: null
+WOE_NAME: Namutumba
+LATITUDE: 0.877569
+LONGITUDE: 33.6846
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 234069
+GN_NAME: Namutumba District
+GNS_ID: -1727220
+GNS_NAME: Namutumba District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.E1
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: UG89
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375819
+NAME_AR: مقاطعة ناموتومبا
+NAME_BN: নামুতুম্বা জেলা
+NAME_DE: Distrikt Namutumba
+NAME_EN: Namutumba District
+NAME_ES: Distrito de Busiki
+NAME_FR: Namutumba
+NAME_EL: Ναμουτούμπα
+NAME_HI: नामुटुम्बा जिला
+NAME_HU: null
+NAME_ID: Distrik Namutumba
+NAME_IT: Namutumba
+NAME_JA: ナムトゥンバ県
+NAME_KO: 나무툼바 구
+NAME_NL: Busiki
+NAME_PL: Dystrykt Namutumba
+NAME_PT: Namutumba
+NAME_RU: Намутумба
+NAME_SV: Namutumbadistriktet
+NAME_TR: Namutumba District
+NAME_VI: Quận Namutumba
+NAME_ZH: 納穆通巴區
+NE_ID: 1159311319

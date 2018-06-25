@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5671
+DISS_ME: 5671
+ISO_3166_2: GB-KIR
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Kirklees
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: Yorkshire and the Humber
+REGION_COD: GB.WY
+PROVNUM_NE: 20016
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: W York
+POSTAL: WY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKG8
+FIPS_ALT: null
+WOE_ID: -12602197
+WOE_LABEL: null
+WOE_NAME: West Yorkshire
+LATITUDE: 53.6218
+LONGITUDE: -1.73944
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333161
+GN_NAME: Borough of Kirklees
+GNS_ID: 6077603
+GNS_NAME: Kirklees, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.G8
+REGION_SUB: West Yorkshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q918975
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Kirklees
+NAME_EN: Kirklees
+NAME_ES: Kirklees
+NAME_FR: Kirklees
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Kirklees
+NAME_ID: Kirklees
+NAME_IT: Kirklees
+NAME_JA: カークリーズ
+NAME_KO: 커클리스
+NAME_NL: Kirklees
+NAME_PL: Kirklees
+NAME_PT: null
+NAME_RU: Кирклис
+NAME_SV: Kirklees
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 柯克利斯
+NE_ID: 1159314807

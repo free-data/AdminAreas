@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1761
+DISS_ME: 1761
+ISO_3166_2: AF-NUR
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Nuristan
+NAME_ALT: Nooristan|Nuristão
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.NR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF38
+FIPS_ALT: AF15
+WOE_ID: 24549937
+WOE_LABEL: Nurestan, AF, Afghanistan
+WOE_NAME: Nuristan
+LATITUDE: 35.2898
+LONGITUDE: 70.7567
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1444363
+GN_NAME: Velayat-e Nurestan
+GNS_ID: 6240774
+GNS_NAME: Nuristan, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: AF38
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q167485
+NAME_AR: ولاية نورستان
+NAME_BN: নুরেস্তন প্রদেশ
+NAME_DE: Nuristan
+NAME_EN: Nuristan
+NAME_ES: Provincia de Nūristān
+NAME_FR: Nourestân
+NAME_EL: Νουρεστάν
+NAME_HI: नूरिस्तान प्रान्त
+NAME_HU: null
+NAME_ID: Nurestan
+NAME_IT: provincia di Nurestan
+NAME_JA: ヌーリスターン州
+NAME_KO: 누리스탄 주
+NAME_NL: Nooristan
+NAME_PL: Nuristan
+NAME_PT: Nuristão
+NAME_RU: Нуристан
+NAME_SV: Nurestan
+NAME_TR: Nuristan Vilayeti
+NAME_VI: Nuristan
+NAME_ZH: 努尔斯坦省
+NE_ID: 1159312079

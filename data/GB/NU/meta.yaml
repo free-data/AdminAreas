@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5661
+DISS_ME: 5661
+ISO_3166_2: GB-NET
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Newcastle upon Tyne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.NU
+NOTE: null
+HASC_MAYBE: null
+REGION: North East
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 19
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKI7
+FIPS_ALT: null
+WOE_ID: -12602156
+WOE_LABEL: null
+WOE_NAME: Tyne and Wear
+LATITUDE: 54.9931
+LONGITUDE: -1.5994
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333174
+GN_NAME: City and Borough of Newcastle upon Tyne
+GNS_ID: 6077616
+GNS_NAME: Newcastle upon Tyne, City and Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.I7
+REGION_SUB: Tyne and Wear
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1425428
+NAME_AR: نيوكاسل أبون تاين
+NAME_BN: নিউক্যাসল আপন টাইন
+NAME_DE: Newcastle upon Tyne
+NAME_EN: Newcastle upon Tyne
+NAME_ES: Newcastle upon Tyne
+NAME_FR: Newcastle upon Tyne
+NAME_EL: Νιούκασλ
+NAME_HI: न्यूकैसल अपॉन टाइन नोड
+NAME_HU: Newcastle upon Tyne
+NAME_ID: Newcastle upon Tyne
+NAME_IT: Newcastle upon Tyne
+NAME_JA: ニューカッスル・アポン・タイン
+NAME_KO: 뉴캐슬어폰타인
+NAME_NL: Newcastle upon Tyne
+NAME_PL: Newcastle upon Tyne
+NAME_PT: Newcastle upon Tyne
+NAME_RU: Ньюкасл на Тайне
+NAME_SV: Newcastle upon Tyne
+NAME_TR: Newcastle upon Tyne
+NAME_VI: Newcastle trên sông Tyne
+NAME_ZH: 泰恩河畔纽卡斯尔
+NE_ID: 1159312843

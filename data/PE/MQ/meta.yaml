@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-574
+DISS_ME: 574
+ISO_3166_2: PE-MOQ
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Moquegua
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.MQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MQ
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE18
+FIPS_ALT: null
+WOE_ID: 2346485
+WOE_LABEL: Moquegua, PE, Peru
+WOE_NAME: Moquegua
+LATITUDE: -16.6807
+LONGITUDE: -70.7546
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3934607
+GN_NAME: Departamento de Moquegua
+GNS_ID: -355297
+GNS_NAME: Moquegua, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE18
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q208182
+NAME_AR: إقليم موكيغوا
+NAME_BN: মুকেগোয়া অঞ্চল
+NAME_DE: Moquegua
+NAME_EN: Moquegua Region
+NAME_ES: Departamento de Moquegua
+NAME_FR: Région de Moquegua
+NAME_EL: Μοκέγκουα
+NAME_HI: मोकेगुआ क्षेत्र
+NAME_HU: Moquegua megye
+NAME_ID: Region Moquegua
+NAME_IT: regione di Moquegua
+NAME_JA: モケグア県
+NAME_KO: 모케과 주
+NAME_NL: Moquegua
+NAME_PL: Region Moquegua
+NAME_PT: Moquegua
+NAME_RU: Мокегуа
+NAME_SV: Moquegua
+NAME_TR: Moquegua Bölgesi
+NAME_VI: Khu vực Moquegua
+NAME_ZH: 莫克瓜大区
+NE_ID: 1159309951

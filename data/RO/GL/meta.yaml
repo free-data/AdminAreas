@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-315
+DISS_ME: 315
+ISO_3166_2: RO-GL
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Galati
+NAME_ALT: Galați|Galatz
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.GL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: GL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO18
+FIPS_ALT: null
+WOE_ID: 2346632
+WOE_LABEL: Galati, RO, Romania
+WOE_NAME: Galati
+LATITUDE: 45.7861
+LONGITUDE: 27.7329
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 677692
+GN_NAME: Judetul Galati
+GNS_ID: -1159778
+GNS_NAME: Galati, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q188796
+NAME_AR: إقليم غالاتس
+NAME_BN: গালোতি কাউন্টি
+NAME_DE: Kreis Galați
+NAME_EN: Galați County
+NAME_ES: Galați
+NAME_FR: Județ de Galați
+NAME_EL: Γκαλάτι
+NAME_HI: गलाती काउंटी
+NAME_HU: Galați megye
+NAME_ID: Provinsi Galați
+NAME_IT: distretto di Galați
+NAME_JA: ガラツィ県
+NAME_KO: 갈라치 주
+NAME_NL: District Galați
+NAME_PL: Okręg Gałacz
+NAME_PT: Galați
+NAME_RU: Галац
+NAME_SV: Galați
+NAME_TR: Galați ili
+NAME_VI: Hạt Galati
+NAME_ZH: 加拉茨縣
+NE_ID: 1159308845

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2831
+DISS_ME: 2831
+ISO_3166_2: BF-ZOU
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Zoundwéogo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.ZW
+NOTE: null
+HASC_MAYBE: null
+REGION: Centre-Sud
+REGION_COD: null
+PROVNUM_NE: 20037
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ZW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV44
+FIPS_ALT: null
+WOE_ID: 2347639
+WOE_LABEL: Zoundweogo, BF, Burkina Faso
+WOE_NAME: Zoundwéogo
+LATITUDE: 11.5711
+LONGITUDE: -0.940234
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2353169
+GN_NAME: Zoundweogo Province
+GNS_ID: -1725610
+GNS_NAME: Zoundweogo, Province du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.44
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV85
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q227059
+NAME_AR: محافظة زوندويوغو
+NAME_BN: জুন্ডবেগো প্রদেশ
+NAME_DE: Zoundwéogo
+NAME_EN: Zoundwéogo Province
+NAME_ES: Provincia de Zoundwéogo
+NAME_FR: Zoundwéogo
+NAME_EL: Ζουντβέογκο
+NAME_HI: जौंडवेगो प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Zoundwéogo
+NAME_IT: provincia di Zoundwéogo
+NAME_JA: ズンドウェオゴ県
+NAME_KO: 준드웨오고 현
+NAME_NL: Zoundwéogo
+NAME_PL: Prowincja Zoundwéogo
+NAME_PT: Zoundwéogo
+NAME_RU: Зундвеого
+NAME_SV: Zoundwéogo
+NAME_TR: Zoundwéogo Province
+NAME_VI: Zoundwéogo
+NAME_ZH: 宗德韋奧戈省
+NE_ID: 1159313939

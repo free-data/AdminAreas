@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1610
+DISS_ME: 1610
+ISO_3166_2: HR-05
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Varaždinska
+NAME_ALT: Varaždin|Varasd
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.VA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR16
+FIPS_ALT: null
+WOE_ID: 12577986
+WOE_LABEL: VaraÅ¾dinska, HR, Croatia
+WOE_NAME: Varaždinska
+LATITUDE: 46.1918
+LONGITUDE: 16.3267
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337528
+GN_NAME: Varazdinska Zupanija
+GNS_ID: 9031097
+GNS_NAME: Varazdinska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR16
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q57967
+NAME_AR: مقاطعة فرازدين
+NAME_BN: ভারাজদিন কাউন্টি
+NAME_DE: Gespanschaft Varaždin
+NAME_EN: Varaždin County
+NAME_ES: Varaždin
+NAME_FR: Comitat de Varaždin
+NAME_EL: Βαραζντίν
+NAME_HI: वराज़दिन काउंटी
+NAME_HU: Varasd megye
+NAME_ID: Kabupaten Varaždin
+NAME_IT: regione di Varaždin
+NAME_JA: ヴァラジュディン郡
+NAME_KO: 바라주딘 주
+NAME_NL: Varaždin
+NAME_PL: Varaždinska županija
+NAME_PT: Condado de Varaždin
+NAME_RU: Вараждинская жупания
+NAME_SV: Varaždins län
+NAME_TR: Varaždin Bölgesi
+NAME_VI: Hạt Varazdin
+NAME_ZH: 瓦拉日丁縣
+NE_ID: 1159312555

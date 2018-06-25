@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-806
+DISS_ME: 806
+ISO_3166_2: CF-BB
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Bamingui-Bangoran
+NAME_ALT: Bamingui-Bangora|N'Délé|Ndélé
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: BB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 17
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT01
+FIPS_ALT: null
+WOE_ID: 2345089
+WOE_LABEL: null
+WOE_NAME: Bamingui-Bangoran
+LATITUDE: 8.21272
+LONGITUDE: 20.6318
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 240591
+GN_NAME: Bamingui-Bangoran
+GNS_ID: -1339245
+GNS_NAME: Bamingui-Bangoran, Prefecture de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT01
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q741025
+NAME_AR: محافظة بامينغوي بانغوران
+NAME_BN: বামিঙ্গুই-ব্যাঙ্গোরান প্রশাসনিক অঞ্চল
+NAME_DE: Bamingui-Bangoran
+NAME_EN: Bamingui-Bangoran Prefecture
+NAME_ES: Bamingui-Bangoran
+NAME_FR: Bamingui-Bangoran
+NAME_EL: Μπαμινγκούι-Μπανγκοράν
+NAME_HI: बमिंगुई-बंगोरन प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Bamingui-Bangoran
+NAME_IT: prefettura di Bamingui-Bangoran
+NAME_JA: バミンギ・バンゴラン州
+NAME_KO: 바밍기방고랑 주
+NAME_NL: Bamingui-Bangoran
+NAME_PL: Prefektura Bamingui-Bangoran
+NAME_PT: Bamingui-Bangoran
+NAME_RU: Баминги-Бангоран
+NAME_SV: Bamingui-Bangoran
+NAME_TR: Bamingui-Bangoran
+NAME_VI: Bamingui-Bangoran
+NAME_ZH: 巴明吉-班戈兰省
+NE_ID: 1159308951

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2942
+DISS_ME: 2942
+ISO_3166_2: MK-46
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Kruševo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.KS
+NOTE: null
+HASC_MAYBE: null
+REGION: Pelagonia
+REGION_COD: null
+PROVNUM_NE: 20065
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: KS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK54
+FIPS_ALT: null
+WOE_ID: 24550782
+WOE_LABEL: Krusevo Municipality, MK, Macedonia
+WOE_NAME: Kruševo
+LATITUDE: 41.3734
+LONGITUDE: 21.2328
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863871
+GN_NAME: Opstina Krusevo
+GNS_ID: 9075636
+GNS_NAME: Krusevo, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.54
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK54
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2476159
+NAME_AR: بلدية كروشيفو
+NAME_BN: ক্রুসেভো পৌরসভা
+NAME_DE: Opština Kruševo
+NAME_EN: Kruševo Municipality
+NAME_ES: Municipalidad de Kruševo
+NAME_FR: Krouchevo
+NAME_EL: Δήμος Κρουσόβου
+NAME_HI: क्रुसेवो नगरपालिका
+NAME_HU: Krusevói járás
+NAME_ID: Kotamadya Kruševo
+NAME_IT: Kruševo
+NAME_JA: クルシェヴォ
+NAME_KO: 크루셰보 시
+NAME_NL: Kruševo
+NAME_PL: Gmina Kruševo
+NAME_PT: Município de Krusevo
+NAME_RU: Крушево
+NAME_SV: Krusjevo
+NAME_TR: Krusevo Belediyesi
+NAME_VI: Đô thị tự trị Krusevo
+NAME_ZH: 克鲁舍沃区
+NE_ID: 1159314501

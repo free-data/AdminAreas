@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: GTM-1946
+DISS_ME: 1946
+ISO_3166_2: GT-RE
+WIKIPEDIA: null
+ISO_A2: GT
+ADM0_SR: 1
+NAME: Retalhuleu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: GT.RE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RE
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 6
+FIPS: GT15
+FIPS_ALT: null
+WOE_ID: 2345566
+WOE_LABEL: Retalhuleu, GT, Guatemala
+WOE_NAME: Retalhuleu
+LATITUDE: 14.3957
+LONGITUDE: -91.8364
+SOV_A3: GTM
+ADM0_A3: GTM
+ADM0_LABEL: 2
+ADMIN: Guatemala
+GEONUNIT: Guatemala
+GU_A3: GTM
+GN_ID: 3590857
+GN_NAME: Departamento de Retalhuleu
+GNS_ID: -1140521
+GNS_NAME: Retalhuleu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GT.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GT15
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q888307
+NAME_AR: إدارة ريتاليوليو
+NAME_BN: রেতালহোলে বিভাগ
+NAME_DE: Departamento Retalhuleu
+NAME_EN: Retalhuleu Department
+NAME_ES: Retalhuleu
+NAME_FR: département de Retalhuleu
+NAME_EL: Ρεταλουλέου
+NAME_HI: रेतलहुलु विभाग
+NAME_HU: Retalhuleu megye
+NAME_ID: Departemen Retalhuleu
+NAME_IT: dipartimento di Retalhuleu
+NAME_JA: レタルレウ県
+NAME_KO: 레탈룰레우 주
+NAME_NL: Retalhuleu
+NAME_PL: Retalhuleu
+NAME_PT: Retalhuleu
+NAME_RU: Реталулеу
+NAME_SV: Departamento de Retalhuleu
+NAME_TR: Retalhuleu Departmanı
+NAME_VI: Retalhuleu
+NAME_ZH: 雷塔盧萊烏省
+NE_ID: 1159311643

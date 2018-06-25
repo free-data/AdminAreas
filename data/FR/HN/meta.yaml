@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5301
+DISS_ME: 5301
+ISO_3166_2: FR-70
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Haute-Saône
+NAME_ALT: Franco-Condado
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.HN
+NOTE: null
+HASC_MAYBE: null
+REGION: Franche-Comté
+REGION_COD: FR-I
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 11
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA6
+FIPS_ALT: null
+WOE_ID: 12597119
+WOE_LABEL: null
+WOE_NAME: Haute-Saône
+LATITUDE: 47.6973
+LONGITUDE: 6.16722
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3013737
+GN_NAME: Departement de la Haute-Saone
+GNS_ID: -1431642
+GNS_NAME: Haute-Saone, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.70
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA6
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12730
+NAME_AR: سون العليا
+NAME_BN: হোতে-সাওন
+NAME_DE: Département Haute-Saône
+NAME_EN: Haute-Saône
+NAME_ES: Alto Saona
+NAME_FR: Haute-Saône
+NAME_EL: Ωτ-Σον
+NAME_HI: ओट-साओन
+NAME_HU: Haute-Saône
+NAME_ID: Haute-Saône
+NAME_IT: Alta Saona
+NAME_JA: オート＝ソーヌ県
+NAME_KO: 오트손 주
+NAME_NL: Haute-Saône
+NAME_PL: Górna Saona
+NAME_PT: Haute-Saône
+NAME_RU: Верхняя Сона
+NAME_SV: Haute-Saône
+NAME_TR: Haute-Saône
+NAME_VI: Haute-Saône
+NAME_ZH: 上索恩省
+NE_ID: 1159316819

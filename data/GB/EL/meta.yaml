@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2022
+DISS_ME: 2022
+ISO_3166_2: GB-ELN
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: East Lothian
+NAME_ALT: Haddington
+NAME_LOCAL: null
+TYPE: Unitary District
+TYPE_EN: Unitary District
+CODE_LOCAL: null
+CODE_HASC: GB.EL
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: EL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKU6
+FIPS_ALT: UKU6
+WOE_ID: 12696193
+WOE_LABEL: null
+WOE_NAME: East Lothian
+LATITUDE: 55.9477
+LONGITUDE: -2.7108
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Scotland
+GU_A3: SCT
+GN_ID: 2650386
+GN_NAME: East Lothian
+GNS_ID: -2595225
+GNS_NAME: East Lothian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.U6
+REGION_SUB: Edinburgh and the Lothians
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q207257
+NAME_AR: لوثيان الشرقية
+NAME_BN: ইস্ট লোথিয়ান
+NAME_DE: East Lothian
+NAME_EN: East Lothian
+NAME_ES: East Lothian
+NAME_FR: East Lothian
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: East Lothian
+NAME_JA: イースト・ロージアン
+NAME_KO: 이스트로디언
+NAME_NL: East Lothian
+NAME_PL: East Lothian
+NAME_PT: East Lothian
+NAME_RU: Восточный Лотиан
+NAME_SV: East Lothian
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 东洛锡安
+NE_ID: 1159313057

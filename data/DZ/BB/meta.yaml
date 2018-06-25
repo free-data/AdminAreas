@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2207
+DISS_ME: 2207
+ISO_3166_2: DZ-34
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Bordj Bou Arréridj
+NAME_ALT: Borjbouarirej|Bordi Bou Arreridj
+NAME_LOCAL: ولاية برج بوعريريج
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.BB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 46
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 18
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG39
+FIPS_ALT: null
+WOE_ID: 2344609
+WOE_LABEL: Bordj Bou Arreridj, DZ, Algeria
+WOE_NAME: Bordj Bou Arréridj
+LATITUDE: 36.0966
+LONGITUDE: 4.66926
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2503699
+GN_NAME: Wilaya de Bordj Bou Arreridj
+GNS_ID: -462162
+GNS_NAME: Bordj Bou Arreridj
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG39
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q266411
+NAME_AR: ولاية برج بوعريريج
+NAME_BN: বোর্ডজ বু প্রদেশ
+NAME_DE: Bordj Bou Arreridj
+NAME_EN: Bordj Bou Arréridj Province
+NAME_ES: Provincia de Bordj Bou Arréridj
+NAME_FR: wilaya de Bordj Bou Arreridj
+NAME_EL: Μπορντζ Μπου Αρερίντζ
+NAME_HI: बोर्दज बोउ अर्रेरिदज प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Bordj Bou Arreridj
+NAME_IT: provincia di Bordj Bou Arreridj
+NAME_JA: ボルジ・ブ・アレリジ県
+NAME_KO: 보르즈부아레리즈 주
+NAME_NL: Bordj Bou Arréridj
+NAME_PL: Prowincja Burdż Bu Urajridż
+NAME_PT: Bordj Bou Arreridj
+NAME_RU: Бордж-Бу-Арреридж
+NAME_SV: Bordj Bou Arréridj
+NAME_TR: Burc Bu Ariric Vilayeti
+NAME_VI: Bordj Bou Arréridj
+NAME_ZH: 布阿拉里季堡省
+NE_ID: 1159311959

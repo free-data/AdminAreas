@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2939
+DISS_ME: 2939
+ISO_3166_2: MK-42
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Kočani
+NAME_ALT: Kocani
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.OC
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 20045
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: OC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK46
+FIPS_ALT: null
+WOE_ID: 24550777
+WOE_LABEL: Kocani Municipality, MK, Macedonia
+WOE_NAME: Kocani
+LATITUDE: 41.9798
+LONGITUDE: 22.3869
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863865
+GN_NAME: Opstina Kocani
+GNS_ID: 9075630
+GNS_NAME: Kocani, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK46
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1819289
+NAME_AR: بلدية كوتشاني
+NAME_BN: কৈয়ানি পৌরসভা
+NAME_DE: Opština Kočani
+NAME_EN: Kočani Municipality
+NAME_ES: Municipalidad de Kočani
+NAME_FR: municipalité de Kotchani
+NAME_EL: Δήμος Κότσανης
+NAME_HI: कोसानी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Kočani
+NAME_IT: Comune di Kočani
+NAME_JA: クアツェーニ
+NAME_KO: 코차니 시
+NAME_NL: Kotsjani
+NAME_PL: Gmina Koczani
+NAME_PT: Município de Kocani
+NAME_RU: Кочани
+NAME_SV: Kočani
+NAME_TR: Kocani Belediyesi
+NAME_VI: Đô thị tự trị Kocani
+NAME_ZH: 科查尼區
+NE_ID: 1159314495

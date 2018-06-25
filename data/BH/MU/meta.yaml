@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: BHR-4930
+DISS_ME: 4930
+ISO_3166_2: BH-15
+WIKIPEDIA: http://en.wikipedia.org/wiki/Al_Mu%E1%B8%A9arraq_Governorate
+ISO_A2: BH
+ADM0_SR: 1
+NAME: Al Muḩarraq
+NAME_ALT: Muhafazat al-Muharaq
+NAME_LOCAL: محافظة المحرق‎
+TYPE: Muhafazah
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: BH.MU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2344724
+WOE_LABEL: Muharraq, BH, Bahrain
+WOE_NAME: Muharraq
+LATITUDE: 26.261
+LONGITUDE: 50.6376
+SOV_A3: BHR
+ADM0_A3: BHR
+ADM0_LABEL: 2
+ADMIN: Bahrain
+GEONUNIT: Bahrain
+GU_A3: BHR
+GN_ID: 290333
+GN_NAME: Muharraq Governorate
+GNS_ID: -784840
+GNS_NAME: Muharraq, Muhafazat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BH.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: BA15
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q375630
+NAME_AR: محافظة المحرق
+NAME_BN: মুহাররাক গভর্নোরেট
+NAME_DE: Gouvernement Muharraq
+NAME_EN: Muharraq Governorate
+NAME_ES: Muharraq
+NAME_FR: Gouvernorat de Muharraq
+NAME_EL: Μουχαράκ
+NAME_HI: मुहरक गवर्नरेट
+NAME_HU: Muharrak kormányzóság
+NAME_ID: Kegubernuran Al Muharraq
+NAME_IT: Governatorato di Muharraq
+NAME_JA: ムハッラク県
+NAME_KO: 무하라크 주
+NAME_NL: Muharraq Governorate
+NAME_PL: Muhafazat al-Muharrak
+NAME_PT: Província de Muharraq
+NAME_RU: Мухаррак
+NAME_SV: Muharraq Governorate
+NAME_TR: Muharraq Yönetimi
+NAME_VI: Tỉnh Muharraq
+NAME_ZH: 穆哈拉格省
+NE_ID: 1159316089

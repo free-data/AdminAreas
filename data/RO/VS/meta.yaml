@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-316
+DISS_ME: 316
+ISO_3166_2: RO-VS
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Vaslui
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.VS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO38
+FIPS_ALT: null
+WOE_ID: 2346651
+WOE_LABEL: Vaslui, RO, Romania
+WOE_NAME: Vaslui
+LATITUDE: 46.5225
+LONGITUDE: 27.7259
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 663116
+GN_NAME: Judetul Vaslui
+GNS_ID: -1174387
+GNS_NAME: Vaslui, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.38
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO38
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q167199
+NAME_AR: إقليم فاسلوي
+NAME_BN: ভাস্লুয়ী কাউন্টি
+NAME_DE: Kreis Vaslui
+NAME_EN: Vaslui County
+NAME_ES: Vaslui
+NAME_FR: județ de Vaslui
+NAME_EL: Βασλούι
+NAME_HI: वास्लूय काउंटी
+NAME_HU: Vaslui megye
+NAME_ID: Provinsi Vaslui
+NAME_IT: distretto di Vaslui
+NAME_JA: ヴァスルイ県
+NAME_KO: 바슬루이 주
+NAME_NL: District Vaslui
+NAME_PL: Okręg Vaslui
+NAME_PT: Vaslui
+NAME_RU: Васлуй
+NAME_SV: Vaslui
+NAME_TR: Vaslui ili
+NAME_VI: Hạt Vaslui
+NAME_ZH: 瓦斯盧伊縣
+NE_ID: 1159308847

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-420
+DISS_ME: 420
+ISO_3166_2: TH-77
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Prachuap Khiri Khan
+NAME_ALT: Korh Luxk|Prachuab Girikhand|Prachuapkirikhan|Prachut Khirikhan
+NAME_LOCAL: จังหวัดประจวบคีรีขันธ์
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: null
+PROVNUM_NE: 30
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 19
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH57
+FIPS_ALT: null
+WOE_ID: 2347181
+WOE_LABEL: Prachuap Khiri Khan, TH, Thailand
+WOE_NAME: Prachuap Khiri Khan
+LATITUDE: 12.3053
+LONGITUDE: 99.7274
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1151073
+GN_NAME: Changwat Prachuap Khiri Khan
+GNS_ID: -3253692
+GNS_NAME: Prachuap Khiri Khan, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.57
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH57
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q244628
+NAME_AR: محافظة براتشواب خيري خان
+NAME_BN: প্রকাপ খরি খানের
+NAME_DE: Prachuap Khiri Khan
+NAME_EN: Prachuap Khiri Khan
+NAME_ES: Provincia de Prachuap Khiri Khan
+NAME_FR: Prachuap Khiri Khan
+NAME_EL: Πράτσουαπ Κίρι Καν
+NAME_HI: प्रचुअप खीरी खन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Prachuap Khiri Khan
+NAME_IT: provincia di Prachuap Khiri Khan
+NAME_JA: プラチュワップキーリーカン県
+NAME_KO: 쁘라쭈압키리칸 주
+NAME_NL: Changwat Prachuap Khiri Khan
+NAME_PL: Prowincja Prachuap Khiri Khan
+NAME_PT: Prachuap Khiri Khan
+NAME_RU: Прачуапкхирикхан
+NAME_SV: Prachuap Khiri Khan
+NAME_TR: Prachuap Khiri Khan
+NAME_VI: Prachuap Khiri Khan
+NAME_ZH: 班武里府
+NE_ID: 1159308205

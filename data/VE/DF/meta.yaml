@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: VEN-43
+DISS_ME: 43
+ISO_3166_2: VE-A
+WIKIPEDIA: null
+ISO_A2: VE
+ADM0_SR: 1
+NAME: Distrito Capital
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito Capital
+TYPE_EN: Capital District
+CODE_LOCAL: null
+CODE_HASC: VE.DF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 6
+ABBREV: null
+POSTAL: DF
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: VE25
+FIPS_ALT: VE10|VE25
+WOE_ID: 2347686
+WOE_LABEL: Distrito Federal, VE, Venezuela
+WOE_NAME: Distrito Capital
+LATITUDE: 10.4857
+LONGITUDE: -66.964
+SOV_A3: VEN
+ADM0_A3: VEN
+ADM0_LABEL: 3
+ADMIN: Venezuela
+GEONUNIT: Venezuela
+GU_A3: VEN
+GN_ID: 3640847
+GN_NAME: Distrito Capital
+GNS_ID: -944462
+GNS_NAME: Capital, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VE.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: VE25
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q492791
+NAME_AR: مقاطعة العاصمة
+NAME_BN: কেপিটাল জেলা
+NAME_DE: Distrito Capital
+NAME_EN: Capital District
+NAME_ES: Distrito Capital
+NAME_FR: District Capitale de Caracas
+NAME_EL: Κάπιταλ Ντίστρικτ
+NAME_HI: कैपिटल जिला
+NAME_HU: null
+NAME_ID: Distrik Capital
+NAME_IT: distretto Capitale
+NAME_JA: 首都地区
+NAME_KO: 수도 지구
+NAME_NL: Hoofdstedelijk District
+NAME_PL: Dystrykt Capital
+NAME_PT: Distrito Capital
+NAME_RU: Столичный округ Венесуэлы
+NAME_SV: Venezuelas huvudstadsdistrikt
+NAME_TR: Venezuela Başkent Bölgesi
+NAME_VI: Quận Capital
+NAME_ZH: 聯邦區
+NE_ID: 1159308119

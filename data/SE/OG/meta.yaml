@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-184
+DISS_ME: 184
+ISO_3166_2: SE-E
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 5
+NAME: Östergötland
+NAME_ALT: Östergötlands län
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.OG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: OG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW16
+FIPS_ALT: null
+WOE_ID: 2347059
+WOE_LABEL: Ostergotland, SE, Sweden
+WOE_NAME: Östergötland
+LATITUDE: 58.3655
+LONGITUDE: 15.7022
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2685867
+GN_NAME: OEstergoetlands Laen
+GNS_ID: -2510950
+GNS_NAME: Ostergotlands Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q104940
+NAME_AR: مقاطعة أوسترغوتلاند
+NAME_BN: ওঁস্টারগটল্যান্ড কাউন্টি
+NAME_DE: Östergötlands län
+NAME_EN: Östergötland County
+NAME_ES: Provincia de Östergötland
+NAME_FR: Comté d'Östergötland
+NAME_EL: κομητεία της Έστεργέτλανδς
+NAME_HI: ओस्तरयोतलान्द लैन
+NAME_HU: Östergötland megye
+NAME_ID: Daerah Östergötland
+NAME_IT: contea di Östergötland
+NAME_JA: エステルイェータランド県
+NAME_KO: 외스테르예틀란드 주
+NAME_NL: Östergötlands län
+NAME_PL: Östergötlands län
+NAME_PT: condado da Östergötland
+NAME_RU: Эстергётланд
+NAME_SV: Östergötlands län
+NAME_TR: Östergötland ili
+NAME_VI: hạt Östergötland
+NAME_ZH: 东约特兰省
+NE_ID: 1159308727

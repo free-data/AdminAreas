@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1378
+DISS_ME: 1378
+ISO_3166_2: JM-04
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Portland
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.PO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM07
+FIPS_ALT: null
+WOE_ID: 2345915
+WOE_LABEL: Portland, JM, Jamaica
+WOE_NAME: Portland
+LATITUDE: 18.1179
+LONGITUDE: -76.5041
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3488997
+GN_NAME: Parish of Portland
+GNS_ID: -3753295
+GNS_NAME: Portland, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM07
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q125148
+NAME_AR: أبرشية بورتلاند
+NAME_BN: পোর্টল্যান্ড প্যারিশ
+NAME_DE: Portland Parish
+NAME_EN: Portland Parish
+NAME_ES: Parroquia de Portland
+NAME_FR: Paroisse de Portland
+NAME_EL: Πόρτλαντ
+NAME_HI: पोर्टलैंड पैरिश
+NAME_HU: null
+NAME_ID: Paroki Portland
+NAME_IT: parrocchia di Portland
+NAME_JA: ポートランド教区
+NAME_KO: 포틀랜드 교구
+NAME_NL: Portland
+NAME_PL: Portland
+NAME_PT: Portland
+NAME_RU: Приход Портленд
+NAME_SV: Parish of Portland
+NAME_TR: Portland Parish
+NAME_VI: Giáo xứ Portland
+NAME_ZH: 波特蘭區
+NE_ID: 1159310283

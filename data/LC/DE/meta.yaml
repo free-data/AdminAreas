@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: LCA-5080
+DISS_ME: 5080
+ISO_3166_2: LC-05
+WIKIPEDIA: http://en.wikipedia.org/wiki/Dennery_Quarter
+ISO_A2: LC
+ADM0_SR: 1
+NAME: Dennery
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Quarter
+TYPE_EN: Quarter
+CODE_LOCAL: null
+CODE_HASC: LC.DE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: ST05
+FIPS_ALT: null
+WOE_ID: 2347027
+WOE_LABEL: Dennery, LC, St. Lucia
+WOE_NAME: Dennery
+LATITUDE: 13.9425
+LONGITUDE: -60.9052
+SOV_A3: LCA
+ADM0_A3: LCA
+ADM0_LABEL: 7
+ADMIN: Saint Lucia
+GEONUNIT: Saint Lucia
+GU_A3: LCA
+GN_ID: 3576764
+GN_NAME: Quarter of Dennery
+GNS_ID: -1313829
+GNS_NAME: Dennery, Quarter of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LC.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ST05
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1188890
+NAME_AR: حي دينيري
+NAME_BN: ডেনিরি কোয়ার্টার
+NAME_DE: Dennery
+NAME_EN: Dennery Quarter
+NAME_ES: Dennery
+NAME_FR: District de Dennery
+NAME_EL: Ντενερί
+NAME_HI: डेनेरी क्वार्टर
+NAME_HU: null
+NAME_ID: Dennery Quarter
+NAME_IT: quartiere di Dennery
+NAME_JA: デナリー地区
+NAME_KO: 데네리 구
+NAME_NL: Dennery
+NAME_PL: Dennery
+NAME_PT: Dennery
+NAME_RU: Деннери
+NAME_SV: Dennery
+NAME_TR: Dennery
+NAME_VI: Dennery
+NAME_ZH: 登內里區
+NE_ID: 1159316377

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BLM-5113
+DISS_ME: 5113
+ISO_3166_2: BL-X00~
+WIKIPEDIA: http://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy
+ISO_A2: BL
+ADM0_SR: 3
+NAME: Saint Barthélemy
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: 97 7
+CODE_HASC: BL.SB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 16
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 56042304
+WOE_LABEL: null
+WOE_NAME: Saint Barthélemy
+LATITUDE: 17.9017
+LONGITUDE: -62.8288
+SOV_A3: FR1
+ADM0_A3: BLM
+ADM0_LABEL: 8
+ADMIN: Saint Barthelemy
+GEONUNIT: Saint Barthelemy
+GU_A3: BLM
+GN_ID: -99
+GN_NAME: null
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 0
+GN_REGION: null
+GN_A1_CODE: BL.
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q25362
+NAME_AR: سان بارتيلمي
+NAME_BN: সেন্ট-বার্থেলেমি
+NAME_DE: Saint-Barthélemy
+NAME_EN: Saint-Barthélemy
+NAME_ES: San Bartolomé
+NAME_FR: Saint-Barthélemy
+NAME_EL: Άγιος Βαρθολομαίος
+NAME_HI: सेंट बार्थेलेमी
+NAME_HU: Saint-Barthélemy
+NAME_ID: Saint-Barthélemy
+NAME_IT: Saint-Barthélemy
+NAME_JA: サン・バルテルミー島
+NAME_KO: 생바르텔레미
+NAME_NL: Saint-Barthélemy
+NAME_PL: Saint-Barthélemy
+NAME_PT: Coletividade de São Bartolomeu
+NAME_RU: Сен-Бартелеми
+NAME_SV: Saint-Barthélemy
+NAME_TR: Saint Barthélemy
+NAME_VI: Saint-Barthélemy
+NAME_ZH: 聖巴泰勒米島
+NE_ID: 1159315649

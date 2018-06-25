@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Bolivia
+SOV_A3: BOL
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Bolivia
+ADM0_A3: BOL
+GEOU_DIF: 0
+GEOUNIT: Bolivia
+GU_A3: BOL
+SU_DIF: 0
+SUBUNIT: Bolivia
+SU_A3: BOL
+BRK_DIFF: 0
+NAME: Bolivia
+NAME_LONG: Bolivia
+BRK_A3: BOL
+BRK_NAME: Bolivia
+BRK_GROUP: null
+ABBREV: Bolivia
+POSTAL: BO
+FORMAL_EN: Plurinational State of Bolivia
+FORMAL_FR: null
+NAME_CIAWF: Bolivia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Bolivia
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+POP_EST: 11138234
+POP_RANK: 14
+GDP_MD_EST: 78350
+POP_YEAR: 2017
+LASTCENSUS: 2001
+GDP_YEAR: 2016
+ECONOMY: 5. Emerging region: G20
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: BL
+ISO_A2: BO
+ISO_A3: BOL
+ISO_A3_EH: BOL
+ISO_N3: 068
+UN_A3: 068
+WB_A2: BO
+WB_A3: BOL
+WOE_ID: 23424762
+WOE_ID_EH: 23424762
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BOL
+ADM0_A3_US: BOL
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: South America
+REGION_UN: Americas
+SUBREGION: South America
+REGION_WB: Latin America & Caribbean
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 7
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 7.5
+NE_ID: 1159320439
+WIKIDATAID: Q750
+NAME_AR: بوليفيا
+NAME_BN: বলিভিয়া
+NAME_DE: Bolivien
+NAME_EN: Bolivia
+NAME_ES: Bolivia
+NAME_FR: Bolivie
+NAME_EL: Βολιβία
+NAME_HI: बोलिविया
+NAME_HU: Bolívia
+NAME_ID: Bolivia
+NAME_IT: Bolivia
+NAME_JA: ボリビア
+NAME_KO: 볼리비아
+NAME_NL: Bolivia
+NAME_PL: Boliwia
+NAME_PT: Bolívia
+NAME_RU: Боливия
+NAME_SV: Bolivia
+NAME_TR: Bolivya
+NAME_VI: Bolivia
+NAME_ZH: 玻利維亞

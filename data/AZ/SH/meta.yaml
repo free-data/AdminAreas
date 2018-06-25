@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-2423
+DISS_ME: 2423
+ISO_3166_2: AZ-SAH
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Şahbuz
+NAME_ALT: Shakhbuz
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.SH
+NOTE: null
+HASC_MAYBE: null
+REGION: Naxçıvan Autonomous Republic
+REGION_COD: AZ-10
+PROVNUM_NE: 68
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ78
+FIPS_ALT: AJ|
+WOE_ID: 24550718
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 39.4227
+LONGITUDE: 45.5799
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 2
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 147212
+GN_NAME: Shahbuz Rayon
+GNS_ID: -2708454
+GNS_NAME: Sahbuz Rayonu
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: AZ.147212
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ78
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q388081
+NAME_AR: مقاطعة شهبوز
+NAME_BN: শাহবাজ জেলা
+NAME_DE: Şahbuz
+NAME_EN: Shahbuz District
+NAME_ES: Shahbuz
+NAME_FR: Shakhbuz
+NAME_EL: Σαχμπούζ
+NAME_HI: शाहबुज़ जिला
+NAME_HU: null
+NAME_ID: Shahbuz
+NAME_IT: Distretto di Şahbuz
+NAME_JA: シャフブズ県
+NAME_KO: 샤흐부스 구
+NAME_NL: Şahbuz
+NAME_PL: Rejon Şahbuz
+NAME_PT: Shakhbuz
+NAME_RU: Шахбузский район
+NAME_SV: Şahbuz
+NAME_TR: Şahbuz Rayonu
+NAME_VI: Shahbuz
+NAME_ZH: 沙赫布茲區
+NE_ID: 1159312133

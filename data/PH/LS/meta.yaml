@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2574
+DISS_ME: 2574
+ISO_3166_2: PH-LAS
+WIKIPEDIA: http://en.wikipedia.org/wiki/Lanao_del_Sur
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Lanao del Sur
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.LS
+NOTE: null
+HASC_MAYBE: null
+REGION: Autonomous Region in Muslim Mindanao (ARMM)
+REGION_COD: PH-14
+PROVNUM_NE: 20075
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP35
+FIPS_ALT: null
+WOE_ID: 2346690
+WOE_LABEL: null
+WOE_NAME: Lanao del Sur
+LATITUDE: 7.90221
+LONGITUDE: 124.335
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1707667
+GN_NAME: Province of Lanao del Sur
+GNS_ID: -2431825
+GNS_NAME: Lanao del Sur, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.35
+REGION_SUB: Lanao del Sur
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP35
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13843
+NAME_AR: لاناو ديل سور
+NAME_BN: লানাও দেল সুর
+NAME_DE: Lanao del Sur
+NAME_EN: Lanao del Sur
+NAME_ES: Lanao del Sur
+NAME_FR: Lanao du Sud
+NAME_EL: Λανάο ντελ Σουρ
+NAME_HI: लानाओ देल सूर
+NAME_HU: null
+NAME_ID: Lanao del Sur
+NAME_IT: Provincia di Lanao del Sur
+NAME_JA: 南ラナオ州
+NAME_KO: 남라나오 주
+NAME_NL: Lanao del Sur
+NAME_PL: Lanao del Sur
+NAME_PT: Lanão de Sur
+NAME_RU: Южный Ланао
+NAME_SV: Lanao del Sur
+NAME_TR: Lanao del Sur
+NAME_VI: Lanao del Sur
+NAME_ZH: 南拉瑙省
+NE_ID: 1159313387

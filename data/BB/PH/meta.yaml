@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BRB-1998
+DISS_ME: 1998
+ISO_3166_2: BB-10
+WIKIPEDIA: null
+ISO_A2: BB
+ADM0_SR: 1
+NAME: Saint Philip
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: BB.PH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 3
+FIPS: BB10
+FIPS_ALT: null
+WOE_ID: 2344739
+WOE_LABEL: Saint Philip, BB, Barbados
+WOE_NAME: Saint Philip
+LATITUDE: 13.1368
+LONGITUDE: -59.47
+SOV_A3: BRB
+ADM0_A3: BRB
+ADM0_LABEL: 6
+ADMIN: Barbados
+GEONUNIT: Barbados
+GU_A3: BRB
+GN_ID: 3373553
+GN_NAME: Saint Philip
+GNS_ID: -1393768
+GNS_NAME: Saint Philip
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BB.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BB10
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1647436
+NAME_AR: سانت فيليب، باربادوس
+NAME_BN: সেন্ট ফিলিপ
+NAME_DE: Saint Philip
+NAME_EN: Saint Philip
+NAME_ES: Parroquia de Saint Philip
+NAME_FR: Saint Philip
+NAME_EL: Άγιος Φίλιππος
+NAME_HI: सेंट फिलिप
+NAME_HU: null
+NAME_ID: Saint Philip
+NAME_IT: Saint Philip
+NAME_JA: セント・フィリップ
+NAME_KO: 세인트필립 교구
+NAME_NL: Saint Philip
+NAME_PL: Saint Philip
+NAME_PT: Saint Philip
+NAME_RU: Сент-Филип
+NAME_SV: Saint Philip
+NAME_TR: Sain Philip
+NAME_VI: Saint Philip
+NAME_ZH: 聖菲利普區
+NE_ID: 1159311531

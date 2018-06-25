@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1435
+DISS_ME: 1435
+ISO_3166_2: DM-05
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint John
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.JN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO05
+FIPS_ALT: null
+WOE_ID: 2345164
+WOE_LABEL: null
+WOE_NAME: Saint John
+LATITUDE: 15.5767
+LONGITUDE: -61.4483
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575626
+GN_NAME: Saint John
+GNS_ID: -1352353
+GNS_NAME: Saint John
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO05
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1476285
+NAME_AR: أبرشية القديس جون
+NAME_BN: সেন্ট জন প্যারিশ
+NAME_DE: Saint John
+NAME_EN: Saint John Parish
+NAME_ES: Parroquia de Saint John
+NAME_FR: Saint-John
+NAME_EL: Άγιος Ιωάννης
+NAME_HI: सेंट जॉन पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint John
+NAME_IT: Parrocchia di Saint John
+NAME_JA: セント・ジョン郡
+NAME_KO: 세인트존 교구
+NAME_NL: Saint John
+NAME_PL: Parafia św. Jana na Dominice
+NAME_PT: Saint John
+NAME_RU: Сент-Джон
+NAME_SV: Saint John
+NAME_TR: Saint John Parish
+NAME_VI: Giáo xứ Saint John
+NAME_ZH: 聖約翰堂區
+NE_ID: 1159311613

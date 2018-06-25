@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3385
+DISS_ME: 3385
+ISO_3166_2: TZ-03
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Dodoma
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.DO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20024
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: DO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ03
+FIPS_ALT: null
+WOE_ID: 2347354
+WOE_LABEL: Dodoma, TZ, Tanzania
+WOE_NAME: Dodoma
+LATITUDE: -5.73233
+LONGITUDE: 35.9608
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 160192
+GN_NAME: Dodoma Region
+GNS_ID: -2562239
+GNS_NAME: Dodoma, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ03
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q213268
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Dodoma
+NAME_EN: Dodoma Region
+NAME_ES: Región de Dodoma
+NAME_FR: Dodoma
+NAME_EL: Περιφέρεια Ντοντόμα
+NAME_HI: दोदोमा क्षेत्र
+NAME_HU: null
+NAME_ID: null
+NAME_IT: regione di Dodoma
+NAME_JA: ドドマ州
+NAME_KO: 도도마 주
+NAME_NL: Dodoma
+NAME_PL: Dodoma
+NAME_PT: Dodoma
+NAME_RU: Додома
+NAME_SV: Dodoma
+NAME_TR: Dodoma
+NAME_VI: Dodoma
+NAME_ZH: 多多馬區
+NE_ID: 1159315023

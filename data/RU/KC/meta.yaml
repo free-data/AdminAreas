@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2280
+DISS_ME: 2280
+ISO_3166_2: RU-KC
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Karachay-Cherkess
+NAME_ALT: Karaçay-Çerkes|Karachay-Cherkessiya|Karachayevo-Cherkesskaya Respublika|Karachayevo-Cherkessiya|Karachayevo-Cherkess Republic|K
+NAME_LOCAL: Карачаево-Черкессия Республика
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.KC
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20046
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: KC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 17
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS27
+FIPS_ALT: RS27
+WOE_ID: 20070522
+WOE_LABEL: Karachayevo-Cherkesiya, RU, Russia
+WOE_NAME: Karachay-Cherkess
+LATITUDE: 43.7073
+LONGITUDE: 41.6866
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 552927
+GN_NAME: Karachayevo-Cherkesskaya Respublika
+GNS_ID: -2920821
+GNS_NAME: Karachayevo-Cherkesskaya Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.27
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS27
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5328
+NAME_AR: قراتشاي - تشيركيسيا
+NAME_BN: কারাকায় চেরকিস  রিপাবলিক
+NAME_DE: Karatschai-Tscherkessien
+NAME_EN: Karachay-Cherkess Republic
+NAME_ES: Karacháyevo-Cherkesia
+NAME_FR: Karatchaïévo-Tcherkessie
+NAME_EL: Δημοκρατία των Καρατσάι - Τσερκεσίων
+NAME_HI: काराचाए-चरकस्सिया
+NAME_HU: Karacsáj- és Cserkeszföld
+NAME_ID: Karachay-Cherkessia
+NAME_IT: Karačaj-Circassia
+NAME_JA: カラチャイ・チェルケス共和国
+NAME_KO: 카라차예보체르케스카야 공화국
+NAME_NL: Karatsjaj-Tsjerkessië
+NAME_PL: Karaczajo-Czerkiesja
+NAME_PT: Carachai-Circássia
+NAME_RU: Карачаево-Черкесия
+NAME_SV: Karatjajen-Tjerkessien
+NAME_TR: Karaçay-Çerkesya
+NAME_VI: Karachay-Cherkessia
+NAME_ZH: 卡拉恰伊-切尔克斯共和国
+NE_ID: 1159313141

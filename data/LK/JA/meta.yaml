@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2459
+DISS_ME: 2459
+ISO_3166_2: LK-41
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 3
+NAME: Yāpanaya
+NAME_ALT: Jaffna
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.JA
+NOTE: Split into Jaffna and Kilinochchi
+HASC_MAYBE: null
+REGION: Uturu paḷāta
+REGION_COD: LK-4
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: JA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE25
+FIPS_ALT: null
+WOE_ID: 23706489
+WOE_LABEL: null
+WOE_NAME: Jaffna
+LATITUDE: 9.50669
+LONGITUDE: 79.6933
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1242831
+GN_NAME: Jaffna District
+GNS_ID: -2221042
+GNS_NAME: Jaffna District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1242831
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE38
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1520182
+NAME_AR: مديرية جافنا
+NAME_BN: null
+NAME_DE: Jaffna
+NAME_EN: Jaffna District
+NAME_ES: Distrito de Jaffna
+NAME_FR: Jaffna
+NAME_EL: null
+NAME_HI: जफ़ना जिला
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Distretto di Jaffna
+NAME_JA: ジャフナ県
+NAME_KO: 자프나 구
+NAME_NL: Jaffna
+NAME_PL: Dżafna
+NAME_PT: null
+NAME_RU: округ Джафна
+NAME_SV: Jaffna
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 賈夫納區
+NE_ID: 1159311395

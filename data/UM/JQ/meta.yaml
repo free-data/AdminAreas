@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: UMI-5174
+DISS_ME: 5174
+ISO_3166_2: UM-67
+WIKIPEDIA: null
+ISO_A2: UM
+ADM0_SR: 8
+NAME: Johnston Atoll
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: UM.JQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 11
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 1
+FIPS: JQ200
+FIPS_ALT: null
+WOE_ID: 23424861
+WOE_LABEL: null
+WOE_NAME: Johnston Atoll
+LATITUDE: 16.7273
+LONGITUDE: -169.538
+SOV_A3: US1
+ADM0_A3: UMI
+ADM0_LABEL: 6
+ADMIN: United States Minor Outlying Islands
+GEONUNIT: Johnston Atoll
+GU_A3: JQI
+GN_ID: 5854929
+GN_NAME: Johnston Atoll
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UM.200
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q131008
+NAME_AR: جزيرة جونستون المرجانية
+NAME_BN: জন্সটন আতোল
+NAME_DE: Johnston-Atoll
+NAME_EN: Johnston Atoll
+NAME_ES: Atolón Johnston
+NAME_FR: Atoll Johnston
+NAME_EL: Ατόλλη Τζόνστον
+NAME_HI: जॉनस्टन एटोल
+NAME_HU: Johnston-atoll
+NAME_ID: Atol Johnston
+NAME_IT: Atollo Johnston
+NAME_JA: ジョンストン島
+NAME_KO: 존스턴 환초
+NAME_NL: Johnston
+NAME_PL: Johnston
+NAME_PT: Atol Johnston
+NAME_RU: Джонстон
+NAME_SV: Johnstonatollen
+NAME_TR: Johnston Atolü
+NAME_VI: Đảo Johnston
+NAME_ZH: 约翰斯顿环礁
+NE_ID: 1159316565

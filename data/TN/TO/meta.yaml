@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-101
+DISS_ME: 101
+ISO_3166_2: TN-72
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Tozeur
+NAME_ALT: Tawzar|Touzar|Tūzar
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS35
+FIPS_ALT: null
+WOE_ID: 2347255
+WOE_LABEL: Tawzar, TN, Tunisia
+WOE_NAME: Tozeur
+LATITUDE: 33.9476
+LONGITUDE: 8.07434
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2464645
+GN_NAME: Gouvernorat de Tozeur
+GNS_ID: -731522
+GNS_NAME: Tozeur, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS35
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q388059
+NAME_AR: ولاية توزر
+NAME_BN: তোজেউর গভর্নোরেট
+NAME_DE: Gouvernorat Tozeur
+NAME_EN: Tozeur Governorate
+NAME_ES: Gobernación de Tozeur
+NAME_FR: gouvernorat de Tozeur
+NAME_EL: Ταουζάρ
+NAME_HI: तोज़िउर गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Tozeur
+NAME_IT: governatorato di Tozeur
+NAME_JA: トズール県
+NAME_KO: 토죄르 주
+NAME_NL: Tozeur
+NAME_PL: Gubernatorstwo Tauzar
+NAME_PT: Tozeur
+NAME_RU: Таузар
+NAME_SV: Tozeur
+NAME_TR: Tuzer ili
+NAME_VI: Tỉnh Tozeur
+NAME_ZH: 托澤爾省
+NE_ID: 1159309363

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-603
+DISS_ME: 603
+ISO_3166_2: PY-1
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Concepción
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: CN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA07
+FIPS_ALT: null
+WOE_ID: 2346454
+WOE_LABEL: ConcepciÃ³n, PY, Paraguay
+WOE_NAME: Concepción
+LATITUDE: -22.8458
+LONGITUDE: -57.0543
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3438833
+GN_NAME: Departamento de Concepcion
+GNS_ID: -910617
+GNS_NAME: Concepcion, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q741009
+NAME_AR: إدارة كونسيبسيون
+NAME_BN: null
+NAME_DE: Departamento Concepción
+NAME_EN: Concepción Department
+NAME_ES: Concepción
+NAME_FR: Concepción
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Concepción megye
+NAME_ID: Departemen Concepción
+NAME_IT: Concepción
+NAME_JA: コンセプシオン県
+NAME_KO: 콘셉시온 주
+NAME_NL: Concepción
+NAME_PL: Concepción
+NAME_PT: Concepción
+NAME_RU: Консепсьон
+NAME_SV: Concepción
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 康塞普西翁省
+NE_ID: 1159307779

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: JPN-3502
+DISS_ME: 3502
+ISO_3166_2: JP-47
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 3
+NAME: Okinawa
+NAME_ALT: null
+NAME_LOCAL: 沖縄県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.ON
+NOTE: null
+HASC_MAYBE: JP.SG
+REGION: Okinawa
+REGION_COD: JPN-OKN
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 9
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA47
+FIPS_ALT: JA33
+WOE_ID: 2345896
+WOE_LABEL: Okinawa Prefecture, JP, Japan
+WOE_NAME: Okinawa
+LATITUDE: 24.3349
+LONGITUDE: 123.802
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1854345
+GN_NAME: Okinawa-ken
+GNS_ID: -240264
+GNS_NAME: Okinawa-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.47
+REGION_SUB: null
+SUB_CODE: JA47
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA47
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q766445
+NAME_AR: أوكيناوا
+NAME_BN: ওকিনাওয়া প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Okinawa
+NAME_EN: Okinawa Prefecture
+NAME_ES: Prefectura de Okinawa
+NAME_FR: Préfecture d'Okinawa
+NAME_EL: Οκινάβα
+NAME_HI: ओकीनावा प्रीफेक्चर
+NAME_HU: Okinava prefektúra
+NAME_ID: Prefektur Okinawa
+NAME_IT: prefettura di Okinawa
+NAME_JA: 沖縄県
+NAME_KO: 오키나와 현
+NAME_NL: Okinawa
+NAME_PL: Prefektura Okinawa
+NAME_PT: Okinawa
+NAME_RU: Окинава
+NAME_SV: Okinawa prefektur
+NAME_TR: Okinawa
+NAME_VI: Okinawa
+NAME_ZH: 沖繩縣
+NE_ID: 1159314883

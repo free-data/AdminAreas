@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NLD-902
+DISS_ME: 902
+ISO_3166_2: NL-FL
+WIKIPEDIA: null
+ISO_A2: NL
+ADM0_SR: 1
+NAME: Flevoland
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: NL.FL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: FL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: NL16
+FIPS_ALT: null
+WOE_ID: 2346384
+WOE_LABEL: Flevoland, NL, Netherlands
+WOE_NAME: Flevoland
+LATITUDE: 52.5508
+LONGITUDE: 5.55746
+SOV_A3: NL1
+ADM0_A3: NLD
+ADM0_LABEL: 6
+ADMIN: Netherlands
+GEONUNIT: null
+GU_A3: NLD
+GN_ID: 3319179
+GN_NAME: Provincie Flevoland
+GNS_ID: 451545
+GNS_NAME: Flevoland, Provincie
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NL.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: iku
+GNS_ADM1: NL16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q707
+NAME_AR: فليفولاند
+NAME_BN: ফ্রিলে ফ্লেভোল্যান্ড
+NAME_DE: Provinz Flevoland
+NAME_EN: Flevoland
+NAME_ES: Flevoland
+NAME_FR: Flevoland
+NAME_EL: Φλέβολαντ
+NAME_HI: फ्लेवोलैंड
+NAME_HU: Flevoland
+NAME_ID: Flevoland
+NAME_IT: Flevoland
+NAME_JA: フレヴォラント州
+NAME_KO: 플레볼란트 주
+NAME_NL: Flevoland
+NAME_PL: Flevoland
+NAME_PT: Flevolândia
+NAME_RU: Флеволанд
+NAME_SV: Flevoland
+NAME_TR: Flevoland
+NAME_VI: Flevoland
+NAME_ZH: 弗莱福兰省
+NE_ID: 1159310967

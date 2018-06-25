@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: MMR-3276
+DISS_ME: 3276
+ISO_3166_2: MM-03
+WIKIPEDIA: null
+ISO_A2: MM
+ADM0_SR: 1
+NAME: Magway
+NAME_ALT: Magwe|Minbu
+NAME_LOCAL: null
+TYPE: Yin
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: MM.MG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: BM15
+FIPS_ALT: BM07
+WOE_ID: 2344816
+WOE_LABEL: Magway, MM, Myanmar
+WOE_NAME: Magway
+LATITUDE: 19.6473
+LONGITUDE: 94.8807
+SOV_A3: MMR
+ADM0_A3: MMR
+ADM0_LABEL: 2
+ADMIN: Myanmar
+GEONUNIT: Myanmar
+GU_A3: MMR
+GN_ID: 1312604
+GN_NAME: Magway Division
+GNS_ID: -426712
+GNS_NAME: Magway Division
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MM.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BM15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q833013
+NAME_AR: إقليم ماغواي
+NAME_BN: মাগওয়ে অঞ্চল
+NAME_DE: Magway-Region
+NAME_EN: Magway Region
+NAME_ES: Magway
+NAME_FR: Région de Magway
+NAME_EL: Μαγκγουέι
+NAME_HI: मगवे मण्डल
+NAME_HU: null
+NAME_ID: Region Magway
+NAME_IT: regione di Magway
+NAME_JA: マグウェ管区
+NAME_KO: 마궤 구
+NAME_NL: Magway
+NAME_PL: Magwe
+NAME_PT: Magway
+NAME_RU: Магуэ
+NAME_SV: Magwayregionen
+NAME_TR: Magway Bölgesi
+NAME_VI: Vùng Magway
+NAME_ZH: 馬圭省
+NE_ID: 1159314051

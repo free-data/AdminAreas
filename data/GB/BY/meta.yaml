@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2101
+DISS_ME: 2101
+ISO_3166_2: GB-BLY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Ballymoney
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: GB.BY
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern Ireland
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK56
+FIPS_ALT: UKR1
+WOE_ID: 20078314
+WOE_LABEL: null
+WOE_NAME: Ballymoney
+LATITUDE: 55.0525
+LONGITUDE: -6.4032
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Northern Ireland
+GU_A3: NIR
+GN_ID: 2656489
+GN_NAME: Ballymoney District
+GNS_ID: -2589102
+GNS_NAME: Ballymoney District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.R1
+REGION_SUB: North of Northern Ireland
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q805427
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Ballymoney
+NAME_EN: Ballymoney
+NAME_ES: null
+NAME_FR: District de Ballymoney
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: distretto di Ballymoney
+NAME_JA: バリーマネー区
+NAME_KO: 밸리머니 구
+NAME_NL: Ballymoney
+NAME_PL: null
+NAME_PT: null
+NAME_RU: Бэллимани
+NAME_SV: Ballymoney
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 巴利馬尼區
+NE_ID: 1159312821

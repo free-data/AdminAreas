@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 4
+SOVEREIGNT: Bulgaria
+SOV_A3: BGR
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Bulgaria
+ADM0_A3: BGR
+GEOU_DIF: 0
+GEOUNIT: Bulgaria
+GU_A3: BGR
+SU_DIF: 0
+SUBUNIT: Bulgaria
+SU_A3: BGR
+BRK_DIFF: 0
+NAME: Bulgaria
+NAME_LONG: Bulgaria
+BRK_A3: BGR
+BRK_NAME: Bulgaria
+BRK_GROUP: null
+ABBREV: Bulg.
+POSTAL: BG
+FORMAL_EN: Republic of Bulgaria
+FORMAL_FR: null
+NAME_CIAWF: Bulgaria
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Bulgaria
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+POP_EST: 7101510
+POP_RANK: 13
+GDP_MD_EST: 143100
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 2. Developed region: nonG7
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: BU
+ISO_A2: BG
+ISO_A3: BGR
+ISO_A3_EH: BGR
+ISO_N3: 100
+UN_A3: 100
+WB_A2: BG
+WB_A3: BGR
+WOE_ID: 23424771
+WOE_ID_EH: 23424771
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BGR
+ADM0_A3_US: BGR
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Eastern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159320409
+WIKIDATAID: Q219
+NAME_AR: بلغاريا
+NAME_BN: বুলগেরিয়া
+NAME_DE: Bulgarien
+NAME_EN: Bulgaria
+NAME_ES: Bulgaria
+NAME_FR: Bulgarie
+NAME_EL: Βουλγαρία
+NAME_HI: बुल्गारिया
+NAME_HU: Bulgária
+NAME_ID: Bulgaria
+NAME_IT: Bulgaria
+NAME_JA: ブルガリア
+NAME_KO: 불가리아
+NAME_NL: Bulgarije
+NAME_PL: Bułgaria
+NAME_PT: Bulgária
+NAME_RU: Болгария
+NAME_SV: Bulgarien
+NAME_TR: Bulgaristan
+NAME_VI: Bulgaria
+NAME_ZH: 保加利亚

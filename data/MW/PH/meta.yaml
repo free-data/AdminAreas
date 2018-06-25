@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1924
+DISS_ME: 1924
+ISO_3166_2: MW-PH
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Phalombe
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.PH
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: MWI-STH
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI30
+FIPS_ALT: null
+WOE_ID: 1368989
+WOE_LABEL: null
+WOE_NAME: Phalombe
+LATITUDE: -15.6883
+LONGITUDE: 35.667
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 1105842
+GN_NAME: Phalombe District
+GNS_ID: 6240706
+GNS_NAME: Phalombe
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.30
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: MI30
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q538991
+NAME_AR: مقاطعة فالومبي
+NAME_BN: পালোম্বে জেলা
+NAME_DE: Distrikt Phalombe
+NAME_EN: Phalombe District
+NAME_ES: Distrito de Phalombe
+NAME_FR: District de Phalombe
+NAME_EL: Φαλόμπε
+NAME_HI: फलोम्बी जिला
+NAME_HU: null
+NAME_ID: Distrik Phalombe
+NAME_IT: distretto di Phalombe
+NAME_JA: パロンベ
+NAME_KO: 팔롬베 현
+NAME_NL: Phalombe
+NAME_PL: Dystrykt Phalombe
+NAME_PT: Phalombe
+NAME_RU: Фаломбе
+NAME_SV: Phalombe
+NAME_TR: Phalombe
+NAME_VI: Quận Phalombe
+NAME_ZH: 法隆貝縣
+NE_ID: 1159311243

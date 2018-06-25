@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BWA-2646
+DISS_ME: 2646
+ISO_3166_2: BW-KL
+WIKIPEDIA: null
+ISO_A2: BW
+ADM0_SR: 1
+NAME: Kgatleng
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: BC05
+CODE_HASC: BW.KL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: BW.KL
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: BC05
+FIPS_ALT: null
+WOE_ID: 2344745
+WOE_LABEL: Kgatleng, BW, Botswana
+WOE_NAME: Kgatleng
+LATITUDE: -24.2001
+LONGITUDE: 26.4263
+SOV_A3: BWA
+ADM0_A3: BWA
+ADM0_LABEL: 2
+ADMIN: Botswana
+GEONUNIT: Botswana
+GU_A3: BWA
+GN_ID: 933654
+GN_NAME: Kgatleng District
+GNS_ID: -1397493
+GNS_NAME: Kgatleng
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BW.05
+REGION_SUB: Kgatleng
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BC05
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q57593
+NAME_AR: مقاطعة كغاتلنغ
+NAME_BN: ঘালেং জেলা
+NAME_DE: Kgatleng District
+NAME_EN: Kgatleng District
+NAME_ES: Distrito Kgatleng
+NAME_FR: District de Kgatleng
+NAME_EL: Περιφέρεια Κγκατλένγκ
+NAME_HI: गैटलेंग जिला
+NAME_HU: null
+NAME_ID: Distrik Kgatleng
+NAME_IT: distretto di Kgatleng
+NAME_JA: カトレン地区
+NAME_KO: 크가틀렝 구
+NAME_NL: Kgatleng
+NAME_PL: Dystrykt Kgatleng
+NAME_PT: Kgatleng
+NAME_RU: Кгатленг
+NAME_SV: Kgatleng
+NAME_TR: Kgatleng Bölgesi
+NAME_VI: Quận Kgatleng
+NAME_ZH: 卡特倫區
+NE_ID: 1159313285

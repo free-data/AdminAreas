@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TJK-367
+DISS_ME: 367
+ISO_3166_2: TJ-KT
+WIKIPEDIA: null
+ISO_A2: TJ
+ADM0_SR: 1
+NAME: Khatlon
+NAME_ALT: Hationskaya oblast'|Hatlonskaja oblast'
+NAME_LOCAL: null
+TYPE: Viloyat
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TJ.KL
+NOTE: null
+HASC_MAYBE: null
+REGION: Kulyab
+REGION_COD: TJK-KLB
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: KL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: TI02
+FIPS_ALT: TI02
+WOE_ID: 20070295
+WOE_LABEL: Khatlon, TJ, Tajikistan
+WOE_NAME: Khatlon
+LATITUDE: 37.8063
+LONGITUDE: 69.1055
+SOV_A3: TJK
+ADM0_A3: TJK
+ADM0_LABEL: 2
+ADMIN: Tajikistan
+GEONUNIT: Tajikistan
+GU_A3: TJK
+GN_ID: 1347488
+GN_NAME: Viloyati Khatlon
+GNS_ID: 422575
+GNS_NAME: Khatlon, Viloyati
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TJ.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: TI02
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q633511
+NAME_AR: محافظة خاتلون
+NAME_BN: খাতলোন প্রদেশ
+NAME_DE: Chatlon
+NAME_EN: Khatlon Province
+NAME_ES: Provincia de Khatlon
+NAME_FR: Khatlon
+NAME_EL: Κάτλον
+NAME_HI: ख़तलोन प्रान्त
+NAME_HU: null
+NAME_ID: Khatlon
+NAME_IT: Chatlon
+NAME_JA: ハトロン州
+NAME_KO: 하틀론 주
+NAME_NL: Khatlon
+NAME_PL: Wilajet chatloński
+NAME_PT: Khatlon
+NAME_RU: Хатлонская область
+NAME_SV: Chatlon
+NAME_TR: Hatlon
+NAME_VI: Khatlon
+NAME_ZH: 哈特隆州
+NE_ID: 1159308471

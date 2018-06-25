@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2368
+DISS_ME: 2368
+ISO_3166_2: RU-TUL
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tula
+NAME_ALT: Tul'skaya|Tulskaya Oblast
+NAME_LOCAL: Тульская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.TL
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 20079
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS76
+FIPS_ALT: null
+WOE_ID: 2346929
+WOE_LABEL: Tulrskaya Oblast, RU, Russia
+WOE_NAME: Tula
+LATITUDE: 54.0668
+LONGITUDE: 37.4161
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 480508
+GN_NAME: Tul'skaya Oblast'
+GNS_ID: -3022183
+GNS_NAME: Tul'skaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.76
+REGION_SUB: Central
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS76
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q2792
+NAME_AR: تولا أوبلاست
+NAME_BN: তুলা ওব্লাস্ট
+NAME_DE: Oblast Tula
+NAME_EN: Tula Oblast
+NAME_ES: Óblast de Tula
+NAME_FR: Oblast de Toula
+NAME_EL: Περιφέρεια Τούλα
+NAME_HI: टूला ओब्लास्ट
+NAME_HU: Tulai terület
+NAME_ID: Oblast Tula
+NAME_IT: oblast' di Tula
+NAME_JA: トゥーラ州
+NAME_KO: 툴라 주
+NAME_NL: Oblast Toela
+NAME_PL: Obwód tulski
+NAME_PT: Oblast de Tula
+NAME_RU: Тульская область
+NAME_SV: Tula oblast
+NAME_TR: Tula Oblastı
+NAME_VI: Tula
+NAME_ZH: 图拉州
+NE_ID: 1159313171

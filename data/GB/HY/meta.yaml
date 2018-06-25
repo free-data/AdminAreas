@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2766
+DISS_ME: 2766
+ISO_3166_2: GB-HRY
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Haringey
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.HY
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20040
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Haringey
+POSTAL: HY
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKF3
+WOE_ID: 12695810
+WOE_LABEL: null
+WOE_NAME: London Borough of Haringey
+LATITUDE: 51.5834
+LONGITUDE: -0.0963323
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077592
+GNS_NAME: Haringey, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q213560
+NAME_AR: هارينجي
+NAME_BN: null
+NAME_DE: London Borough of Haringey
+NAME_EN: London Borough of Haringey
+NAME_ES: Haringey
+NAME_FR: district londonien de Haringey
+NAME_EL: null
+NAME_HI: हैरिंगे बरो
+NAME_HU: Haringey kerület
+NAME_ID: null
+NAME_IT: Haringey
+NAME_JA: ハーリンゲイ・ロンドン特別区
+NAME_KO: 해링게이 구
+NAME_NL: Haringey
+NAME_PL: London Borough of Haringey
+NAME_PT: Haringey
+NAME_RU: Харинги
+NAME_SV: London Borough of Haringey
+NAME_TR: null
+NAME_VI: Khu Haringey của Luân Đôn
+NAME_ZH: 哈林蓋區
+NE_ID: 1159314781

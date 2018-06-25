@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1651
+DISS_ME: 1651
+ISO_3166_2: MD-SV
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Ștefan Vodă
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.SV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 11
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD88
+FIPS_ALT: null
+WOE_ID: 55948200
+WOE_LABEL: null
+WOE_NAME: Stefan-voda
+LATITUDE: 46.5031
+LONGITUDE: 29.7739
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617283
+GN_NAME: Raionul Stefan Voda
+GNS_ID: -2277424
+GNS_NAME: Stefan Voda, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.88
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD88
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2129061
+NAME_AR: مقاطعة ستيفان فودا
+NAME_BN: স্টেফান ভোদা জেলা
+NAME_DE: Rajon Ștefan Vodă
+NAME_EN: Ștefan Vodă District
+NAME_ES: Distrito de Ştefan Vodă
+NAME_FR: raion de Ștefan Vodă
+NAME_EL: Στεφάν Βόντα
+NAME_HI: स्टेफन वोडा जिला
+NAME_HU: null
+NAME_ID: Raionul Ştefan Vodă
+NAME_IT: distretto di Ştefan Vodă
+NAME_JA: シュテファン・ボーダ県
+NAME_KO: 슈테판보더 구
+NAME_NL: Ștefan Vodă
+NAME_PL: Rejon Ştefan Vodă
+NAME_PT: Ştefan Vodă
+NAME_RU: Штефан-Водский район
+NAME_SV: Raionul Ştefan Vodă
+NAME_TR: Stefan Voda
+NAME_VI: Quận Stefan Voda
+NAME_ZH: 斯特凡大公區
+NE_ID: 1159312629

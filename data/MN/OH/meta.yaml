@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MNG-3327
+DISS_ME: 3327
+ISO_3166_2: MN-055
+WIKIPEDIA: null
+ISO_A2: MN
+ADM0_SR: 1
+NAME: Övörhangay
+NAME_ALT: Öbör Hangay|Övörchangaj|South Hangay|South Khangai|Ublhangai|Ubur-Khangai|Ovorkhangai|Öwörchangai|Uwurchangaj
+NAME_LOCAL: null
+TYPE: Aimag|aymag
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: MN.OH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 7
+ABBREV: null
+POSTAL: OH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 6
+FIPS: MG15
+FIPS_ALT: MG15
+WOE_ID: 2346169
+WOE_LABEL: Ovorhangay, MN, Mongolia
+WOE_NAME: Övörhangay
+LATITUDE: 45.7785
+LONGITUDE: 102.857
+SOV_A3: MNG
+ADM0_A3: MNG
+ADM0_LABEL: 2
+ADMIN: Mongolia
+GEONUNIT: Mongolia
+GU_A3: MNG
+GN_ID: 2029546
+GN_NAME: Ovorhangay Aymag
+GNS_ID: -2352086
+GNS_NAME: Ovorhangay Aymag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MN.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: MG15
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q234713
+NAME_AR: محافظة أوفوخاناجي
+NAME_BN: ওভোরখাঙ্গাই প্রদেশ
+NAME_DE: Öwörchangai-Aimag
+NAME_EN: Övörkhangai Province
+NAME_ES: Övörhangay
+NAME_FR: Övörkhangai
+NAME_EL: Οβορκχανγκάι
+NAME_HI: ओवोरख़ानगई प्रांत
+NAME_HU: Övörhangaj ajmag
+NAME_ID: Provinsi Övörkhangai
+NAME_IT: provincia del Ôvôrhangaj
+NAME_JA: ウブルハンガイ県
+NAME_KO: 으브르항가이 주
+NAME_NL: Övörhangaj
+NAME_PL: Ajmak południowochangajski
+NAME_PT: Övörkhangay
+NAME_RU: Уверхангай
+NAME_SV: Övörchangaj
+NAME_TR: Övörhangay
+NAME_VI: Övörkhangai
+NAME_ZH: 前杭爱省
+NE_ID: 1159315423

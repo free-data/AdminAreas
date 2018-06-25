@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: LBR-1458
+DISS_ME: 1458
+ISO_3166_2: LR-X2~
+WIKIPEDIA: null
+ISO_A2: LR
+ADM0_SR: 1
+NAME: River Gee
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: LR.RG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: RG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: LI22
+FIPS_ALT: null
+WOE_ID: -2346100
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 5.29303
+LONGITUDE: -7.91438
+SOV_A3: LBR
+ADM0_A3: LBR
+ADM0_LABEL: 2
+ADMIN: Liberia
+GEONUNIT: Liberia
+GU_A3: LBR
+GN_ID: 2593120
+GN_NAME: River Gee County
+GNS_ID: 6261161
+GNS_NAME: River Gee
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LR.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mon
+GNS_ADM1: LI22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1047875
+NAME_AR: مقاطعة ريفر جي
+NAME_BN: রিভার গি কাউন্টি
+NAME_DE: River Gee County
+NAME_EN: River Gee County
+NAME_ES: River Gee
+NAME_FR: Comté de River Gee
+NAME_EL: Ρίβερ Γκι
+NAME_HI: रिवर जी काउंटी
+NAME_HU: null
+NAME_ID: River Gee County
+NAME_IT: contea di River Gee
+NAME_JA: リバージー郡
+NAME_KO: 리버지 주
+NAME_NL: River Gee
+NAME_PL: Hrabstwo River Gee
+NAME_PT: River Gee
+NAME_RU: Ривер-Ги
+NAME_SV: River Gee County
+NAME_TR: River Gee County
+NAME_VI: Hạt River Gee
+NAME_ZH: 吉河县
+NE_ID: 1159310087

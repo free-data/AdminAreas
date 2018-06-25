@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-4846
+DISS_ME: 4846
+ISO_3166_2: MK-65
+WIKIPEDIA: http://en.wikipedia.org/wiki/Municipality_of_Rankovce
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Rankovce
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.RN
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: KZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK85
+FIPS_ALT: null
+WOE_ID: 24550844
+WOE_LABEL: Rankovce Municipality, MK, Macedonia
+WOE_NAME: Rankovce Municipality
+LATITUDE: 42.1895
+LONGITUDE: 22.1049
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863891
+GN_NAME: Opstina Rankovce
+GNS_ID: 9075755
+GNS_NAME: Rankovce, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.85
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK85
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1475001
+NAME_AR: بلدية رانكوفيتسه
+NAME_BN: র‍্যাঙ্কোভচে পৌরসভা
+NAME_DE: Opština Rankovce
+NAME_EN: Rankovce Municipality
+NAME_ES: Municipalidad de Rankovce
+NAME_FR: Rankovtsé
+NAME_EL: Δήμος Ρανκόβιτσε
+NAME_HI: रैनकोव्स नगरपालिका
+NAME_HU: Rankovce község
+NAME_ID: Kotamadya Rankovce
+NAME_IT: Rankovce
+NAME_JA: ランコヴツェ
+NAME_KO: 란코브체 시
+NAME_NL: Rankovce
+NAME_PL: Gmina Rankovce
+NAME_PT: Município de Rankovce
+NAME_RU: Ранковце
+NAME_SV: Opsjtina Rankovce
+NAME_TR: Rankovce Belediyesi
+NAME_VI: Đô thị tự trị Rankovce
+NAME_ZH: 蘭科夫采區
+NE_ID: 1159315921

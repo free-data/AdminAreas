@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-926
+DISS_ME: 926
+ISO_3166_2: SI-152
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Cankova
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PM.CA
+NOTE: null
+HASC_MAYBE: null
+REGION: Pomurska
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI10
+FIPS_ALT: SIF8
+WOE_ID: -55848370
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.7083
+LONGITUDE: 16.0462
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344938
+GN_NAME: Obcina Cankova
+GNS_ID: 9123484
+GNS_NAME: Cankova, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.F8
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q13377751
+NAME_AR: بلدية كانكوفا
+NAME_BN: ক্যাঙ্কভা পৌরসভা
+NAME_DE: Gemeinde Cankova
+NAME_EN: Cankova Municipality
+NAME_ES: Municipalidad del Cankova
+NAME_FR: Cankova
+NAME_EL: Κάνκοβα
+NAME_HI: कैंकोवा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Cankova
+NAME_IT: Cankova
+NAME_JA: ツァンコヴァ
+NAME_KO: 찬토바 지방 자치제
+NAME_NL: Cankova
+NAME_PL: Gmina Cankova
+NAME_PT: Município de Cankova
+NAME_RU: Канкова
+NAME_SV: Cankova kommun
+NAME_TR: Cankova Belediyesi
+NAME_VI: Đô thị tự trị Cankova
+NAME_ZH: 灿科瓦
+NE_ID: 1159309555

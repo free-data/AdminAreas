@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2914
+DISS_ME: 2914
+ISO_3166_2: MK-69
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Sveti Nikole
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 20051
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MKA4
+FIPS_ALT: null
+WOE_ID: 24550811
+WOE_LABEL: Sveti Nikole Municipality, MK, Macedonia
+WOE_NAME: Sveti Nikole
+LATITUDE: 41.8778
+LONGITUDE: 21.9509
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863905
+GN_NAME: Opstina Sveti Nikole
+GNS_ID: 9075773
+GNS_NAME: Sveti Nikole, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.A4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK98
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2308277
+NAME_AR: بلدية سفيتي نيكولا
+NAME_BN: ভেটি নিকোল পৌরসভা
+NAME_DE: Opština Sveti Nikole
+NAME_EN: Sveti Nikole Municipality
+NAME_ES: Municipalidad de Sveti Nikole
+NAME_FR: Sveti Nikolé
+NAME_EL: Δήμος Σβέτι Νίκολα
+NAME_HI: स्वेती निकोल नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Sveti Nikole
+NAME_IT: Sveti Nikole
+NAME_JA: スヴェティ・ニコレ
+NAME_KO: 스베티니콜레 시
+NAME_NL: Sveti Nikole
+NAME_PL: Gmina Sveti Nikole
+NAME_PT: Município de Sveki Nikole
+NAME_RU: Свети-Николе
+NAME_SV: Sveti Nikole
+NAME_TR: Sveti Nikole Belediyesi
+NAME_VI: Đô thị tự trị Sveti Nikole
+NAME_ZH: 聖尼古萊區
+NE_ID: 1159314439

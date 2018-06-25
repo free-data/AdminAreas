@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2392
+DISS_ME: 2392
+ISO_3166_2: RU-SAM
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Samara
+NAME_ALT: Kuybyshev|Kuybyshevskaya|Samarskaya Oblast
+NAME_LOCAL: Самарская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20062
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS65
+FIPS_ALT: null
+WOE_ID: 2346906
+WOE_LABEL: Samarskaya Oblast, RU, Russia
+WOE_NAME: Samara
+LATITUDE: 53.1783
+LONGITUDE: 50.4377
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 499068
+GN_NAME: Samarskaya Oblast'
+GNS_ID: -2995975
+GNS_NAME: Samarskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.65
+REGION_SUB: Volga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS65
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q1727
+NAME_AR: سمارا أوبلاست
+NAME_BN: সামারা ওব্লাস্ট
+NAME_DE: Oblast Samara
+NAME_EN: Samara Oblast
+NAME_ES: Óblast de Samara
+NAME_FR: Oblast de Samara
+NAME_EL: Περιφέρεια Σαμάρα
+NAME_HI: समारा ओब्लास्त
+NAME_HU: Szamarai terület
+NAME_ID: Oblast Samara
+NAME_IT: oblast' di Samara
+NAME_JA: サマラ州
+NAME_KO: 사마라 주
+NAME_NL: Oblast Samara
+NAME_PL: Obwód samarski
+NAME_PT: Oblast de Samara
+NAME_RU: Самарская область
+NAME_SV: Samara oblast
+NAME_TR: Samara Oblastı
+NAME_VI: Samara
+NAME_ZH: 萨马拉州
+NE_ID: 1159313209

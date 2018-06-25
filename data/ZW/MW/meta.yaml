@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: ZWE-533
+DISS_ME: 533
+ISO_3166_2: ZW-MW
+WIKIPEDIA: null
+ISO_A2: ZW
+ADM0_SR: 1
+NAME: Mashonaland West
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZW.MW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 16
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+FIPS: ZI05
+FIPS_ALT: null
+WOE_ID: 2347814
+WOE_LABEL: Mashonaland West, ZW, Zimbabwe
+WOE_NAME: Mashonaland West
+LATITUDE: -17.0176
+LONGITUDE: 29.5025
+SOV_A3: ZWE
+ADM0_A3: ZWE
+ADM0_LABEL: 2
+ADMIN: Zimbabwe
+GEONUNIT: Zimbabwe
+GU_A3: ZWE
+GN_ID: 886841
+GN_NAME: Mashonaland West Province
+GNS_ID: -2315777
+GNS_NAME: Mashonaland West Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZW.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZI05
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q457189
+NAME_AR: إقليم ماشونالاند الغربية
+NAME_BN: ম্যাশনাল্যান্ড ওয়েস্ট প্রদেশ
+NAME_DE: Provinz Mashonaland West
+NAME_EN: Mashonaland West Province
+NAME_ES: Mashonalandia Occidental
+NAME_FR: Mashonaland occidental
+NAME_EL: Δυτική Μασοναλάνδη
+NAME_HI: मशोनालैंड पश्चिमी प्रांत
+NAME_HU: null
+NAME_ID: Mashonaland Barat
+NAME_IT: provincia del Mashonaland Occidentale
+NAME_JA: 西マショナランド州
+NAME_KO: 서마쇼날랜드 주
+NAME_NL: Mashonaland West
+NAME_PL: Maszona Zachodnia
+NAME_PT: Mashonaland Oeste
+NAME_RU: Западный Машоналенд
+NAME_SV: Mashonaland West
+NAME_TR: Batı Mashonaland
+NAME_VI: Tỉnh Mashonaland West
+NAME_ZH: 西馬紹納蘭省
+NE_ID: 1159307837

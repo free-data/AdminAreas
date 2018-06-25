@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: VCT-5064
+DISS_ME: 5064
+ISO_3166_2: VC-06
+WIKIPEDIA: http://en.wikipedia.org/wiki/Grenadines_Parish
+ISO_A2: VC
+ADM0_SR: 8
+NAME: Grenadines
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: VC.GT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: GT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: VC06
+FIPS_ALT: null
+WOE_ID: 2347676
+WOE_LABEL: Grenadines, VC, Saint Vincent and the Grenadines
+WOE_NAME: Grenadines
+LATITUDE: 13.0161
+LONGITUDE: -61.229
+SOV_A3: VCT
+ADM0_A3: VCT
+ADM0_LABEL: 8
+ADMIN: Saint Vincent and the Grenadines
+GEONUNIT: Saint Vincent and the Grenadines
+GU_A3: VCT
+GN_ID: 3577892
+GN_NAME: Grenadines
+GNS_ID: -1204472
+GNS_NAME: Grenadines
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VC.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: VC06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q2545297
+NAME_AR: null
+NAME_BN: null
+NAME_DE: null
+NAME_EN: Grenadines Parish
+NAME_ES: Granadinas
+NAME_FR: Grenadines
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: parrocchia delle Grenadine
+NAME_JA: グレナディーンズ郡
+NAME_KO: 그레나딘 교구
+NAME_NL: Grenadines Parish
+NAME_PL: Grenadyny
+NAME_PT: Granadinas
+NAME_RU: Гренадины
+NAME_SV: null
+NAME_TR: null
+NAME_VI: Grenadines
+NAME_ZH: 格瑞那丁區
+NE_ID: 1159308131

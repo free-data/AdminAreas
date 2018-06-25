@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1224
+DISS_ME: 1224
+ISO_3166_2: ID-JT
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Jawa Tengah
+NAME_ALT: Jateng
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.JT
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: JT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID07
+FIPS_ALT: null
+WOE_ID: 2345716
+WOE_LABEL: Central Java, ID, Indonesia
+WOE_NAME: Jawa Tengah
+LATITUDE: -7.2901
+LONGITUDE: 109.896
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1642669
+GN_NAME: Provinsi Jawa Tengah
+GNS_ID: -2679924
+GNS_NAME: Jawa Tengah, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID07
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q3557
+NAME_AR: جاوة الوسطى
+NAME_BN: কেন্দ্রীয় জাভা প্রদেশ
+NAME_DE: Jawa Tengah
+NAME_EN: Central Java Province
+NAME_ES: Java Central
+NAME_FR: Java central
+NAME_EL: Σέντραλ Τζάβα
+NAME_HI: मध्य जावा
+NAME_HU: Jawa Tengah
+NAME_ID: Jawa Tengah
+NAME_IT: Giava Centrale
+NAME_JA: 中部ジャワ州
+NAME_KO: 자와틍아 주
+NAME_NL: Midden-Java
+NAME_PL: Jawa Środkowa
+NAME_PT: Java Central
+NAME_RU: Центральная Ява
+NAME_SV: Jawa Tengah
+NAME_TR: Orta Cava
+NAME_VI: Trung Java
+NAME_ZH: 中爪哇省
+NE_ID: 1159309873

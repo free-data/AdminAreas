@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: VNM-4834
+DISS_ME: 4834
+ISO_3166_2: VN-46
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tien_Giang_Province
+ISO_A2: VN
+ADM0_SR: 5
+NAME: Tiền Giang
+NAME_ALT: Tien Giang
+NAME_LOCAL: null
+TYPE: Tỉnh
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: VN.TG
+NOTE: null
+HASC_MAYBE: null
+REGION: đồng bằng sông Cửu Long
+REGION_COD: VNM-TGI
+PROVNUM_NE: 5
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: VM37
+FIPS_ALT: null
+WOE_ID: 2347717
+WOE_LABEL: Tien Giang, VN, Vietnam
+WOE_NAME: Tien Giang
+LATITUDE: 10.4581
+LONGITUDE: 106.217
+SOV_A3: VNM
+ADM0_A3: VNM
+ADM0_LABEL: 2
+ADMIN: Vietnam
+GEONUNIT: Vietnam
+GU_A3: VNM
+GN_ID: 1564676
+GN_NAME: Tinh Tien Giang
+GNS_ID: -3731485
+GNS_NAME: Tien Giang, Tinh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VN.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: VM37
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q36666
+NAME_AR: محافظة تين زانغ
+NAME_BN: তিয়েন গিয়াং
+NAME_DE: Tiền Giang
+NAME_EN: Tiền Giang
+NAME_ES: Tiền Giang
+NAME_FR: Province de Tiền Giang
+NAME_EL: Τιέν Γκιάνγκ
+NAME_HI: तिएन जीआंग
+NAME_HU: null
+NAME_ID: Provinsi Tien Giang
+NAME_IT: provincia di Tien Giang
+NAME_JA: ティエンザン省
+NAME_KO: 띠엔장 성
+NAME_NL: Tiền Giang
+NAME_PL: Prowincja Tiền Giang
+NAME_PT: Tien Giang
+NAME_RU: Тьензянг
+NAME_SV: Tien Giang
+NAME_TR: Tiền Giang
+NAME_VI: Tiền Giang
+NAME_ZH: 前江省
+NE_ID: 1159315891

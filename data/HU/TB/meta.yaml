@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4906
+DISS_ME: 4906
+ISO_3166_2: HU-TB
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tatab%C3%A1nya
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Tatabánya
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.TB
+NOTE: null
+HASC_MAYBE: null
+REGION: Central Transdanubia
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU38
+FIPS_ALT: null
+WOE_ID: 56043626
+WOE_LABEL: TatabÃ¡nya, HU, Hungary
+WOE_NAME: Tatabánya
+LATITUDE: 47.5667
+LONGITUDE: 18.4452
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: -3049518
+GN_NAME: Komarom-Esztergom megye
+GNS_ID: -868221
+GNS_NAME: Tatabanya Megyei Varos
+GN_LEVEL: -1
+GN_REGION: null
+GN_A1_CODE: HU.
+REGION_SUB: Komárom-Esztergom
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU38
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q187821
+NAME_AR: تاتابانيا
+NAME_BN: তাতাবানায়ান
+NAME_DE: Tatabánya
+NAME_EN: Tatabánya
+NAME_ES: Tatabánya
+NAME_FR: Tatabánya
+NAME_EL: Ταταμπάνια
+NAME_HI: ताताबनया
+NAME_HU: Tatabánya
+NAME_ID: Tatabánya
+NAME_IT: Tatabánya
+NAME_JA: タタバーニャ
+NAME_KO: 터터바녀
+NAME_NL: Tatabánya
+NAME_PL: Tatabánya
+NAME_PT: Tatabánya
+NAME_RU: Татабанья
+NAME_SV: Tatabánya
+NAME_TR: Tatabánya
+NAME_VI: Tatabánya
+NAME_ZH: 陶陶巴尼奧
+NE_ID: 1159316039

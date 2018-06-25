@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Burkina Faso
+SOV_A3: BFA
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Burkina Faso
+ADM0_A3: BFA
+GEOU_DIF: 0
+GEOUNIT: Burkina Faso
+GU_A3: BFA
+SU_DIF: 0
+SUBUNIT: Burkina Faso
+SU_A3: BFA
+BRK_DIFF: 0
+NAME: Burkina Faso
+NAME_LONG: Burkina Faso
+BRK_A3: BFA
+BRK_NAME: Burkina Faso
+BRK_GROUP: null
+ABBREV: B.F.
+POSTAL: BF
+FORMAL_EN: Burkina Faso
+FORMAL_FR: null
+NAME_CIAWF: Burkina Faso
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Burkina Faso
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 1
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+POP_EST: 20107509
+POP_RANK: 15
+GDP_MD_EST: 32990
+POP_YEAR: 2017
+LASTCENSUS: 2006
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: UV
+ISO_A2: BF
+ISO_A3: BFA
+ISO_A3_EH: BFA
+ISO_N3: 854
+UN_A3: 854
+WB_A2: BF
+WB_A3: BFA
+WOE_ID: 23424978
+WOE_ID_EH: 23424978
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: BFA
+ADM0_A3_US: BFA
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Western Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 12
+LONG_LEN: 12
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159320405
+WIKIDATAID: Q965
+NAME_AR: بوركينا فاسو
+NAME_BN: বুর্কিনা ফাসো
+NAME_DE: Burkina Faso
+NAME_EN: Burkina Faso
+NAME_ES: Burkina Faso
+NAME_FR: Burkina Faso
+NAME_EL: Μπουρκίνα Φάσο
+NAME_HI: बुर्किना फासो
+NAME_HU: Burkina Faso
+NAME_ID: Burkina Faso
+NAME_IT: Burkina Faso
+NAME_JA: ブルキナファソ
+NAME_KO: 부르키나파소
+NAME_NL: Burkina Faso
+NAME_PL: Burkina Faso
+NAME_PT: Burkina Faso
+NAME_RU: Буркина-Фасо
+NAME_SV: Burkina Faso
+NAME_TR: Burkina Faso
+NAME_VI: Burkina Faso
+NAME_ZH: 布吉納法索

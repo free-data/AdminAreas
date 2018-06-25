@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: ZMB-520
+DISS_ME: 520
+ISO_3166_2: ZM-09
+WIKIPEDIA: null
+ISO_A2: ZM
+ADM0_SR: 1
+NAME: Lusaka
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZM.LS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: LS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: ZA09
+FIPS_ALT: null
+WOE_ID: 2347809
+WOE_LABEL: Lusaka, ZM, Zambia
+WOE_NAME: Lusaka
+LATITUDE: -15.4426
+LONGITUDE: 29.0846
+SOV_A3: ZMB
+ADM0_A3: ZMB
+ADM0_LABEL: 2
+ADMIN: Zambia
+GEONUNIT: Zambia
+GU_A3: ZMB
+GN_ID: 909129
+GN_NAME: Lusaka Province
+GNS_ID: -2291869
+GNS_NAME: Lusaka
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZM.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZA09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q819998
+NAME_AR: لوساكا
+NAME_BN: লুকাকা প্রদেশ
+NAME_DE: Lusaka
+NAME_EN: Lusaka Province
+NAME_ES: Provincia de Lusaka
+NAME_FR: Province de Lusaka
+NAME_EL: Λουσάκα
+NAME_HI: लुसाका प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Lusaka
+NAME_IT: provincia di Lusaka
+NAME_JA: ルサカ州
+NAME_KO: 루사카 주
+NAME_NL: Lusaka
+NAME_PL: Prowincja Lusaka
+NAME_PT: Lusaca
+NAME_RU: Лусака
+NAME_SV: Lusaka
+NAME_TR: Lusaka Bölgesi
+NAME_VI: Tỉnh Lusaka
+NAME_ZH: 卢萨卡省
+NE_ID: 1159307889

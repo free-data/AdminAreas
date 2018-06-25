@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: NRU-4973
+DISS_ME: 4973
+ISO_3166_2: NR-08
+WIKIPEDIA: http://en.wikipedia.org/wiki/Denigomodu_District
+ISO_A2: NR
+ADM0_SR: 3
+NAME: Denigomodu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: NR.DE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: NR08
+FIPS_ALT: null
+WOE_ID: 20070302
+WOE_LABEL: null
+WOE_NAME: Denigomodu
+LATITUDE: -0.520335
+LONGITUDE: 166.914
+SOV_A3: NRU
+ADM0_A3: NRU
+ADM0_LABEL: 3
+ADMIN: Nauru
+GEONUNIT: Nauru
+GU_A3: NRU
+GN_ID: 2110437
+GN_NAME: Denigomodu District
+GNS_ID: -1187292
+GNS_NAME: Denigomodu District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: NR08
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q1187200
+NAME_AR: ضاحية دينيغومودو
+NAME_BN: ডেনিগোমুদো জেলা
+NAME_DE: Denigomodu
+NAME_EN: Denigomodu District
+NAME_ES: Denigomodu
+NAME_FR: Denigomodu
+NAME_EL: Ντενιγκομόντου
+NAME_HI: डेनीगोमोदु जिला
+NAME_HU: null
+NAME_ID: Denigomodu
+NAME_IT: Denigomodu
+NAME_JA: デニゴムドゥ地区
+NAME_KO: 데니고모두 구
+NAME_NL: Denigomodu
+NAME_PL: Denigomodu
+NAME_PT: Anexo:Distritos de Nauru
+NAME_RU: Денигомоду
+NAME_SV: Denigomodu
+NAME_TR: Denigomodu District
+NAME_VI: Denigomodu
+NAME_ZH: 德尼高莫都區
+NE_ID: 1159316161

@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Zimbabwe
+SOV_A3: ZWE
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Zimbabwe
+ADM0_A3: ZWE
+GEOU_DIF: 0
+GEOUNIT: Zimbabwe
+GU_A3: ZWE
+SU_DIF: 0
+SUBUNIT: Zimbabwe
+SU_A3: ZWE
+BRK_DIFF: 0
+NAME: Zimbabwe
+NAME_LONG: Zimbabwe
+BRK_A3: ZWE
+BRK_NAME: Zimbabwe
+BRK_GROUP: null
+ABBREV: Zimb.
+POSTAL: ZW
+FORMAL_EN: Republic of Zimbabwe
+FORMAL_FR: null
+NAME_CIAWF: Zimbabwe
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Zimbabwe
+NAME_ALT: null
+MAPCOLOR7: 1
+MAPCOLOR8: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 9
+POP_EST: 13805084
+POP_RANK: 14
+GDP_MD_EST: 28330
+POP_YEAR: 2017
+LASTCENSUS: 2002
+GDP_YEAR: 2016
+ECONOMY: 5. Emerging region: G20
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: ZI
+ISO_A2: ZW
+ISO_A3: ZWE
+ISO_A3_EH: ZWE
+ISO_N3: 716
+UN_A3: 716
+WB_A2: ZW
+WB_A3: ZWE
+WOE_ID: 23425004
+WOE_ID_EH: 23425004
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ZWE
+ADM0_A3_US: ZWE
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 8
+LONG_LEN: 8
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321441
+WIKIDATAID: Q954
+NAME_AR: زيمبابوي
+NAME_BN: জিম্বাবুয়ে
+NAME_DE: Simbabwe
+NAME_EN: Zimbabwe
+NAME_ES: Zimbabue
+NAME_FR: Zimbabwe
+NAME_EL: Ζιμπάμπουε
+NAME_HI: ज़िम्बाब्वे
+NAME_HU: Zimbabwe
+NAME_ID: Zimbabwe
+NAME_IT: Zimbabwe
+NAME_JA: ジンバブエ
+NAME_KO: 짐바브웨
+NAME_NL: Zimbabwe
+NAME_PL: Zimbabwe
+NAME_PT: Zimbábue
+NAME_RU: Зимбабве
+NAME_SV: Zimbabwe
+NAME_TR: Zimbabve
+NAME_VI: Zimbabwe
+NAME_ZH: 辛巴威

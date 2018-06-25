@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CAF-807
+DISS_ME: 807
+ISO_3166_2: CF-KB
+WIKIPEDIA: null
+ISO_A2: CF
+ADM0_SR: 1
+NAME: Nana-Grébizi
+NAME_ALT: Nana-Gribingui|Gribingui|Gribingui-Économique|Ibingui|Nana Gribizi
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Economic Prefecture
+CODE_LOCAL: null
+CODE_HASC: CF.KB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 9
+FIPS: CT15
+FIPS_ALT: null
+WOE_ID: 2345102
+WOE_LABEL: null
+WOE_NAME: Nana-Grébizi
+LATITUDE: 7.11882
+LONGITUDE: 19.4051
+SOV_A3: CAF
+ADM0_A3: CAF
+ADM0_LABEL: 2
+ADMIN: Central African Republic
+GEONUNIT: Central African Republic
+GU_A3: CAF
+GN_ID: 2386243
+GN_NAME: Prefecture de la Nana-Grebizi
+GNS_ID: -1344918
+GNS_NAME: Nana-Grebizi, Prefecture de la
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CF.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: CT15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q856227
+NAME_AR: نانا-جريبيزي
+NAME_BN: নানা-গ্রেবিজি অর্থনৈতিক প্রশাসনিক অঞ্চল
+NAME_DE: Nana-Grébizi
+NAME_EN: Nana-Grébizi Economic Prefecture
+NAME_ES: Nana-Grébizi
+NAME_FR: Nana-Grébizi
+NAME_EL: Νάνα-Γκρέμπιζι
+NAME_HI: नाना-ग्रेबेज़ी इकॉनोमिक प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Ekonomi Nana-Grébizi
+NAME_IT: prefettura di Nana-Grébizi
+NAME_JA: ナナ・グリビジ州
+NAME_KO: 나나그레비지 주
+NAME_NL: Nana-Grébizi
+NAME_PL: Prefektura Ekonomiczna Nana-Grébizi
+NAME_PT: Nana-Grébizi
+NAME_RU: Нана-Гребизи
+NAME_SV: Préfecture de la Nana-Grébizi
+NAME_TR: Nana-Grébizi
+NAME_VI: Tỉnh Nana-Grébizi Economic
+NAME_ZH: 纳纳-格里比齐省
+NE_ID: 1159308953

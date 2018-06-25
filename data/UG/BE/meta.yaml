@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-5591
+DISS_ME: 5591
+ISO_3166_2: UG-224
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Bukedea
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KU
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGC3
+FIPS_ALT: null
+WOE_ID: -20070430
+WOE_LABEL: Kumi, UG, Uganda
+WOE_NAME: Kumi
+LATITUDE: 1.34244
+LONGITUDE: 34.1286
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 234411
+GN_NAME: Bukedea District
+GNS_ID: -1726878
+GNS_NAME: Bukedea District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.C3
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: UG89
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375812
+NAME_AR: مقاطعة بوكيدا
+NAME_BN: বুকেডিয়া জেলা
+NAME_DE: Bukedea-Distrikt
+NAME_EN: Bukedea District
+NAME_ES: Distrito de Bukedea
+NAME_FR: Bukedea
+NAME_EL: Μπουκέντεα
+NAME_HI: बुकेडे जिला
+NAME_HU: null
+NAME_ID: Distrik Bukedea
+NAME_IT: Bukedea
+NAME_JA: ブケデア県
+NAME_KO: 부케데아 구
+NAME_NL: Bukedea
+NAME_PL: Dystrykt Bukedea
+NAME_PT: Bukedea
+NAME_RU: Букедеа
+NAME_SV: Bukedeadistriktet
+NAME_TR: Buedea District
+NAME_VI: Quận Bukedea
+NAME_ZH: 布凱德阿區
+NE_ID: 1159317403

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3093
+DISS_ME: 3093
+ISO_3166_2: UG-107
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Mubende
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-NRB
+PROVNUM_NE: 20048
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: MD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGB4
+FIPS_ALT: UG56
+WOE_ID: 20070437
+WOE_LABEL: Mubende, UG, Uganda
+WOE_NAME: Mubende
+LATITUDE: 0.58882
+LONGITUDE: 31.4889
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443358
+GN_NAME: Mubende District
+GNS_ID: 9050765
+GNS_NAME: Mubende District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.56
+REGION_SUB: null
+SUB_CODE: UG22
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG88
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q891962
+NAME_AR: مقاطعة موبندي
+NAME_BN: মোবেন্ডে জেলা
+NAME_DE: Distrikt Mubende
+NAME_EN: Mubende District
+NAME_ES: Distrito de Mubende
+NAME_FR: Mubende
+NAME_EL: Μουμπέντε
+NAME_HI: मुबेंदे जिला
+NAME_HU: null
+NAME_ID: Distrik Mubende
+NAME_IT: Mubende
+NAME_JA: ムベンデ県
+NAME_KO: 무벤데 구
+NAME_NL: Mubende
+NAME_PL: Dystrykt Mubende
+NAME_PT: Mubende
+NAME_RU: Мубенде
+NAME_SV: Mubendedistriktet
+NAME_TR: Mubende District
+NAME_VI: Quận Mubende
+NAME_ZH: 穆本德區
+NE_ID: 1159313689

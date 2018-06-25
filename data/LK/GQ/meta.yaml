@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2471
+DISS_ME: 2471
+ISO_3166_2: LK-12
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 1
+NAME: Gampaha
+NAME_ALT: Gampaha
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.GQ
+NOTE: null
+HASC_MAYBE: null
+REGION: Basnāhira paḷāta
+REGION_COD: LK-1
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: GQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE24
+FIPS_ALT: null
+WOE_ID: 23706491
+WOE_LABEL: null
+WOE_NAME: Gampaha
+LATITUDE: 7.12599
+LONGITUDE: 80.0106
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1246005
+GN_NAME: Gampaha District
+GNS_ID: -2217867
+GNS_NAME: Gampaha
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1246005
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE36
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q206344
+NAME_AR: مديرية جامباها
+NAME_BN: গাম্পাহা জেলা
+NAME_DE: Gampaha
+NAME_EN: Gampaha District
+NAME_ES: Distrito de Gampaha
+NAME_FR: Gampaha
+NAME_EL: Γκαμπάχα
+NAME_HI: गम्पाह जिला
+NAME_HU: null
+NAME_ID: Distrik Gampaha
+NAME_IT: Distretto di Gampaha
+NAME_JA: ガンパハ県
+NAME_KO: 감파하 구
+NAME_NL: Gampaha
+NAME_PL: Dystrykt Gampaha
+NAME_PT: Distrito de Gampaha
+NAME_RU: округ Гампаха
+NAME_SV: Gampaha
+NAME_TR: Gampaha District
+NAME_VI: Quận Gampaha
+NAME_ZH: 加姆珀哈區
+NE_ID: 1159311441

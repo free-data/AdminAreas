@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3063
+DISS_ME: 3063
+ISO_3166_2: IQ-BG
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Baghdad
+NAME_ALT: Bagd |Bagdad
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.BG
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BG
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ07
+FIPS_ALT: null
+WOE_ID: 2345839
+WOE_LABEL: Baghdad, IQ, Iraq
+WOE_NAME: Baghdad
+LATITUDE: 33.306
+LONGITUDE: 44.3827
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 98180
+GN_NAME: Muhafazat Baghdad
+GNS_ID: -3103583
+GNS_NAME: Baghdad
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q191075
+NAME_AR: محافظة بغداد
+NAME_BN: বাগদাদ প্রদেশ
+NAME_DE: Gouvernorat Bagdad
+NAME_EN: Baghdad Governorate
+NAME_ES: Gobernación de Bagdad
+NAME_FR: Bagdad
+NAME_EL: null
+NAME_HI: बग़दाद प्रान्त
+NAME_HU: Bagdad kormányzóság
+NAME_ID: Kegubernuran Bagdad
+NAME_IT: governatorato di Baghdad
+NAME_JA: バグダード県
+NAME_KO: 바그다드 주
+NAME_NL: Bagdad
+NAME_PL: Bagdad
+NAME_PT: Bagdad
+NAME_RU: Багдад
+NAME_SV: Guvernementet Bagdad
+NAME_TR: Bağdat ili
+NAME_VI: null
+NAME_ZH: 巴格達省
+NE_ID: 1159314231

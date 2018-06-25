@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1439
+DISS_ME: 1439
+ISO_3166_2: DM-09
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint Patrick
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO09
+FIPS_ALT: null
+WOE_ID: 2345168
+WOE_LABEL: Saint Patrick, DM, Dominica
+WOE_NAME: Saint Patrick
+LATITUDE: 15.2768
+LONGITUDE: -61.3052
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575620
+GN_NAME: Saint Patrick
+GNS_ID: -1352359
+GNS_NAME: Saint Patrick
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO09
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1431108
+NAME_AR: أبرشية القديس باتريك
+NAME_BN: সেন্ট প্যাট্রিক প্যারিশ
+NAME_DE: Saint Patrick
+NAME_EN: Saint Patrick Parish
+NAME_ES: Parroquia de Saint Patrick
+NAME_FR: Saint-Patrick
+NAME_EL: Άγιος Πατρίκιος
+NAME_HI: सेंट पैट्रिक पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Patrick
+NAME_IT: Parrocchia di Saint Patrick
+NAME_JA: セント・パトリック
+NAME_KO: 세인트패트릭 교구
+NAME_NL: Saint Patrick
+NAME_PL: Parafia św. Patryka na Dominice
+NAME_PT: Saint Patrick
+NAME_RU: Приход Сент-Патрик
+NAME_SV: Saint Patrick
+NAME_TR: Saint Patrick Parish
+NAME_VI: Giáo xứ Saint Patrick
+NAME_ZH: 聖帕特里克堂區
+NE_ID: 1159311621

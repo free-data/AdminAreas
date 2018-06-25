@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3244
+DISS_ME: 3244
+ISO_3166_2: IR-29
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: South Khorasan
+NAME_ALT: Khorasan-e Janubi
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.KJ
+NOTE: Estimated subdivision of former Khorasan province
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 14
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR41
+FIPS_ALT: IR30
+WOE_ID: 56189825
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 32.4563
+LONGITUDE: 59.489
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 6201374
+GN_NAME: Ostan-e Khorasan-e Jonubi
+GNS_ID: 9237534
+GNS_NAME: Khorasan-e Jonubi, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.41
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR41
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q171551
+NAME_AR: خراسان جنوبي
+NAME_BN: দক্ষিণ খোরসন প্রদেশ
+NAME_DE: Süd-Chorasan
+NAME_EN: South Khorasan Province
+NAME_ES: Jorasán del Sur
+NAME_FR: Khorassan du Sud
+NAME_EL: Νότιο Χορασάν
+NAME_HI: दक्षिण ख़ोरासान प्रांत
+NAME_HU: Dél-Horászán tartomány
+NAME_ID: Provinsi Khorasan Selatan
+NAME_IT: Khorasan meridionale
+NAME_JA: 南ホラーサーン州
+NAME_KO: 호라산에조누비 주
+NAME_NL: Zuid-Khorasan
+NAME_PL: Chorasan Południowy
+NAME_PT: Coração do Sul
+NAME_RU: Южный Хорасан
+NAME_SV: Sydkhorasan
+NAME_TR: Güney Horasan Eyaleti
+NAME_VI: Tỉnh Nam Khorasan
+NAME_ZH: 南呼羅珊省
+NE_ID: 1159314317

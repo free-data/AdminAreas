@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ESP-5846
+DISS_ME: 5846
+ISO_3166_2: ES-T
+WIKIPEDIA: null
+ISO_A2: ES
+ADM0_SR: 1
+NAME: Tarragona
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comunidad Autónoma
+TYPE_EN: Autonomous Community
+CODE_LOCAL: null
+CODE_HASC: ES.CT
+NOTE: null
+HASC_MAYBE: null
+REGION: Cataluña
+REGION_COD: ES.CT
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: SP86
+FIPS_ALT: SP56
+WOE_ID: 12602127
+WOE_LABEL: Catalonia, ES, Spain
+WOE_NAME: Cataluña
+LATITUDE: 41.1476
+LONGITUDE: 0.873012
+SOV_A3: ESP
+ADM0_A3: ESP
+ADM0_LABEL: 2
+ADMIN: Spain
+GEONUNIT: null
+GU_A3: null
+GN_ID: 3108287
+GN_NAME: Provincia de Tarragona
+GNS_ID: -403903
+GNS_NAME: Tarragona
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: ES.T
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: SP56
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q98392
+NAME_AR: طراغونة
+NAME_BN: তারাগোনা প্রদেশ
+NAME_DE: Tarragona
+NAME_EN: Tarragona Province
+NAME_ES: provincia de Tarragona
+NAME_FR: province de Tarragone
+NAME_EL: Επαρχία της Ταρραγκόνα
+NAME_HI: टेरागोना
+NAME_HU: Tarragona
+NAME_ID: Provinsi Tarragona
+NAME_IT: Provincia di Tarragona
+NAME_JA: タラゴナ県
+NAME_KO: 타라고나 주
+NAME_NL: Tarragona
+NAME_PL: Tarragona
+NAME_PT: Tarragona
+NAME_RU: Таррагона
+NAME_SV: Tarragona
+NAME_TR: Tarragona İli
+NAME_VI: Tarragona
+NAME_ZH: 塔拉戈纳省
+NE_ID: 1159317797

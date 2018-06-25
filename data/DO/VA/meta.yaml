@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1392
+DISS_ME: 1392
+ISO_3166_2: DO-27
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Valverde
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.VA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 22
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR27
+FIPS_ALT: null
+WOE_ID: 2345195
+WOE_LABEL: Valverde, DO, Dominican Republic
+WOE_NAME: Valverde
+LATITUDE: 19.5741
+LONGITUDE: -71.0242
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 3492112
+GN_NAME: Provincia de Valverde
+GNS_ID: -3367040
+GNS_NAME: Valverde, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.27
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: DR27
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1774848
+NAME_AR: محافظة فالفيردي
+NAME_BN: ভ্যালভার্দে প্রদেশ
+NAME_DE: Valverde
+NAME_EN: Valverde Province
+NAME_ES: Valverde
+NAME_FR: Valverde
+NAME_EL: Βαλβέρδε
+NAME_HI: वल्वेर्दे प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Valverde
+NAME_IT: provincia di Valverde
+NAME_JA: バルベルデ州
+NAME_KO: 발베르데 주
+NAME_NL: Valverde
+NAME_PL: Dystrykt Valverde
+NAME_PT: Valverde
+NAME_RU: Вальверде
+NAME_SV: Valverde
+NAME_TR: Valverde
+NAME_VI: Valverde
+NAME_ZH: 巴韋德省
+NE_ID: 1159310305

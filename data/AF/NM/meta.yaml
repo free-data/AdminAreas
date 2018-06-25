@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1751
+DISS_ME: 1751
+ISO_3166_2: AF-NIM
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Nimroz
+NAME_ALT: Neemroze|Nimrod|Nimrooz|Nimroze|Chakhansur
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.NM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF19
+FIPS_ALT: null
+WOE_ID: 2344565
+WOE_LABEL: Nimruz, AF, Afghanistan
+WOE_NAME: Nimroz
+LATITUDE: 30.7528
+LONGITUDE: 62.2069
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1131821
+GN_NAME: Wilayat-e Nimroz
+GNS_ID: -3385650
+GNS_NAME: Nimroz, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF19
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q183021
+NAME_AR: ولاية نيمروز
+NAME_BN: নিমরুজ প্রদেশ
+NAME_DE: Nimrus
+NAME_EN: Nimruz
+NAME_ES: Provincia de Nimruz
+NAME_FR: Nimrôz
+NAME_EL: Νιμρούζ
+NAME_HI: नीमरूज़ प्रान्त
+NAME_HU: null
+NAME_ID: Nimruz
+NAME_IT: Nimruz
+NAME_JA: ニームルーズ州
+NAME_KO: 님루즈 주
+NAME_NL: Nimruz
+NAME_PL: Nimroz
+NAME_PT: Nimruz
+NAME_RU: Нимроз
+NAME_SV: Nimruz
+NAME_TR: Nimruz Vilayeti
+NAME_VI: Nimruz
+NAME_ZH: 尼姆鲁兹省
+NE_ID: 1159312057

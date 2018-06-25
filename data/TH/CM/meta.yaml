@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-390
+DISS_ME: 390
+ISO_3166_2: TH-50
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Chiang Mai
+NAME_ALT: null
+NAME_LOCAL: จังหวัดเชียงใหม่
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.CM
+NOTE: null
+HASC_MAYBE: null
+REGION: Northern
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CM
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH02
+FIPS_ALT: null
+WOE_ID: 2347129
+WOE_LABEL: Chiang Mai, TH, Thailand
+WOE_NAME: Chiang Mai
+LATITUDE: 18.8368
+LONGITUDE: 98.6967
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1153670
+GN_NAME: Chiang Mai Province
+GNS_ID: -3247116
+GNS_NAME: Chiang Mai, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH02
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q233588
+NAME_AR: محافظة تشيانغ مي
+NAME_BN: চিয়াং মাই
+NAME_DE: Chiang Mai
+NAME_EN: Chiang Mai
+NAME_ES: Provincia de Chiang Mai
+NAME_FR: Chiang Mai
+NAME_EL: Τσιανγκ Μάι
+NAME_HI: चिअंग मई प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Chiang Mai
+NAME_IT: provincia di Chiang Mai
+NAME_JA: チエンマイ県
+NAME_KO: 치앙마이 주
+NAME_NL: Changwat Chiang Mai
+NAME_PL: Prowincja Chiang Mai
+NAME_PT: Chiang Mai
+NAME_RU: Чиангмай
+NAME_SV: Chiang Mai
+NAME_TR: Chiang Mai
+NAME_VI: Chiang Mai
+NAME_ZH: 清邁府
+NE_ID: 1159309171

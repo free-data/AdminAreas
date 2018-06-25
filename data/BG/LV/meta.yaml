@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BGR-2247
+DISS_ME: 2247
+ISO_3166_2: BG-11
+WIKIPEDIA: null
+ISO_A2: BG
+ADM0_SR: 1
+NAME: Lovech
+NAME_ALT: Loveč
+NAME_LOCAL: Ловеч
+TYPE: Oblast
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BG.LV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: LV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BU46
+FIPS_ALT: BU32
+WOE_ID: 20070064
+WOE_LABEL: Lovech, BG, Bulgaria
+WOE_NAME: Lovech
+LATITUDE: 43.0037
+LONGITUDE: 24.5374
+SOV_A3: BGR
+ADM0_A3: BGR
+ADM0_LABEL: 2
+ADMIN: Bulgaria
+GEONUNIT: Bulgaria
+GU_A3: BGR
+GN_ID: 729560
+GN_NAME: Lovech
+GNS_ID: -835914
+GNS_NAME: Lovech, Oblast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BG.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: BU46
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q6587068
+NAME_AR: مقاطعة لووتش
+NAME_BN: লোভেচ প্রদেশ
+NAME_DE: Oblast Lowetsch
+NAME_EN: Lovech Province
+NAME_ES: Lovech
+NAME_FR: Lovetch
+NAME_EL: Λόβετς
+NAME_HI: लोवेक प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Lovetch
+NAME_IT: distretto di Loveč
+NAME_JA: ロヴェチ州
+NAME_KO: 로베치 주
+NAME_NL: Lovetsj
+NAME_PL: Obwód Łowecz
+NAME_PT: Lovech
+NAME_RU: Ловечская область
+NAME_SV: Lovetj
+NAME_TR: Lofça ili
+NAME_VI: Lovech
+NAME_ZH: 洛維奇州
+NE_ID: 1159312489

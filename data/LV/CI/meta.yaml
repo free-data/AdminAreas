@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5745
+DISS_ME: 5745
+ISO_3166_2: LV-023
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Ciblas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.CI
+NOTE: null
+HASC_MAYBE: null
+REGION: Latgale
+REGION_COD: LV.BL
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: BL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG56
+FIPS_ALT: null
+WOE_ID: -2346042
+WOE_LABEL: Balvu Rajons, LV, Latvia
+WOE_NAME: Balvi
+LATITUDE: 56.6132
+LONGITUDE: 27.8618
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628346
+GN_NAME: Ciblas Novads
+GNS_ID: 10980801
+GNS_NAME: Ciblas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.56
+REGION_SUB: Latgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG56
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1955102
+NAME_AR: بلدية سيبلا
+NAME_BN: সিব্লা পৌরসভা
+NAME_DE: Bezirk Cibla
+NAME_EN: Cibla Municipality
+NAME_ES: Municipalidad de Cibla
+NAME_FR: Cibla
+NAME_EL: Κίμπλα
+NAME_HI: सिबला नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Cibla
+NAME_IT: Cibla
+NAME_JA: ツィブラ
+NAME_KO: 치블라 시
+NAME_NL: Ciblas novads
+NAME_PL: Gmina Cibla
+NAME_PT: Município de Cibla
+NAME_RU: Циблский край
+NAME_SV: Ciblas novads
+NAME_TR: Cibla Belediyesi
+NAME_VI: Đô thị tự trị Cibla
+NAME_ZH: null
+NE_ID: 1159317737

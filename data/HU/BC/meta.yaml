@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-4919
+DISS_ME: 4919
+ISO_3166_2: HU-BC
+WIKIPEDIA: http://en.wikipedia.org/wiki/B%C3%A9k%C3%A9scsaba
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Békéscsaba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Megyei jogu város
+TYPE_EN: Urban county
+CODE_LOCAL: null
+CODE_HASC: HU.BC
+NOTE: null
+HASC_MAYBE: null
+REGION: Great Southern Plain
+REGION_COD: null
+PROVNUM_NE: -99
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VA
+AREA_SQKM: 0
+SAMEASCITY: 1
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU26
+FIPS_ALT: null
+WOE_ID: 56043637
+WOE_LABEL: BÃ©kÃ©scsaba, HU, Hungary
+WOE_NAME: Békéscsaba
+LATITUDE: 46.7499
+LONGITUDE: 21.0968
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 722433
+GN_NAME: Bekes megye
+GNS_ID: -849537
+GNS_NAME: Bekescsaba Megyei Varos
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.03
+REGION_SUB: Békés
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU26
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q178878
+NAME_AR: بيكيسكسابا
+NAME_BN: বেকেসসাবা
+NAME_DE: Békéscsaba
+NAME_EN: Békéscsaba
+NAME_ES: Békéscsaba
+NAME_FR: Békéscsaba
+NAME_EL: Μπεκεστσάμπα
+NAME_HI: बेक्सस्काबा
+NAME_HU: Békéscsaba
+NAME_ID: Békéscsaba
+NAME_IT: Békéscsaba
+NAME_JA: ベーケーシュチャバ
+NAME_KO: 베케슈처버
+NAME_NL: Békéscsaba
+NAME_PL: Békéscsaba
+NAME_PT: Békéscsaba
+NAME_RU: Бекешчаба
+NAME_SV: Békéscsaba
+NAME_TR: Békéscsaba
+NAME_VI: Békéscsaba
+NAME_ZH: 貝凱什喬包
+NE_ID: 1159316067

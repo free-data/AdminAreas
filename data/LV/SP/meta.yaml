@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5780
+DISS_ME: 5780
+ISO_3166_2: LV-095
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Stopinu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.SP
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGD2
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.9362
+LONGITUDE: 24.3323
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628325
+GN_NAME: Stopinu Novads
+GNS_ID: 10978961
+GNS_NAME: Stopinu Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.D2
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG46
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2299214
+NAME_AR: بلدية ستوبيني
+NAME_BN: স্টপিনি পৌরসভা
+NAME_DE: Bezirk Stopiņi
+NAME_EN: Stopiņi Municipality
+NAME_ES: Municipalidad de Stopiņi
+NAME_FR: Stopiņi
+NAME_EL: Στοπίνι
+NAME_HI: स्टोपिनी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Stopiņi
+NAME_IT: Stopiņi
+NAME_JA: ストゥアピニ
+NAME_KO: 스토피니 시
+NAME_NL: Stopiņu novads
+NAME_PL: Gmina Stopiņi
+NAME_PT: Município de Stopini
+NAME_RU: Стопиньский край
+NAME_SV: Stopiņu novads
+NAME_TR: Stopini Belediyesi
+NAME_VI: Đô thị tự trị Stopini
+NAME_ZH: 斯托皮努自治市
+NE_ID: 1159317669

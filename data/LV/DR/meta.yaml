@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5720
+DISS_ME: 5720
+ISO_3166_2: LV-028
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Durbes
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.DR
+NOTE: The city for this district has no shapefile which is also counted as primary division
+HASC_MAYBE: LT.TL
+REGION: Kurzeme
+REGION_COD: LV.LP
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG61
+FIPS_ALT: LH63
+WOE_ID: -2346030
+WOE_LABEL: Liepajas Rajons, LV, Latvia
+WOE_NAME: Liepaja
+LATITUDE: 56.6142
+LONGITUDE: 21.4069
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628304
+GN_NAME: Durbes Novads
+GNS_ID: 10969811
+GNS_NAME: Durbes Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.61
+REGION_SUB: Kurzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG61
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1962356
+NAME_AR: بلدية دوربه
+NAME_BN: দূর্বে পৌরসভা
+NAME_DE: Bezirk Durbe
+NAME_EN: Durbe Municipality
+NAME_ES: Municipalidad de Durbe
+NAME_FR: Durbe
+NAME_EL: Ντούρμπε
+NAME_HI: दुर्बे नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Durbe
+NAME_IT: Comune di Durbe
+NAME_JA: ドゥルベ
+NAME_KO: 두르베 시
+NAME_NL: Durbes novads
+NAME_PL: Gmina Durbe
+NAME_PT: Município de Durbe
+NAME_RU: Дурбский край
+NAME_SV: Durbes novads
+NAME_TR: Durbe belediyesi
+NAME_VI: Đô thị tự trị Durbe
+NAME_ZH: 杜爾貝自治市
+NE_ID: 1159311049

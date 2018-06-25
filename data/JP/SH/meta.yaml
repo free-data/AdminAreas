@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1853
+DISS_ME: 1853
+ISO_3166_2: JP-25
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Shiga
+NAME_ALT: Siga
+NAME_LOCAL: 滋賀県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.SH
+NOTE: null
+HASC_MAYBE: JP.GM
+REGION: Kinki
+REGION_COD: JPN-KIN
+PROVNUM_NE: 37
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA35
+FIPS_ALT: JA10
+WOE_ID: 2345884
+WOE_LABEL: Shiga Prefecture, JP, Japan
+WOE_NAME: Shiga
+LATITUDE: 35.1832
+LONGITUDE: 136.093
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1852553
+GN_NAME: Shiga-ken
+GNS_ID: -242970
+GNS_NAME: Shiga-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA35
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q131358
+NAME_AR: شيغا
+NAME_BN: শিগা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Shiga
+NAME_EN: Shiga Prefecture
+NAME_ES: Prefectura de Shiga
+NAME_FR: Préfecture de Shiga
+NAME_EL: Σίγκα
+NAME_HI: शिगा प्रीफेक्चर
+NAME_HU: Siga prefektúra
+NAME_ID: Prefektur Shiga
+NAME_IT: prefettura di Shiga
+NAME_JA: 滋賀県
+NAME_KO: 시가 현
+NAME_NL: Shiga
+NAME_PL: Prefektura Shiga
+NAME_PT: Shiga
+NAME_RU: Сига
+NAME_SV: Shiga prefektur
+NAME_TR: Shiga
+NAME_VI: Shiga
+NAME_ZH: 滋贺县
+NE_ID: 1159309417

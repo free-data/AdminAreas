@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5737
+DISS_ME: 5737
+ISO_3166_2: LV-069
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Ozolnieku
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.OZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Zemgale
+REGION_COD: LV.JK
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGA3
+FIPS_ALT: null
+WOE_ID: -2346026
+WOE_LABEL: Jekabpils Rajons, LV, Latvia
+WOE_NAME: Jekabpils
+LATITUDE: 56.6377
+LONGITUDE: 23.9479
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628316
+GN_NAME: Ozolnieku Novads
+GNS_ID: 10973367
+GNS_NAME: Ozolnieku Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.A3
+REGION_SUB: Zemgale
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG76
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2304926
+NAME_AR: بلدية أوزولنيكي
+NAME_BN: ওজলনিয়েকি পৌরসভা
+NAME_DE: Bezirk Ozolnieki
+NAME_EN: Ozolnieki Municipality
+NAME_ES: Municipalidad de Ozolnieki
+NAME_FR: Ozolnieki
+NAME_EL: Οζολνιέκι
+NAME_HI: ओज़ोलनिकी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Ozolnieki
+NAME_IT: Ozolnieki
+NAME_JA: ウアズアルニエキ
+NAME_KO: 오졸니에키 시
+NAME_NL: Ozolnieku novads
+NAME_PL: Gmina Ozolnieki
+NAME_PT: Município de Ozolnieki
+NAME_RU: Озолниекский край
+NAME_SV: Ozolnieku novads
+NAME_TR: Ozolnieki Belediyesi
+NAME_VI: Đô thị tự trị Ozolnieki
+NAME_ZH: 奧佐內庫自治市
+NE_ID: 1159317617

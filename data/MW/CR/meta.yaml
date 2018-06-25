@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1917
+DISS_ME: 1917
+ISO_3166_2: MW-CR
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Chiradzulu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.CR
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: MWI-STH
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CR
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI03
+FIPS_ALT: null
+WOE_ID: 20070142
+WOE_LABEL: Chiradzulu, MW, Malawi
+WOE_NAME: Chiradzulu
+LATITUDE: -15.7358
+LONGITUDE: 35.2224
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 930579
+GN_NAME: Chiradzulu District
+GNS_ID: -1480106
+GNS_NAME: Chiradzulu
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MI03
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q722501
+NAME_AR: إقليم تشيرازولو
+NAME_BN: কিরাদজুলু জেলা
+NAME_DE: Chiradzulu-Distrikt
+NAME_EN: Chiradzulu District
+NAME_ES: Distrito de Chiradzulu
+NAME_FR: District de Chiradzulu
+NAME_EL: Τσιραντζούλου
+NAME_HI: चिरादज़ुलु जिला
+NAME_HU: null
+NAME_ID: Distrik Chiradzulu
+NAME_IT: distretto di Chiradzulu
+NAME_JA: チラズル
+NAME_KO: 치라줄루 현
+NAME_NL: Chiradzulu
+NAME_PL: Dystrykt Chiradzulu
+NAME_PT: Chiradzulu
+NAME_RU: Чирадзулу
+NAME_SV: Chiradzulu
+NAME_TR: Chiradzulu
+NAME_VI: Quận Chiradzulu
+NAME_ZH: 奇拉朱盧縣
+NE_ID: 1159311229

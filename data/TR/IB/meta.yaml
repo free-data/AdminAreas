@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2265
+DISS_ME: 2265
+ISO_3166_2: TR-34
+WIKIPEDIA: http://en.wikipedia.org/wiki/Istanbul_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Istanbul
+NAME_ALT: İstanbul|Constantinople|Estambul|Istambul|Konstantinopel|Stamboul
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.IB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: IB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU34
+FIPS_ALT: null
+WOE_ID: 2347289
+WOE_LABEL: Istanbul, TR, Turkey
+WOE_NAME: Istanbul
+LATITUDE: 41.1285
+LONGITUDE: 28.8463
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 745042
+GN_NAME: Istanbul
+GNS_ID: -755072
+GNS_NAME: Istanbul Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU34
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q534799
+NAME_AR: إسطنبول
+NAME_BN: null
+NAME_DE: Istanbul
+NAME_EN: Istanbul Province
+NAME_ES: Provincia de Estambul
+NAME_FR: Istanbul
+NAME_EL: Επαρχία Κωνσταντινούπολης
+NAME_HI: null
+NAME_HU: İstanbul
+NAME_ID: Provinsi İstanbul
+NAME_IT: provincia di Istanbul
+NAME_JA: イスタンブール県
+NAME_KO: 이스탄불 주
+NAME_NL: Istanboel
+NAME_PL: Stambuł
+NAME_PT: Istambul
+NAME_RU: Стамбул
+NAME_SV: İstanbul
+NAME_TR: İstanbul
+NAME_VI: Istanbul
+NAME_ZH: 伊斯坦堡省
+NE_ID: 1159312323

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: FSM-4944
+DISS_ME: 4944
+ISO_3166_2: FM-KSA
+WIKIPEDIA: http://en.wikipedia.org/wiki/Kosrae
+ISO_A2: FM
+ADM0_SR: 5
+NAME: Kosrae
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: FM.KO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: FM01
+FIPS_ALT: null
+WOE_ID: 2345340
+WOE_LABEL: Kosrae, FM, Federated States of Micronesia
+WOE_NAME: Kosrae
+LATITUDE: 5.35641
+LONGITUDE: 162.927
+SOV_A3: FSM
+ADM0_A3: FSM
+ADM0_LABEL: 5
+ADMIN: Federated States of Micronesia
+GEONUNIT: Federated States of Micronesia
+GU_A3: FSM
+GN_ID: 2082036
+GN_NAME: State of Kosrae
+GNS_ID: -3740147
+GNS_NAME: Kosrae
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: FM.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: FM01
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q459848
+NAME_AR: كوسراي
+NAME_BN: কসরে
+NAME_DE: Kosrae
+NAME_EN: Kosrae
+NAME_ES: Kosrae
+NAME_FR: Kosrae
+NAME_EL: Κόσραε
+NAME_HI: कोशराय राज्य
+NAME_HU: Kosrae-sziget
+NAME_ID: Kosrae
+NAME_IT: Kosrae
+NAME_JA: コスラエ州
+NAME_KO: 코스라에 주
+NAME_NL: Kosrae
+NAME_PL: Kosrae
+NAME_PT: Kosrae
+NAME_RU: Кусаие
+NAME_SV: Kosrae
+NAME_TR: Kosrae
+NAME_VI: Kosrae
+NAME_ZH: 科斯雷
+NE_ID: 1159316115

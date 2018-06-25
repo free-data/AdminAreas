@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5323
+DISS_ME: 5323
+ISO_3166_2: FR-51
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Marne
+NAME_ALT: Champaña-Ardenne
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: Champagne-Ardenne
+REGION_COD: FR-G
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 5
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA4
+FIPS_ALT: null
+WOE_ID: 12597123
+WOE_LABEL: null
+WOE_NAME: Marne
+LATITUDE: 49.022
+LONGITUDE: 4.26395
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2995603
+GN_NAME: Departement de la Marne
+GNS_ID: -1449813
+GNS_NAME: Marne, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.51
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA4
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12594
+NAME_AR: المارن
+NAME_BN: মার্নে
+NAME_DE: Département Marne
+NAME_EN: Marne
+NAME_ES: Marne
+NAME_FR: Marne
+NAME_EL: Μαρν
+NAME_HI: मार्ने
+NAME_HU: Marne
+NAME_ID: Marne
+NAME_IT: Marna
+NAME_JA: マルヌ県
+NAME_KO: 마른 주
+NAME_NL: Marne
+NAME_PL: Marna
+NAME_PT: Marne
+NAME_RU: Марна
+NAME_SV: Marne
+NAME_TR: Marne
+NAME_VI: Marne
+NAME_ZH: 马恩省
+NE_ID: 1159313569

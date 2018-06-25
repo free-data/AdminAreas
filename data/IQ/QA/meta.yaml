@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3224
+DISS_ME: 3224
+ISO_3166_2: IQ-QA
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Al-Qādisiyyah
+NAME_ALT: Diwaniyah
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.QA
+NOTE: null
+HASC_MAYBE: null
+REGION: Iraq
+REGION_COD: null
+PROVNUM_NE: 20019
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: QA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 12
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ04
+FIPS_ALT: null
+WOE_ID: 2345836
+WOE_LABEL: Al Qadisiyah, IQ, Iraq
+WOE_NAME: Al-Qadisiyah
+LATITUDE: 31.6081
+LONGITUDE: 45.1075
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraq
+GU_A3: IRR
+GN_ID: 99022
+GN_NAME: Muhafazat al Qadisiyah
+GNS_ID: -3102707
+GNS_NAME: Qadisiyah, Muhafazat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ04
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q62987
+NAME_AR: محافظة القادسية
+NAME_BN: আল-কাদিসিয়্যাহ প্রদেশ
+NAME_DE: al-Qadisiyya
+NAME_EN: Al-Qādisiyyah Governorate
+NAME_ES: Gobernación de Cadisia
+NAME_FR: Al-Qadisiyya
+NAME_EL: Αλ Καντισιγιά Γκοβερνοράτε
+NAME_HI: क़ादिसियाह​ प्रान्त
+NAME_HU: Kádiszijja kormányzóság
+NAME_ID: Kegubernuran Al-Qādisiyyah
+NAME_IT: governatorato di al-Qadisiyya
+NAME_JA: カーディーシーヤ県
+NAME_KO: 카디시야 주
+NAME_NL: Al-Qadisiyah
+NAME_PL: Al-Kadisijja
+NAME_PT: Al-Qadisiyyah
+NAME_RU: Кадисия
+NAME_SV: al-Qadisiyya
+NAME_TR: Kadisiye ili
+NAME_VI: Tỉnh Al-Qadisiyyah
+NAME_ZH: 卡迪西亞省
+NE_ID: 1159314239

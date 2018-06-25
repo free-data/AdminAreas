@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-297
+DISS_ME: 297
+ISO_3166_2: RO-HD
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Hunedoara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.HD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 40
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO21
+FIPS_ALT: null
+WOE_ID: 2346635
+WOE_LABEL: Hunedoara, RO, Romania
+WOE_NAME: Hunedoara
+LATITUDE: 45.7435
+LONGITUDE: 22.9774
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 675917
+GN_NAME: Judetul Hunedoara
+GNS_ID: -1161557
+GNS_NAME: Hunedoara, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q191071
+NAME_AR: مقاطعة هوندوارا
+NAME_BN: হুনেদোয়ারা কাউন্টি
+NAME_DE: Hunedoara
+NAME_EN: Hunedoara County
+NAME_ES: Hunedoara
+NAME_FR: județ de Hunedoara
+NAME_EL: Χουνεντοάρα
+NAME_HI: हूनेदोआरा काउंटी
+NAME_HU: Hunyad megye
+NAME_ID: Provinsi Hunedoara
+NAME_IT: distretto di Hunedoara
+NAME_JA: フネドアラ県
+NAME_KO: 후네도아라 주
+NAME_NL: District Hunedoara
+NAME_PL: Okręg Hunedoara
+NAME_PT: Hunedoara
+NAME_RU: Хунедоара
+NAME_SV: Hunedoara
+NAME_TR: Hunedoara ili
+NAME_VI: Hạt Hunedoara
+NAME_ZH: 胡內多阿拉縣
+NE_ID: 1159308805

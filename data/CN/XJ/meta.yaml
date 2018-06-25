@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CHN-1756
+DISS_ME: 1756
+ISO_3166_2: CN-65
+WIKIPEDIA: null
+ISO_A2: CN
+ADM0_SR: 1
+NAME: Xinjiang
+NAME_ALT: Xinjiang Uygur|Xīnjiāng Wéiwúěr
+NAME_LOCAL: 新疆維吾爾自治區|新疆维吾尔自治区
+TYPE: Zìzhìqu
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: CN.XJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwest China
+REGION_COD: 6
+PROVNUM_NE: 49
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: XJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: CH13
+FIPS_ALT: null
+WOE_ID: 12578003
+WOE_LABEL: Xinjiang, CN, China
+WOE_NAME: Xinjiang
+LATITUDE: 41.122
+LONGITUDE: 85.4253
+SOV_A3: CH1
+ADM0_A3: CHN
+ADM0_LABEL: 2
+ADMIN: China
+GEONUNIT: China
+GU_A3: CHN
+GN_ID: 1529047
+GN_NAME: Xinjiang Uygur Zizhiqu
+GNS_ID: -1933787
+GNS_NAME: Xinjiang Uygur Zizhiqu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CN.13
+REGION_SUB: Western
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: uig
+GNS_ADM1: CH13
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q34800
+NAME_AR: سنجان
+NAME_BN: শিনচিয়াং
+NAME_DE: Xinjiang
+NAME_EN: Xinjiang
+NAME_ES: Sinkiang
+NAME_FR: Xinjiang
+NAME_EL: Σιντζιάνγκ
+NAME_HI: शिंजियांग
+NAME_HU: Hszincsiang-Ujgur Autonóm Terület
+NAME_ID: Xinjiang
+NAME_IT: Sinkiang
+NAME_JA: 新疆ウイグル自治区
+NAME_KO: 신장 위구르 자치구
+NAME_NL: Sinkiang
+NAME_PL: Sinciang
+NAME_PT: Xinjiang
+NAME_RU: Синьцзян-Уйгурский автономный район
+NAME_SV: Xinjiang
+NAME_TR: Sincan Uygur Özerk Bölgesi
+NAME_VI: Tân Cương
+NAME_ZH: 新疆维吾尔自治区
+NE_ID: 1159312657

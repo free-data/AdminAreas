@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 3
+SOVEREIGNT: Senegal
+SOV_A3: SEN
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Senegal
+ADM0_A3: SEN
+GEOU_DIF: 0
+GEOUNIT: Senegal
+GU_A3: SEN
+SU_DIF: 0
+SUBUNIT: Senegal
+SU_A3: SEN
+BRK_DIFF: 0
+NAME: Senegal
+NAME_LONG: Senegal
+BRK_A3: SEN
+BRK_NAME: Senegal
+BRK_GROUP: null
+ABBREV: Sen.
+POSTAL: SN
+FORMAL_EN: Republic of Senegal
+FORMAL_FR: null
+NAME_CIAWF: Senegal
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Senegal
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+POP_EST: 14668522
+POP_RANK: 14
+GDP_MD_EST: 39720
+POP_YEAR: 2017
+LASTCENSUS: 2002
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: SG
+ISO_A2: SN
+ISO_A3: SEN
+ISO_A3_EH: SEN
+ISO_N3: 686
+UN_A3: 686
+WB_A2: SN
+WB_A3: SEN
+WOE_ID: 23424943
+WOE_ID_EH: 23424943
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: SEN
+ADM0_A3_US: SEN
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Western Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 8
+NE_ID: 1159321243
+WIKIDATAID: Q1041
+NAME_AR: السنغال
+NAME_BN: সেনেগাল
+NAME_DE: Senegal
+NAME_EN: Senegal
+NAME_ES: Senegal
+NAME_FR: Sénégal
+NAME_EL: Σενεγάλη
+NAME_HI: सेनेगल
+NAME_HU: Szenegál
+NAME_ID: Senegal
+NAME_IT: Senegal
+NAME_JA: セネガル
+NAME_KO: 세네갈
+NAME_NL: Senegal
+NAME_PL: Senegal
+NAME_PT: Senegal
+NAME_RU: Сенегал
+NAME_SV: Senegal
+NAME_TR: Senegal
+NAME_VI: Sénégal
+NAME_ZH: 塞内加尔

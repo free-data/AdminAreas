@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3094
+DISS_ME: 3094
+ISO_3166_2: UG-114
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Mityana
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.TY
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-NRB
+PROVNUM_NE: 20053
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGD8
+FIPS_ALT: null
+WOE_ID: 56190215
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 0.42844
+LONGITUDE: 32.0449
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056293
+GN_NAME: Mityana District
+GNS_ID: 10540255
+GNS_NAME: Mityana District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.D8
+REGION_SUB: null
+SUB_CODE: UG22
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1230005
+NAME_AR: ميتيانا
+NAME_BN: মিটায়ান জেলা
+NAME_DE: Distrikt Mityana
+NAME_EN: Mityana District
+NAME_ES: Distrito de Mityana
+NAME_FR: Mityana
+NAME_EL: Επαρχία Μιτγιάνα
+NAME_HI: मित्याना जिला
+NAME_HU: null
+NAME_ID: Distrik Mityana
+NAME_IT: Mityana
+NAME_JA: ミティアナ県
+NAME_KO: 미티아나 구
+NAME_NL: Mityana
+NAME_PL: Dystrykt Mityana
+NAME_PT: Distrito de Mityana
+NAME_RU: Митьана
+NAME_SV: Mityana
+NAME_TR: Mityana District
+NAME_VI: Quận Mityana
+NAME_ZH: 米特亞納區
+NE_ID: 1159313691

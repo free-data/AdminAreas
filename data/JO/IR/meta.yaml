@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-854
+DISS_ME: 854
+ISO_3166_2: JO-IR
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Irbid
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.IR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: IR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO18
+FIPS_ALT: JO14
+WOE_ID: 20070291
+WOE_LABEL: Irbid, JO, Jordan
+WOE_NAME: Irbid
+LATITUDE: 32.5559
+LONGITUDE: 35.8195
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 248944
+GN_NAME: Irbid
+GNS_ID: -971887
+GNS_NAME: Irbid
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO18
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q721441
+NAME_AR: إربد
+NAME_BN: ইরবিদ গভর্নোরেট
+NAME_DE: Gouvernement Irbid
+NAME_EN: Irbid Governorate
+NAME_ES: Gobernación de Irbid
+NAME_FR: Gouvernorat d'Irbid
+NAME_EL: Ιρμπίντ Γκοβερνοράτε
+NAME_HI: आइरबिड गवर्नरेट
+NAME_HU: Irbid kormányzóság
+NAME_ID: Irbid Governorate
+NAME_IT: governatorato di Irbid
+NAME_JA: イルビド県
+NAME_KO: 이르비드 주
+NAME_NL: Irbid
+NAME_PL: Irbid
+NAME_PT: Governorado de Irbid
+NAME_RU: Ирбид
+NAME_SV: Irbid
+NAME_TR: Irbid Yönetimi
+NAME_VI: Tỉnh Irbid
+NAME_ZH: 伊爾比德省
+NE_ID: 1159309325

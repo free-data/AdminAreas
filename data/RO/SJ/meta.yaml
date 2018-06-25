@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-300
+DISS_ME: 300
+ISO_3166_2: RO-SJ
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Salaj
+NAME_ALT: Sălaj
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 36
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO31
+FIPS_ALT: null
+WOE_ID: 2346644
+WOE_LABEL: Salaj, RO, Romania
+WOE_NAME: Salaj
+LATITUDE: 47.1483
+LONGITUDE: 23.1615
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 668248
+GN_NAME: Judetul Salaj
+GNS_ID: -1169239
+GNS_NAME: Salaj, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.31
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO31
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q190690
+NAME_AR: مقاطعة سالاج
+NAME_BN: সালাজ কাউন্টি
+NAME_DE: Kreis Sălaj
+NAME_EN: Sălaj County
+NAME_ES: Sălaj
+NAME_FR: Județ de Sălaj
+NAME_EL: Σάλατζ
+NAME_HI: सलाय काउंटी
+NAME_HU: Szilágy megye
+NAME_ID: Provinsi Sălaj
+NAME_IT: distretto di Sălaj
+NAME_JA: サラージュ県
+NAME_KO: 설라지 주
+NAME_NL: Sălaj
+NAME_PL: Okręg Sălaj
+NAME_PT: Sălaj
+NAME_RU: Сэлаж
+NAME_SV: Sălaj
+NAME_TR: Sălaj ili
+NAME_VI: Hạt Salaj
+NAME_ZH: 瑟拉日縣
+NE_ID: 1159308811

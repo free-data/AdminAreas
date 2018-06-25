@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-948
+DISS_ME: 948
+ISO_3166_2: SI-026
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Duplek
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PD.DU
+NOTE: null
+HASC_MAYBE: null
+REGION: Podravska
+REGION_COD: null
+PROVNUM_NE: 146
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: DU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI26
+FIPS_ALT: null
+WOE_ID: -55848377
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.512
+LONGITUDE: 15.7689
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239216
+GN_NAME: Obcina Duplek
+GNS_ID: 243912
+GNS_NAME: Duplek, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI26
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q999589
+NAME_AR: بلدية دوبليك
+NAME_BN: ডুপ্লেক পৌরসভা
+NAME_DE: Duplek
+NAME_EN: Duplek Municipality
+NAME_ES: Duplek
+NAME_FR: Duplek
+NAME_EL: Ντούπλεκ
+NAME_HI: डुप्लेक नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Duplek
+NAME_IT: Duplek
+NAME_JA: ドゥプレク
+NAME_KO: 두플레크
+NAME_NL: Duplek
+NAME_PL: Gmina Duplek
+NAME_PT: Duplek
+NAME_RU: Дуплек
+NAME_SV: Duplek
+NAME_TR: Duplek Belediyesi
+NAME_VI: Duplek
+NAME_ZH: null
+NE_ID: 1159310687

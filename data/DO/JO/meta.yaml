@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1978
+DISS_ME: 1978
+ISO_3166_2: DO-31
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: San José de Ocoa
+NAME_ALT: José Trujillo Valdez
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.JO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: JO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 16
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR00
+FIPS_ALT: DR17|DR36
+WOE_ID: 28358195
+WOE_LABEL: San Jose de Ocoa, DO, Dominican Republic
+WOE_NAME: San José de Ocoa
+LATITUDE: 18.6367
+LONGITUDE: -70.525
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 6201372
+GN_NAME: Provincia de San Jose de Ocoa
+GNS_ID: 9237532
+GNS_NAME: San Jose de Ocoa, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.36
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: spa
+GNS_ADM1: DR36
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1424391
+NAME_AR: مقاطعة سان خوسيه دي أوكوا
+NAME_BN: স্যান জোসে ডি ওকোয়া  প্রদেশ
+NAME_DE: San José de Ocoa
+NAME_EN: San José de Ocoa Province
+NAME_ES: San José de Ocoa
+NAME_FR: San José de Ocoa
+NAME_EL: Σαν Χοσέ ντε Οκόα
+NAME_HI: सैन जोस डी ओकोआ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi San José de Ocoa
+NAME_IT: provincia di San José de Ocoa
+NAME_JA: サン・ホセ・デ・オコア州
+NAME_KO: 산호세데오코아 주
+NAME_NL: San José de Ocoa
+NAME_PL: Prowincja San José de Ocoa
+NAME_PT: San José de Ocoa
+NAME_RU: Сан-Хосе-де-Окоа
+NAME_SV: San José de Ocoa
+NAME_TR: San José de Ocoa
+NAME_VI: San José de Ocoa
+NAME_ZH: 聖荷西省
+NE_ID: 1159311727

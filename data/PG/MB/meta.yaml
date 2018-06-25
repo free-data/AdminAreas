@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: PNG-1252
+DISS_ME: 1252
+ISO_3166_2: PG-MBA
+WIKIPEDIA: null
+ISO_A2: PG
+ADM0_SR: 3
+NAME: Milne Bay
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PG.MB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: PP03
+FIPS_ALT: null
+WOE_ID: 2346583
+WOE_LABEL: Milne Bay, PG, Papua New Guinea
+WOE_NAME: Milne Bay
+LATITUDE: -11.581
+LONGITUDE: 153.487
+SOV_A3: PNG
+ADM0_A3: PNG
+ADM0_LABEL: 2
+ADMIN: Papua New Guinea
+GEONUNIT: Papua New Guinea
+GU_A3: PNX
+GN_ID: 2132895
+GN_NAME: Milne Bay Province
+GNS_ID: -2195635
+GNS_NAME: Milne Bay Province
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PG.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PP03
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q874962
+NAME_AR: محافظة خليج ميلن
+NAME_BN: মিলনে বে প্রদেশ
+NAME_DE: Milne Bay Province
+NAME_EN: Milne Bay Province
+NAME_ES: Provincia de Milne Bay
+NAME_FR: Baie de Milne
+NAME_EL: Κόλπος Μίλνε
+NAME_HI: मिल्ने खाड़ी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Teluk Milne
+NAME_IT: provincia di Baia di Milne
+NAME_JA: ミルン湾州
+NAME_KO: 밀른베이 주
+NAME_NL: Milne Bay
+NAME_PL: Milne Bay
+NAME_PT: Milne Bay
+NAME_RU: Милн-Бей
+NAME_SV: Milne Bay
+NAME_TR: Milne Bay Province
+NAME_VI: Tỉnh Milne Bay
+NAME_ZH: 米爾恩灣省
+NE_ID: 1159309831

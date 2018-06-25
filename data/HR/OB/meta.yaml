@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1603
+DISS_ME: 1603
+ISO_3166_2: HR-14
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Osjecko-Baranjska
+NAME_ALT: Osijek-Baranja
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.OB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: OB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 17
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR10
+FIPS_ALT: null
+WOE_ID: 12577980
+WOE_LABEL: OsjeÄko-baranjska, HR, Croatia
+WOE_NAME: Osjecko-Baranjska
+LATITUDE: 45.4948
+LONGITUDE: 18.506
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337522
+GN_NAME: Osjecko-Baranjska Zupanija
+GNS_ID: 9031080
+GNS_NAME: Osjecko-Baranjska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR10
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58159
+NAME_AR: مقاطعة أوسييك-بارانيا
+NAME_BN: ওসিজেক-বারাঞ্জা কাউন্টি
+NAME_DE: Gespanschaft Osijek-Baranja
+NAME_EN: Osijek-Baranja County
+NAME_ES: Osijek-Baranja
+NAME_FR: Comitat d'Osijek-Baranja
+NAME_EL: Οσιτζέκ-Μπαράντζα
+NAME_HI: ओसिएक-बरान्खा  काउंटी
+NAME_HU: Eszék-Baranya megye
+NAME_ID: Kabupaten Osijek-Baranja
+NAME_IT: regione di Osijek e della Baranja
+NAME_JA: オシエク＝バラニャ郡
+NAME_KO: 오시예크바라냐 주
+NAME_NL: Osijek-Baranja
+NAME_PL: Osječko-baranjska županija
+NAME_PT: Condado de Osijek-Barânia
+NAME_RU: Осиецко-Бараньская жупания
+NAME_SV: Osijek-Baranjas län
+NAME_TR: Osijek-Baranya
+NAME_VI: Hạt Osijek-Baranja
+NAME_ZH: 奧西耶克-巴拉尼亞縣
+NE_ID: 1159312539

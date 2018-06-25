@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5378
+DISS_ME: 5378
+ISO_3166_2: IT-CA
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 3
+NAME: Cagliari
+NAME_ALT: Cerdeña|Sardenha
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 09
+CODE_HASC: IT.CA
+NOTE: ITG
+HASC_MAYBE: null
+REGION: Sardegna
+REGION_COD: IT-88
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT14
+FIPS_ALT: null
+WOE_ID: 12591836
+WOE_LABEL: null
+WOE_NAME: Cagliari
+LATITUDE: 39.4502
+LONGITUDE: 9.2574
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 2525471
+GN_NAME: Provincia di Cagliari
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.CA
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16149
+NAME_AR: مقاطعة كالياري
+NAME_BN: ক্যাগ্লিয়ারি প্রদেশ
+NAME_DE: Provinz Cagliari
+NAME_EN: Province of Cagliari
+NAME_ES: Cagliari
+NAME_FR: Province de Cagliari
+NAME_EL: Κάλιαρι
+NAME_HI: कैगलिअरी प्रांत
+NAME_HU: Cagliari megye
+NAME_ID: Provinsi Cagliari
+NAME_IT: provincia di Cagliari
+NAME_JA: カリャリ県
+NAME_KO: 칼리아리 현
+NAME_NL: Cagliari
+NAME_PL: Prowincja Cagliari
+NAME_PT: Cagliari
+NAME_RU: Кальяри
+NAME_SV: Cagliari
+NAME_TR: Cagliari ili
+NAME_VI: Cagliari
+NAME_ZH: 卡利亞里省
+NE_ID: 1159317103

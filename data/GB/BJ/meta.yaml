@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2112
+DISS_ME: 2112
+ISO_3166_2: GB-BGE
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Bridgend
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority (wales)
+TYPE_EN: Unitary Authority (wales)
+CODE_LOCAL: null
+CODE_HASC: GB.BJ
+NOTE: null
+HASC_MAYBE: null
+REGION: East Wales
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKX3
+FIPS_ALT: UKX3
+WOE_ID: 12602213
+WOE_LABEL: null
+WOE_NAME: Bridgend County Borough
+LATITUDE: 51.5414
+LONGITUDE: -3.60687
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Wales
+GU_A3: WLS
+GN_ID: 3333239
+GN_NAME: Bridgend county borough
+GNS_ID: 6077681
+GNS_NAME: Pen-y-bont ar Ogwr, Bwrdeistref Sirol
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.X3
+REGION_SUB: South Wales
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q697126
+NAME_AR: null
+NAME_BN: ব্রিজেন্ড কাউন্টি বরো
+NAME_DE: Bridgend
+NAME_EN: Bridgend County Borough
+NAME_ES: Bridgend County Borough
+NAME_FR: Bridgend
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: distretto di contea di Bridgend
+NAME_JA: ブリジェンド
+NAME_KO: 브리젠드 자치시
+NAME_NL: Bridgend
+NAME_PL: Bridgend
+NAME_PT: Bridgend County Borough
+NAME_RU: Бридженд
+NAME_SV: Bridgend
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 布里真德郡級自治市
+NE_ID: 1159312701

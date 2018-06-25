@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: KNA-5108
+DISS_ME: 5108
+ISO_3166_2: KN-10
+WIKIPEDIA: null
+ISO_A2: KN
+ADM0_SR: 3
+NAME: Saint Paul Charlestown
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: KN.PL
+NOTE: null
+HASC_MAYBE: null
+REGION: Nevis
+REGION_COD: KN-N
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: PCH
+POSTAL: PL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 22
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: SC10
+FIPS_ALT: null
+WOE_ID: 2346973
+WOE_LABEL: null
+WOE_NAME: Saint Paul Charlestown
+LATITUDE: 17.135
+LONGITUDE: -62.6162
+SOV_A3: KNA
+ADM0_A3: KNA
+ADM0_LABEL: 8
+ADMIN: Saint Kitts and Nevis
+GEONUNIT: Saint Kitts and Nevis
+GU_A3: KNA
+GN_ID: 3575171
+GN_NAME: Saint Paul Charlestown
+GNS_ID: -1359323
+GNS_NAME: Saint Paul Charlestown
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KN.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: SC10
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1752127
+NAME_AR: أبرشية القديس بول تشارلستون
+NAME_BN: সেন্ট পল চার্লসস্টাওয়ার প্যারিশ
+NAME_DE: Saint Paul Charlestown
+NAME_EN: Saint Paul Charlestown Parish
+NAME_ES: Parroquia de Saint Paul Charlestown
+NAME_FR: Saint-Paul Charlestown
+NAME_EL: Σεντ Πολ Τσάρλσταουν
+NAME_HI: सेंट पॉल चार्ल्सटाउन पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Paul Charlestown
+NAME_IT: parrocchia di Saint Paul Charlestown
+NAME_JA: セント・ポール・チャールスタウン教区
+NAME_KO: 세인트폴찰스타운 교구
+NAME_NL: Saint Paul Charlestown
+NAME_PL: Saint Paul Charlestown
+NAME_PT: Saint Paul Charlestown
+NAME_RU: Сент-Пол-Чарлстаун
+NAME_SV: Saint Paul Charlestown
+NAME_TR: Saint Paul Charlestown
+NAME_VI: Giáo xứ Saint Paul Charlestown
+NAME_ZH: 聖保羅查爾斯敦區
+NE_ID: 1159316425

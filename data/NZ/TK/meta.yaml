@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: NZL-3405
+DISS_ME: 3405
+ISO_3166_2: NZ-TKI
+WIKIPEDIA: null
+ISO_A2: NZ
+ADM0_SR: 1
+NAME: Taranaki
+NAME_ALT: Taranaki|New Plymouth
+NAME_LOCAL: null
+TYPE: Regional Council
+TYPE_EN: Regional Council
+CODE_LOCAL: null
+CODE_HASC: NZ.TK
+NOTE: null
+HASC_MAYBE: null
+REGION: North Island
+REGION_COD: NZ-N
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: NZF9
+FIPS_ALT: NZ76
+WOE_ID: 15021763
+WOE_LABEL: Taranaki, NZ, New Zealand
+WOE_NAME: Taranaki
+LATITUDE: -39.3382
+LONGITUDE: 174.414
+SOV_A3: NZ1
+ADM0_A3: NZL
+ADM0_LABEL: 2
+ADMIN: New Zealand
+GEONUNIT: New Zealand
+GU_A3: NZL
+GN_ID: 2181872
+GN_NAME: Taranaki
+GNS_ID: 11483308
+GNS_NAME: Taranaki Region
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NZ.F9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: NZ15
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q140207
+NAME_AR: إقليم تاراناكي
+NAME_BN: তারানাকি অঞ্চল
+NAME_DE: Taranaki
+NAME_EN: Taranaki Region
+NAME_ES: Taranaki
+NAME_FR: Taranaki
+NAME_EL: Ταρανάκι
+NAME_HI: तारानाकी
+NAME_HU: null
+NAME_ID: Taranaki
+NAME_IT: Taranaki
+NAME_JA: タラナキ地方
+NAME_KO: 타라나키 지방
+NAME_NL: Taranaki
+NAME_PL: Taranaki
+NAME_PT: Taranaki
+NAME_RU: Таранаки
+NAME_SV: Taranaki
+NAME_TR: Taranaki Bölgesi
+NAME_VI: Khu vực Taranaki
+NAME_ZH: 塔拉纳基大区
+NE_ID: 1159314935

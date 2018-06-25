@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1234
+DISS_ME: 1234
+ISO_3166_2: ID-KS
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Kalimantan Selatan
+NAME_ALT: Kalsel
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.KS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: KS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 18
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID12
+FIPS_ALT: null
+WOE_ID: 2345721
+WOE_LABEL: South Kalimantan, ID, Indonesia
+WOE_NAME: Kalimantan Selatan
+LATITUDE: -3.00713
+LONGITUDE: 115.451
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1641899
+GN_NAME: Provinsi Kalimantan Selatan
+GNS_ID: -2680738
+GNS_NAME: Kalimantan Selatan, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID12
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q3906
+NAME_AR: كليمنتان الجنوبية
+NAME_BN: কালিমান্টান সেলাটান
+NAME_DE: Kalimantan Selatan
+NAME_EN: Kalimantan Selatan
+NAME_ES: Borneo Meridional
+NAME_FR: Kalimantan du Sud
+NAME_EL: Καλιμαντάν
+NAME_HI: दक्षिण कालिमंतान
+NAME_HU: null
+NAME_ID: Kalimantan Selatan
+NAME_IT: Kalimantan Meridionale
+NAME_JA: 南カリマンタン州
+NAME_KO: 칼리만탄슬라탄 주
+NAME_NL: Zuid-Kalimantan
+NAME_PL: Borneo Południowe
+NAME_PT: Kalimantan do Sul
+NAME_RU: Южный Калимантан
+NAME_SV: Kalimantan Selatan
+NAME_TR: Güney Kalimantan
+NAME_VI: Nam Kalimantan
+NAME_ZH: 南加里曼丹省
+NE_ID: 1159309697

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: QAT-1107
+DISS_ME: 1107
+ISO_3166_2: QA-US
+WIKIPEDIA: null
+ISO_A2: QA
+ADM0_SR: 1
+NAME: Umm Salal
+NAME_ALT: Um Salal|Umm Ṣalāl
+NAME_LOCAL: null
+TYPE: Baladiyah
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: QA.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: US
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: QA09
+FIPS_ALT: null
+WOE_ID: 20070007
+WOE_LABEL: Umm Slal, QA, Qatar
+WOE_NAME: Umm Salal
+LATITUDE: 25.4594
+LONGITUDE: 51.3552
+SOV_A3: QAT
+ADM0_A3: QAT
+ADM0_LABEL: 2
+ADMIN: Qatar
+GEONUNIT: Qatar
+GU_A3: QAT
+GN_ID: 389467
+GN_NAME: Baladiyat Umm Salal
+GNS_ID: 116265
+GNS_NAME: Umm Salal, Baladiyat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: QA.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: QA09
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q990414
+NAME_AR: بلدية أم صلال
+NAME_BN: উম্ম সালাল পৌরসভা
+NAME_DE: Umm Salal
+NAME_EN: Umm Salal Municipality
+NAME_ES: Umm Salal
+NAME_FR: Umm Salal
+NAME_EL: Ουμ Σαλάλ
+NAME_HI: उम्म सलाल नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Umm Salal
+NAME_IT: Umm Salal
+NAME_JA: ウンム・サラール
+NAME_KO: 움살랄
+NAME_NL: Umm Salal
+NAME_PL: Umm Salal
+NAME_PT: Umm Salal
+NAME_RU: Умм-Салаль
+NAME_SV: Umm Salal Kommun
+NAME_TR: Umm Selal
+NAME_VI: Đô thị tự trị Umm Salal
+NAME_ZH: null
+NE_ID: 1159310435

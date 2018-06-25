@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: South Korea
+SOV_A3: KOR
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: South Korea
+ADM0_A3: KOR
+GEOU_DIF: 0
+GEOUNIT: South Korea
+GU_A3: KOR
+SU_DIF: 0
+SUBUNIT: South Korea
+SU_A3: KOR
+BRK_DIFF: 0
+NAME: South Korea
+NAME_LONG: Republic of Korea
+BRK_A3: KOR
+BRK_NAME: Republic of Korea
+BRK_GROUP: null
+ABBREV: S.K.
+POSTAL: KR
+FORMAL_EN: Republic of Korea
+FORMAL_FR: null
+NAME_CIAWF: Korea, South
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Korea, Rep.
+NAME_ALT: null
+MAPCOLOR7: 4
+MAPCOLOR8: 1
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+POP_EST: 51181299
+POP_RANK: 16
+GDP_MD_EST: 1929000
+POP_YEAR: 2017
+LASTCENSUS: 2010
+GDP_YEAR: 2016
+ECONOMY: 4. Emerging region: MIKT
+INCOME_GRP: 1. High income: OECD
+WIKIPEDIA: -99
+FIPS_10_: KS
+ISO_A2: KR
+ISO_A3: KOR
+ISO_A3_EH: KOR
+ISO_N3: 410
+UN_A3: 410
+WB_A2: KR
+WB_A3: KOR
+WOE_ID: 23424868
+WOE_ID_EH: 23424868
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: KOR
+ADM0_A3_US: KOR
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Asia
+REGION_UN: Asia
+SUBREGION: Eastern Asia
+REGION_WB: East Asia & Pacific
+NAME_LEN: 11
+LONG_LEN: 17
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 3
+MAX_LABEL: 7
+NE_ID: 1159320985
+WIKIDATAID: Q884
+NAME_AR: كوريا الجنوبية
+NAME_BN: দক্ষিণ কোরিয়া
+NAME_DE: Südkorea
+NAME_EN: South Korea
+NAME_ES: Corea del Sur
+NAME_FR: Corée du Sud
+NAME_EL: Νότια Κορέα
+NAME_HI: दक्षिण कोरिया
+NAME_HU: Dél-Korea
+NAME_ID: Korea Selatan
+NAME_IT: Corea del Sud
+NAME_JA: 大韓民国
+NAME_KO: 대한민국
+NAME_NL: Zuid-Korea
+NAME_PL: Korea Południowa
+NAME_PT: Coreia do Sul
+NAME_RU: Республика Корея
+NAME_SV: Sydkorea
+NAME_TR: Güney Kore
+NAME_VI: Hàn Quốc
+NAME_ZH: 大韩民国

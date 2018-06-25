@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BRB-1991
+DISS_ME: 1991
+ISO_3166_2: BB-03
+WIKIPEDIA: null
+ISO_A2: BB
+ADM0_SR: 1
+NAME: Saint George
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: BB.GE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: GE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 5
+MAPCOLOR13: 3
+FIPS: BB03
+FIPS_ALT: null
+WOE_ID: 2344732
+WOE_LABEL: Saint George, BB, Barbados
+WOE_NAME: Saint George
+LATITUDE: 13.1489
+LONGITUDE: -59.5479
+SOV_A3: BRB
+ADM0_A3: BRB
+ADM0_LABEL: 6
+ADMIN: Barbados
+GEONUNIT: Barbados
+GU_A3: BRB
+GN_ID: 3373572
+GN_NAME: Saint George
+GNS_ID: -1393749
+GNS_NAME: Saint George
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BB.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BB03
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1647443
+NAME_AR: سانت جورج، بربادوس
+NAME_BN: সেন্ট জর্জ
+NAME_DE: Saint George
+NAME_EN: Saint George
+NAME_ES: Parroquia de Saint George
+NAME_FR: Saint George
+NAME_EL: Άγιος Γεώργιος
+NAME_HI: सेंट जॉर्ज
+NAME_HU: null
+NAME_ID: Saint George
+NAME_IT: Saint George
+NAME_JA: セント・ジョージ
+NAME_KO: 세인트조지 교구
+NAME_NL: Saint George
+NAME_PL: Saint George
+NAME_PT: Saint George
+NAME_RU: Приход Сент-Джордж
+NAME_SV: Saint George
+NAME_TR: Saint George
+NAME_VI: Saint George
+NAME_ZH: 聖喬治教區
+NE_ID: 1159311515

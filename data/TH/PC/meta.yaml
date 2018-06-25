@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-401
+DISS_ME: 401
+ISO_3166_2: TH-66
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Phichit
+NAME_ALT: null
+NAME_LOCAL: จังหวัดพิจิตร
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.PC
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 40
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH13
+FIPS_ALT: null
+WOE_ID: 2347140
+WOE_LABEL: Phichit, TH, Thailand
+WOE_NAME: Phichit
+LATITUDE: 16.2321
+LONGITUDE: 100.374
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1607724
+GN_NAME: Changwat Phichit
+GNS_ID: -3252902
+GNS_NAME: Phichit, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q237874
+NAME_AR: محافظة فيتشيت
+NAME_BN: ফিকিট
+NAME_DE: Phichit
+NAME_EN: Phichit
+NAME_ES: Provincia de Phichit
+NAME_FR: Phichit
+NAME_EL: Πικίτ
+NAME_HI: फिचित प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Phichit
+NAME_IT: provincia di Phichit
+NAME_JA: ピチット県
+NAME_KO: 피찟 주
+NAME_NL: Changwat Phichit
+NAME_PL: Prowincja Phichit
+NAME_PT: Phichit
+NAME_RU: Пхичит
+NAME_SV: Phichit
+NAME_TR: Phichit
+NAME_VI: Phichit
+NAME_ZH: 披集府
+NE_ID: 1159308163

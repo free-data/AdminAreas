@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: LBY-2975
+DISS_ME: 2975
+ISO_3166_2: LY-ZA
+WIKIPEDIA: null
+ISO_A2: LY
+ADM0_SR: 1
+NAME: Az Zawiyah
+NAME_ALT: az-Zawiya|Zavia|Zawia
+NAME_LOCAL: null
+TYPE: Sha'biyat|Sha'biyah
+TYPE_EN: Municipality|Governarate
+CODE_LOCAL: null
+CODE_HASC: LY.ZW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: ZA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 11
+FIPS: LY68
+FIPS_ALT: null
+WOE_ID: 2346136
+WOE_LABEL: Az Zawiyah, LY, Libya
+WOE_NAME: Az Zawiyah
+LATITUDE: 32.4551
+LONGITUDE: 12.4868
+SOV_A3: LBY
+ADM0_A3: LBY
+ADM0_LABEL: 2
+ADMIN: Libya
+GEONUNIT: Libya
+GU_A3: LBY
+GN_ID: 2218972
+GN_NAME: Sha`biyat az Zawiyah
+GNS_ID: -3163051
+GNS_NAME: Zawiyah, Sha`biyat az
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LY.68
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: LY68
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q26153
+NAME_AR: شعبية الزاوية
+NAME_BN: যাইয়া জেলা
+NAME_DE: Munizip az-Zawiya
+NAME_EN: Zawiya District
+NAME_ES: Zauiya
+NAME_FR: Az Zaouiyah
+NAME_EL: Ζαγία
+NAME_HI: ज़ाविया जिला
+NAME_HU: Závija tartomány
+NAME_ID: Distrik Zawiya
+NAME_IT: distretto di Zawiya
+NAME_JA: ザーウィヤ県
+NAME_KO: 앗자위야 주
+NAME_NL: Az Zawiyah
+NAME_PL: Az-Zawija
+NAME_PT: Az Zawiyah
+NAME_RU: Эз-Завия
+NAME_SV: Az Zawiyah
+NAME_TR: Zawaiya District
+NAME_VI: Quận Zawiya
+NAME_ZH: 扎維耶省
+NE_ID: 1159314133

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5027
+DISS_ME: 5027
+ISO_3166_2: BS-NE
+WIKIPEDIA: http://en.wikipedia.org/wiki/North_Eleuthera
+ISO_A2: BS
+ADM0_SR: 4
+NAME: North Eleuthera
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.NE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: NE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF48
+FIPS_ALT: null
+WOE_ID: 24551251
+WOE_LABEL: North Eleuthera, BS, The Bahamas
+WOE_NAME: North Eleuthera
+LATITUDE: 25.4383
+LONGITUDE: -76.59
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030553
+GN_NAME: North Eleuthera District
+GNS_ID: 11057049
+GNS_NAME: North Eleuthera District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.48
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF48
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2705535
+NAME_AR: إليوثيرا الشمالية
+NAME_BN: নর্থ এলিউথেরা
+NAME_DE: Nord-Eleuthera
+NAME_EN: North Eleuthera
+NAME_ES: Eleuthera Norte
+NAME_FR: North Eleuthera
+NAME_EL: Νόρθ Ελευθέρα
+NAME_HI: उत्तरी एल्यूथेरा
+NAME_HU: null
+NAME_ID: North Eleuthera
+NAME_IT: North Eleuthera
+NAME_JA: ノース・エルーセラ
+NAME_KO: 노스일루서라
+NAME_NL: North Eleuthera
+NAME_PL: Północna Eleuthera
+NAME_PT: North Eleuthera
+NAME_RU: Северный Эльютера
+NAME_SV: North Eleuthera District
+NAME_TR: Kuzey Eleuthra
+NAME_VI: Bắc Eleuthera
+NAME_ZH: 北伊柳塞拉
+NE_ID: 1159316273

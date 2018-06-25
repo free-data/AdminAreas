@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MUS-5188
+DISS_ME: 5188
+ISO_3166_2: MU-PW
+WIKIPEDIA: http://en.wikipedia.org/wiki/Plaines_Wilhems_District
+ISO_A2: MU
+ADM0_SR: 5
+NAME: Plaines Wilhems
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MU.PW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 15
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2346233
+WOE_LABEL: Plaines Wilhems, MU, Mauritius
+WOE_NAME: Plaines Wilhems
+LATITUDE: -20.3599
+LONGITUDE: 57.5197
+SOV_A3: MUS
+ADM0_A3: MUS
+ADM0_LABEL: 5
+ADMIN: Mauritius
+GEONUNIT: Mauritius
+GU_A3: MUS
+GN_ID: 934166
+GN_NAME: Plaines Wilhems District
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MU.17
+REGION_SUB: Plaines Wilhems
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1053595
+NAME_AR: مقاطعة بلينز ويلهمز
+NAME_BN: প্লেইন্স উইলহেম জেলা
+NAME_DE: Plaines Wilhems
+NAME_EN: Plaines Wilhems District
+NAME_ES: Distrito de Plaines Wilhems
+NAME_FR: Plaines Wilhems
+NAME_EL: Πλέινς Γουίλχεμς
+NAME_HI: प्लेन्स विल्हेम्स जिला
+NAME_HU: null
+NAME_ID: Distrik Plaines Wilhems
+NAME_IT: Plaines Wilhems
+NAME_JA: プレーン・ウィルヘルム県
+NAME_KO: 플랭윌렐름 구
+NAME_NL: Plaines Wilhems
+NAME_PL: Plaines Wilhems
+NAME_PT: Plaines Wilhems
+NAME_RU: Плен-Вилем
+NAME_SV: Plaines Wilhems
+NAME_TR: Plaines Wilhems Bölgesi
+NAME_VI: Quận Plaines Wilhems
+NAME_ZH: 威廉平原區
+NE_ID: 1159316579

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MDV-5229
+DISS_ME: 5229
+ISO_3166_2: MV-03
+WIKIPEDIA: null
+ISO_A2: MV
+ADM0_SR: 5
+NAME: Lhaviyani
+NAME_ALT: Faadhippolhu
+NAME_LOCAL: null
+TYPE: Atoll
+TYPE_EN: Atoll
+CODE_LOCAL: G
+CODE_HASC: MV.LV
+NOTE: null
+HASC_MAYBE: null
+REGION: North
+REGION_COD: MV-NO
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: Lh
+POSTAL: Lh
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20070313
+WOE_LABEL: Lhaviyani, MV, Maldives
+WOE_NAME: Lhaviyani
+LATITUDE: 5.2748
+LONGITUDE: 73.5816
+SOV_A3: MDV
+ADM0_A3: MDV
+ADM0_LABEL: 5
+ADMIN: Maldives
+GEONUNIT: Maldives
+GU_A3: MDV
+GN_ID: 1282096
+GN_NAME: Lhaviyani Atholhu
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MV.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 0
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1390048
+NAME_AR: لافياني أتول
+NAME_BN: হ্লাভিয়ানি আতোল
+NAME_DE: Faadhippolhu-Atoll
+NAME_EN: Lhaviyani Atoll
+NAME_ES: Atolón Lhaviyani
+NAME_FR: Atoll Faadhippolhu
+NAME_EL: Λαβιγιάνι Ατόλ
+NAME_HI: लवियानी एटोल
+NAME_HU: Fadiffolu-atoll
+NAME_ID: Atol Lhaviyani
+NAME_IT: Atollo Lhaviyani
+NAME_JA: ラビアニ環礁
+NAME_KO: 라비야니 환초
+NAME_NL: Lhaviyani-atol
+NAME_PL: Lhaviyani
+NAME_PT: Lhaviyani Atoll
+NAME_RU: Лхавийани
+NAME_SV: Lhaviyani Atholhu
+NAME_TR: Lhayviyani Atoll
+NAME_VI: Lhaviyani Atoll
+NAME_ZH: 拉黑比亞尼環礁
+NE_ID: 1159316671

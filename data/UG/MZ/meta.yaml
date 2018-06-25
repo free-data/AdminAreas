@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3102
+DISS_ME: 3102
+ISO_3166_2: UG-409
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Masindi
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.MZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-NRT
+PROVNUM_NE: 20068
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG50
+FIPS_ALT: null
+WOE_ID: -20070432
+WOE_LABEL: Masindi, UG, Uganda
+WOE_NAME: Masindi
+LATITUDE: 1.66477
+LONGITUDE: 31.735
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443351
+GN_NAME: Masindi District
+GNS_ID: 9050732
+GNS_NAME: Masindi District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.50
+REGION_SUB: null
+SUB_CODE: UG23
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG50
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1032238
+NAME_AR: مقاطعة ماسيندي
+NAME_BN: মাসিন্ডী জেলা
+NAME_DE: Masindi-Distrikt
+NAME_EN: Masindi District
+NAME_ES: Distrito de Masindi
+NAME_FR: Masindi
+NAME_EL: Μασίντι
+NAME_HI: मसिंदी जिला
+NAME_HU: null
+NAME_ID: Distrik Masindi
+NAME_IT: Masindi
+NAME_JA: マシンディ県
+NAME_KO: 마신디 구
+NAME_NL: Masindi
+NAME_PL: Dystrykt Masindi
+NAME_PT: Masindi
+NAME_RU: Масинди
+NAME_SV: Masindi
+NAME_TR: Masindi District
+NAME_VI: Quận Masindi
+NAME_ZH: 馬辛迪區
+NE_ID: 1159313709

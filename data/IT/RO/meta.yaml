@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5462
+DISS_ME: 5462
+ISO_3166_2: IT-RO
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 6
+NAME: Rovigo
+NAME_ALT: Venecia|Venetia|Venezia Euganea
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 45
+CODE_HASC: IT.RO
+NOTE: ITD
+HASC_MAYBE: null
+REGION: Veneto
+REGION_COD: IT-34
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: RO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT20
+FIPS_ALT: null
+WOE_ID: 12591854
+WOE_LABEL: null
+WOE_NAME: Rovigo
+LATITUDE: 45.0532
+LONGITUDE: 11.8695
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3168842
+GN_NAME: Provincia di Rovigo
+GNS_ID: -126940
+GNS_NAME: Rovigo
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.RO
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT20
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16270
+NAME_AR: مقاطعة روفيغو
+NAME_BN: রোভিগা প্রদেশ
+NAME_DE: Provinz Rovigo
+NAME_EN: Province of Rovigo
+NAME_ES: Rovigo
+NAME_FR: province de Rovigo
+NAME_EL: Επαρχία του Ροβίγκο
+NAME_HI: रोविगो प्रांत
+NAME_HU: Rovigo megye
+NAME_ID: Provinsi Rovigo
+NAME_IT: provincia di Rovigo
+NAME_JA: ロヴィーゴ県
+NAME_KO: 로비고 현
+NAME_NL: Rovigo
+NAME_PL: Prowincja Rovigo
+NAME_PT: Rovigo
+NAME_RU: Ровиго
+NAME_SV: Rovigo
+NAME_TR: Rovigo ili
+NAME_VI: Rovigo
+NAME_ZH: 羅維戈省
+NE_ID: 1159316951

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: OMN-2425
+DISS_ME: 2425
+ISO_3166_2: OM-MU
+WIKIPEDIA: null
+ISO_A2: OM
+ADM0_SR: 1
+NAME: Musandam
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: OM.MU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: MU07
+FIPS_ALT: null
+WOE_ID: 4693371
+WOE_LABEL: Musandam, OM, Oman
+WOE_NAME: Musandam
+LATITUDE: 25.9744
+LONGITUDE: 56.2943
+SOV_A3: OMN
+ADM0_A3: OMN
+ADM0_LABEL: 2
+ADMIN: Oman
+GEONUNIT: Oman
+GU_A3: OMN
+GN_ID: 411741
+GN_NAME: Musandam
+GNS_ID: 374690
+GNS_NAME: Musandam
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: OM.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: MU07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q372144
+NAME_AR: محافظة مسندم
+NAME_BN: মুসান্দাম গভর্নোরেট
+NAME_DE: Musandam
+NAME_EN: Musandam Governorate
+NAME_ES: Musandam
+NAME_FR: Musandam
+NAME_EL: Μουσαντάμ
+NAME_HI: मुसांडाम गवर्नरेट
+NAME_HU: Muszandam kormányzóság
+NAME_ID: Musandam
+NAME_IT: Governatorato di Musandam
+NAME_JA: ムサンダム特別行政区
+NAME_KO: 무산담 주
+NAME_NL: Musandam
+NAME_PL: Muhafazat Musandam
+NAME_PT: Península de Musandam
+NAME_RU: Мусандам
+NAME_SV: Musandam
+NAME_TR: Musandam valiliği
+NAME_VI: Musandam
+NAME_ZH: 穆桑代姆省
+NE_ID: 1159311791

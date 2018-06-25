@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1748
+DISS_ME: 1748
+ISO_3166_2: AF-SAR
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Sari Pul
+NAME_ALT: Sar-e Pul|Saripol
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.SP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF33
+FIPS_ALT: AF31
+WOE_ID: 2344578
+WOE_LABEL: Sare Pol, AF, Afghanistan
+WOE_NAME: Sari Pul
+LATITUDE: 35.7062
+LONGITUDE: 66.2158
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1127106
+GN_NAME: Sar-e Pul
+GNS_ID: -3390412
+GNS_NAME: Sar-e Pul, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.33
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF33
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q182487
+NAME_AR: ولاية سربل
+NAME_BN: সারে পোল প্রদেশ
+NAME_DE: Sar-i Pul
+NAME_EN: Sar-e Pol
+NAME_ES: Provincia de Sar-e Pul
+NAME_FR: Sar-é Pol
+NAME_EL: Σαρ-ε Πολ
+NAME_HI: सर-ए-पोल प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Sar-e Pol
+NAME_IT: Provincia di Sar-e Pol
+NAME_JA: サーレポル州
+NAME_KO: 사르이폴 주
+NAME_NL: Sar-e Pol
+NAME_PL: Sar-e Pol
+NAME_PT: Sar-e Pol
+NAME_RU: Сари-Пуль
+NAME_SV: Sar-e Pol
+NAME_TR: Sar-i Pol Vilayeti
+NAME_VI: Sar-e Pol
+NAME_ZH: 薩爾普勒省
+NE_ID: 1159312051

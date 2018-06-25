@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3119
+DISS_ME: 3119
+ISO_3166_2: UG-219
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Butaleja
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.BJ
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: UGA-EST
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGC6
+FIPS_ALT: null
+WOE_ID: 56190199
+WOE_LABEL: null
+WOE_NAME: Butaleja
+LATITUDE: 0.881707
+LONGITUDE: 33.9295
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056282
+GN_NAME: Butaleja District
+GNS_ID: 10540244
+GNS_NAME: Butaleja District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.C6
+REGION_SUB: null
+SUB_CODE: UG20
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1375755
+NAME_AR: ضاحية بوتليجا
+NAME_BN: বুুতালেজে জেলা
+NAME_DE: Butaleja-Distrikt
+NAME_EN: Butaleja District
+NAME_ES: Distrito de Butaleja
+NAME_FR: Butaleja
+NAME_EL: Μπουταλέτζα
+NAME_HI: बुटालिया जिला
+NAME_HU: null
+NAME_ID: Distrik Butaleja
+NAME_IT: Butaleja
+NAME_JA: ブタレジャ県
+NAME_KO: 부탈레자 구
+NAME_NL: Butaleja
+NAME_PL: Dystrykt Butaleja
+NAME_PT: Butaleja
+NAME_RU: Буталеджа
+NAME_SV: Butalejadistriktet
+NAME_TR: Butaleja District
+NAME_VI: Quận Butaleja
+NAME_ZH: 布塔萊賈區
+NE_ID: 1159313741

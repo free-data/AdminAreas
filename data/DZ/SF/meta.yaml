@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2215
+DISS_ME: 2215
+ISO_3166_2: DZ-19
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Sétif
+NAME_ALT: Stif
+NAME_LOCAL: ولاية سطيف
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.SF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 47
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: SF
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG12
+FIPS_ALT: null
+WOE_ID: 2344586
+WOE_LABEL: Setif, DZ, Algeria
+WOE_NAME: Sétif
+LATITUDE: 36.0513
+LONGITUDE: 5.38428
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2481696
+GN_NAME: Wilaya de Setif
+GNS_ID: -484258
+GNS_NAME: Setif
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG12
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q237164
+NAME_AR: ولاية سطيف
+NAME_BN: সেতিফ প্রদেশ
+NAME_DE: Sétif
+NAME_EN: Sétif Province
+NAME_ES: Provincia de Sétif
+NAME_FR: wilaya de Sétif
+NAME_EL: Σετίφ
+NAME_HI: सेतिफ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Sathif
+NAME_IT: provincia di Sétif
+NAME_JA: セティフ県
+NAME_KO: 세티프 주
+NAME_NL: Sétif
+NAME_PL: Prowincja Satif
+NAME_PT: Sétif
+NAME_RU: Сетиф
+NAME_SV: Sétif
+NAME_TR: Setif Vilayeti
+NAME_VI: Sétif
+NAME_ZH: 塞提夫省
+NE_ID: 1159311977

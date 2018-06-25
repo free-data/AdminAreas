@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-243
+DISS_ME: 243
+ISO_3166_2: SI-174
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Prebold
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.PR
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 109
+GADM_LEVEL: 2
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: PR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI00
+FIPS_ALT: SIK4
+WOE_ID: -55848398
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.2214
+LONGITUDE: 15.0943
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3344907
+GN_NAME: Obcina Prebold
+GNS_ID: 9123403
+GNS_NAME: Prebold, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.K4
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kat
+GNS_ADM1: SI72
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1016698
+NAME_AR: بلدية بريبولد
+NAME_BN: প্রিবোল্ড পৌরসভা
+NAME_DE: Prebold
+NAME_EN: Prebold Municipality
+NAME_ES: Prebold
+NAME_FR: Prebold
+NAME_EL: Πρεμπόλντ
+NAME_HI: प्रीबॉल्ड नगर पालिका
+NAME_HU: null
+NAME_ID: Kotamadya Prebold
+NAME_IT: Prebold
+NAME_JA: プレボルド
+NAME_KO: 프레볼드
+NAME_NL: Prebold
+NAME_PL: Gmina Prebold
+NAME_PT: Prebold
+NAME_RU: Преболд
+NAME_SV: Prebold Kommun
+NAME_TR: Prebold Belediyesi
+NAME_VI: Đô thị tự trị Prebold
+NAME_ZH: 普雷博尔德
+NE_ID: 1159308645

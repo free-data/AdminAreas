@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: BIH-3153
+DISS_ME: 3153
+ISO_3166_2: BA-SRP
+WIKIPEDIA: null
+ISO_A2: BA
+ADM0_SR: 1
+NAME: Posavina
+NAME_ALT: Bosanskoposavski|Posavski
+NAME_LOCAL: null
+TYPE: Županija|kanton
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: BA.SR
+NOTE: ISO 3166-2 was BA-02 until 2015.11.27
+HASC_MAYBE: null
+REGION: Repuplika Srpska
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: BK02
+FIPS_ALT: BKO2
+WOE_ID: 24551282
+WOE_LABEL: null
+WOE_NAME: Posavski Kanton
+LATITUDE: 45.06
+LONGITUDE: 18.2977
+SOV_A3: BIH
+ADM0_A3: BIH
+ADM0_LABEL: 5
+ADMIN: Bosnia and Herzegovina
+GEONUNIT: Bosnia and Herzegovina
+GU_A3: BHF
+GN_ID: 3343706
+GN_NAME: Posavski Kanton
+GNS_ID: 9099093
+GNS_NAME: Posavina Canton
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BA.3343706
+REGION_SUB: Serbian Republic
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: BK01
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q18249
+NAME_AR: كانتون بوسافينا
+NAME_BN: পোসাভিনা ক্যান্টন
+NAME_DE: Kanton Posavina
+NAME_EN: Posavina Canton
+NAME_ES: Posavina
+NAME_FR: canton de la Posavina
+NAME_EL: Καντόνιο της Ποσάβινα
+NAME_HI: पोसाविना छावनी
+NAME_HU: null
+NAME_ID: Kanton Posavina
+NAME_IT: cantone della Posavina
+NAME_JA: ポサヴィナ県
+NAME_KO: 포사비나 주
+NAME_NL: Posavina
+NAME_PL: Kanton Posawina
+NAME_PT: Posavina
+NAME_RU: Посавский кантон
+NAME_SV: Posavina kanton
+NAME_TR: Posavina Kantonu
+NAME_VI: Posavina
+NAME_ZH: 波薩維納州
+NE_ID: 1159314607

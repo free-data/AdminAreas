@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: UZB-357
+DISS_ME: 357
+ISO_3166_2: UZ-NW
+WIKIPEDIA: null
+ISO_A2: UZ
+ADM0_SR: 1
+NAME: Navoi
+NAME_ALT: Navoiy|Navoiy
+NAME_LOCAL: null
+TYPE: Wiloyat
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UZ.NW
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: NW
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: UZ07
+FIPS_ALT: null
+WOE_ID: 2347667
+WOE_LABEL: Nawoiy, UZ, Uzbekistan
+WOE_NAME: Navoi
+LATITUDE: 42.1726
+LONGITUDE: 64.2722
+SOV_A3: UZB
+ADM0_A3: UZB
+ADM0_LABEL: 2
+ADMIN: Uzbekistan
+GEONUNIT: Uzbekistan
+GU_A3: UZB
+GN_ID: 1484841
+GN_NAME: Navoiy Province
+GNS_ID: -3431452
+GNS_NAME: Navoiy Viloyati
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UZ.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: UZ07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q487570
+NAME_AR: ولاية نواوي
+NAME_BN: নাভুই অঞ্চল
+NAME_DE: Provinz Navoiy
+NAME_EN: Navoiy Region
+NAME_ES: Provincia de Navoi
+NAME_FR: province de Navoï
+NAME_EL: Ναβόιγ
+NAME_HI: नवोई प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Navoiy
+NAME_IT: regione di Navoiy
+NAME_JA: ナヴァーイー州
+NAME_KO: 나보이 주
+NAME_NL: Navoiy
+NAME_PL: Wilajet nawojski
+NAME_PT: Navoiy
+NAME_RU: Навоийская область
+NAME_SV: Navoi
+NAME_TR: Navoiy ili
+NAME_VI: Navoiy
+NAME_ZH: 納沃伊州
+NE_ID: 1159308517

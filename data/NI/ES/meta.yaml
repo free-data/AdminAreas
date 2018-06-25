@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-664
+DISS_ME: 664
+ISO_3166_2: NI-ES
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Estelí
+NAME_ALT: Estel¡
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU05
+FIPS_ALT: null
+WOE_ID: 2346421
+WOE_LABEL: EstelÃ­, NI, Nicaragua
+WOE_NAME: Estelí
+LATITUDE: 13.225
+LONGITUDE: -86.4072
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3619193
+GN_NAME: Departamento de Esteli
+GNS_ID: -1111827
+GNS_NAME: Esteli, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q728015
+NAME_AR: إدارة إستيلي
+NAME_BN: এস্তেলি  বিভাগ
+NAME_DE: Departamento Estelí
+NAME_EN: Estelí Department
+NAME_ES: Departamento de Estelí
+NAME_FR: département d'Estelí
+NAME_EL: Διαμέρισμα Εστελί
+NAME_HI: एस्टेली विभाग
+NAME_HU: Estelí megye
+NAME_ID: Departemen Estelí
+NAME_IT: dipartimento di Estelí
+NAME_JA: エステリ県
+NAME_KO: 에스텔리 주
+NAME_NL: Estelí
+NAME_PL: Estelí
+NAME_PT: Estelí
+NAME_RU: Эстели
+NAME_SV: Estelí
+NAME_TR: Estelí İli
+NAME_VI: Khu vực hành chính Estelí
+NAME_ZH: 埃斯特利省
+NE_ID: 1159309079

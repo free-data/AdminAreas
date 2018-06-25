@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: DOM-1394
+DISS_ME: 1394
+ISO_3166_2: DO-32
+WIKIPEDIA: null
+ISO_A2: DO
+ADM0_SR: 1
+NAME: Santo Domingo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DO.SD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SD
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: DR00
+FIPS_ALT: DR05|DR37
+WOE_ID: 28358196
+WOE_LABEL: Santo Domingo, DO, Dominican Republic
+WOE_NAME: Santo Domingo
+LATITUDE: 18.5664
+LONGITUDE: -69.8427
+SOV_A3: DOM
+ADM0_A3: DOM
+ADM0_LABEL: 2
+ADMIN: Dominican Republic
+GEONUNIT: Dominican Republic
+GU_A3: DOM
+GN_ID: 6201373
+GN_NAME: Provincia de Santo Domingo
+GNS_ID: 9237533
+GNS_NAME: Santo Domingo, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DO.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: spa
+GNS_ADM1: DR37
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1352536
+NAME_AR: محافظة سانتو دومينغو
+NAME_BN: স্যান্টো ডোমিঙ্গ প্রদেশ
+NAME_DE: Santo Domingo
+NAME_EN: Santo Domingo Province
+NAME_ES: Santo Domingo
+NAME_FR: Santo Domingo
+NAME_EL: Επαρχία Σάντο Ντομίνγκο
+NAME_HI: सैंटो डोमिंगो प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Santo Domingo
+NAME_IT: provincia di Santo Domingo
+NAME_JA: サント・ドミンゴ州
+NAME_KO: 산토도밍고 주
+NAME_NL: Santo Domingo
+NAME_PL: Prowincja Santo Domingo
+NAME_PT: Santo Domingo
+NAME_RU: Санто-Доминго
+NAME_SV: Santo Domingo
+NAME_TR: Santo domingo
+NAME_VI: Santo Domingo
+NAME_ZH: 聖多明哥省
+NE_ID: 1159310309

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-438
+DISS_ME: 438
+ISO_3166_2: TH-40
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Khon Kaen
+NAME_ALT: null
+NAME_LOCAL: จังหวัดขอนแก่น
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.KK
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 76
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KK
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH22
+FIPS_ALT: null
+WOE_ID: 2347147
+WOE_LABEL: Khon Kaen, TH, Thailand
+WOE_NAME: Khon Kaen
+LATITUDE: 16.5762
+LONGITUDE: 102.683
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1609775
+GN_NAME: Changwat Khon Kaen
+GNS_ID: -3249424
+GNS_NAME: Khon Kaen, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q327533
+NAME_AR: محافظة خون كاين
+NAME_BN: খন কেইন
+NAME_DE: Khon Kaen
+NAME_EN: Khon Kaen
+NAME_ES: Provincia de Khon Kaen
+NAME_FR: Khon Kaen
+NAME_EL: Κον Καέν
+NAME_HI: खोन कैन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Khon Kaen
+NAME_IT: provincia di Khon Kaen
+NAME_JA: コーンケン県
+NAME_KO: 콘깬 주
+NAME_NL: Changwat Khon Kaen
+NAME_PL: Prowincja Khon Kaen
+NAME_PT: Khon Kaen
+NAME_RU: Кхонкэн
+NAME_SV: Khon Kaen
+NAME_TR: Khon Kaen
+NAME_VI: Khon Kaen
+NAME_ZH: 坤敬府
+NE_ID: 1159308241

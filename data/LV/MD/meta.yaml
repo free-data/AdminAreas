@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-1087
+DISS_ME: 1087
+ISO_3166_2: LV-059
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Madona
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.MD
+NOTE: null
+HASC_MAYBE: null
+REGION: Vidzeme
+REGION_COD: LV.MA
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG93
+FIPS_ALT: null
+WOE_ID: -2346033
+WOE_LABEL: Madonas Rajons, LV, Latvia
+WOE_NAME: Madona
+LATITUDE: 56.805
+LONGITUDE: 26.2344
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 457712
+GN_NAME: Madonas Rajons
+GNS_ID: 10982359
+GNS_NAME: Madonas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.20
+REGION_SUB: Vidzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG93
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2198472
+NAME_AR: بلدية مادونا
+NAME_BN: ম্যাডোনা পৌরসভা
+NAME_DE: Bezirk Madona
+NAME_EN: Madona Municipality
+NAME_ES: Municipalidad de Madona
+NAME_FR: Madona
+NAME_EL: Μαντόνα
+NAME_HI: मैडोना नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Madona
+NAME_IT: Madona
+NAME_JA: マドゥアナ
+NAME_KO: 마도나 시
+NAME_NL: Madonas novads
+NAME_PL: Gmina Madona
+NAME_PT: Município de Madona
+NAME_RU: Мадонский край
+NAME_SV: Madonas novads
+NAME_TR: Madona Belediyesi
+NAME_VI: Đô thị tự trị Madona
+NAME_ZH: 馬多納自治市
+NE_ID: 1159311091

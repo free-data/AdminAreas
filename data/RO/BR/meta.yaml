@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-313
+DISS_ME: 313
+ISO_3166_2: RO-BR
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Braila
+NAME_ALT: Brăila
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: BR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO08
+FIPS_ALT: null
+WOE_ID: 2346622
+WOE_LABEL: Braila, RO, Romania
+WOE_NAME: Braila
+LATITUDE: 45.1346
+LONGITUDE: 27.6204
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 683901
+GN_NAME: Judetul Braila
+GNS_ID: -1153556
+GNS_NAME: Braila, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO08
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q188503
+NAME_AR: مقاطعة برايلا
+NAME_BN: ব্রাইলা কাউন্টি
+NAME_DE: Kreis Brăila
+NAME_EN: Brăila County
+NAME_ES: Brăila
+NAME_FR: Județ de Brăila
+NAME_EL: Βραΐλα
+NAME_HI: ब्रायला काउंटी
+NAME_HU: Brăila megye
+NAME_ID: Provinsi Brăila
+NAME_IT: distretto di Brăila
+NAME_JA: ブライラ県
+NAME_KO: 브러일라 주
+NAME_NL: District Brăila
+NAME_PL: Okręg Braiła
+NAME_PT: Brăila
+NAME_RU: Брэила
+NAME_SV: Brăila
+NAME_TR: Brăila ili
+NAME_VI: Hạt Brăila
+NAME_ZH: 布勒伊拉縣
+NE_ID: 1159308841

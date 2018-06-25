@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1230
+DISS_ME: 1230
+ISO_3166_2: ID-SS
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 1
+NAME: Sumatera Selatan
+NAME_ALT: Sumsel
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID32
+FIPS_ALT: ID25
+WOE_ID: 2345734
+WOE_LABEL: South Sumatra, ID, Indonesia
+WOE_NAME: Sumatera Selatan
+LATITUDE: -3.3824
+LONGITUDE: 104.073
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1626196
+GN_NAME: Provinsi Sumatera Selatan
+GNS_ID: -2698117
+GNS_NAME: Sumatera Selatan, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.32
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID32
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q2271
+NAME_AR: سومطرة الجنوبية
+NAME_BN: দক্ষিণ সুমাত্রার
+NAME_DE: Sumatera Selatan
+NAME_EN: South Sumatra
+NAME_ES: Sumatra Meridional
+NAME_FR: Sumatra du Sud
+NAME_EL: Νότια Σουμάτρα
+NAME_HI: दक्षिण सुमात्रा
+NAME_HU: null
+NAME_ID: Sumatera Selatan
+NAME_IT: Sumatra Meridionale
+NAME_JA: 南スマトラ州
+NAME_KO: 수마트라슬라탄 주
+NAME_NL: Zuid-Sumatra
+NAME_PL: Sumatra Południowa
+NAME_PT: Sumatra do Sul
+NAME_RU: Южная Суматра
+NAME_SV: Sumatera Selatan
+NAME_TR: Güney Sumatra
+NAME_VI: Nam Sumatera
+NAME_ZH: 南苏门答腊省
+NE_ID: 1159310063

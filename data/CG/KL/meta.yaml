@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COG-3343
+DISS_ME: 3343
+ISO_3166_2: CG-5
+WIKIPEDIA: null
+ISO_A2: CG
+ADM0_SR: 1
+NAME: Kouilou
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CG.KL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20008
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: KO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 10
+FIPS: CF04
+FIPS_ALT: null
+WOE_ID: 2344969
+WOE_LABEL: Kouilou, CG, Congo
+WOE_NAME: Kouilou
+LATITUDE: -4.3684
+LONGITUDE: 11.9549
+SOV_A3: COG
+ADM0_A3: COG
+ADM0_LABEL: 2
+ADMIN: Republic of the Congo
+GEONUNIT: Republic of Congo
+GU_A3: COG
+GN_ID: 2258738
+GN_NAME: Region du Kouilou
+GNS_ID: -2207161
+GNS_NAME: Kouilou
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CG.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CF04
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q855327
+NAME_AR: إدارة كويلو
+NAME_BN: কুইলু বিভাগ
+NAME_DE: Kouilou
+NAME_EN: Kouilou Department
+NAME_ES: Kouilou
+NAME_FR: Kouilou
+NAME_EL: Κουιλού
+NAME_HI: कुइलू विभाग
+NAME_HU: null
+NAME_ID: Kouilou
+NAME_IT: Dipartimento di Kouilou
+NAME_JA: クイル地方
+NAME_KO: 쿠일루 주
+NAME_NL: Kouilou
+NAME_PL: Departament Kouilou
+NAME_PT: Kouilou
+NAME_RU: Куилу
+NAME_SV: Région du Kouilou
+NAME_TR: Kouilou
+NAME_VI: Khu vực hành chính Kouilou
+NAME_ZH: 奎盧省
+NE_ID: 1159315053

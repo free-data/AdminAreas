@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1895
+DISS_ME: 1895
+ISO_3166_2: CD-MA
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 1
+NAME: Maniema
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.MN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 20069831
+WOE_LABEL: Maniema, CD, Democratic Republic of Congo
+WOE_NAME: Maniema
+LATITUDE: -3.26017
+LONGITUDE: 26.0336
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 209610
+GN_NAME: Province du Maniema
+GNS_ID: -2053849
+GNS_NAME: Maniema
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG10
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q130566
+NAME_AR: مانيما
+NAME_BN: মানেইমা
+NAME_DE: Maniema
+NAME_EN: Maniema
+NAME_ES: Maniema
+NAME_FR: Maniema
+NAME_EL: Μανιέμα
+NAME_HI: मानिएमा प्रान्त
+NAME_HU: Maniema tartomány
+NAME_ID: Maniema
+NAME_IT: provincia di Maniema
+NAME_JA: マニエマ州
+NAME_KO: 마니에마 주
+NAME_NL: Maniema
+NAME_PL: Maniema
+NAME_PT: Maniema
+NAME_RU: Маниема
+NAME_SV: Maniema
+NAME_TR: Maniema
+NAME_VI: Maniema
+NAME_ZH: 马涅马省
+NE_ID: 1159311341

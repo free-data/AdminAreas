@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2398
+DISS_ME: 2398
+ISO_3166_2: RU-TYU
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Tyumen'
+NAME_ALT: Tobol'sk|Tobol'skaya G.|Tyumenskaya Oblast
+NAME_LOCAL: Тюменская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.TY
+NOTE: null
+HASC_MAYBE: null
+REGION: Urals
+REGION_COD: null
+PROVNUM_NE: 20066
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: TY
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS78
+FIPS_ALT: null
+WOE_ID: 20070528
+WOE_LABEL: Tyumenskaya Oblast, RU, Russia
+WOE_NAME: Tyumen'
+LATITUDE: 57.2639
+LONGITUDE: 68.5186
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1488747
+GN_NAME: Tyumenskaya Oblast'
+GNS_ID: -3023512
+GNS_NAME: Tyumenskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.78
+REGION_SUB: West Siberian
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS78
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5824
+NAME_AR: تيومين أوبلاست
+NAME_BN: তিউমেন ওব্লাস্ট
+NAME_DE: Oblast Tjumen
+NAME_EN: Tyumen Oblast
+NAME_ES: Tiumén
+NAME_FR: Oblast de Tioumen
+NAME_EL: Περιφέρεια Τιουμέν
+NAME_HI: ट्युमेन ओब्लास्ट
+NAME_HU: Tyumenyi terület
+NAME_ID: Oblast Tyumen
+NAME_IT: oblast' di Tjumen'
+NAME_JA: チュメニ州
+NAME_KO: 튜멘 주
+NAME_NL: Oblast Tjoemen
+NAME_PL: Obwód tiumeński
+NAME_PT: Oblast de Tiumen
+NAME_RU: Тюменская область
+NAME_SV: Tiumen oblast
+NAME_TR: Tümen Oblastı
+NAME_VI: Tyumen
+NAME_ZH: 秋明州
+NE_ID: 1159313231

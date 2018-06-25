@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1682
+DISS_ME: 1682
+ISO_3166_2: AZ-KAL
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Kəlbəcər
+NAME_ALT: Kalbajar
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.KA
+NOTE: partly in Nagorno-Karabakh
+HASC_MAYBE: null
+REGION: Kalbajar-Lachin Economic Region
+REGION_COD: AZ-08
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ26
+FIPS_ALT: null
+WOE_ID: 20070273
+WOE_LABEL: Kalbacar, AZ, Azerbaijan
+WOE_NAME: Kəlbəcər
+LATITUDE: 40.0966
+LONGITUDE: 46.1688
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 5
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 586047
+GN_NAME: Kalbacar Rayonu
+GNS_ID: -2706817
+GNS_NAME: Kalbacar Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ26
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q457513
+NAME_AR: مقاطعة كلبجر
+NAME_BN: কালবাজার জেলা
+NAME_DE: Kəlbəcər
+NAME_EN: Kalbajar District
+NAME_ES: Kəlbəcər
+NAME_FR: Kelbadjar
+NAME_EL: Καλμπατζάρ
+NAME_HI: कालबाजर जिला
+NAME_HU: Kəlbəcəri járás
+NAME_ID: Kalbajar
+NAME_IT: distretto di Kəlbəcər
+NAME_JA: カルバジャル県
+NAME_KO: 켈베제르 구
+NAME_NL: Kəlbəcər
+NAME_PL: Rejon Kəlbəcər
+NAME_PT: Kalbajar
+NAME_RU: Кельбаджарский район
+NAME_SV: Kälbädzjär
+NAME_TR: Kelbecer Rayonu
+NAME_VI: Kelbajar
+NAME_ZH: 克爾巴賈爾區
+NE_ID: 1159312137

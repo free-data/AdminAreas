@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IND-2429
+DISS_ME: 2429
+ISO_3166_2: IN-HP
+WIKIPEDIA: null
+ISO_A2: IN
+ADM0_SR: 1
+NAME: Himachal Pradesh
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Union Territor
+TYPE_EN: Union Territory
+CODE_LOCAL: null
+CODE_HASC: IN.HP
+NOTE: null
+HASC_MAYBE: null
+REGION: North
+REGION_COD: null
+PROVNUM_NE: 20068
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: HP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: IN11
+FIPS_ALT: null
+WOE_ID: 2345745
+WOE_LABEL: Himachal Pradesh, IN, India
+WOE_NAME: Himachal Pradesh
+LATITUDE: 31.6755
+LONGITUDE: 77.2875
+SOV_A3: IND
+ADM0_A3: IND
+ADM0_LABEL: 2
+ADMIN: India
+GEONUNIT: India
+GU_A3: IND
+GN_ID: 1270101
+GN_NAME: State of Himachal Pradesh
+GNS_ID: -2097441
+GNS_NAME: Himachal Pradesh
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IN.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: IN11
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q1177
+NAME_AR: هيماجل برديش
+NAME_BN: হিমাচল প্রদেশ
+NAME_DE: Himachal Pradesh
+NAME_EN: Himachal Pradesh
+NAME_ES: Himachal Pradesh
+NAME_FR: Himachal Pradesh
+NAME_EL: Χιμάτσαλ Πραντές
+NAME_HI: हिमाचल प्रदेश
+NAME_HU: Himácsal Prades
+NAME_ID: Himachal Pradesh
+NAME_IT: Himachal Pradesh
+NAME_JA: ヒマーチャル・プラデーシュ州
+NAME_KO: 히마찰프라데시 주
+NAME_NL: Himachal Pradesh
+NAME_PL: Himachal Pradesh
+NAME_PT: Himachal Pradesh
+NAME_RU: Химачал-Прадеш
+NAME_SV: Himachal Pradesh
+NAME_TR: Himaçhal Pradeş
+NAME_VI: Himachal Pradesh
+NAME_ZH: 喜马偕尔邦
+NE_ID: 1159311877

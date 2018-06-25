@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: BFA-2835
+DISS_ME: 2835
+ISO_3166_2: BF-LER
+WIKIPEDIA: null
+ISO_A2: BF
+ADM0_SR: 1
+NAME: Léraba
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BF.LE
+NOTE: null
+HASC_MAYBE: null
+REGION: Cascades
+REGION_COD: null
+PROVNUM_NE: 20014
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 11
+FIPS: UV54
+FIPS_ALT: UV26|UV61
+WOE_ID: 55967359
+WOE_LABEL: LÃ©raba, BF, Burkina Faso
+WOE_NAME: Léraba
+LATITUDE: 10.5879
+LONGITUDE: -5.2352
+SOV_A3: BFA
+ADM0_A3: BFA
+ADM0_LABEL: 2
+ADMIN: Burkina Faso
+GEONUNIT: Burkina Faso
+GU_A3: BFA
+GN_ID: 2597263
+GN_NAME: Province de la Leraba
+GNS_ID: 9145808
+GNS_NAME: Leraba, Province de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: BF.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: UV80
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q977607
+NAME_AR: مقاطعة ليرابا
+NAME_BN: লিরাবা প্রদেশ
+NAME_DE: Léraba
+NAME_EN: Léraba Province
+NAME_ES: Provincia de Léraba
+NAME_FR: Léraba
+NAME_EL: Λεραμπά
+NAME_HI: लेरबा प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Léraba
+NAME_IT: provincia di Léraba
+NAME_JA: レラバ県
+NAME_KO: 레라바 현
+NAME_NL: Léraba
+NAME_PL: Prowincja Léraba
+NAME_PT: Léraba
+NAME_RU: Лераба
+NAME_SV: Province de la Léraba
+NAME_TR: Leraba Province
+NAME_VI: Léraba
+NAME_ZH: 雷拉巴省
+NE_ID: 1159313947

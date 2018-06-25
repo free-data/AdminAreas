@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 5
+SOVEREIGNT: Republic of Serbia
+SOV_A3: SRB
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Republic of Serbia
+ADM0_A3: SRB
+GEOU_DIF: 0
+GEOUNIT: Republic of Serbia
+GU_A3: SRB
+SU_DIF: 0
+SUBUNIT: Republic of Serbia
+SU_A3: SRB
+BRK_DIFF: 0
+NAME: Serbia
+NAME_LONG: Serbia
+BRK_A3: SRB
+BRK_NAME: Serbia
+BRK_GROUP: null
+ABBREV: Serb.
+POSTAL: RS
+FORMAL_EN: Republic of Serbia
+FORMAL_FR: null
+NAME_CIAWF: Serbia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Serbia
+NAME_ALT: null
+MAPCOLOR7: 3
+MAPCOLOR8: 3
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+POP_EST: 7111024
+POP_RANK: 13
+GDP_MD_EST: 101800
+POP_YEAR: 2017
+LASTCENSUS: 2011
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: RI
+ISO_A2: RS
+ISO_A3: SRB
+ISO_A3_EH: SRB
+ISO_N3: 688
+UN_A3: 688
+WB_A2: YF
+WB_A3: SRB
+WOE_ID: -90
+WOE_ID_EH: 20069818
+WOE_NOTE: Expired WOE also contains Kosovo.
+ADM0_A3_IS: SRB
+ADM0_A3_US: SRB
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 6
+LONG_LEN: 6
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 7
+NE_ID: 1159321267
+WIKIDATAID: Q403
+NAME_AR: صربيا
+NAME_BN: সার্বিয়া
+NAME_DE: Serbien
+NAME_EN: Serbia
+NAME_ES: Serbia
+NAME_FR: Serbie
+NAME_EL: Σερβία
+NAME_HI: सर्बिया
+NAME_HU: Szerbia
+NAME_ID: Serbia
+NAME_IT: Serbia
+NAME_JA: セルビア
+NAME_KO: 세르비아
+NAME_NL: Servië
+NAME_PL: Serbia
+NAME_PT: Sérvia
+NAME_RU: Сербия
+NAME_SV: Serbien
+NAME_TR: Sırbistan
+NAME_VI: Serbia
+NAME_ZH: 塞尔维亚

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1400
+DISS_ME: 1400
+ISO_3166_2: CO-QUI
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Quindío
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: CO.QD
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: QD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO23
+FIPS_ALT: null
+WOE_ID: 2345068
+WOE_LABEL: Quindio, CO, Colombia
+WOE_NAME: Quindío
+LATITUDE: 4.47197
+LONGITUDE: -75.64
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3671087
+GN_NAME: Quindio Department
+GNS_ID: -596235
+GNS_NAME: Quindio, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO23
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q13995
+NAME_AR: إدارة كوينديو
+NAME_BN: কিনদিও বিভাগ
+NAME_DE: Departamento del Quindío
+NAME_EN: Quindío Department
+NAME_ES: Quindío
+NAME_FR: Quindío
+NAME_EL: Κουίντιο
+NAME_HI: किनडियो विभाग
+NAME_HU: Quindío megye
+NAME_ID: Departemen Quindío
+NAME_IT: dipartimento di Quindío
+NAME_JA: キンディオ県
+NAME_KO: 킨디오 주
+NAME_NL: Quindío
+NAME_PL: Quindío
+NAME_PT: Quindío
+NAME_RU: Киндио
+NAME_SV: Quindío
+NAME_TR: Quindío
+NAME_VI: Quindío
+NAME_ZH: 金迪奥省
+NE_ID: 1159310135

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: DEU-1576
+DISS_ME: 1576
+ISO_3166_2: DE-NI
+WIKIPEDIA: null
+ISO_A2: DE
+ADM0_SR: 4
+NAME: Niedersachsen
+NAME_ALT: Lower Saxony
+NAME_LOCAL: null
+TYPE: Land
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: DE.NI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: NI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: GM06
+FIPS_ALT: null
+WOE_ID: 2345486
+WOE_LABEL: Lower Saxony, DE, Germany
+WOE_NAME: Niedersachsen
+LATITUDE: 52.775
+LONGITUDE: 8.86184
+SOV_A3: DEU
+ADM0_A3: DEU
+ADM0_LABEL: 2
+ADMIN: Germany
+GEONUNIT: Germany
+GU_A3: DEU
+GN_ID: 2862926
+GN_NAME: Land Niedersachsen
+GNS_ID: -1833951
+GNS_NAME: Niedersachsen
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DE.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: GM06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1197
+NAME_AR: سكسونيا السفلى
+NAME_BN: নিডারজাখসেন
+NAME_DE: Niedersachsen
+NAME_EN: Lower Saxony
+NAME_ES: Baja Sajonia
+NAME_FR: Basse-Saxe
+NAME_EL: Κάτω Σαξωνία
+NAME_HI: निचला सैक्सोनी
+NAME_HU: Alsó-Szászország
+NAME_ID: Niedersachsen
+NAME_IT: Bassa Sassonia
+NAME_JA: ニーダーザクセン州
+NAME_KO: 니더작센 주
+NAME_NL: Nedersaksen
+NAME_PL: Dolna Saksonia
+NAME_PT: Baixa Saxônia
+NAME_RU: Нижняя Саксония
+NAME_SV: Niedersachsen
+NAME_TR: Aşağı Saksonya
+NAME_VI: Niedersachsen
+NAME_ZH: 下萨克森
+NE_ID: 1159315801

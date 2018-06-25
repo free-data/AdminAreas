@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3211
+DISS_ME: 3211
+ISO_3166_2: IR-04
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Esfahan
+NAME_ALT: Isfahan|Ispahan
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20030
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR28
+FIPS_ALT: null
+WOE_ID: 2345787
+WOE_LABEL: Esfahan, IR, Iran
+WOE_NAME: Esfahan
+LATITUDE: 32.9837
+LONGITUDE: 52.4195
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 418862
+GN_NAME: Ostan-e Esfahan
+GNS_ID: 6013425
+GNS_NAME: Esfahan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR28
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1367759
+NAME_AR: أصفهان
+NAME_BN: এসফাহন প্রদেশ
+NAME_DE: Isfahan
+NAME_EN: Isfahan Province
+NAME_ES: Isfahán
+NAME_FR: Province d'Ispahan
+NAME_EL: Ισφαχάν
+NAME_HI: इस्फ़हान प्रांत
+NAME_HU: Iszfahán tartomány
+NAME_ID: Provinsi Isfahan
+NAME_IT: provincia di Esfahan
+NAME_JA: エスファハーン州
+NAME_KO: 이스파한 주
+NAME_NL: Isfahan
+NAME_PL: Isfahan
+NAME_PT: Ispaão
+NAME_RU: Исфахан
+NAME_SV: Esfahan
+NAME_TR: İsfahan Eyaleti
+NAME_VI: Isfahan
+NAME_ZH: 伊斯法罕省
+NE_ID: 1159314267

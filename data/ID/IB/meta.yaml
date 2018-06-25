@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-1933
+DISS_ME: 1933
+ISO_3166_2: ID-PB
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 5
+NAME: Papua Barat
+NAME_ALT: West Papua|Irian Jaya Barat|New Guinea|Yos Sudarso or Frederick Hendrik|Waigeo|Supiori Biak|Yapen|Misool|Salawati|Batanta
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.IB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 31
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: IB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 16
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID39
+FIPS_ALT: ID09
+WOE_ID: 28350157
+WOE_LABEL: West Papua, ID, Indonesia
+WOE_NAME: Irian Jaya Barat
+LATITUDE: -1.32525
+LONGITUDE: 132.825
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1996549
+GN_NAME: Provinsi Papua Barat
+GNS_ID: 9198111
+GNS_NAME: Papua Barat, Provinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.39
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID39
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5096
+NAME_AR: بابوا الغربية
+NAME_BN: পশ্চিম পাপুয়া প্রদেশ
+NAME_DE: Papua Barat
+NAME_EN: West Papua Province
+NAME_ES: Papúa Occidental
+NAME_FR: Papouasie occidentale
+NAME_EL: Επαρχία Δυτικής Παπούα
+NAME_HI: पश्चिम पापुआ
+NAME_HU: null
+NAME_ID: Papua Barat
+NAME_IT: Papua Occidentale
+NAME_JA: 西パプア州
+NAME_KO: 파푸아바랏 주
+NAME_NL: West-Papoea
+NAME_PL: Papua Zachodnia
+NAME_PT: Papua Ocidental
+NAME_RU: Западное Папуа
+NAME_SV: Papua Barat
+NAME_TR: Batı Papua
+NAME_VI: Tây Papua
+NAME_ZH: 西巴布亞省
+NE_ID: 1159311287

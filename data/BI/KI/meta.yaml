@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BDI-2643
+DISS_ME: 2643
+ISO_3166_2: BI-KI
+WIKIPEDIA: null
+ISO_A2: BI
+ADM0_SR: 1
+NAME: Kirundo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: BI.KI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20015
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: BY16
+FIPS_ALT: null
+WOE_ID: 2344909
+WOE_LABEL: Kirundo, BI, Burundi
+WOE_NAME: Kirundo
+LATITUDE: -2.56414
+LONGITUDE: 30.1647
+SOV_A3: BDI
+ADM0_A3: BDI
+ADM0_LABEL: 2
+ADMIN: Burundi
+GEONUNIT: Burundi
+GU_A3: BDI
+GN_ID: 432455
+GN_NAME: Kirundo Province
+GNS_ID: 6041108
+GNS_NAME: Kirundo, Province de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BI.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BY16
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q600840
+NAME_AR: مقاطعة كيروندو
+NAME_BN: কিরুন্ডো প্রদেশ
+NAME_DE: Kirundo
+NAME_EN: Kirundo Province
+NAME_ES: Provincia de Kirundo
+NAME_FR: province de Kirundo
+NAME_EL: Κιρούντο
+NAME_HI: किरुन्विभाग प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Kirundo
+NAME_IT: provincia di Kirundo
+NAME_JA: キルンド県
+NAME_KO: 키룬도 주
+NAME_NL: Kirundo
+NAME_PL: Prowincja Kirundo
+NAME_PT: Kirundo
+NAME_RU: Кирундо
+NAME_SV: Kirundo
+NAME_TR: Kirundo Province
+NAME_VI: Tỉnh Kirundo
+NAME_ZH: 基龍多省
+NE_ID: 1159313329

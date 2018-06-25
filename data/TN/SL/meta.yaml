@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-115
+DISS_ME: 115
+ISO_3166_2: TN-34
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Siliana
+NAME_ALT: Siliānah|Silyānah
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.SL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: SL
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS22
+FIPS_ALT: null
+WOE_ID: 2347245
+WOE_LABEL: Silyanah, TN, Tunisia
+WOE_NAME: Siliana
+LATITUDE: 35.5597
+LONGITUDE: 9.33745
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2465027
+GN_NAME: Gouvernorat de Siliana
+GNS_ID: -731137
+GNS_NAME: Siliana, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS22
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q328115
+NAME_AR: ولاية سليانة
+NAME_BN: সিলিয়ানা গভর্নোরেট
+NAME_DE: Gouvernorat Siliana
+NAME_EN: Siliana Governorate
+NAME_ES: Gobernación de Siliana
+NAME_FR: gouvernorat de Siliana
+NAME_EL: Σιλγιάνα
+NAME_HI: सिलिआना गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Siliana
+NAME_IT: governatorato di Siliana
+NAME_JA: シリアナ県
+NAME_KO: 실리아나 주
+NAME_NL: Siliana
+NAME_PL: Gubernatorstwo Siljana
+NAME_PT: Siliana
+NAME_RU: Сильяна
+NAME_SV: Siliana
+NAME_TR: Silyana ili
+NAME_VI: Tỉnh Siliana
+NAME_ZH: 錫勒亞奈省
+NE_ID: 1159309391

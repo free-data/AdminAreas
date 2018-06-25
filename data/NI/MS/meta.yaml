@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-660
+DISS_ME: 660
+ISO_3166_2: NI-MS
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Masaya
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.MS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MS
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU11
+FIPS_ALT: null
+WOE_ID: 2346427
+WOE_LABEL: Masaya, NI, Nicaragua
+WOE_NAME: Masaya
+LATITUDE: 11.9959
+LONGITUDE: -86.1227
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3617722
+GN_NAME: Departamento de Masaya
+GNS_ID: -1113306
+GNS_NAME: Masaya
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q570358
+NAME_AR: إدارة مسايا
+NAME_BN: মাসায়া বিভাগ
+NAME_DE: Departamento Masaya
+NAME_EN: Masaya Department
+NAME_ES: Departamento de Masaya
+NAME_FR: département de Masaya
+NAME_EL: Μασάγια
+NAME_HI: मसाया विभाग
+NAME_HU: Masaya megye
+NAME_ID: Departemen Masaya
+NAME_IT: dipartimento di Masaya
+NAME_JA: マサヤ県
+NAME_KO: 마사야 주
+NAME_NL: Masaya
+NAME_PL: Masaya
+NAME_PT: Masaya
+NAME_RU: Масая
+NAME_SV: Masaya
+NAME_TR: Masaya Departmanı
+NAME_VI: Khu vực hành chính Masaya
+NAME_ZH: 馬薩亞省
+NE_ID: 1159309075

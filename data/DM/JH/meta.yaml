@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: DMA-1436
+DISS_ME: 1436
+ISO_3166_2: DM-06
+WIKIPEDIA: null
+ISO_A2: DM
+ADM0_SR: 1
+NAME: Saint Joseph
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: DM.JH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: JH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: DO06
+FIPS_ALT: null
+WOE_ID: 2345165
+WOE_LABEL: Saint Joseph, DM, Dominica
+WOE_NAME: Saint Joseph
+LATITUDE: 15.4355
+LONGITUDE: -61.3863
+SOV_A3: DMA
+ADM0_A3: DMA
+ADM0_LABEL: 7
+ADMIN: Dominica
+GEONUNIT: Dominica
+GU_A3: DMA
+GN_ID: 3575625
+GN_NAME: Saint Joseph
+GNS_ID: -1352354
+GNS_NAME: Saint Joseph
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DM.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: DO06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q1476302
+NAME_AR: أبرشية القديس جوزيف
+NAME_BN: সেন্ট জোসেফ প্যারিশ
+NAME_DE: Saint Joseph
+NAME_EN: Saint Joseph Parish
+NAME_ES: Parroquia de Saint Joseph
+NAME_FR: Saint-Joseph
+NAME_EL: Άγιος Ιωσήφ
+NAME_HI: सेंट जोसेफ पैरिश
+NAME_HU: null
+NAME_ID: Paroki Saint Joseph
+NAME_IT: Parrocchia di Saint Joseph
+NAME_JA: セント・ジョゼフ教区
+NAME_KO: 세인트조지프 교구
+NAME_NL: Saint Joseph
+NAME_PL: Parafia św. Józefa na Dominice
+NAME_PT: Saint Joseph
+NAME_RU: Прход Сент-Джозеф
+NAME_SV: Saint Joseph
+NAME_TR: Sain Joseph Parish
+NAME_VI: Giáo xứ Saint Joseph
+NAME_ZH: 聖約瑟夫堂區
+NE_ID: 1159311615

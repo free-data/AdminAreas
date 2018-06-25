@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: AUT-2330
+DISS_ME: 2330
+ISO_3166_2: AT-3
+WIKIPEDIA: null
+ISO_A2: AT
+ADM0_SR: 1
+NAME: Niederösterreich
+NAME_ALT: Lower Austria|Baixa-Áustria|Baja Austria|Niederdonau|Österreich unter der Enns
+NAME_LOCAL: null
+TYPE: Bundesländ|Länd
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: AT.NO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: NO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 16
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: AU03
+FIPS_ALT: null
+WOE_ID: 2344710
+WOE_LABEL: Lower Austria, AT, Austria
+WOE_NAME: Niederösterreich
+LATITUDE: 48.2477
+LONGITUDE: 15.7448
+SOV_A3: AUT
+ADM0_A3: AUT
+ADM0_LABEL: 2
+ADMIN: Austria
+GEONUNIT: Austria
+GU_A3: AUT
+GN_ID: 2770542
+GN_NAME: Niederoesterreich
+GNS_ID: -1986207
+GNS_NAME: Niederosterreich, Bundesland
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AT.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AU03
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q42497
+NAME_AR: النمسا السفلى
+NAME_BN: লোয়ার অস্ট্রিয়া
+NAME_DE: Niederösterreich
+NAME_EN: Lower Austria
+NAME_ES: Baja Austria
+NAME_FR: Basse-Autriche
+NAME_EL: Κάτω Αυστρία
+NAME_HI: निचला ऑस्ट्रिया
+NAME_HU: Alsó-Ausztria
+NAME_ID: Austria Hilir
+NAME_IT: Bassa Austria
+NAME_JA: ニーダーエスターライヒ州
+NAME_KO: 니더외스터라이히 주
+NAME_NL: Neder-Oostenrijk
+NAME_PL: Dolna Austria
+NAME_PT: Baixa Áustria
+NAME_RU: Нижняя Австрия
+NAME_SV: Niederösterreich
+NAME_TR: Aşağı Avusturya
+NAME_VI: Niederösterreich
+NAME_ZH: 下奧地利州
+NE_ID: 1159312649

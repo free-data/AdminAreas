@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-117
+DISS_ME: 117
+ISO_3166_2: TN-52
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Monastir
+NAME_ALT: Al Munastīr
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.MS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS16
+FIPS_ALT: null
+WOE_ID: 2347241
+WOE_LABEL: Al Munastir, TN, Tunisia
+WOE_NAME: Monastir
+LATITUDE: 35.6225
+LONGITUDE: 10.7538
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2473495
+GN_NAME: Gouvernorat de Monastir
+GNS_ID: -722608
+GNS_NAME: Monastir, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS16
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q318102
+NAME_AR: ولاية المنستير
+NAME_BN: মোনাস্তির গভর্নোরেট
+NAME_DE: Gouvernorat Monastir
+NAME_EN: Monastir Governorate
+NAME_ES: Gobernación de Monastir
+NAME_FR: gouvernorat de Monastir
+NAME_EL: Μοναστίρ
+NAME_HI: मोनास्टीर
+NAME_HU: null
+NAME_ID: Kegubernuran Monastir
+NAME_IT: governatorato di Monastir
+NAME_JA: モナスティル県
+NAME_KO: 모나스티르 주
+NAME_NL: Monastir
+NAME_PL: Gubernatorstwo Monastyr
+NAME_PT: Monastir
+NAME_RU: Монастир
+NAME_SV: Monastir
+NAME_TR: Munastır
+NAME_VI: Tỉnh Monastir
+NAME_ZH: 莫納斯提爾省
+NE_ID: 1159308453

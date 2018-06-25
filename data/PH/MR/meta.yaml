@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2571
+DISS_ME: 2571
+ISO_3166_2: PH-MDR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Mindoro_Occidental
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Mindoro Oriental
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.MR
+NOTE: null
+HASC_MAYBE: null
+REGION: MIMAROPA (Region IV-B)
+REGION_COD: PH-41
+PROVNUM_NE: 20064
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: MR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP41
+FIPS_ALT: null
+WOE_ID: 2346696
+WOE_LABEL: null
+WOE_NAME: Mindoro Oriental
+LATITUDE: 12.8526
+LONGITUDE: 121.36
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1699585
+GN_NAME: Province of Mindoro Oriental
+GNS_ID: -2439993
+GNS_NAME: Oriental Mindoro, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.41
+REGION_SUB: Mindoro Oriental
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP41
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13868
+NAME_AR: أورينتال ميندورو
+NAME_BN: ওরিয়েন্টাল মিন্ডোরো
+NAME_DE: Oriental Mindoro
+NAME_EN: Oriental Mindoro
+NAME_ES: Mindoro Oriental
+NAME_FR: Mindoro oriental
+NAME_EL: Οριεντάλ Μιντόρο
+NAME_HI: ओरियेन्टल मिन्दोरो
+NAME_HU: null
+NAME_ID: Oriental Mindoro
+NAME_IT: Provincia di Oriental Mindoro
+NAME_JA: 東ミンドロ州
+NAME_KO: 동민도로 주
+NAME_NL: Oriental Mindoro
+NAME_PL: Oriental Mindoro
+NAME_PT: Oriental Mindoro
+NAME_RU: Восточный Миндоро
+NAME_SV: Oriental Mindoro
+NAME_TR: Oriental Mindoro
+NAME_VI: Oriental Mindoro
+NAME_ZH: 東民都洛省
+NE_ID: 1159313455

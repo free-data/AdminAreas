@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5711
+DISS_ME: 5711
+ISO_3166_2: LV-018
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Brocenu
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: Kurzeme
+REGION_COD: K
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: K
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG51
+FIPS_ALT: null
+WOE_ID: -2346029
+WOE_LABEL: Kuldigas Rajons, LV, Latvia
+WOE_NAME: Kurzeme
+LATITUDE: 56.7003
+LONGITUDE: 22.6412
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628309
+GN_NAME: Brocenu Novads
+GNS_ID: 10970054
+GNS_NAME: Brocenu Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.51
+REGION_SUB: Kurzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q865717
+NAME_AR: بلدية بروتشني
+NAME_BN: ব্রোসেনি পৌরসভা
+NAME_DE: Bezirk Brocēni
+NAME_EN: Brocēni Municipality
+NAME_ES: Municipalidad de Brocēni
+NAME_FR: Brocēni
+NAME_EL: Μπροτσένι
+NAME_HI: ब्रोसेनी नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Brocēni
+NAME_IT: Comune di Brocēni
+NAME_JA: ブルアツェーニ
+NAME_KO: ‎브로체니 시
+NAME_NL: Brocēnu novads
+NAME_PL: Gmina Brocēni
+NAME_PT: Município de Broceni
+NAME_RU: Броценский край
+NAME_SV: Broceni kommun
+NAME_TR: Broceni Belediyesi
+NAME_VI: Đô thị tự trị Broceni
+NAME_ZH: null
+NE_ID: 1159317571

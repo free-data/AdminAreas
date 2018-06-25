@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GAB-2627
+DISS_ME: 2627
+ISO_3166_2: GA-2
+WIKIPEDIA: null
+ISO_A2: GA
+ADM0_SR: 1
+NAME: Haut-Ogooué
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GA.HO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: HO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 11
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: GB02
+FIPS_ALT: null
+WOE_ID: 2345450
+WOE_LABEL: Haut-Ogooue, GA, Gabon
+WOE_NAME: Haut-Ogooué
+LATITUDE: -1.13187
+LONGITUDE: 13.6198
+SOV_A3: GAB
+ADM0_A3: GAB
+ADM0_LABEL: 5
+ADMIN: Gabon
+GEONUNIT: Gabon
+GU_A3: GAB
+GN_ID: 2400454
+GN_NAME: Province du Haut-Ogooue
+GNS_ID: -1325852
+GNS_NAME: Haut-Ogooue
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GA.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GB02
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q654438
+NAME_AR: محافظة هوت أوغويه
+NAME_BN: হত-ওগউ প্রদেশ
+NAME_DE: Haut-Ogooué
+NAME_EN: Haut-Ogooué Province
+NAME_ES: Provincia de Haut-Ogooué
+NAME_FR: Haut-Ogooué
+NAME_EL: Χοτ-Ογκοουέ
+NAME_HI: ओट-ओगूए प्रांत
+NAME_HU: null
+NAME_ID: Haut-Ogooué
+NAME_IT: Haut-Ogooué
+NAME_JA: オートオゴウェ州
+NAME_KO: 오트오고웨 주
+NAME_NL: Haut-Ogooué
+NAME_PL: Ogowe Górne
+NAME_PT: Haut-Ogooué
+NAME_RU: Верхнее Огове
+NAME_SV: Province du Haut-Ogooué
+NAME_TR: Haut-Ogooué
+NAME_VI: Haut-Ogooue
+NAME_ZH: 上奥果韦省
+NE_ID: 1159313343

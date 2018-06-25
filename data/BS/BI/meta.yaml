@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5039
+DISS_ME: 5039
+ISO_3166_2: BS-BI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Bimini
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Bimini
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.BI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: BI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF05
+FIPS_ALT: null
+WOE_ID: 2344769
+WOE_LABEL: Bimini, BS, The Bahamas
+WOE_NAME: Bimini
+LATITUDE: 25.7074
+LONGITUDE: -79.2811
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 3572807
+GN_NAME: Bimini District
+GNS_ID: -1542842
+GNS_NAME: Bimini District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BF05
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q863476
+NAME_AR: بيميني
+NAME_BN: বিমিনি
+NAME_DE: Bimini
+NAME_EN: Bimini
+NAME_ES: Bimini
+NAME_FR: Îles Bimini
+NAME_EL: Μπιμίνι
+NAME_HI: बिमिनी
+NAME_HU: null
+NAME_ID: Bimini
+NAME_IT: Bimini
+NAME_JA: ビミニ
+NAME_KO: 비미니
+NAME_NL: Bimini
+NAME_PL: Bimini
+NAME_PT: Bimini
+NAME_RU: Бимини
+NAME_SV: Bimini
+NAME_TR: Brimini
+NAME_VI: Bimini
+NAME_ZH: 比米尼群島
+NE_ID: 1159316299

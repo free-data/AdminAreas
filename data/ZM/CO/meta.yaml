@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: ZMB-517
+DISS_ME: 517
+ISO_3166_2: ZM-08
+WIKIPEDIA: null
+ISO_A2: ZM
+ADM0_SR: 1
+NAME: Copperbelt
+NAME_ALT: Western
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZM.CO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: ZA08
+FIPS_ALT: null
+WOE_ID: 2347802
+WOE_LABEL: Copperbelt, ZM, Zambia
+WOE_NAME: Copperbelt
+LATITUDE: -13.1044
+LONGITUDE: 27.9272
+SOV_A3: ZMB
+ADM0_A3: ZMB
+ADM0_LABEL: 2
+ADMIN: Zambia
+GEONUNIT: Zambia
+GU_A3: ZMB
+GN_ID: 917524
+GN_NAME: Copperbelt Province
+GNS_ID: -2282443
+GNS_NAME: Copperbelt
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZM.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZA08
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1131523
+NAME_AR: كوبربيلت
+NAME_BN: কপারবেলাট প্রদেশ
+NAME_DE: Copperbelt
+NAME_EN: Copperbelt Province
+NAME_ES: Provincia de Copperbelt
+NAME_FR: Copperbelt
+NAME_EL: Κόππερμπελτ
+NAME_HI: कॉपरबेल्ट प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Copperbelt
+NAME_IT: provincia di Copperbelt
+NAME_JA: カッパーベルト州
+NAME_KO: 코퍼벨트 주
+NAME_NL: Copperbelt
+NAME_PL: Prowincja Pasa Miedzionośnego
+NAME_PT: Copperbelt
+NAME_RU: Коппербелт
+NAME_SV: Copperbelt
+NAME_TR: Copperbelt Bölgesi
+NAME_VI: Tỉnh Copperbelt
+NAME_ZH: 铜带省
+NE_ID: 1159307885

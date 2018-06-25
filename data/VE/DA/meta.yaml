@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: VEN-65
+DISS_ME: 65
+ISO_3166_2: VE-Y
+WIKIPEDIA: null
+ISO_A2: VE
+ADM0_SR: 6
+NAME: Delta Amacuro
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: VE.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: VE09
+FIPS_ALT: null
+WOE_ID: 2347685
+WOE_LABEL: Delta Amacuro, VE, Venezuela
+WOE_NAME: Delta Amacuro
+LATITUDE: 8.78915
+LONGITUDE: -61.5863
+SOV_A3: VEN
+ADM0_A3: VEN
+ADM0_LABEL: 3
+ADMIN: Venezuela
+GEONUNIT: Venezuela
+GU_A3: VEN
+GN_ID: 3644541
+GN_NAME: Territorio Federal Delta Amacuro
+GNS_ID: -940695
+GNS_NAME: Delta Amacuro, Territorio Federal
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VE.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: VE09
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q201137
+NAME_AR: دلتا أماكورو
+NAME_BN: ডেল্টা আমাকুরু
+NAME_DE: Delta Amacuro
+NAME_EN: Delta Amacuro
+NAME_ES: Delta Amacuro
+NAME_FR: État de Delta Amacuro
+NAME_EL: Δέλτα Αμακούρο
+NAME_HI: डेल्टा अमाकुरो
+NAME_HU: Delta Amacuro
+NAME_ID: Delta Amacuro
+NAME_IT: Delta Amacuro
+NAME_JA: デルタアマクロ州
+NAME_KO: 델타아마쿠로 주
+NAME_NL: Delta Amacuro
+NAME_PL: Delta Amacuro
+NAME_PT: Delta Amacuro
+NAME_RU: Дельта-Амакуро
+NAME_SV: Delta Amacuro
+NAME_TR: Deltra Amacuro
+NAME_VI: Delta Amacuro
+NAME_ZH: 阿马库罗三角洲州
+NE_ID: 1159308013

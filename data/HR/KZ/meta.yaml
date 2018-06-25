@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1582
+DISS_ME: 1582
+ISO_3166_2: HR-02
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Krapinsko-Zagorska
+NAME_ALT: Krapina-Zagorje
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.KZ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: KZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 18
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: SI92
+FIPS_ALT: HR07
+WOE_ID: 12577977
+WOE_LABEL: Krapinsko-Zagorska, HR, Croatia
+WOE_NAME: Krapinsko-Zagorska
+LATITUDE: 46.0883
+LONGITUDE: 15.9228
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337519
+GN_NAME: Krapinsko-Zagorska Zupanija
+GNS_ID: 9031068
+GNS_NAME: Krapinsko-Zagorska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR07
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q57056
+NAME_AR: مقاطعة كرابينا زاغوريه
+NAME_BN: ক্রাপিনা-জাগোর্জে কাউন্টি
+NAME_DE: Gespanschaft Krapina-Zagorje
+NAME_EN: Krapina-Zagorje County
+NAME_ES: Krapina-Zagorje
+NAME_FR: Comitat de Krapina-Zagorje
+NAME_EL: Κραπίνα-Ζαγκόρτζε
+NAME_HI: क्रापिना-ज़गोरिए काउंटी
+NAME_HU: Krapina-Zagorje megye
+NAME_ID: Kabupaten Krapina-Zagorje
+NAME_IT: regione di Krapina e dello Zagorje
+NAME_JA: クラピナ＝ザゴリエ郡
+NAME_KO: 크라피나자고레 주
+NAME_NL: Krapina-Zagorje
+NAME_PL: Krapinsko-zagorska županija
+NAME_PT: Condado de Krapina-Zagorje
+NAME_RU: Крапинско-Загорская жупания
+NAME_SV: Krapina-Zagorjes län
+NAME_TR: Krapina-Zagorje
+NAME_VI: Hạt Krapina-Zagorje
+NAME_ZH: 克拉皮納-扎戈列縣
+NE_ID: 1159312523

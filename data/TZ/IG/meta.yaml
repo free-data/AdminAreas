@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3386
+DISS_ME: 3386
+ISO_3166_2: TZ-04
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Iringa
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.IG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: IR
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ04
+FIPS_ALT: null
+WOE_ID: 2347355
+WOE_LABEL: Iringa, TZ, Tanzania
+WOE_NAME: Iringa
+LATITUDE: -7.83931
+LONGITUDE: 35.5453
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 159067
+GN_NAME: Iringa Region
+GNS_ID: -2563392
+GNS_NAME: Iringa, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ04
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q309352
+NAME_AR: إقليم إيرينغا
+NAME_BN: ইরিংগা অঞ্চল
+NAME_DE: Iringa
+NAME_EN: Iringa Region
+NAME_ES: Región de Iringa
+NAME_FR: Iringa
+NAME_EL: Περιφέρεια Ιρίνγκα
+NAME_HI: इरिंगा प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Iringa
+NAME_IT: regione di Iringa
+NAME_JA: イリンガ州
+NAME_KO: 이링가 주
+NAME_NL: Iringa
+NAME_PL: Iringa
+NAME_PT: Iringa
+NAME_RU: Иринга
+NAME_SV: Iringa
+NAME_TR: Iringa
+NAME_VI: Iringa
+NAME_ZH: 伊林加區
+NE_ID: 1159315025

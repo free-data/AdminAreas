@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Kosovo
+SOV_A3: KOS
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Kosovo
+ADM0_A3: KOS
+GEOU_DIF: 0
+GEOUNIT: Kosovo
+GU_A3: KOS
+SU_DIF: 0
+SUBUNIT: Kosovo
+SU_A3: KOS
+BRK_DIFF: 0
+NAME: Kosovo
+NAME_LONG: Kosovo
+BRK_A3: KOS
+BRK_NAME: Kosovo
+BRK_GROUP: null
+ABBREV: Kos.
+POSTAL: KO
+FORMAL_EN: Republic of Kosovo
+FORMAL_FR: null
+NAME_CIAWF: Kosovo
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Kosovo
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 2
+MAPCOLOR9: 3
+MAPCOLOR13: 11
+POP_EST: 1895250
+POP_RANK: 12
+GDP_MD_EST: 18490
+POP_YEAR: 2017
+LASTCENSUS: 1981
+GDP_YEAR: 2016
+ECONOMY: 6. Developing region
+INCOME_GRP: 4. Lower middle income
+WIKIPEDIA: -99
+FIPS_10_: KV
+ISO_A2: XK
+ISO_A3: -99
+ISO_A3_EH: -99
+ISO_N3: -99
+UN_A3: -099
+WB_A2: KV
+WB_A3: KSV
+WOE_ID: -90
+WOE_ID_EH: 29389201
+WOE_NOTE: Subunit of Serbia in WOE still; should include 29389201, 29389207, 29389218, 29389209 and 29389214.
+ADM0_A3_IS: KOS
+ADM0_A3_US: KOS
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Europe
+REGION_UN: Europe
+SUBREGION: Southern Europe
+REGION_WB: Europe & Central Asia
+NAME_LEN: 6
+LONG_LEN: 6
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 5
+MAX_LABEL: 10
+NE_ID: 1159321007
+WIKIDATAID: Q1246
+NAME_AR: كوسوفو
+NAME_BN: কসোভো
+NAME_DE: Kosovo
+NAME_EN: Kosovo
+NAME_ES: Kosovo
+NAME_FR: Kosovo
+NAME_EL: Κοσσυφοπέδιο
+NAME_HI: कोसोवो गणराज्य
+NAME_HU: Koszovó
+NAME_ID: Kosovo
+NAME_IT: Kosovo
+NAME_JA: コソボ共和国
+NAME_KO: 코소보
+NAME_NL: Kosovo
+NAME_PL: Kosowo
+NAME_PT: Kosovo
+NAME_RU: Республика Косово
+NAME_SV: Kosovo
+NAME_TR: Kosova
+NAME_VI: Kosovo
+NAME_ZH: 科索沃

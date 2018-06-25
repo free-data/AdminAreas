@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-3018
+DISS_ME: 3018
+ISO_3166_2: TR-01
+WIKIPEDIA: http://en.wikipedia.org/wiki/Adana_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Adana
+NAME_ALT: Seyhan
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.AA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20026
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU81
+FIPS_ALT: null
+WOE_ID: 2347258
+WOE_LABEL: Adana, TR, Turkey
+WOE_NAME: Adana
+LATITUDE: 37.4006
+LONGITUDE: 35.7555
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 325361
+GN_NAME: Adana
+GNS_ID: -732887
+GNS_NAME: Adana Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.81
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU81
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q40549
+NAME_AR: أضنة
+NAME_BN: আদানা প্রদেশ
+NAME_DE: Adana
+NAME_EN: Adana Province
+NAME_ES: Provincia de Adana
+NAME_FR: Adana
+NAME_EL: Επαρχία Αδάνων
+NAME_HI: अडाना प्रांत
+NAME_HU: Adana
+NAME_ID: Provinsi Adana
+NAME_IT: provincia di Adana
+NAME_JA: アダナ県
+NAME_KO: 아다나 주
+NAME_NL: Adana
+NAME_PL: Adana
+NAME_PT: Adana
+NAME_RU: Адана
+NAME_SV: Adana
+NAME_TR: Adana
+NAME_VI: Adana
+NAME_ZH: 阿达纳省
+NE_ID: 1159314361

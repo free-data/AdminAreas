@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-4842
+DISS_ME: 4842
+ISO_3166_2: TR-80
+WIKIPEDIA: http://en.wikipedia.org/wiki/Osmaniye_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Osmaniye
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.OS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: OS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU91
+FIPS_ALT: null
+WOE_ID: 20070184
+WOE_LABEL: Osmaniye, TR, Turkey
+WOE_NAME: Osmaniye
+LATITUDE: 37.1737
+LONGITUDE: 36.3011
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 443183
+GN_NAME: Osmaniye
+GNS_ID: 9034893
+GNS_NAME: Osmaniye Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.91
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: TU91
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q281206
+NAME_AR: عثمانية
+NAME_BN: ওমানিয়ে প্রদেশ
+NAME_DE: Osmaniye
+NAME_EN: Osmaniye Province
+NAME_ES: Provincia de Osmaniye
+NAME_FR: Osmaniye
+NAME_EL: Επαρχία Οσμανίγιε
+NAME_HI: उस्मानिये प्रांत
+NAME_HU: Osmaniye
+NAME_ID: Provinsi Osmaniye
+NAME_IT: provincia di Osmaniye
+NAME_JA: オスマニエ県
+NAME_KO: 오스마니예 주
+NAME_NL: Osmaniye
+NAME_PL: Osmaniye
+NAME_PT: Osmaniye
+NAME_RU: Османие
+NAME_SV: Osmaniye
+NAME_TR: Osmaniye
+NAME_VI: Osmaniye
+NAME_ZH: 奧斯曼尼耶省
+NE_ID: 1159315909

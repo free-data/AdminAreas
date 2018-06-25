@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1281
+DISS_ME: 1281
+ISO_3166_2: EC-R
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Los Rios
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.LR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: LR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC13
+FIPS_ALT: null
+WOE_ID: 2345214
+WOE_LABEL: Los Rios, EC, Ecuador
+WOE_NAME: Los Rios
+LATITUDE: -1.22191
+LONGITUDE: -79.4787
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3654592
+GN_NAME: Provincia de Los Rios
+GNS_ID: -930428
+GNS_NAME: Los Rios, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q504260
+NAME_AR: مقاطعة لوس ريوس
+NAME_BN: লস রিওস প্রদেশ
+NAME_DE: Provinz Los Ríos
+NAME_EN: Los Ríos Province
+NAME_ES: Los Ríos
+NAME_FR: Los Ríos
+NAME_EL: Επαρχία Λος Ρίος
+NAME_HI: लॉस रिओस प्रांत
+NAME_HU: Los Ríos tartomány
+NAME_ID: Provinsi Los Ríos
+NAME_IT: provincia di Los Ríos
+NAME_JA: ロス・リオス県
+NAME_KO: 로스리오스 주
+NAME_NL: Los Ríos
+NAME_PL: Prowincja Los Ríos
+NAME_PT: Los Ríos
+NAME_RU: Лос-Риос
+NAME_SV: Los Ríos
+NAME_TR: Los Rios Province
+NAME_VI: Los Ríos
+NAME_ZH: 洛斯里奧斯省
+NE_ID: 1159309985

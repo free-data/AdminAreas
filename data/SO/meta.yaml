@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 6
+SOVEREIGNT: Somalia
+SOV_A3: SOM
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: Somalia
+ADM0_A3: SOM
+GEOU_DIF: 0
+GEOUNIT: Somalia
+GU_A3: SOM
+SU_DIF: 0
+SUBUNIT: Somalia
+SU_A3: SOM
+BRK_DIFF: 0
+NAME: Somalia
+NAME_LONG: Somalia
+BRK_A3: SOM
+BRK_NAME: Somalia
+BRK_GROUP: null
+ABBREV: Som.
+POSTAL: SO
+FORMAL_EN: Federal Republic of Somalia
+FORMAL_FR: null
+NAME_CIAWF: Somalia
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: Somalia
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 7
+POP_EST: 7531386
+POP_RANK: 13
+GDP_MD_EST: 4719
+POP_YEAR: 2017
+LASTCENSUS: 1987
+GDP_YEAR: 2016
+ECONOMY: 7. Least developed region
+INCOME_GRP: 5. Low income
+WIKIPEDIA: -99
+FIPS_10_: SO
+ISO_A2: SO
+ISO_A3: SOM
+ISO_A3_EH: SOM
+ISO_N3: 706
+UN_A3: 706
+WB_A2: SO
+WB_A3: SOM
+WOE_ID: -90
+WOE_ID_EH: 23424949
+WOE_NOTE: Includes Somaliland (2347021, 2347020, 2347017 and portion of 2347016)
+ADM0_A3_IS: SOM
+ADM0_A3_US: SOM
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Eastern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 7
+LONG_LEN: 7
+ABBREV_LEN: 4
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 4
+MAX_LABEL: 9
+NE_ID: 1159321261
+WIKIDATAID: Q1045
+NAME_AR: الصومال
+NAME_BN: সোমালিয়া
+NAME_DE: Somalia
+NAME_EN: Somalia
+NAME_ES: Somalia
+NAME_FR: Somalie
+NAME_EL: Σομαλία
+NAME_HI: सोमालिया
+NAME_HU: Szomália
+NAME_ID: Somalia
+NAME_IT: Somalia
+NAME_JA: ソマリア
+NAME_KO: 소말리아
+NAME_NL: Somalië
+NAME_PL: Somalia
+NAME_PT: Somália
+NAME_RU: Сомали
+NAME_SV: Somalia
+NAME_TR: Somali
+NAME_VI: Somalia
+NAME_ZH: 索马里

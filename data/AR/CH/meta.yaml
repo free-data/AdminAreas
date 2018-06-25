@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ARG-1274
+DISS_ME: 1274
+ISO_3166_2: AR-U
+WIKIPEDIA: null
+ISO_A2: AR
+ADM0_SR: 1
+NAME: Chubut
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AR.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: AR04
+FIPS_ALT: null
+WOE_ID: 2344678
+WOE_LABEL: Chubut, AR, Argentina
+WOE_NAME: Chubut
+LATITUDE: -43.9995
+LONGITUDE: -67.8642
+SOV_A3: ARG
+ADM0_A3: ARG
+ADM0_LABEL: 2
+ADMIN: Argentina
+GEONUNIT: Argentina
+GU_A3: ARG
+GN_ID: 3861244
+GN_NAME: Provincia del Chubut
+GNS_ID: -982257
+GNS_NAME: Chubut
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AR.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: AR04
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q45007
+NAME_AR: تشوبوت
+NAME_BN: চুবুট প্রদেশ
+NAME_DE: Provinz Chubut
+NAME_EN: Chubut Province
+NAME_ES: Provincia del Chubut
+NAME_FR: Chubut
+NAME_EL: Επαρχία του Τσουμπούτ
+NAME_HI: चुबुट
+NAME_HU: Chubut tartomány
+NAME_ID: Provinsi Chubut
+NAME_IT: provincia del Chubut
+NAME_JA: チュブ州
+NAME_KO: 추부트 주
+NAME_NL: Chubut
+NAME_PL: Chubut
+NAME_PT: Chubut
+NAME_RU: Чубут
+NAME_SV: Chubut
+NAME_TR: Chubut eyaleti
+NAME_VI: Chubut
+NAME_ZH: 丘布特省
+NE_ID: 1159309753

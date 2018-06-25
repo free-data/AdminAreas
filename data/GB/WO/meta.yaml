@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5701
+DISS_ME: 5701
+ISO_3166_2: GB-WOK
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Wokingham
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Unitary Authority
+TYPE_EN: Unitary Authority
+CODE_LOCAL: null
+CODE_HASC: GB.WO
+NOTE: non-metropolitan county with no county council
+HASC_MAYBE: null
+REGION: South East
+REGION_COD: GB.BK
+PROVNUM_NE: 20022
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKQ2
+FIPS_ALT: null
+WOE_ID: -26821262
+WOE_LABEL: null
+WOE_NAME: Berkshire
+LATITUDE: 51.4019
+LONGITUDE: -0.90795
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333221
+GN_NAME: District of Wokingham
+GNS_ID: 6077663
+GNS_NAME: Wokingham, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Q2
+REGION_SUB: Berkshire
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1758432
+NAME_AR: null
+NAME_BN: ওকিংহাম
+NAME_DE: Wokingham
+NAME_EN: Wokingham
+NAME_ES: Wokingham
+NAME_FR: Wokingham
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Wokingham
+NAME_JA: ウォーキンハム
+NAME_KO: 오킹엄 구
+NAME_NL: Wokingham
+NAME_PL: Wokingham
+NAME_PT: Wokingham
+NAME_RU: Уокингем
+NAME_SV: Wokingham
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 沃金厄姆區
+NE_ID: 1159317543

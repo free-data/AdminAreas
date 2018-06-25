@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CRI-1331
+DISS_ME: 1331
+ISO_3166_2: CR-SJ
+WIKIPEDIA: null
+ISO_A2: CR
+ADM0_SR: 1
+NAME: San José
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CR.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: CS08
+FIPS_ALT: null
+WOE_ID: 2345088
+WOE_LABEL: San Jose, CR, Costa Rica
+WOE_NAME: San José
+LATITUDE: 9.60369
+LONGITUDE: -84.0105
+SOV_A3: CRI
+ADM0_A3: CRI
+ADM0_LABEL: 2
+ADMIN: Costa Rica
+GEONUNIT: Costa Rica
+GU_A3: CRI
+GN_ID: 3621837
+GN_NAME: Provincia de San Jose
+GNS_ID: -1109120
+GNS_NAME: San Jose
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CS08
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q647808
+NAME_AR: محافظة سان خوسيه
+NAME_BN: স্যাান জোসে প্রদেশ
+NAME_DE: Provinz San José
+NAME_EN: San José Province
+NAME_ES: Provincia de San José
+NAME_FR: San José
+NAME_EL: Επαρχία Σαν Χοσέ
+NAME_HI: सैन जोस प्रांत
+NAME_HU: null
+NAME_ID: Provinsi San José
+NAME_IT: provincia di San José
+NAME_JA: サンホセ州
+NAME_KO: 산호세 주
+NAME_NL: San José
+NAME_PL: San José
+NAME_PT: San José
+NAME_RU: Сан-Хосе
+NAME_SV: San José
+NAME_TR: San soze Province
+NAME_VI: San José
+NAME_ZH: 圣何塞省
+NE_ID: 1159310121

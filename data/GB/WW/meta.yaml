@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2079
+DISS_ME: 2079
+ISO_3166_2: GB-WND
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Wandsworth
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.WW
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Wandsw'h
+POSTAL: WW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKP1
+WOE_ID: 12695818
+WOE_LABEL: null
+WOE_NAME: London Borough of Wandsworth
+LATITUDE: 51.4523
+LONGITUDE: -0.184208
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077657
+GNS_NAME: Wandsworth, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q210563
+NAME_AR: واندزورث
+NAME_BN: null
+NAME_DE: London Borough of Wandsworth
+NAME_EN: London Borough of Wandsworth
+NAME_ES: Municipio de Wandsworth
+NAME_FR: district londonien de Wandsworth
+NAME_EL: Δημοτικό διαμέρισμα Ουόντσουορθ
+NAME_HI: वंड्सवर्थ बरो
+NAME_HU: null
+NAME_ID: Wandsworth
+NAME_IT: Wandsworth
+NAME_JA: ワンズワース・ロンドン特別区
+NAME_KO: 완즈워스 구
+NAME_NL: Wandsworth
+NAME_PL: London Borough of Wandsworth
+NAME_PT: Wandsworth
+NAME_RU: Уондсуэрт
+NAME_SV: London Borough of Wandsworth
+NAME_TR: null
+NAME_VI: Khu Wandsworth của Luân Đôn
+NAME_ZH: 旺茲沃思區
+NE_ID: 1159312979

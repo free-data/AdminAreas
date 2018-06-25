@@ -1,0 +1,94 @@
+FEATURECLA: Admin-0 country
+SCALERANK: 0
+LABELRANK: 2
+SOVEREIGNT: South Africa
+SOV_A3: ZAF
+ADM0_DIF: 0
+LEVEL: 2
+TYPE: Sovereign country
+ADMIN: South Africa
+ADM0_A3: ZAF
+GEOU_DIF: 0
+GEOUNIT: South Africa
+GU_A3: ZAF
+SU_DIF: 0
+SUBUNIT: South Africa
+SU_A3: ZAF
+BRK_DIFF: 0
+NAME: South Africa
+NAME_LONG: South Africa
+BRK_A3: ZAF
+BRK_NAME: South Africa
+BRK_GROUP: null
+ABBREV: S.Af.
+POSTAL: ZA
+FORMAL_EN: Republic of South Africa
+FORMAL_FR: null
+NAME_CIAWF: South Africa
+NOTE_ADM0: null
+NOTE_BRK: null
+NAME_SORT: South Africa
+NAME_ALT: null
+MAPCOLOR7: 2
+MAPCOLOR8: 3
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+POP_EST: 54841552
+POP_RANK: 16
+GDP_MD_EST: 739100
+POP_YEAR: 2017
+LASTCENSUS: 2001
+GDP_YEAR: 2016
+ECONOMY: 5. Emerging region: G20
+INCOME_GRP: 3. Upper middle income
+WIKIPEDIA: -99
+FIPS_10_: SF
+ISO_A2: ZA
+ISO_A3: ZAF
+ISO_A3_EH: ZAF
+ISO_N3: 710
+UN_A3: 710
+WB_A2: ZA
+WB_A3: ZAF
+WOE_ID: 23424942
+WOE_ID_EH: 23424942
+WOE_NOTE: Exact WOE match as country
+ADM0_A3_IS: ZAF
+ADM0_A3_US: ZAF
+ADM0_A3_UN: -99
+ADM0_A3_WB: -99
+CONTINENT: Africa
+REGION_UN: Africa
+SUBREGION: Southern Africa
+REGION_WB: Sub-Saharan Africa
+NAME_LEN: 12
+LONG_LEN: 12
+ABBREV_LEN: 5
+TINY: -99
+HOMEPART: 1
+MIN_ZOOM: 0
+MIN_LABEL: 1.7
+MAX_LABEL: 6.7
+NE_ID: 1159321431
+WIKIDATAID: Q258
+NAME_AR: جنوب أفريقيا
+NAME_BN: দক্ষিণ আফ্রিকা
+NAME_DE: Südafrika
+NAME_EN: South Africa
+NAME_ES: Sudáfrica
+NAME_FR: Afrique du Sud
+NAME_EL: Νότια Αφρική
+NAME_HI: दक्षिण अफ़्रीका
+NAME_HU: Dél-afrikai Köztársaság
+NAME_ID: Afrika Selatan
+NAME_IT: Sudafrica
+NAME_JA: 南アフリカ共和国
+NAME_KO: 남아프리카 공화국
+NAME_NL: Zuid-Afrika
+NAME_PL: Południowa Afryka
+NAME_PT: África do Sul
+NAME_RU: Южно-Африканская Республика
+NAME_SV: Sydafrika
+NAME_TR: Güney Afrika Cumhuriyeti
+NAME_VI: Cộng hòa Nam Phi
+NAME_ZH: 南非

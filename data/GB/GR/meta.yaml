@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2068
+DISS_ME: 2068
+ISO_3166_2: GB-GRE
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Greenwich
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough (royal)
+TYPE_EN: London Borough (royal)
+CODE_LOCAL: null
+CODE_HASC: GB.GR
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 20037
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Gre'wich
+POSTAL: GR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKE7
+WOE_ID: 12695828
+WOE_LABEL: null
+WOE_NAME: London Borough of Greenwich
+LATITUDE: 51.4634
+LONGITUDE: 0.0473282
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077589
+GNS_NAME: Greenwich, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q693450
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Royal Borough of Greenwich
+NAME_EN: Royal Borough of Greenwich
+NAME_ES: Municipio de Greenwich
+NAME_FR: district royal de Greenwich
+NAME_EL: null
+NAME_HI: null
+NAME_HU: London Borough of Greenwich
+NAME_ID: null
+NAME_IT: Borgo reale di Greenwich
+NAME_JA: グリニッジ王室特別区
+NAME_KO: 그리니치 왕립구
+NAME_NL: London Borough of Greenwich
+NAME_PL: Royal Borough of Greenwich
+NAME_PT: Greenwich
+NAME_RU: Гринвич
+NAME_SV: Royal Borough of Greenwich
+NAME_TR: null
+NAME_VI: Khu Greenwich của Luân Đôn
+NAME_ZH: 格林威治區
+NE_ID: 1159312933

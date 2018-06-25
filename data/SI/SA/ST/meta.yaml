@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-997
+DISS_ME: 997
+ISO_3166_2: SI-127
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Štore
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.SA.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: Savinjska
+REGION_COD: null
+PROVNUM_NE: 191
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIC9
+FIPS_ALT: null
+WOE_ID: -55848343
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.1996
+LONGITUDE: 15.3276
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239200
+GN_NAME: Obcina Store
+GNS_ID: 243885
+GNS_NAME: Store, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.C9
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI20
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q392468
+NAME_AR: بلدية شتوره
+NAME_BN: স্টোর পৌরসভা
+NAME_DE: Štore
+NAME_EN: Štore Municipality
+NAME_ES: Štore
+NAME_FR: Štore
+NAME_EL: Στόρε
+NAME_HI: स्टोर नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Štore
+NAME_IT: Štore
+NAME_JA: シュトレ
+NAME_KO: 슈토레
+NAME_NL: Štore
+NAME_PL: Gmina Štore
+NAME_PT: Štore
+NAME_RU: Шторе
+NAME_SV: Store kommun
+NAME_TR: Store Belediyesi
+NAME_VI: Štore
+NAME_ZH: null
+NE_ID: 1159310797

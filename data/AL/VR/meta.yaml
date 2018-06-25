@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ALB-1504
+DISS_ME: 1504
+ISO_3166_2: AL-VL
+WIKIPEDIA: null
+ISO_A2: AL
+ADM0_SR: 1
+NAME: Vlorë
+NAME_ALT: Vlona|Vlora|Vlonë|Valona
+NAME_LOCAL: null
+TYPE: Qark|Region
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: AL.VR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: VR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: AL51
+FIPS_ALT: AL27
+WOE_ID: 29389565
+WOE_LABEL: VlorÃ«, AL, Albania
+WOE_NAME: Vlorë
+LATITUDE: 40.1908
+LONGITUDE: 19.7946
+SOV_A3: ALB
+ADM0_A3: ALB
+ADM0_LABEL: 5
+ADMIN: Albania
+GEONUNIT: Albania
+GU_A3: ALB
+GN_ID: 3344952
+GN_NAME: Qarku i Vlores
+GNS_ID: 9124414
+GNS_NAME: Vlores, Qarku i
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AL.51
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: AL51
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q192849
+NAME_AR: مقاطعة فلوره
+NAME_BN: ভ্ল ভ্লোর কাউন্টি
+NAME_DE: Qark Vlora
+NAME_EN: Vlorë County
+NAME_ES: Condado de Vlorë
+NAME_FR: préfecture de Vlorë
+NAME_EL: Νομός Αυλώνα
+NAME_HI: व्लोरे प्रांत
+NAME_HU: Vlora megye
+NAME_ID: Vlorë County
+NAME_IT: prefettura di Valona
+NAME_JA: ヴロラ州
+NAME_KO: 블로러 주
+NAME_NL: Vlorë
+NAME_PL: Obwód Wlora
+NAME_PT: Vlorë
+NAME_RU: Влёра
+NAME_SV: Vlorë prefektur
+NAME_TR: Avlonya ili
+NAME_VI: Vlorë
+NAME_ZH: 夫羅勒州
+NE_ID: 1159310597

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: VEN-26
+DISS_ME: 26
+ISO_3166_2: VE-E
+WIKIPEDIA: null
+ISO_A2: VE
+ADM0_SR: 1
+NAME: Barinas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: VE.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: VE05
+FIPS_ALT: null
+WOE_ID: 2347681
+WOE_LABEL: Barinas, VE, Venezuela
+WOE_NAME: Barinas
+LATITUDE: 8.22379
+LONGITUDE: -69.9798
+SOV_A3: VEN
+ADM0_A3: VEN
+ADM0_LABEL: 3
+ADMIN: Venezuela
+GEONUNIT: Venezuela
+GU_A3: VEN
+GN_ID: 3648544
+GN_NAME: Estado Barinas
+GNS_ID: -936610
+GNS_NAME: Barinas, Estado
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: VE.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: VE05
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q43271
+NAME_AR: ولاية باريناس
+NAME_BN: বারিনাস
+NAME_DE: Barinas
+NAME_EN: Barinas
+NAME_ES: Barinas
+NAME_FR: État de Barinas
+NAME_EL: Μπαρίνας
+NAME_HI: बरीनाज़
+NAME_HU: null
+NAME_ID: Barinas
+NAME_IT: Barinas
+NAME_JA: バリナス州
+NAME_KO: 바리나스 주
+NAME_NL: Barinas
+NAME_PL: Barinas
+NAME_PT: Barinas
+NAME_RU: Баринас
+NAME_SV: Barinas
+NAME_TR: Barinas
+NAME_VI: Barinas
+NAME_ZH: 巴里纳斯州
+NE_ID: 1159308085

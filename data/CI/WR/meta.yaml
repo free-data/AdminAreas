@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: CIV-3443
+DISS_ME: 3443
+ISO_3166_2: CI-14
+WIKIPEDIA: null
+ISO_A2: CI
+ADM0_SR: 1
+NAME: Worodougou
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CI.WR
+NOTE: Expired 2015.11.27, requires updating.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: WR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 3
+MAPCOLOR13: 3
+FIPS: IV25
+FIPS_ALT: null
+WOE_ID: 55967006
+WOE_LABEL: null
+WOE_NAME: Worodougou
+LATITUDE: 8.49071
+LONGITUDE: -6.28956
+SOV_A3: CIV
+ADM0_A3: CIV
+ADM0_LABEL: 2
+ADMIN: Ivory Coast
+GEONUNIT: Ivory Coast
+GU_A3: CIV
+GN_ID: 2597327
+GN_NAME: Worodougou
+GNS_ID: 9149760
+GNS_NAME: Worodougou, Region du
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CI.91
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: IV91
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q846056
+NAME_AR: ورودوغو
+NAME_BN: ওরংডগু
+NAME_DE: Worodougou
+NAME_EN: Worodougou
+NAME_ES: Worodougou
+NAME_FR: Worodougou
+NAME_EL: Ουοροντουγκού
+NAME_HI: वोरोडूगू
+NAME_HU: null
+NAME_ID: Worodougou
+NAME_IT: regione di Worodougou
+NAME_JA: ウォロドゥーグー州
+NAME_KO: 워로두구 주
+NAME_NL: Worodougou
+NAME_PL: Worodougou
+NAME_PT: Worodougou
+NAME_RU: Вородугу
+NAME_SV: Worodougou
+NAME_TR: Wowodougou
+NAME_VI: Worodougou
+NAME_ZH: 沃罗杜古区
+NE_ID: 1159315107

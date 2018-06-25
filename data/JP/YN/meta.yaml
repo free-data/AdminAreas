@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1861
+DISS_ME: 1861
+ISO_3166_2: JP-19
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Yamanashi
+NAME_ALT: Yamanasi
+NAME_LOCAL: 山梨県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.YN
+NOTE: null
+HASC_MAYBE: JP.AO
+REGION: Chubu
+REGION_COD: JPN-KNT
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: YN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA46
+FIPS_ALT: JA03
+WOE_ID: 2345895
+WOE_LABEL: Yamanashi Prefecture, JP, Japan
+WOE_NAME: Yamanashi
+LATITUDE: 35.6149
+LONGITUDE: 138.645
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1848649
+GN_NAME: Yamanashi-ken
+GNS_ID: -248232
+GNS_NAME: Yamanashi-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.46
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA46
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q132720
+NAME_AR: ياماناشي
+NAME_BN: য়ামানাশি প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Yamanashi
+NAME_EN: Yamanashi Prefecture
+NAME_ES: Prefectura de Yamanashi
+NAME_FR: Préfecture de Yamanashi
+NAME_EL: Γιαμανάσι
+NAME_HI: यामानाशी प्रीफेक्चर
+NAME_HU: Jamanasi prefektúra
+NAME_ID: Prefektur Yamanashi
+NAME_IT: prefettura di Yamanashi
+NAME_JA: 山梨県
+NAME_KO: 야마나시 현
+NAME_NL: Yamanashi
+NAME_PL: Prefektura Yamanashi
+NAME_PT: Yamanashi
+NAME_RU: Яманаси
+NAME_SV: Yamanashi prefektur
+NAME_TR: Yamanashi
+NAME_VI: Yamanashi
+NAME_ZH: 山梨县
+NE_ID: 1159312197

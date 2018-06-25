@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: ESP-5829
+DISS_ME: 5829
+ISO_3166_2: ES-GC
+WIKIPEDIA: null
+ISO_A2: ES
+ADM0_SR: 3
+NAME: Las Palmas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comunidad Autónoma
+TYPE_EN: Autonomous Community
+CODE_LOCAL: null
+CODE_HASC: ES.CN
+NOTE: null
+HASC_MAYBE: null
+REGION: Canary Is.
+REGION_COD: ES.CN
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 10
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 12602108
+WOE_LABEL: null
+WOE_NAME: Palmas
+LATITUDE: 27.9463
+LONGITUDE: -15.6013
+SOV_A3: ESP
+ADM0_A3: ESP
+ADM0_LABEL: 5
+ADMIN: Spain
+GEONUNIT: null
+GU_A3: null
+GN_ID: 2515271
+GN_NAME: Provincia de Las Palmas
+GNS_ID: -388527
+GNS_NAME: Las Palmas, Provincia de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: ES.GC
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: SP53
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q95080
+NAME_AR: لاس بالماس
+NAME_BN: লাস পালমাস  প্রদেশ
+NAME_DE: Provinz Las Palmas
+NAME_EN: Las Palmas Province
+NAME_ES: Provincia de Las Palmas
+NAME_FR: province de Las Palmas
+NAME_EL: Λας Πάλμας
+NAME_HI: लास पाल्मास प्रांत
+NAME_HU: Las Palmas
+NAME_ID: Provinsi Las Palmas
+NAME_IT: Provincia di Las Palmas
+NAME_JA: ラス・パルマス県
+NAME_KO: 라스팔마스 주
+NAME_NL: Las Palmas
+NAME_PL: Las Palmas
+NAME_PT: Las Palmas
+NAME_RU: Лас-Пальмас
+NAME_SV: Las Palmas
+NAME_TR: Las Palmas ili
+NAME_VI: Las Palmas
+NAME_ZH: 拉斯帕爾馬斯省
+NE_ID: 1159317831

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-3016
+DISS_ME: 3016
+ISO_3166_2: TR-27
+WIKIPEDIA: http://en.wikipedia.org/wiki/Gaziantep_Province
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Gaziantep
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.GA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20024
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: GA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU83
+FIPS_ALT: null
+WOE_ID: 2347284
+WOE_LABEL: Gaziantep, TR, Turkey
+WOE_NAME: Gaziantep
+LATITUDE: 36.9988
+LONGITUDE: 37.2462
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 314829
+GN_NAME: Gaziantep
+GNS_ID: -749277
+GNS_NAME: Gaziantep Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.83
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU83
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q483154
+NAME_AR: عنتاب
+NAME_BN: গাজিয়ান্টেপ প্রদেশ
+NAME_DE: Gaziantep
+NAME_EN: Gaziantep Province
+NAME_ES: Provincia de Gaziantep
+NAME_FR: Gaziantep
+NAME_EL: Επαρχία Γκαζιαντέπ
+NAME_HI: गज़ियांटेप प्रांत
+NAME_HU: Gaziantep
+NAME_ID: Provinsi Gaziantep
+NAME_IT: provincia di Gaziantep
+NAME_JA: ガズィアンテプ県
+NAME_KO: 가지안테프 주
+NAME_NL: Gaziantep
+NAME_PL: Gaziantep
+NAME_PT: Gaziantep
+NAME_RU: Газиантеп
+NAME_SV: Gaziantep
+NAME_TR: Gaziantep
+NAME_VI: Gaziantep
+NAME_ZH: 加济安泰普省
+NE_ID: 1159314357

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-991
+DISS_ME: 991
+ISO_3166_2: SI-112
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Slovenj Gradec
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statisticna Regije
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: SI.KO
+NOTE: null
+HASC_MAYBE: null
+REGION: Koroška
+REGION_COD: null
+PROVNUM_NE: 156
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 14
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SIC2
+FIPS_ALT: null
+WOE_ID: 55848387
+WOE_LABEL: Slovenj Gradec, SI, Slovenia
+WOE_NAME: Slovenj Gradec
+LATITUDE: 46.4914
+LONGITUDE: 15.076
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3190535
+GN_NAME: Mestna Obcina Slovenj Gradec
+GNS_ID: -96093
+GNS_NAME: Slovenj Gradec, Mestna Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.C2
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: sqi
+GNS_ADM1: SI25
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q3441817
+NAME_AR: بلدية مدينة سلوفني غراديك
+NAME_BN: স্লোভেঞ্জ গ্রাদেক শহর পৌরসভা
+NAME_DE: Gemeinde Slovenj Gradec
+NAME_EN: Slovenj Gradec City Municipality
+NAME_ES: null
+NAME_FR: Slovenj Gradec
+NAME_EL: Σλοβέντς Γκράντεκ
+NAME_HI: स्लोवेंज ग्रेडेक शहर नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Slovenj Gradec City
+NAME_IT: Comune di Slovenj Gradec City
+NAME_JA: スロヴェニ・グラデツ
+NAME_KO: 슬로벤그라데츠 도시 지방 자치제
+NAME_NL: Slovenj Gradec
+NAME_PL: Gmina miejska Slovenj Gradec
+NAME_PT: Cidade Slovenj Gradec
+NAME_RU: Словень-Градец
+NAME_SV: Slovenj Gradec City kommun
+NAME_TR: Slovenj Gradec Belediyesi
+NAME_VI: Đô thị tự trị Slovenj Gradec
+NAME_ZH: null
+NE_ID: 1159310785

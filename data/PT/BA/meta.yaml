@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-750
+DISS_ME: 750
+ISO_3166_2: PT-04
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Bragança
+NAME_ALT: Braganza
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Norte
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO05
+FIPS_ALT: null
+WOE_ID: 2346565
+WOE_LABEL: BraganÃ§a, PT, Portugal
+WOE_NAME: Bragança
+LATITUDE: 41.5188
+LONGITUDE: -6.81935
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2742026
+GN_NAME: Distrito de Braganca
+GNS_ID: -2160211
+GNS_NAME: Braganca, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO05
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q373528
+NAME_AR: محافظة براغانزا
+NAME_BN: null
+NAME_DE: Distrikt Bragança
+NAME_EN: Bragança District
+NAME_ES: Distrito de Braganza
+NAME_FR: District de Bragance
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Bragança
+NAME_ID: Distrik Bragança
+NAME_IT: distretto di Braganza
+NAME_JA: ブラガンサ県
+NAME_KO: 브라간사 현
+NAME_NL: Bragança
+NAME_PL: Dystrykt Bragança
+NAME_PT: Distrito de Bragança
+NAME_RU: Браганса
+NAME_SV: Bragança
+NAME_TR: null
+NAME_VI: Bragança
+NAME_ZH: 布拉干薩區
+NE_ID: 1159310577

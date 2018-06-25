@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: SWE-180
+DISS_ME: 180
+ISO_3166_2: SE-H
+WIKIPEDIA: null
+ISO_A2: SE
+ADM0_SR: 3
+NAME: Kalmar
+NAME_ALT: Kalmar län
+NAME_LOCAL: null
+TYPE: Laen|län
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: SE.KA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: KA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 4
+FIPS: SW09
+FIPS_ALT: null
+WOE_ID: 2347052
+WOE_LABEL: Kalmar, SE, Sweden
+WOE_NAME: Kalmar
+LATITUDE: 57.2764
+LONGITUDE: 16.0875
+SOV_A3: SWE
+ADM0_A3: SWE
+ADM0_LABEL: 2
+ADMIN: Sweden
+GEONUNIT: Sweden
+GU_A3: SWE
+GN_ID: 2702259
+GN_NAME: Kalmar Laen
+GNS_ID: -2492987
+GNS_NAME: Kalmar Lan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SE.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SW09
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q103707
+NAME_AR: مقاطعة كالمار
+NAME_BN: কাল্মার কাউন্টি
+NAME_DE: Kalmar län
+NAME_EN: Kalmar County
+NAME_ES: Provincia de Kalmar
+NAME_FR: Comté de Kalmar
+NAME_EL: κομητεία της Καλμαρς
+NAME_HI: कल्मार लैन
+NAME_HU: Kalmar megye
+NAME_ID: Daerah Kalmar
+NAME_IT: Contea di Kalmar
+NAME_JA: カルマル県
+NAME_KO: 칼마르 주
+NAME_NL: Kalmar län
+NAME_PL: Kalmar län
+NAME_PT: condado da Kalmar
+NAME_RU: Кальмар
+NAME_SV: Kalmar län
+NAME_TR: Kalmar ili
+NAME_VI: hạt Kalmar
+NAME_ZH: 卡尔马省
+NE_ID: 1159308723

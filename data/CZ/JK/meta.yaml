@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: CZE-1594
+DISS_ME: 1594
+ISO_3166_2: CZ-VY
+WIKIPEDIA: http://en.wikipedia.org/wiki/Vyso%C4%8Dina_Region
+ISO_A2: CZ
+ADM0_SR: 1
+NAME: Vysočina
+NAME_ALT: Iglau|Jihlavský|Vysocina|Vysočina
+NAME_LOCAL: null
+TYPE: Kraj
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: CZ.JK
+NOTE: null
+HASC_MAYBE: CZ.BK
+REGION: null
+REGION_COD: CZE-JHM
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: JK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: EZ80
+FIPS_ALT: EZ78
+WOE_ID: 20070467
+WOE_LABEL: VysoÄina, CZ, Czech Republic
+WOE_NAME: Vysočina
+LATITUDE: 49.4088
+LONGITUDE: 15.7721
+SOV_A3: CZE
+ADM0_A3: CZE
+ADM0_LABEL: 5
+ADMIN: Czech Republic
+GEONUNIT: Czech Republic
+GU_A3: CZE
+GN_ID: 3339538
+GN_NAME: Kraj Vysocina
+GNS_ID: 9044913
+GNS_NAME: Vysocina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CZ.80
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: EZ80
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q190930
+NAME_AR: إقليم فيسوتشنا
+NAME_BN: ভাইসোচিনা অঞ্চল
+NAME_DE: Kraj Vysočina
+NAME_EN: Vysočina Region
+NAME_ES: Región de Vysočina
+NAME_FR: région de Vysočina
+NAME_EL: Περιφέρεια Βίσοτσινα
+NAME_HI: विसोकिना क्षेत्र
+NAME_HU: Vysočina kerület
+NAME_ID: Daerah Vysočina
+NAME_IT: regione di Vysočina
+NAME_JA: ヴィソチナ州
+NAME_KO: 비소치나 주
+NAME_NL: Vysočina
+NAME_PL: Kraj Vysočina
+NAME_PT: Vysočina
+NAME_RU: Край Высочина
+NAME_SV: Vysočina
+NAME_TR: Vysocina Bölgesi
+NAME_VI: Vysočina
+NAME_ZH: 維索基納州
+NE_ID: 1159312675

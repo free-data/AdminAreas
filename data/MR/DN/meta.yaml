@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: MRT-2785
+DISS_ME: 2785
+ISO_3166_2: MR-08
+WIKIPEDIA: null
+ISO_A2: MR
+ADM0_SR: 5
+NAME: Dakhlet Nouadhibou
+NAME_ALT: Dakhlet Nouâdhibou|Baie du Lévrier|Lévrier Bay
+NAME_LOCAL: null
+TYPE: Wilayat|Région
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: MR.DN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: DN
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 18
+MAPCOLOR9: 2
+MAPCOLOR13: 1
+FIPS: MR08
+FIPS_ALT: null
+WOE_ID: 2346248
+WOE_LABEL: Dakhlet Nouadhibou, MR, Mauritania
+WOE_NAME: Dakhlet Nouadhibou
+LATITUDE: 20.8429
+LONGITUDE: -16.1354
+SOV_A3: MRT
+ADM0_A3: MRT
+ADM0_LABEL: 2
+ADMIN: Mauritania
+GEONUNIT: Mauritania
+GU_A3: MRT
+GN_ID: 2380426
+GN_NAME: Dakhlet Nouadhibou
+GNS_ID: -1399912
+GNS_NAME: Dakhlet Nouadhibou, Wilaya de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: MR08
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q859573
+NAME_AR: داخلة نواذيبو
+NAME_BN: দাখলেট নৌয়াদহিবু
+NAME_DE: Dakhlet Nouadhibou
+NAME_EN: Dakhlet Nouadhibou
+NAME_ES: Dajlet Nuadibú
+NAME_FR: Dakhlet Nouadhibou
+NAME_EL: Ντακχλέτ
+NAME_HI: दख्लेट नुआधीबू
+NAME_HU: null
+NAME_ID: Dakhlet Nouadhibou
+NAME_IT: regione di Dakhlet-Nouadhibou
+NAME_JA: ダフレト・ヌアジブ州
+NAME_KO: 다클레트누아디부 주
+NAME_NL: Dakhlet Nouadhibou
+NAME_PL: Dachlat Nawazibu
+NAME_PT: Dakhlet Nouadhibou
+NAME_RU: Дахлет-Нуадибу
+NAME_SV: Dakhlet Nouadhibou
+NAME_TR: Dakhlet Nouadhi
+NAME_VI: Dakhlet Nouadhibou
+NAME_ZH: 努瓦迪布灣省
+NE_ID: 1159313977

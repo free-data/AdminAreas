@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2554
+DISS_ME: 2554
+ISO_3166_2: PH-QUI
+WIKIPEDIA: http://en.wikipedia.org/wiki/Quirino
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Quirino
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.QR
+NOTE: null
+HASC_MAYBE: null
+REGION: Cagayan Valley (Region II)
+REGION_COD: PH-02
+PROVNUM_NE: 20092
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: QR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP68
+FIPS_ALT: null
+WOE_ID: 2346721
+WOE_LABEL: null
+WOE_NAME: Quirino
+LATITUDE: 16.2982
+LONGITUDE: 121.663
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1691975
+GN_NAME: Province of Quirino
+GNS_ID: -2447666
+GNS_NAME: Quirino, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.68
+REGION_SUB: Quirino
+SUB_CODE: RP14
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP68
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13873
+NAME_AR: كويرينو
+NAME_BN: কিরিনো
+NAME_DE: Quirino
+NAME_EN: Quirino
+NAME_ES: Quirino
+NAME_FR: Quirino
+NAME_EL: Κουιρίνο
+NAME_HI: किरीनो प्रान्त
+NAME_HU: null
+NAME_ID: Quirino
+NAME_IT: Provincia di Quirino
+NAME_JA: キリノ州
+NAME_KO: 키리노 주
+NAME_NL: Quirino
+NAME_PL: Quirino
+NAME_PT: Quirino
+NAME_RU: Кирино
+NAME_SV: Quirino
+NAME_TR: Quirino
+NAME_VI: Quirino
+NAME_ZH: 季里諾省
+NE_ID: 1159313489

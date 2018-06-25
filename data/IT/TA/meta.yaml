@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5408
+DISS_ME: 5408
+ISO_3166_2: IT-TA
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Taranto
+NAME_ALT: Apulien|Pouilles|Pouille|Puglia|Puglie
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 74
+CODE_HASC: IT.TA
+NOTE: ITF
+HASC_MAYBE: null
+REGION: Apulia
+REGION_COD: IT-75
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT13
+FIPS_ALT: null
+WOE_ID: 12591895
+WOE_LABEL: null
+WOE_NAME: Taranto
+LATITUDE: 40.6081
+LONGITUDE: 17.1095
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3165924
+GN_NAME: Provincia di Taranto
+GNS_ID: -130478
+GNS_NAME: Taranto, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.TA
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT13
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16283
+NAME_AR: مقاطعة تارانتو
+NAME_BN: টারান্টো প্রদেশ
+NAME_DE: Provinz Tarent
+NAME_EN: Province of Taranto
+NAME_ES: Tarento
+NAME_FR: province de Tarente
+NAME_EL: Τάραντας
+NAME_HI: टारंटो प्रांत
+NAME_HU: Taranto megye
+NAME_ID: Provinsi Taranto
+NAME_IT: provincia di Taranto
+NAME_JA: ターラント県
+NAME_KO: 타란토 현
+NAME_NL: Tarente
+NAME_PL: Prowincja Tarent
+NAME_PT: Taranto
+NAME_RU: Таранто
+NAME_SV: Taranto
+NAME_TR: Taranto ili
+NAME_VI: Taranto
+NAME_ZH: 塔蘭托省
+NE_ID: 1159317057

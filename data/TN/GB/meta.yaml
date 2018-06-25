@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-111
+DISS_ME: 111
+ISO_3166_2: TN-81
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Gabès
+NAME_ALT: Qābis|Gabās
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.GB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 14
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GB
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS29
+FIPS_ALT: null
+WOE_ID: 2347250
+WOE_LABEL: Qabis, TN, Tunisia
+WOE_NAME: Gabès
+LATITUDE: 33.7571
+LONGITUDE: 9.85987
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2468365
+GN_NAME: Gouvernorat de Gabes
+GNS_ID: -727789
+GNS_NAME: Gabes, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS29
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q242263
+NAME_AR: ولاية قابس
+NAME_BN: গ্যাবেজ গভর্নোরেট
+NAME_DE: Gouvernorat Gabès
+NAME_EN: Gabès Governorate
+NAME_ES: Gobernación de Gabès
+NAME_FR: gouvernorat de Gabès
+NAME_EL: Κάμπις
+NAME_HI: गेबेस
+NAME_HU: Gabès kormányzóság
+NAME_ID: Kegubernuran Gabès
+NAME_IT: governatorato di Gabès
+NAME_JA: ガベズ県
+NAME_KO: 가베스 주
+NAME_NL: Gabès
+NAME_PL: Gubernatorstwo Kabis
+NAME_PT: Gabès
+NAME_RU: Габес
+NAME_SV: Gabès
+NAME_TR: Gabes
+NAME_VI: Tỉnh Gabès
+NAME_ZH: 加貝斯省
+NE_ID: 1159309385

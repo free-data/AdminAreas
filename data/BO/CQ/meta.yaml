@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: BOL-1292
+DISS_ME: 1292
+ISO_3166_2: BO-H
+WIKIPEDIA: null
+ISO_A2: BO
+ADM0_SR: 1
+NAME: Chuquisaca
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: BO.CQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 3
+FIPS: BL01
+FIPS_ALT: null
+WOE_ID: 2344801
+WOE_LABEL: Chuquisaca, BO, Bolivia
+WOE_NAME: Chuquisaca
+LATITUDE: -20.0848
+LONGITUDE: -63.9529
+SOV_A3: BOL
+ADM0_A3: BOL
+ADM0_LABEL: 2
+ADMIN: Bolivia
+GEONUNIT: Bolivia
+GU_A3: BOL
+GN_ID: 3920177
+GN_NAME: Departamento de Chuquisaca
+GNS_ID: -684840
+GNS_NAME: Chuquisaca, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BO.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kor
+GNS_ADM1: BL01
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q235110
+NAME_AR: إدارة شوكيساكا
+NAME_BN: চুকুইসাকা বিভাগ
+NAME_DE: Chuquisaca
+NAME_EN: Chuquisaca Department
+NAME_ES: Departamento de Chuquisaca
+NAME_FR: département de Chuquisaca
+NAME_EL: Γεωγραφικό Διαμέρισμα Τσουκισάκα
+NAME_HI: चुकिसाका विभाग
+NAME_HU: null
+NAME_ID: Departemen Chuquisaca
+NAME_IT: dipartimento di Chuquisaca
+NAME_JA: チュキサカ県
+NAME_KO: 추키사카 주
+NAME_NL: Chuquisaca
+NAME_PL: Chuquisaca
+NAME_PT: Chuquisaca
+NAME_RU: Чукисака
+NAME_SV: Chuquisaca
+NAME_TR: Chuquisaca Departmanı
+NAME_VI: Khu vực hành chính Chuquisaca
+NAME_ZH: 丘基萨卡省
+NE_ID: 1159309853

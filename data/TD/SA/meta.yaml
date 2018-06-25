@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1489
+DISS_ME: 1489
+ISO_3166_2: TD-SA
+WIKIPEDIA: null
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Salamat
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD13
+FIPS_ALT: null
+WOE_ID: 2344957
+WOE_LABEL: Salamat, TD, Chad
+WOE_NAME: Salamat
+LATITUDE: 10.5811
+LONGITUDE: 20.6054
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 242048
+GN_NAME: Salamat Region
+GNS_ID: -1103388
+GNS_NAME: Salamat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD13
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q385584
+NAME_AR: منطقة سلامات
+NAME_BN: সালামাত অঞ্চল
+NAME_DE: Region Salamat
+NAME_EN: Salamat Region
+NAME_ES: Región de Salamat
+NAME_FR: Salamat
+NAME_EL: Σαλαμάτ
+NAME_HI: सलामत प्रदेश
+NAME_HU: null
+NAME_ID: Region Salamat
+NAME_IT: regione del Salamat
+NAME_JA: サラマト州
+NAME_KO: 살라마트 주
+NAME_NL: Salamat
+NAME_PL: Region Salamat
+NAME_PT: Região de Salamat
+NAME_RU: Саламат
+NAME_SV: Salamat
+NAME_TR: Salamat Bölgesi
+NAME_VI: Khu vực Salamat
+NAME_ZH: 萨拉马特区
+NE_ID: 1159311775

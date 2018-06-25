@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: HRV-1592
+DISS_ME: 1592
+ISO_3166_2: HR-18
+WIKIPEDIA: null
+ISO_A2: HR
+ADM0_SR: 1
+NAME: Istarska
+NAME_ALT: Istra
+NAME_LOCAL: null
+TYPE: Županija
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HR.IS
+NOTE: null
+HASC_MAYBE: SI.JP
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: IS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 1
+FIPS: HR04
+FIPS_ALT: SIJ9
+WOE_ID: 12577974
+WOE_LABEL: Istarska, HR, Croatia
+WOE_NAME: Istarska
+LATITUDE: 45.1248
+LONGITUDE: 13.8682
+SOV_A3: HRV
+ADM0_A3: HRV
+ADM0_LABEL: 2
+ADMIN: Croatia
+GEONUNIT: Croatia
+GU_A3: HRV
+GN_ID: 3337514
+GN_NAME: Istarska Zupanija
+GNS_ID: 9031015
+GNS_NAME: Istarska Zupanija
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HR.04
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: HR04
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q58268
+NAME_AR: مقاطعة إستريا
+NAME_BN: ইস্ত্রিয়া কাউন্টি
+NAME_DE: Gespanschaft Istrien
+NAME_EN: Istria County
+NAME_ES: Istria
+NAME_FR: Comitat d'Istrie
+NAME_EL: Ίστρια
+NAME_HI: इस्ट्रिया काउंटी
+NAME_HU: Isztria megye
+NAME_ID: Kabupaten Istria
+NAME_IT: regione istriana
+NAME_JA: イストラ郡
+NAME_KO: 이스트라 주
+NAME_NL: Istrië
+NAME_PL: Istarska županija
+NAME_PT: Condado de Ístria
+NAME_RU: Истрийская жупания
+NAME_SV: Istriens län
+NAME_TR: İstriya
+NAME_VI: Hạt Istria
+NAME_ZH: 伊斯特拉縣
+NE_ID: 1159312535

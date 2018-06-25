@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KAZ-3236
+DISS_ME: 3236
+ISO_3166_2: KZ-MAN
+WIKIPEDIA: null
+ISO_A2: KZ
+ADM0_SR: 5
+NAME: Mangghystau
+NAME_ALT: Mangistau|Mangyshlak
+NAME_LOCAL: null
+TYPE: Oblasy
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KZ.MG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 11
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: KZ09
+FIPS_ALT: null
+WOE_ID: 2345991
+WOE_LABEL: Mangghystau, KZ, Kazakhstan
+WOE_NAME: Mangghystau
+LATITUDE: 44.0351
+LONGITUDE: 53.8538
+SOV_A3: KAZ
+ADM0_A3: KAZ
+ADM0_LABEL: 2
+ADMIN: Kazakhstan
+GEONUNIT: Kazakhstan
+GU_A3: KAZ
+GN_ID: 608879
+GN_NAME: Mangistauskaya Oblast'
+GNS_ID: -2341151
+GNS_NAME: Mangistauskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KZ.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: KZ09
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q238931
+NAME_AR: أوبليس مانكيستاو
+NAME_BN: মঙ্গিস্টৌ অঞ্চল
+NAME_DE: Mangghystau
+NAME_EN: Mangystau Region
+NAME_ES: Provincia de Mangystau
+NAME_FR: Oblys de Manguistaou
+NAME_EL: Περιφέρεια Μανγκιστάου
+NAME_HI: मान्गीस्त​ऊ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Mangghystau
+NAME_IT: regione di Mangghystau
+NAME_JA: マンギスタウ州
+NAME_KO: 망기스타우 주
+NAME_NL: Oblast Mañğıstaw
+NAME_PL: Obwód mangystauski
+NAME_PT: Mangghystau
+NAME_RU: Мангистауская область
+NAME_SV: Mangghystaw
+NAME_TR: Mangistav Eyaleti
+NAME_VI: Mangistau
+NAME_ZH: 曼格斯套州
+NE_ID: 1159314605

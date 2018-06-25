@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: AGO-1879
+DISS_ME: 1879
+ISO_3166_2: AO-CUS
+WIKIPEDIA: null
+ISO_A2: AO
+ADM0_SR: 1
+NAME: Cuanza Sul
+NAME_ALT: Cuanza-Sud|Kwanza Sul
+NAME_LOCAL: null
+TYPE: Província
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AO.CS
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: CS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 1
+FIPS: AO06
+FIPS_ALT: null
+WOE_ID: 2344661
+WOE_LABEL: Cuanza Sul, AO, Angola
+WOE_NAME: Cuanza Sul
+LATITUDE: -10.9232
+LONGITUDE: 15.0504
+SOV_A3: AGO
+ADM0_A3: AGO
+ADM0_LABEL: 2
+ADMIN: Angola
+GEONUNIT: Angola
+GU_A3: AGO
+GN_ID: 3349234
+GN_NAME: Kwanza Sul
+GNS_ID: -2863447
+GNS_NAME: Kwanza Sul, Provincia do
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AO.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: AO06
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q216998
+NAME_AR: مقاطعة كوانزا سول
+NAME_BN: কুয়ানজা সুল
+NAME_DE: Provinz Cuanza Sul
+NAME_EN: Cuanza Sul
+NAME_ES: Cuanza Sur
+NAME_FR: Kwanza-Sud
+NAME_EL: Κουάνζα Σούλ
+NAME_HI: कुआंजा सुल प्रांत
+NAME_HU: null
+NAME_ID: Cuanza Sul
+NAME_IT: provincia di Cuanza Sud
+NAME_JA: クアンザ・スル州
+NAME_KO: 쿠안자술 주
+NAME_NL: Cuanza Sul
+NAME_PL: Prowincja Kwanza Południowa
+NAME_PT: Kwanza-Sul
+NAME_RU: Южная Кванза
+NAME_SV: Cuanza Sul
+NAME_TR: Cuanza Sul Bölgesi
+NAME_VI: Cuanza Sul
+NAME_ZH: 南廣薩省
+NE_ID: 1159311257

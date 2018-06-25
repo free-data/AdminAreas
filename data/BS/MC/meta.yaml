@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5021
+DISS_ME: 5021
+ISO_3166_2: BS-MC
+WIKIPEDIA: http://en.wikipedia.org/wiki/Mangrove_Cay
+ISO_A2: BS
+ADM0_SR: 4
+NAME: Mangrove Cay
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Third Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF44
+FIPS_ALT: null
+WOE_ID: 24551247
+WOE_LABEL: Mangrove Cay, BS, The Bahamas
+WOE_NAME: Mangrove Cay
+LATITUDE: 24.0806
+LONGITUDE: -77.8018
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030549
+GN_NAME: Mangrove Cay District
+GNS_ID: 11057037
+GNS_NAME: Mangrove Cay District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.44
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF44
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2702334
+NAME_AR: مانغروف كاي
+NAME_BN: ম্যানগ্রোভ কে
+NAME_DE: Mangrove Cay
+NAME_EN: Mangrove Cay
+NAME_ES: Cayo Mangrove
+NAME_FR: Mangrove Cay
+NAME_EL: Μανγκρόουβ Κέι
+NAME_HI: मैंग्रोव के
+NAME_HU: null
+NAME_ID: Mangrove Cay
+NAME_IT: Mangrove Cay
+NAME_JA: マングローブ・キー
+NAME_KO: 맹그로브케이
+NAME_NL: Mangrove Cay
+NAME_PL: Mangrove Cay
+NAME_PT: Mangrove Cay
+NAME_RU: Мангров-Ки
+NAME_SV: Mangrove Cay
+NAME_TR: Mangrove Cay
+NAME_VI: Mangrove Cay
+NAME_ZH: null
+NE_ID: 1159316259

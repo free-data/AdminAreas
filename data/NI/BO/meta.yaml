@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: NIC-668
+DISS_ME: 668
+ISO_3166_2: NI-BO
+WIKIPEDIA: null
+ISO_A2: NI
+ADM0_SR: 1
+NAME: Boaco
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NI.BO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BO
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: NU01
+FIPS_ALT: null
+WOE_ID: 2346417
+WOE_LABEL: Boaco, NI, Nicaragua
+WOE_NAME: Boaco
+LATITUDE: 12.524
+LONGITUDE: -85.4734
+SOV_A3: NIC
+ADM0_A3: NIC
+ADM0_LABEL: 2
+ADMIN: Nicaragua
+GEONUNIT: Nicaragua
+GU_A3: NIC
+GN_ID: 3620673
+GN_NAME: Departamento de Boaco
+GNS_ID: -1110338
+GNS_NAME: Boaco
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NI.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q280973
+NAME_AR: إدارة بواكو
+NAME_BN: বোয়াকু বিভাগ
+NAME_DE: Departamento Boaco
+NAME_EN: Boaco Department
+NAME_ES: Departamento de Boaco
+NAME_FR: département de Boaco
+NAME_EL: Διαμέρισμα Μποάκο
+NAME_HI: बोआको विभाग
+NAME_HU: Boaco megye
+NAME_ID: Departemen Boaco
+NAME_IT: dipartimento di Boaco
+NAME_JA: ボアコ県
+NAME_KO: 보아코 주
+NAME_NL: Boaco
+NAME_PL: Boaco
+NAME_PT: Boaco
+NAME_RU: Боако
+NAME_SV: Boaco
+NAME_TR: Boaco
+NAME_VI: Khu vực hành chính Boaco
+NAME_ZH: 博阿科省
+NE_ID: 1159309087

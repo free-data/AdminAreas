@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2306
+DISS_ME: 2306
+ISO_3166_2: RU-STA
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Stavropol'
+NAME_ALT: Stavropol'skiy Kray|Stavropolskiy Kray
+NAME_LOCAL: Ставропольский край
+TYPE: Kray
+TYPE_EN: Territory
+CODE_LOCAL: null
+CODE_HASC: RU.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20085
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS70
+FIPS_ALT: null
+WOE_ID: 2346887
+WOE_LABEL: Stavropolrskiy Kray, RU, Russia
+WOE_NAME: Stavropol'
+LATITUDE: 44.981
+LONGITUDE: 43.2791
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 487839
+GN_NAME: Stavropol'skiy Kray
+GNS_ID: -3011280
+GNS_NAME: Stavropol'skiy Kray
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.70
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS70
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5207
+NAME_AR: ستافروبول كراي
+NAME_BN: স্ট্যাভরোপোল ক্রাই
+NAME_DE: Region Stawropol
+NAME_EN: Stavropol Krai
+NAME_ES: Stávropol
+NAME_FR: Kraï de Stavropol
+NAME_EL: Κράι Σταυρούπολης
+NAME_HI: स्ताव्रोपोल क्राय
+NAME_HU: Sztavropoli határterület
+NAME_ID: Krai Stavropol
+NAME_IT: Territorio di Stavropol'
+NAME_JA: スタヴロポリ地方
+NAME_KO: 스타브로폴 지방
+NAME_NL: Kraj Stavropol
+NAME_PL: Kraj Stawropolski
+NAME_PT: Krai de Stavropol
+NAME_RU: Ставропольский край
+NAME_SV: Stavropol kraj
+NAME_TR: Stavropol Krayı
+NAME_VI: Stavropol
+NAME_ZH: 斯塔夫罗波尔边疆区
+NE_ID: 1159313147

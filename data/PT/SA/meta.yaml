@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-748
+DISS_ME: 748
+ISO_3166_2: PT-14
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Santarém
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.SA
+NOTE: null
+HASC_MAYBE: null
+REGION: Alentejo
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: SA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO18
+FIPS_ALT: null
+WOE_ID: 2346576
+WOE_LABEL: SantarÃ©m, PT, Portugal
+WOE_NAME: Santarém
+LATITUDE: 39.291
+LONGITUDE: -8.40378
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2263478
+GN_NAME: Distrito de Santarem
+GNS_ID: -2175490
+GNS_NAME: Santarem, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO18
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q244510
+NAME_AR: محافظة سانتاريم
+NAME_BN: সান্তারেম জেলা
+NAME_DE: Distrikt Santarém
+NAME_EN: Santarém District
+NAME_ES: Distrito de Santarém
+NAME_FR: District de Santarém
+NAME_EL: Σανταρέμ
+NAME_HI: सैन्तारेम जिला
+NAME_HU: Santarém
+NAME_ID: Distrik Santarém
+NAME_IT: distretto di Santarém
+NAME_JA: サンタレン県
+NAME_KO: 산타렝 현
+NAME_NL: Santarém
+NAME_PL: Dystrykt Santarém
+NAME_PT: Distrito de Santarém
+NAME_RU: Сантарен
+NAME_SV: Santarém
+NAME_TR: Santarém District
+NAME_VI: Santarém
+NAME_ZH: 聖塔倫區
+NE_ID: 1159310573

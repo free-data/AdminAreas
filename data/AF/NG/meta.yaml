@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1764
+DISS_ME: 1764
+ISO_3166_2: AF-NAN
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Nangarhar
+NAME_ALT: Ningrahar|Eastern Province
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF18
+FIPS_ALT: null
+WOE_ID: 2344564
+WOE_LABEL: Nangarhar, AF, Afghanistan
+WOE_NAME: Nangarhar
+LATITUDE: 34.2153
+LONGITUDE: 70.3027
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1132366
+GN_NAME: Nangarhar
+GNS_ID: -3385101
+GNS_NAME: Nangarhar, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF18
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q178471
+NAME_AR: ولاية ننكرهار
+NAME_BN: নানগারহর প্রদেশ
+NAME_DE: Nangarhar
+NAME_EN: Nangarhar
+NAME_ES: Provincia de Nangarhar
+NAME_FR: Nangarhâr
+NAME_EL: Νανγκαράρ
+NAME_HI: नंगरहार प्रान्त
+NAME_HU: Nangarhar
+NAME_ID: Provinsi Nangarhar
+NAME_IT: Nangarhar
+NAME_JA: ナンガルハール州
+NAME_KO: 낭가르하르 주
+NAME_NL: Nangarhar
+NAME_PL: Nangarhar
+NAME_PT: Nangarhar
+NAME_RU: Нангархар
+NAME_SV: Nangarhar
+NAME_TR: Nangarhar Vilayeti
+NAME_VI: Nangarhar
+NAME_ZH: 楠格哈尔省
+NE_ID: 1159312085

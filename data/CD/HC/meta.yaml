@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COD-1559
+DISS_ME: 1559
+ISO_3166_2: CD-OR
+WIKIPEDIA: null
+ISO_A2: CD
+ADM0_SR: 1
+NAME: Orientale
+NAME_ALT: Haut-Zaire|Haut-ZaïreUpper Zaire
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: CD.HC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 3
+ABBREV: null
+POSTAL: HC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 7
+FIPS: CG09
+FIPS_ALT: null
+WOE_ID: 2344985
+WOE_LABEL: Orientale, CD, Democratic Republic of Congo
+WOE_NAME: Orientale
+LATITUDE: 2.40438
+LONGITUDE: 26.785
+SOV_A3: COD
+ADM0_A3: COD
+ADM0_LABEL: 2
+ADMIN: Democratic Republic of the Congo
+GEONUNIT: Democratic Republic of the Congo
+GU_A3: COD
+GN_ID: 216139
+GN_NAME: Province Orientale
+GNS_ID: -2044138
+GNS_NAME: Orientale
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CD.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CG09
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q831370
+NAME_AR: أوريونتال
+NAME_BN: ওরিয়েন্টালে প্রদেশ
+NAME_DE: Orientale
+NAME_EN: Orientale Province
+NAME_ES: Provincia Oriental
+NAME_FR: Province orientale
+NAME_EL: Οριεντάλε
+NAME_HI: पूर्वी प्रान्त
+NAME_HU: Orientale tartomány
+NAME_ID: Provinsi Orientale
+NAME_IT: provincia Orientale
+NAME_JA: 東部州
+NAME_KO: 동부 주
+NAME_NL: Orientale
+NAME_PL: Prowincja Wschodnia
+NAME_PT: Orientale
+NAME_RU: Восточная провинция
+NAME_SV: Orientale
+NAME_TR: Doğu Bölgesi
+NAME_VI: Orientale
+NAME_ZH: 开赛省
+NE_ID: 1159310057

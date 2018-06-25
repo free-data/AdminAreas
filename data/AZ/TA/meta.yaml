@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: AZE-1738
+DISS_ME: 1738
+ISO_3166_2: AZ-TAR
+WIKIPEDIA: null
+ISO_A2: AZ
+ADM0_SR: 1
+NAME: Tərtər
+NAME_ALT: Tartar
+NAME_LOCAL: null
+TYPE: Rayon
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: AZ.TA
+NOTE: partially in Nagorno-Karabakh
+HASC_MAYBE: null
+REGION: Yukhari Garabakh Economic Region
+REGION_COD: AZ-07
+PROVNUM_NE: 60
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 5
+MAPCOLOR13: 8
+FIPS: AJ57
+FIPS_ALT: AJ|
+WOE_ID: 20070274
+WOE_LABEL: Tartar, AZ, Azerbaijan
+WOE_NAME: Tərtər
+LATITUDE: 40.2547
+LONGITUDE: 46.7929
+SOV_A3: AZE
+ADM0_A3: AZE
+ADM0_LABEL: 5
+ADMIN: Azerbaijan
+GEONUNIT: Azerbaijan
+GU_A3: AZE
+GN_ID: 409420
+GN_NAME: Tartar Rayon
+GNS_ID: -2707721
+GNS_NAME: Tartar Rayonu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AZ.57
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: aze
+GNS_ADM1: AJ57
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q477168
+NAME_AR: مقاطعة تارتار
+NAME_BN: তারতার জেলা
+NAME_DE: Tərtər
+NAME_EN: Tartar District
+NAME_ES: Tərtər
+NAME_FR: Tartar
+NAME_EL: Ταρτάρ
+NAME_HI: टारटर जिला
+NAME_HU: Tərtəri járás
+NAME_ID: Tartar
+NAME_IT: distretto di Tərtər
+NAME_JA: タルタル県
+NAME_KO: 테르테르 구
+NAME_NL: Tərtər
+NAME_PL: Rejon Tərtər
+NAME_PT: Tartar
+NAME_RU: Тертерский район
+NAME_SV: Tärtär
+NAME_TR: Terter Rayonu
+NAME_VI: Terter
+NAME_ZH: 泰爾泰爾區
+NE_ID: 1159312145

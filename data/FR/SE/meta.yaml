@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5342
+DISS_ME: 5342
+ISO_3166_2: FR-77
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Seien-et-Marne
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: Île-de-France
+REGION_COD: FR-J
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 14
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA8
+FIPS_ALT: null
+WOE_ID: 12597137
+WOE_LABEL: null
+WOE_NAME: Seien-et-Marne
+LATITUDE: 48.5515
+LONGITUDE: 2.84201
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2975249
+GN_NAME: Departement de Seine-et-Marne
+GNS_ID: -1470222
+GNS_NAME: Seine-et-Marne, Departement de
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA8
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12753
+NAME_AR: السان ومارن
+NAME_BN: সেইন-এট-মার্নে
+NAME_DE: Département Seine-et-Marne
+NAME_EN: Seine-et-Marne
+NAME_ES: Sena y Marne
+NAME_FR: Seine-et-Marne
+NAME_EL: Σεν-ε-Μαρν
+NAME_HI: सीन-एट-मार्न
+NAME_HU: Seine-et-Marne
+NAME_ID: Seine-et-Marne
+NAME_IT: Senna e Marna
+NAME_JA: セーヌ＝エ＝マルヌ県
+NAME_KO: 센에마른 주
+NAME_NL: Seine-et-Marne
+NAME_PL: Sekwana i Marna
+NAME_PT: Sena e Marne
+NAME_RU: Сена и Марна
+NAME_SV: Seine-et-Marne
+NAME_TR: Seine-et-Marne
+NAME_VI: Seine-et-Marne
+NAME_ZH: 塞纳-马恩省
+NE_ID: 1159313565

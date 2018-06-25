@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IDN-555
+DISS_ME: 555
+ISO_3166_2: ID-NB
+WIKIPEDIA: null
+ISO_A2: ID
+ADM0_SR: 3
+NAME: Nusa Tenggara Barat
+NAME_ALT: NTB
+NAME_LOCAL: null
+TYPE: Propinsi
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ID.NB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: NB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 19
+MAPCOLOR9: 6
+MAPCOLOR13: 11
+FIPS: ID17
+FIPS_ALT: null
+WOE_ID: 2345726
+WOE_LABEL: West Nusa Tenggara, ID, Indonesia
+WOE_NAME: Nusa Tenggara Barat
+LATITUDE: -8.57106
+LONGITUDE: 116.294
+SOV_A3: IDN
+ADM0_A3: IDN
+ADM0_LABEL: 2
+ADMIN: Indonesia
+GEONUNIT: Indonesia
+GU_A3: IDN
+GN_ID: 1633792
+GN_NAME: Propinsi Nusa Tenggara Barat
+GNS_ID: -2689595
+GNS_NAME: Nusa Tenggara Barat, Propinsi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ID.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: ID17
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q5062
+NAME_AR: نوسا تنقارا الغربية
+NAME_BN: ওয়েস্ট নুসা তেনগারা
+NAME_DE: Nusa Tenggara Barat
+NAME_EN: West Nusa Tenggara
+NAME_ES: Nusatenggara Occidental
+NAME_FR: Petites Îles de la Sonde occidentales
+NAME_EL: Γουέστ Νούσα Τενγκάρα
+NAME_HI: पश्चिम नुसा तेंगारा
+NAME_HU: null
+NAME_ID: Nusa Tenggara Barat
+NAME_IT: Nusa Tenggara Occidentale
+NAME_JA: 西ヌサ・トゥンガラ州
+NAME_KO: 누사틍가라바랏 주
+NAME_NL: Westelijke Kleine Soenda-eilanden
+NAME_PL: Małe Wyspy Sundajskie Zachodnie
+NAME_PT: Sonda Ocidental
+NAME_RU: Западная Нуса-Тенгара
+NAME_SV: Nusa Tenggara Barat
+NAME_TR: Batı Nusa Tenggara
+NAME_VI: Nusa Tenggara Barat
+NAME_ZH: 西努沙登加拉省
+NE_ID: 1159308853

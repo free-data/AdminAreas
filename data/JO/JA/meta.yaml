@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: JOR-856
+DISS_ME: 856
+ISO_3166_2: JO-JA
+WIKIPEDIA: null
+ISO_A2: JO
+ADM0_SR: 1
+NAME: Jarash
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: JO.JA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: JA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 4
+FIPS: JO22
+FIPS_ALT: JO14
+WOE_ID: 20070292
+WOE_LABEL: Jarash, JO, Jordan
+WOE_NAME: Jarash
+LATITUDE: 32.2186
+LONGITUDE: 35.856
+SOV_A3: JOR
+ADM0_A3: JOR
+ADM0_LABEL: 2
+ADMIN: Jordan
+GEONUNIT: Jordan
+GU_A3: JOR
+GN_ID: 443121
+GN_NAME: Jerash
+GNS_ID: 9022590
+GNS_NAME: Jarash
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JO.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: JO22
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q750270
+NAME_AR: جرش
+NAME_BN: জারাশ গভর্নোরেট
+NAME_DE: Gouvernement Dscharasch
+NAME_EN: Jerash Governorate
+NAME_ES: Gobernación de Gerasa
+NAME_FR: Gouvernorat de Jerash
+NAME_EL: Τζέρας
+NAME_HI: जेराश
+NAME_HU: Dzseras kormányzóság
+NAME_ID: Kegubernuran Jerash
+NAME_IT: governatorato di Jerash
+NAME_JA: ジェラシュ県
+NAME_KO: 제라시 주
+NAME_NL: Jerash
+NAME_PL: Dżarasz
+NAME_PT: Governorado de Gérasa
+NAME_RU: Джараш
+NAME_SV: Jerash
+NAME_TR: Jerash Yönetimi
+NAME_VI: Tỉnh Jerash
+NAME_ZH: 傑拉什省
+NE_ID: 1159309329

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5349
+DISS_ME: 5349
+ISO_3166_2: FR-95
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Val-d'Oise
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.VO
+NOTE: null
+HASC_MAYBE: null
+REGION: Île-de-France
+REGION_COD: FR-J
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 10
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRA8
+FIPS_ALT: null
+WOE_ID: 12597124
+WOE_LABEL: null
+WOE_NAME: Val-d'Oise
+LATITUDE: 49.0754
+LONGITUDE: 2.23366
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 2971071
+GN_NAME: Departement du Val-d'Oise
+GNS_ID: -1474418
+GNS_NAME: Val-d'Oise, Departement du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.95
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRA8
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q12784
+NAME_AR: فال دواز
+NAME_BN: ভাল-ডি'অইস
+NAME_DE: Département Val-d’Oise
+NAME_EN: Val-d'Oise
+NAME_ES: Valle del Oise
+NAME_FR: Val-d'Oise
+NAME_EL: Βαλ-ντ'Ουάζ
+NAME_HI: वेल-डी'ओइस
+NAME_HU: Val-d’Oise
+NAME_ID: Val-d'Oise
+NAME_IT: Val-d'Oise
+NAME_JA: ヴァル＝ドワーズ県
+NAME_KO: 발두아즈 주
+NAME_NL: Val-d'Oise
+NAME_PL: Val-d'Oise
+NAME_PT: Val-d'Oise
+NAME_RU: Валь-д’Уаз
+NAME_SV: Val-d'Oise
+NAME_TR: Val-d'Oise
+NAME_VI: Val-d'Oise
+NAME_ZH: 瓦勒德瓦兹省
+NE_ID: 1159316789

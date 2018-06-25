@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-331
+DISS_ME: 331
+ISO_3166_2: UA-23
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Zaporizhzhya
+NAME_ALT: Saporoshje|Zaporizhia|Zaporiz'ka Oblast'|Zaporojie|Zaporozhskaya Oblast'|Zaporozh'ye|Zaporožje
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.ZP
+NOTE: null
+HASC_MAYBE: UA.DP|UKR-ZPR
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: ZP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP26
+FIPS_ALT: UP26|UP04
+WOE_ID: 2347557
+WOE_LABEL: Zaporizhia Oblast, UA, Ukraine
+WOE_NAME: Zaporizhzhya
+LATITUDE: 47.3346
+LONGITUDE: 35.7123
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 687699
+GN_NAME: Zaporiz'ka Oblast'
+GNS_ID: -1060169
+GNS_NAME: Zaporiz'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.26
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UP26
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q171334
+NAME_AR: زابوروجييه أوبلاست
+NAME_BN: জ্যাপরিঝিঝিয়া ওব্লাস্ট
+NAME_DE: Oblast Saporischschja
+NAME_EN: Zaporizhzhya Oblast
+NAME_ES: Óblast de Zaporiyia
+NAME_FR: Oblast de Zaporijia
+NAME_EL: Ζαποριζγία Ομπλάστ
+NAME_HI: ज़ैपोरिझ्झया ओब्लास्ट
+NAME_HU: Zaporizzsjai terület
+NAME_ID: Oblast Zaporizhia
+NAME_IT: Oblast' di Zaporižžja
+NAME_JA: ザポリージャ州
+NAME_KO: 자포리자 주
+NAME_NL: Oblast Zaporizja
+NAME_PL: Obwód zaporoski
+NAME_PT: Oblast de Zaporíjia
+NAME_RU: Запорожская область
+NAME_SV: Zaporizjzja oblast
+NAME_TR: Zaporijya Oblastı
+NAME_VI: Zaporizhia
+NAME_ZH: 扎波羅熱州
+NE_ID: 1159309637

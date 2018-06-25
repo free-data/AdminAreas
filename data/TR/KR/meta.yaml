@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-3012
+DISS_ME: 3012
+ISO_3166_2: TR-70
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Karaman
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.KR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20063
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU78
+FIPS_ALT: null
+WOE_ID: 2347328
+WOE_LABEL: Karaman, TR, Turkey
+WOE_NAME: Karaman
+LATITUDE: 37.2262
+LONGITUDE: 33.3026
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 443187
+GN_NAME: Karaman
+GNS_ID: 9035014
+GNS_NAME: Karaman Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.78
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU78
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q482975
+NAME_AR: كارامان
+NAME_BN: ক্যারাম্যান প্রদেশ
+NAME_DE: Karaman
+NAME_EN: Karaman Province
+NAME_ES: Provincia de Karaman
+NAME_FR: Karaman
+NAME_EL: Επαρχία Καραμάν
+NAME_HI: कारमन जिला
+NAME_HU: Karaman
+NAME_ID: Provinsi Karaman
+NAME_IT: provincia di Karaman
+NAME_JA: カラマン県
+NAME_KO: 카라만 주
+NAME_NL: Karaman
+NAME_PL: Karaman
+NAME_PT: Karaman
+NAME_RU: Караман
+NAME_SV: Karaman
+NAME_TR: Karaman
+NAME_VI: Karaman
+NAME_ZH: 卡拉曼省
+NE_ID: 1159314353

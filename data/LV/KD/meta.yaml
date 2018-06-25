@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5709
+DISS_ME: 5709
+ISO_3166_2: LV-050
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Kuldigas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.KD
+NOTE: null
+HASC_MAYBE: null
+REGION: Kurzeme
+REGION_COD: K
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: K
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LG86
+FIPS_ALT: null
+WOE_ID: -2346029
+WOE_LABEL: Kuldigas Rajons, LV, Latvia
+WOE_NAME: Kurzeme
+LATITUDE: 56.9626
+LONGITUDE: 21.9858
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 458459
+GN_NAME: Kuldigas Rajons
+GNS_ID: 10970050
+GNS_NAME: Kuldigas Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.15
+REGION_SUB: Kurzeme
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG86
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2337188
+NAME_AR: بلدية كولديغا
+NAME_BN: কুলদিগা পৌরসভা
+NAME_DE: Bezirk Kuldīga
+NAME_EN: Kuldīga Municipality
+NAME_ES: Municipalidad de Kuldīga
+NAME_FR: Kuldīga
+NAME_EL: Κουλντίγκα
+NAME_HI: कुलदीगा नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Kuldīga
+NAME_IT: Comune di Kuldīga
+NAME_JA: クルディーガ
+NAME_KO: 쿨디가 시
+NAME_NL: Kuldīgas novads
+NAME_PL: Gmina Kuldīga
+NAME_PT: Kuldiga
+NAME_RU: Кулдигский край
+NAME_SV: Kuldiga kommun
+NAME_TR: Kuldiga Belediyesi
+NAME_VI: Đô thị tự trị Kuldiga
+NAME_ZH: null
+NE_ID: 1159311047

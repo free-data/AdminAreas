@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3220
+DISS_ME: 3220
+ISO_3166_2: IR-20
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Lorestan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.LO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20023
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR23
+FIPS_ALT: null
+WOE_ID: 2345782
+WOE_LABEL: Lorestan, IR, Iran
+WOE_NAME: Lorestan
+LATITUDE: 33.5323
+LONGITUDE: 48.4141
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 125605
+GN_NAME: Ostan-e Lorestan
+GNS_ID: -3073213
+GNS_NAME: Lorestan, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR23
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1131727
+NAME_AR: لرستان
+NAME_BN: লোরেস্তন প্রদেশ
+NAME_DE: Lorestan
+NAME_EN: Lorestan Province
+NAME_ES: Lorestán
+NAME_FR: Lorestan
+NAME_EL: Λορεστάν
+NAME_HI: लूरिस्तान
+NAME_HU: Loresztán tartomány
+NAME_ID: Provinsi Lorestān
+NAME_IT: Lorestan
+NAME_JA: ロレスターン州
+NAME_KO: 로레스탄 주
+NAME_NL: Lorestan
+NAME_PL: Lorestan
+NAME_PT: Lorestão
+NAME_RU: Лурестан
+NAME_SV: Lorestan
+NAME_TR: Luristan Eyaleti
+NAME_VI: Lorestan
+NAME_ZH: 洛雷斯坦省
+NE_ID: 1159314287

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: PRY-608
+DISS_ME: 608
+ISO_3166_2: PY-4
+WIKIPEDIA: null
+ISO_A2: PY
+ADM0_SR: 1
+NAME: Guairá
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PY.GU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 9
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 2
+FIPS: PA10
+FIPS_ALT: null
+WOE_ID: 2346456
+WOE_LABEL: GuairÃ¡, PY, Paraguay
+WOE_NAME: Guairá
+LATITUDE: -25.8137
+LONGITUDE: -56.1486
+SOV_A3: PRY
+ADM0_A3: PRY
+ADM0_LABEL: 2
+ADMIN: Paraguay
+GEONUNIT: Paraguay
+GU_A3: PRY
+GN_ID: 3438049
+GN_NAME: Departamento del Guaira
+GNS_ID: -911531
+GNS_NAME: Guaira, Departamento del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PY.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PA10
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q755116
+NAME_AR: غوايرا
+NAME_BN: গোয়াইরা
+NAME_DE: Departamento Guairá
+NAME_EN: Guairá Department
+NAME_ES: Guairá
+NAME_FR: Guairá
+NAME_EL: Γκουαϊρά
+NAME_HI: गुयारा विभाग
+NAME_HU: Guairá megye
+NAME_ID: Departemen Guairá
+NAME_IT: Guairá
+NAME_JA: グアイラー県
+NAME_KO: 과이라 주
+NAME_NL: Guairá
+NAME_PL: Guairá
+NAME_PT: Guairá
+NAME_RU: Гуайра
+NAME_SV: Guairá
+NAME_TR: Guaira
+NAME_VI: Guaira
+NAME_ZH: 瓜伊拉省
+NE_ID: 1159307789

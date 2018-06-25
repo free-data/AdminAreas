@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2389
+DISS_ME: 2389
+ISO_3166_2: RU-CU
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Chuvash
+NAME_ALT: Chuvashskaya A.S.S.R.|Chuvashskaya Respublika|Chuvashiya|Chuvash Republic
+NAME_LOCAL: Чувашская Республика
+TYPE: Respublika
+TYPE_EN: Republic
+CODE_LOCAL: null
+CODE_HASC: RU.CV
+NOTE: null
+HASC_MAYBE: null
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 20078
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: CV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS16
+FIPS_ALT: null
+WOE_ID: 2346869
+WOE_LABEL: Chuvashiya, RU, Russia
+WOE_NAME: Chuvash
+LATITUDE: 55.4883
+LONGITUDE: 47.1662
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 567395
+GN_NAME: Chuvashskaya Respublika
+GNS_ID: -2900046
+GNS_NAME: Chuvashskaya Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.16
+REGION_SUB: Volga-Vyatka
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: RS16
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5466
+NAME_AR: تشوفاشيا
+NAME_BN: চুভাস রিপাবলিক
+NAME_DE: Tschuwaschien
+NAME_EN: Chuvash Republic
+NAME_ES: Chuvasia
+NAME_FR: Tchouvachie
+NAME_EL: Τσουβασία
+NAME_HI: चुवैश गणतंत्र
+NAME_HU: Csuvasföld
+NAME_ID: Chuvashia
+NAME_IT: Ciuvascia
+NAME_JA: チュヴァシ共和国
+NAME_KO: 추바시 공화국
+NAME_NL: Tsjoevasjië
+NAME_PL: Czuwaszja
+NAME_PT: Chuváchia
+NAME_RU: Чувашия
+NAME_SV: Tjuvasjien
+NAME_TR: Çuvaşistan
+NAME_VI: Chuvashia
+NAME_ZH: 楚瓦什共和国
+NE_ID: 1159313205

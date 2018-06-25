@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ISL-697
+DISS_ME: 697
+ISO_3166_2: IS-5
+WIKIPEDIA: null
+ISO_A2: IS
+ADM0_SR: 1
+NAME: Norðurland vestra
+NAME_ALT: Northwest
+NAME_LOCAL: null
+TYPE: Landsvæði
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: IS.NV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: IS.NV
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: NV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 17
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: IC41
+FIPS_ALT: null
+WOE_ID: -99
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 65.1515
+LONGITUDE: -19.7011
+SOV_A3: ISL
+ADM0_A3: ISL
+ADM0_LABEL: 2
+ADMIN: Iceland
+GEONUNIT: Iceland
+GU_A3: ISL
+GN_ID: 3337403
+GN_NAME: Nordurland Vestra
+GNS_ID: 6261166
+GNS_NAME: Nordhurland Vestra
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IS.41
+REGION_SUB: Norðurland vestra
+SUB_CODE: IC41
+GNS_LEVEL: 1
+GNS_LANG: isl
+GNS_ADM1: IC41
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q210866
+NAME_AR: الإقليم الشمالي الغربي
+NAME_BN: নর্থ ওয়েস্টার্ন অঞ্চল
+NAME_DE: Norðurland vestra
+NAME_EN: Northwestern Region
+NAME_ES: Norðurland Vestra
+NAME_FR: Norðurland vestra
+NAME_EL: Βορειοδυτική Ισλανδία
+NAME_HI: उत्तर पश्चिमी क्षेत्र
+NAME_HU: null
+NAME_ID: Norðurland vestra
+NAME_IT: Norðurland vestra
+NAME_JA: 北アイスランド西部
+NAME_KO: 노르뒤를란드 베스트라
+NAME_NL: Norðurland vestra
+NAME_PL: Okręg Północno-Zachodni
+NAME_PT: Norðurland Vestra
+NAME_RU: Нордурланд Вестра
+NAME_SV: Norðurland vestra
+NAME_TR: Kuzey Batı Bölgesi
+NAME_VI: Khu vực Tây Bắc
+NAME_ZH: 西北區
+NE_ID: 1159311119

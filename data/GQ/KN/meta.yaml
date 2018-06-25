@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNQ-1469
+DISS_ME: 1469
+ISO_3166_2: GQ-KN
+WIKIPEDIA: null
+ISO_A2: GQ
+ADM0_SR: 1
+NAME: Kié-Ntem
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: GQ.KN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: KN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 8
+FIPS: EK07
+FIPS_ALT: null
+WOE_ID: 20069851
+WOE_LABEL: null
+WOE_NAME: Kie-Ntem
+LATITUDE: 2.04853
+LONGITUDE: 10.8707
+SOV_A3: GNQ
+ADM0_A3: GNQ
+ADM0_LABEL: 5
+ADMIN: Equatorial Guinea
+GEONUNIT: Equatorial Guinea
+GU_A3: GNQ
+GN_ID: 2566981
+GN_NAME: Provincia de Kie-Ntem
+GNS_ID: 53705
+GNS_NAME: Kie-Ntem
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GQ.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: EK07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q853393
+NAME_AR: محافظة كيي - نتم
+NAME_BN: কিন্টেম প্রদেশ
+NAME_DE: Kié-Ntem
+NAME_EN: Kié-Ntem Province
+NAME_ES: Provincia Kié-Ntem
+NAME_FR: Kié-Ntem
+NAME_EL: Κιε-Ντεμ
+NAME_HI: काई-टेम प्रांत
+NAME_HU: Kié-Ntem tartomány
+NAME_ID: Provinsi Kié-Ntem
+NAME_IT: provincia Kié-Ntem
+NAME_JA: キエンテム県
+NAME_KO: 키에은템 주
+NAME_NL: Kié-Ntem
+NAME_PL: Kié-Ntem
+NAME_PT: Kié-Ntem
+NAME_RU: Ке-Нтем
+NAME_SV: Provincia de Kié-Ntem
+NAME_TR: Kié-Ntem Province
+NAME_VI: Tỉnh Kié-Ntem
+NAME_ZH: 基埃恩特姆省
+NE_ID: 1159310013

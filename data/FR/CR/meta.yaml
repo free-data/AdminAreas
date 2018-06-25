@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5284
+DISS_ME: 5284
+ISO_3166_2: FR-23
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Creuse
+NAME_ALT: Lemosin
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.CR
+NOTE: null
+HASC_MAYBE: null
+REGION: Limousin
+REGION_COD: FR-L
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 6
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FRB1
+FIPS_ALT: null
+WOE_ID: 12597164
+WOE_LABEL: null
+WOE_NAME: Creuse
+LATITUDE: 46.0705
+LONGITUDE: 2.04281
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3022516
+GN_NAME: Departement de la Creuse
+GNS_ID: -1422833
+GNS_NAME: Creuse, Departement de la
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FRB1
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q3353
+NAME_AR: كروز
+NAME_BN: ক্রুজ
+NAME_DE: Département Creuse
+NAME_EN: Creuse
+NAME_ES: Creuse
+NAME_FR: Creuse
+NAME_EL: Κρεζ
+NAME_HI: क्रूसे
+NAME_HU: Creuse
+NAME_ID: Creuse
+NAME_IT: Creuse
+NAME_JA: クルーズ県
+NAME_KO: 크뢰즈 주
+NAME_NL: Creuse
+NAME_PL: Creuse
+NAME_PT: Creuse
+NAME_RU: Крёз
+NAME_SV: Creuse
+NAME_TR: Creuse
+NAME_VI: Creuse
+NAME_ZH: 克勒兹省
+NE_ID: 1159316889

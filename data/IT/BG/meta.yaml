@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5443
+DISS_ME: 5443
+ISO_3166_2: IT-BG
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 1
+NAME: Bergamo
+NAME_ALT: Lombardy|Lombardei|Lombardie
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 24
+CODE_HASC: IT.BG
+NOTE: ITC
+HASC_MAYBE: null
+REGION: Lombardia
+REGION_COD: IT-25
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: BG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT09
+FIPS_ALT: null
+WOE_ID: 12591880
+WOE_LABEL: null
+WOE_NAME: Bergamo
+LATITUDE: 45.8097
+LONGITUDE: 9.77093
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3182163
+GN_NAME: Provincia di Bergamo
+GNS_ID: -111475
+GNS_NAME: Bergamo, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.BG
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT09
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16137
+NAME_AR: مقاطعة بيرغامو
+NAME_BN: বেরগামো প্রদেশ
+NAME_DE: Provinz Bergamo
+NAME_EN: Province of Bergamo
+NAME_ES: Bérgamo
+NAME_FR: Province de Bergame
+NAME_EL: Επαρχία του Μπέργκαμο
+NAME_HI: बर्गेमो प्रांत
+NAME_HU: Bergamo megye
+NAME_ID: Provinsi Bergamo
+NAME_IT: provincia di Bergamo
+NAME_JA: ベルガモ県
+NAME_KO: 베르가모 현
+NAME_NL: Bergamo
+NAME_PL: Prowincja Bergamo
+NAME_PT: Bérgamo
+NAME_RU: Бергамо
+NAME_SV: Bergamo
+NAME_TR: Bergamo ili
+NAME_VI: Bergamo
+NAME_ZH: 貝加莫省
+NE_ID: 1159310917

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-286
+DISS_ME: 286
+ISO_3166_2: UA-56
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Rivne
+NAME_ALT: Rovno|Rivnens'ka Oblast'|Rovenskaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.RV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: RV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP19
+FIPS_ALT: UP19
+WOE_ID: 2347551
+WOE_LABEL: Rivne Oblast, UA, Ukraine
+WOE_NAME: Rivne
+LATITUDE: 51.048
+LONGITUDE: 26.3841
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 695592
+GN_NAME: Rivnens'ka Oblast'
+GNS_ID: -1052249
+GNS_NAME: Rivnens'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP19
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q174187
+NAME_AR: ريفنا أوبلاست
+NAME_BN: রিভনে ওব্লাস্ট
+NAME_DE: Oblast Riwne
+NAME_EN: Rivne Oblast
+NAME_ES: Óblast de Rivne
+NAME_FR: Oblast de Rivne
+NAME_EL: Ρίβνε Όμπλαστ
+NAME_HI: रिव्ने ओब्लास्ट
+NAME_HU: null
+NAME_ID: Oblast Rivne
+NAME_IT: Oblast' di Rivne
+NAME_JA: リウネ州
+NAME_KO: 리우네 주
+NAME_NL: Oblast Rivne
+NAME_PL: Obwód rówieński
+NAME_PT: Oblast de Rivne
+NAME_RU: Ровненская область
+NAME_SV: Rivne oblast
+NAME_TR: Rivne Oblastı
+NAME_VI: Rivne
+NAME_ZH: 羅夫諾州
+NE_ID: 1159309591

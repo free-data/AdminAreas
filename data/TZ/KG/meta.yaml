@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: TZA-3360
+DISS_ME: 3360
+ISO_3166_2: TZ-05
+WIKIPEDIA: null
+ISO_A2: TZ
+ADM0_SR: 1
+NAME: Kagera
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TZ.KG
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: TZ19
+FIPS_ALT: null
+WOE_ID: 2347370
+WOE_LABEL: Kagera, TZ, Tanzania
+WOE_NAME: Kagera
+LATITUDE: -1.77904
+LONGITUDE: 31.2578
+SOV_A3: TZA
+ADM0_A3: TZA
+ADM0_LABEL: 2
+ADMIN: United Republic of Tanzania
+GEONUNIT: Tanzania
+GU_A3: TZA
+GN_ID: 148679
+GN_NAME: Kagera Region
+GNS_ID: -2574875
+GNS_NAME: Kagera, Mkoa wa
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TZ.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: swa
+GNS_ADM1: TZ19
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q309190
+NAME_AR: إقليم كاجيرا
+NAME_BN: কাগেরা অঞ্চল
+NAME_DE: Kagera
+NAME_EN: Kagera Region
+NAME_ES: Región de Kagera
+NAME_FR: Kagera
+NAME_EL: Καγκέρα
+NAME_HI: कगेरा प्रदेश
+NAME_HU: null
+NAME_ID: Region Kagera
+NAME_IT: regione del Kagera
+NAME_JA: カゲラ州
+NAME_KO: 카게라 주
+NAME_NL: Kagera
+NAME_PL: Kagera
+NAME_PT: Kagera
+NAME_RU: Кагера
+NAME_SV: Kagera
+NAME_TR: Kagera Bölgesi
+NAME_VI: Kagera
+NAME_ZH: 卡蓋拉區
+NE_ID: 1159315015

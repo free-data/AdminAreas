@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1289
+DISS_ME: 1289
+ISO_3166_2: EC-N
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 1
+NAME: Napo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.NA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 12
+DATARANK: 7
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2345220
+WOE_LABEL: Tungurahua, EC, Ecuador
+WOE_NAME: Napo
+LATITUDE: -1.2733
+LONGITUDE: -78.5209
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3650445
+GN_NAME: Provincia del Tungurahua
+GNS_ID: -934602
+GNS_NAME: Tungurahua, Provincia del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC19
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q211900
+NAME_AR: مقاطعة نابو
+NAME_BN: ন্যাপো প্রদেশ
+NAME_DE: Provinz Napo
+NAME_EN: Napo Province
+NAME_ES: Provincia de Napo
+NAME_FR: Napo
+NAME_EL: Νάπο
+NAME_HI: नापो प्रांत
+NAME_HU: Napo tartomány
+NAME_ID: Provinsi Napo
+NAME_IT: provincia del Napo
+NAME_JA: ナポ県
+NAME_KO: 나포 주
+NAME_NL: Napo
+NAME_PL: Prowincja Napo
+NAME_PT: Napo
+NAME_RU: Напо
+NAME_SV: Napo
+NAME_TR: Napo Province
+NAME_VI: Tỉnh Napo
+NAME_ZH: 纳波省
+NE_ID: 1159310001

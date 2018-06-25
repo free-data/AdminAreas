@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-159
+DISS_ME: 159
+ISO_3166_2: CH-GE
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Genève
+NAME_ALT: Cenevre|Genebra|Geneve|Geneva|Genevra|Genf|Ginebra|Ginevra
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.GE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: GE
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ07
+FIPS_ALT: null
+WOE_ID: 2347089
+WOE_LABEL: Canton of Geneva, CH, Switzerland
+WOE_NAME: Genève
+LATITUDE: 46.237
+LONGITUDE: 6.11764
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2660645
+GN_NAME: Canton de Geneve
+GNS_ID: -2552152
+GNS_NAME: Geneve, Canton de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.GE
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11917
+NAME_AR: كانتون جنيف
+NAME_BN: null
+NAME_DE: Kanton Genf
+NAME_EN: Canton of Geneva
+NAME_ES: Cantón de Ginebra
+NAME_FR: canton de Genève
+NAME_EL: null
+NAME_HI: जनीवा कैन्टन
+NAME_HU: Genf kanton
+NAME_ID: Kanton Jenewa
+NAME_IT: Canton Ginevra
+NAME_JA: ジュネーヴ州
+NAME_KO: 제네바 주
+NAME_NL: Genève
+NAME_PL: Genewa
+NAME_PT: Genebra
+NAME_RU: Женева
+NAME_SV: Genève
+NAME_TR: Cenevre
+NAME_VI: Genève
+NAME_ZH: 日內瓦州
+NE_ID: 1159307651

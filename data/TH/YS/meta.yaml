@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-428
+DISS_ME: 428
+ISO_3166_2: TH-35
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Yasothon
+NAME_ALT: null
+NAME_LOCAL: จังหวัดยโสธร
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.YS
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 68
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: YS
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH72
+FIPS_ALT: null
+WOE_ID: 2347195
+WOE_LABEL: Yasothon, TH, Thailand
+WOE_NAME: Yasothon
+LATITUDE: 16.0225
+LONGITUDE: 104.324
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1604767
+GN_NAME: Changwat Yasothon
+GNS_ID: -3257561
+GNS_NAME: Yasothon, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.72
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH72
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q506598
+NAME_AR: محافظة ياسوثون
+NAME_BN: ইয়াসোথোন
+NAME_DE: Yasothon
+NAME_EN: Yasothon
+NAME_ES: Provincia de Yasothon
+NAME_FR: Yasothon
+NAME_EL: Γιάσοθον
+NAME_HI: यसोथोन प्रान्त
+NAME_HU: null
+NAME_ID: Yasothon
+NAME_IT: provincia di Yasothon
+NAME_JA: ヤソートーン県
+NAME_KO: 야소톤 주
+NAME_NL: Changwat Yasothon
+NAME_PL: Prowincja Yasothon
+NAME_PT: Yasothon
+NAME_RU: Ясотхон
+NAME_SV: Yasothon
+NAME_TR: Yasothon
+NAME_VI: Yasothon
+NAME_ZH: 益梭通府
+NE_ID: 1159308223

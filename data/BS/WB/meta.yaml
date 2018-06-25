@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: BHS-5011
+DISS_ME: 5011
+ISO_3166_2: BS-WG
+WIKIPEDIA: http://en.wikipedia.org/wiki/West_Grand_Bahama
+ISO_A2: BS
+ADM0_SR: 4
+NAME: West Grand Bahama
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Second Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.WB
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: WG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 17
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF54
+FIPS_ALT: null
+WOE_ID: 24551257
+WOE_LABEL: West Grand Bahama, BS, The Bahamas
+WOE_NAME: West Grand Bahama
+LATITUDE: 26.6389
+LONGITUDE: -78.9085
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030559
+GN_NAME: West Grand Bahama District
+GNS_ID: 11057072
+GNS_NAME: West Grand Bahama District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.54
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF54
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2702338
+NAME_AR: ويست غراند بهاما
+NAME_BN: পশ্চিম গ্রান্ড বাহামা
+NAME_DE: West Grand Bahama
+NAME_EN: West Grand Bahama
+NAME_ES: West Grand Bahama
+NAME_FR: West Grand Bahama
+NAME_EL: Γουέστ Γκραντ Μπαχάμα
+NAME_HI: वेस्ट ग्रैंड बहामा
+NAME_HU: null
+NAME_ID: Grand Bahama Barat
+NAME_IT: West Grand Bahama
+NAME_JA: ウェスト・グランド・バハマ
+NAME_KO: 웨스트그랜드바하마
+NAME_NL: West Grand Bahama
+NAME_PL: West Grand Bahama
+NAME_PT: West Grand Bahama
+NAME_RU: Вест-Гранд-Багама
+NAME_SV: West Grand Bahama District
+NAME_TR: West Grand Bahama
+NAME_VI: Tây Grand Bahama
+NAME_ZH: 西大巴哈馬島區
+NE_ID: 1159316237

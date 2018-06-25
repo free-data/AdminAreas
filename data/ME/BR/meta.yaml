@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MNE-1509
+DISS_ME: 1509
+ISO_3166_2: ME-03
+WIKIPEDIA: null
+ISO_A2: ME
+ADM0_SR: 1
+NAME: Berane
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opština
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: ME.BR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MJ00
+FIPS_ALT: null
+WOE_ID: 29389228
+WOE_LABEL: Berane, ME, Montenegro
+WOE_NAME: Berane
+LATITUDE: 42.8198
+LONGITUDE: 19.9003
+SOV_A3: MNE
+ADM0_A3: MNE
+ADM0_LABEL: 5
+ADMIN: Montenegro
+GEONUNIT: Montenegro
+GU_A3: MNE
+GN_ID: 3199070
+GN_NAME: Opstina Berane
+GNS_ID: -83023
+GNS_NAME: Berane, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ME.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ita
+GNS_ADM1: MJ00
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q4853794
+NAME_AR: بلدية بيراني
+NAME_BN: বেরানে পৌরসভা
+NAME_DE: Berane
+NAME_EN: Berane Municipality
+NAME_ES: Municipio de Berane
+NAME_FR: Berane
+NAME_EL: Μπεράνε
+NAME_HI: बिरेन नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Berane
+NAME_IT: Berane
+NAME_JA: ベラネ
+NAME_KO: 베라네 지방 자치제
+NAME_NL: Berane
+NAME_PL: Berane
+NAME_PT: Berane
+NAME_RU: Беране
+NAME_SV: Berane kommun
+NAME_TR: Berane Municipality
+NAME_VI: Đô thị tự trị Berane
+NAME_ZH: null
+NE_ID: 1159310617

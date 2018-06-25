@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-911
+DISS_ME: 911
+ISO_3166_2: NO-16
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 4
+NAME: Sør-Trøndelag
+NAME_ALT: Soer-Troendelag fylke|Søndre Trondhjem|Suður-Þrændalög
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.ST
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: ST
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO16
+FIPS_ALT: null
+WOE_ID: 2346399
+WOE_LABEL: Sor-Trondelag, NO, Norway
+WOE_NAME: Sør-Trøndelag
+LATITUDE: 62.9613
+LONGITUDE: 10.6956
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3137400
+GN_NAME: Sor-Trondelag Fylke
+GNS_ID: -280471
+GNS_NAME: Sor-Trondelag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO16
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50628
+NAME_AR: سور ترونديلاغ
+NAME_BN: সোর-ট্রোডালেগ
+NAME_DE: Sør-Trøndelag
+NAME_EN: Sør-Trøndelag
+NAME_ES: Sør-Trøndelag
+NAME_FR: comté de Sør-Trøndelag
+NAME_EL: Σορ-Τροντελάγκ
+NAME_HI: सुर-त्रोंदेलाग
+NAME_HU: Sør-Trøndelag megye
+NAME_ID: Sør-Trøndelag
+NAME_IT: Sør-Trøndelag
+NAME_JA: ソール・トロンデラーグ県
+NAME_KO: 쇠르트뢰넬라그 주
+NAME_NL: Sør-Trøndelag
+NAME_PL: Sør-Trøndelag
+NAME_PT: Sør-Trøndelag
+NAME_RU: Сёр-Трёнделаг
+NAME_SV: Sør-Trøndelag fylke
+NAME_TR: Sør-Trøndelag
+NAME_VI: Sør-Trøndelag
+NAME_ZH: 南特伦德拉格郡
+NE_ID: 1159311113

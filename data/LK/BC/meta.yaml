@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LKA-2452
+DISS_ME: 2452
+ISO_3166_2: LK-51
+WIKIPEDIA: null
+ISO_A2: LK
+ADM0_SR: 5
+NAME: Maḍakalapuva
+NAME_ALT: Batticaloa
+NAME_LOCAL: null
+TYPE: Distrikkaya
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: LK.BC
+NOTE: null
+HASC_MAYBE: null
+REGION: Næ̆gĕnahira paḷāta
+REGION_COD: LK-5
+PROVNUM_NE: 20003
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: BC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 9
+FIPS: CE04
+FIPS_ALT: null
+WOE_ID: 23706508
+WOE_LABEL: null
+WOE_NAME: Batticaloa
+LATITUDE: 7.85079
+LONGITUDE: 81.4613
+SOV_A3: LKA
+ADM0_A3: LKA
+ADM0_LABEL: 2
+ADMIN: Sri Lanka
+GEONUNIT: Sri Lanka
+GU_A3: LKA
+GN_ID: 1250159
+GN_NAME: Batticaloa District
+GNS_ID: -2213708
+GNS_NAME: Batticaloa District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: LK.1250159
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: CE37
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q810960
+NAME_AR: مديرية باتيكالوا
+NAME_BN: null
+NAME_DE: Batticaloa
+NAME_EN: Batticaloa District
+NAME_ES: Distrito de Batticaloa
+NAME_FR: Batticaloa
+NAME_EL: null
+NAME_HI: बट्टिकलोआ जिला
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Distretto di Batticaloa
+NAME_JA: バッティカロア県
+NAME_KO: 바티칼로아 구
+NAME_NL: Batticaloa
+NAME_PL: Madakalapuwa
+NAME_PT: null
+NAME_RU: Баттикалоа
+NAME_SV: Batticaloa District
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 拜蒂克洛區
+NE_ID: 1159311383

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3089
+DISS_ME: 3089
+ISO_3166_2: UG-103
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Kiboga
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.QO
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: UGA-NRB
+PROVNUM_NE: 20071
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: KG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UG42
+FIPS_ALT: null
+WOE_ID: -20070426
+WOE_LABEL: Kiboga, UG, Uganda
+WOE_NAME: Kiboga
+LATITUDE: 0.841246
+LONGITUDE: 31.9587
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 443344
+GN_NAME: Kiboga District
+GNS_ID: 9050426
+GNS_NAME: Kiboga District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.42
+REGION_SUB: null
+SUB_CODE: UG22
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: UG42
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q892064
+NAME_AR: مقاطعة كيبوغا
+NAME_BN: কিবোগা জেলা
+NAME_DE: Kiboga-Distrikt
+NAME_EN: Kiboga District
+NAME_ES: Distrito de Kiboga
+NAME_FR: Kiboga
+NAME_EL: Κιμπόγκα
+NAME_HI: किबोगा जिला
+NAME_HU: null
+NAME_ID: Distrik Kiboga
+NAME_IT: Kiboga
+NAME_JA: キボガ県
+NAME_KO: 키보가 구
+NAME_NL: Kiboga
+NAME_PL: Dystrykt Kiboga
+NAME_PT: Kiboga
+NAME_RU: Кибога
+NAME_SV: Kibogadistriktet
+NAME_TR: Kiboga District
+NAME_VI: Quận Kiboga
+NAME_ZH: 基博加區
+NE_ID: 1159313681

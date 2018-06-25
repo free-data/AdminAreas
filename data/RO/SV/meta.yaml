@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: ROU-311
+DISS_ME: 311
+ISO_3166_2: RO-SV
+WIKIPEDIA: null
+ISO_A2: RO
+ADM0_SR: 1
+NAME: Suceava
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Judet
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: RO.SV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: SV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: RO34
+FIPS_ALT: null
+WOE_ID: 2346647
+WOE_LABEL: Suceava, RO, Romania
+WOE_NAME: Suceava
+LATITUDE: 47.2144
+LONGITUDE: 25.8089
+SOV_A3: ROU
+ADM0_A3: ROU
+ADM0_LABEL: 2
+ADMIN: Romania
+GEONUNIT: Romania
+GU_A3: ROU
+GN_ID: 665849
+GN_NAME: Judetul Suceava
+GNS_ID: -1171646
+GNS_NAME: Suceava, Judetul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RO.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: RO34
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q181209
+NAME_AR: إقليم سوتشيافا
+NAME_BN: সুচিভা কাউন্টি
+NAME_DE: Kreis Suceava
+NAME_EN: Suceava County
+NAME_ES: Suceava
+NAME_FR: Județ de Suceava
+NAME_EL: Σουκεάβα
+NAME_HI: सुसेवा काउंटी
+NAME_HU: Suceava megye
+NAME_ID: Provinsi Suceava
+NAME_IT: distretto di Suceava
+NAME_JA: スチャヴァ県
+NAME_KO: 수체아바 주
+NAME_NL: District Suceava
+NAME_PL: Okręg Suczawa
+NAME_PT: Suceava
+NAME_RU: Сучава
+NAME_SV: Suceava
+NAME_TR: Suceava ili
+NAME_VI: Hạt Suceava
+NAME_ZH: 蘇恰瓦縣
+NE_ID: 1159308835

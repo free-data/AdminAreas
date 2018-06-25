@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2556
+DISS_ME: 2556
+ISO_3166_2: PH-TAR
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tarlac
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Tarlac
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.TR
+NOTE: null
+HASC_MAYBE: null
+REGION: Central Luzon (Region III)
+REGION_COD: PH-03
+PROVNUM_NE: 20084
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: TR
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP63
+FIPS_ALT: null
+WOE_ID: 2346716
+WOE_LABEL: null
+WOE_NAME: Tarlac
+LATITUDE: 15.4733
+LONGITUDE: 120.463
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1682811
+GN_NAME: Province of Tarlac
+GNS_ID: -2456912
+GNS_NAME: Tarlac, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.63
+REGION_SUB: Tarlac
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP63
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13892
+NAME_AR: تارلاك
+NAME_BN: টারলার্ক
+NAME_DE: Tarlac
+NAME_EN: Tarlac
+NAME_ES: Tarlac
+NAME_FR: Tarlac
+NAME_EL: Ταρλάκ
+NAME_HI: तरलाक प्रान्त
+NAME_HU: null
+NAME_ID: Tarlac
+NAME_IT: Provincia di Tarlac
+NAME_JA: タルラック州
+NAME_KO: 타를라크 주
+NAME_NL: Tarlac
+NAME_PL: Tarlac
+NAME_PT: Tarlac
+NAME_RU: Тарлак
+NAME_SV: Tarlac
+NAME_TR: Tarlac
+NAME_VI: Tarlac
+NAME_ZH: 丹轆省
+NE_ID: 1159313493

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: BRA-625
+DISS_ME: 625
+ISO_3166_2: BR-ES
+WIKIPEDIA: null
+ISO_A2: BR
+ADM0_SR: 1
+NAME: Espírito Santo
+NAME_ALT: Espiritu Santo
+NAME_LOCAL: null
+TYPE: Estado
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: BR.ES
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: E.S.
+POSTAL: ES
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 14
+MAPCOLOR9: 5
+MAPCOLOR13: 7
+FIPS: BR08
+FIPS_ALT: null
+WOE_ID: 2344851
+WOE_LABEL: Espirito Santo, BR, Brazil
+WOE_NAME: Espírito Santo
+LATITUDE: -19.6916
+LONGITUDE: -40.5436
+SOV_A3: BRA
+ADM0_A3: BRA
+ADM0_LABEL: 2
+ADMIN: Brazil
+GEONUNIT: Brazil
+GU_A3: BRA
+GN_ID: 3463930
+GN_NAME: Estado do Espirito Santo
+GNS_ID: -641383
+GNS_NAME: Espirito Santo, Estado de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BR.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: BR08
+GNS_REGION: null
+MIN_LABEL: 3.7
+MAX_LABEL: 8.5
+MIN_ZOOM: 3
+WIKIDATAID: Q43233
+NAME_AR: إسبيريتو سانتو
+NAME_BN: এস্পিরিতো স্যান্টো
+NAME_DE: Espírito Santo
+NAME_EN: Espírito Santo
+NAME_ES: Espírito Santo
+NAME_FR: Espírito Santo
+NAME_EL: Εσπιρίτο Σάντο
+NAME_HI: एस्पिरितो सान्तो
+NAME_HU: Espírito Santo
+NAME_ID: Espírito Santo
+NAME_IT: Espírito Santo
+NAME_JA: エスピリトサント州
+NAME_KO: 이스피리투산투 주
+NAME_NL: Espírito Santo
+NAME_PL: Espírito Santo
+NAME_PT: Espírito Santo
+NAME_RU: Эспириту-Санту
+NAME_SV: Espírito Santo
+NAME_TR: Espírito Santo
+NAME_VI: Espírito Santo
+NAME_ZH: 圣埃斯皮里图州
+NE_ID: 1159307929

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: TUN-116
+DISS_ME: 116
+ISO_3166_2: TN-53
+WIKIPEDIA: null
+ISO_A2: TN
+ADM0_SR: 1
+NAME: Mahdia
+NAME_ALT: Al Madīyah|Al Mahdiyya|Mahdiâh
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: Governorate
+CODE_LOCAL: null
+CODE_HASC: TN.MH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: MH
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 3
+MAPCOLOR13: 2
+FIPS: TS15
+FIPS_ALT: null
+WOE_ID: 2347240
+WOE_LABEL: Al Mahdiyah, TN, Tunisia
+WOE_NAME: Mahdia
+LATITUDE: 35.3594
+LONGITUDE: 10.6621
+SOV_A3: TUN
+ADM0_A3: TUN
+ADM0_LABEL: 2
+ADMIN: Tunisia
+GEONUNIT: Tunisia
+GU_A3: TUN
+GN_ID: 2473574
+GN_NAME: Gouvernorat de Mahdia
+GNS_ID: -722529
+GNS_NAME: Mahdia, Gouvernorat de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TN.15
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TS15
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q328164
+NAME_AR: ولاية المهدية
+NAME_BN: মাহদিয়া গভর্নোরেট
+NAME_DE: Gouvernorat Mahdia
+NAME_EN: Mahdia Governorate
+NAME_ES: Gobernación de Mahdia
+NAME_FR: gouvernorat de Mahdia
+NAME_EL: Αλ Μαντίγια
+NAME_HI: महदिया गवर्नरेट
+NAME_HU: null
+NAME_ID: Kegubernuran Mahdia
+NAME_IT: governatorato di Mahdia
+NAME_JA: マーディア県
+NAME_KO: 마디아 주
+NAME_NL: Mahdia
+NAME_PL: Gubernatorstwo Al-Mahdija
+NAME_PT: Mahdia
+NAME_RU: Махдия
+NAME_SV: Mahdia
+NAME_TR: Mehdiye ili
+NAME_VI: Tỉnh Mahdia
+NAME_ZH: 馬赫迪耶省
+NE_ID: 1159309393

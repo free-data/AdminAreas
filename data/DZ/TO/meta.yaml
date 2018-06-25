@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: DZA-2197
+DISS_ME: 2197
+ISO_3166_2: DZ-15
+WIKIPEDIA: null
+ISO_A2: DZ
+ADM0_SR: 1
+NAME: Tizi Ouzou
+NAME_ALT: Tizi-ouzou|Tizi Wezzu
+NAME_LOCAL: ولاية غليزان
+TYPE: Wilaya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: DZ.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 5
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: AG14
+FIPS_ALT: null
+WOE_ID: 2344588
+WOE_LABEL: Tizi Ouzou, DZ, Algeria
+WOE_NAME: Tizi Ouzou
+LATITUDE: 36.6814
+LONGITUDE: 4.19086
+SOV_A3: DZA
+ADM0_A3: DZA
+ADM0_LABEL: 2
+ADMIN: Algeria
+GEONUNIT: Algeria
+GU_A3: DZA
+GN_ID: 2475741
+GN_NAME: Wilaya de Tizi Ouzou
+GNS_ID: -490236
+GNS_NAME: Tizi Ouzou
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: DZ.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: AG14
+GNS_REGION: 7
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q233645
+NAME_AR: ولاية تيزي وزو
+NAME_BN: তিজি ওউজু প্রদেশ
+NAME_DE: Tizi Ouzou
+NAME_EN: Tizi Ouzou Province
+NAME_ES: Provincia de Tizi Ouzou
+NAME_FR: wilaya de Tizi Ouzou
+NAME_EL: Τιζί Ουζού
+NAME_HI: तिज़ि ओउज़ोउ प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Tizi Ouzou
+NAME_IT: provincia di Tizi Ouzou
+NAME_JA: ティジ・ウズー県
+NAME_KO: 티지우주 주
+NAME_NL: Tizi Ouzou
+NAME_PL: Prowincja Tizi Wuzu
+NAME_PT: Tizi Ouzou
+NAME_RU: Тизи-Узу
+NAME_SV: Tizi Ouzou
+NAME_TR: Tizi Vuzu Vilayeti
+NAME_VI: Tizi Ouzou
+NAME_ZH: 提济乌祖省
+NE_ID: 1159311929

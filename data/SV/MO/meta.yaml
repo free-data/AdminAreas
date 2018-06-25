@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1351
+DISS_ME: 1351
+ISO_3166_2: SV-MO
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: Morazán
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.MO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES08
+FIPS_ALT: null
+WOE_ID: 2345299
+WOE_LABEL: MorazÃ¡n, SV, El Salvador
+WOE_NAME: Morazán
+LATITUDE: 13.7736
+LONGITUDE: -88.1055
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3584317
+GN_NAME: Departamento de Morazan
+GNS_ID: -1147125
+GNS_NAME: Morazan
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES08
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1122836
+NAME_AR: إدارة مورازان
+NAME_BN: মুরাজান বিভাগ
+NAME_DE: Departamento Morazán
+NAME_EN: Morazán Department
+NAME_ES: Morazán
+NAME_FR: département de Morazán
+NAME_EL: Διαμέρισμα Μοραζάν
+NAME_HI: मोरसान
+NAME_HU: Morazán megye
+NAME_ID: Departemen Morazán
+NAME_IT: dipartimento di Morazán
+NAME_JA: モラサン県
+NAME_KO: 모라산 주
+NAME_NL: Morazán
+NAME_PL: Morazán
+NAME_PT: Morazán
+NAME_RU: Морасан
+NAME_SV: Morazan Department
+NAME_TR: Morazan Departmanı
+NAME_VI: Khu vực hành chính Morazán
+NAME_ZH: 莫拉桑省
+NE_ID: 1159309055

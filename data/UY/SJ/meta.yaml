@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: URY-5
+DISS_ME: 5
+ISO_3166_2: UY-SJ
+WIKIPEDIA: null
+ISO_A2: UY
+ADM0_SR: 1
+NAME: San José
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: UY.SJ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SJ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: UY16
+FIPS_ALT: null
+WOE_ID: 2347655
+WOE_LABEL: San JosÃ©, UY, Uruguay
+WOE_NAME: San José
+LATITUDE: -34.3117
+LONGITUDE: -56.7651
+SOV_A3: URY
+ADM0_A3: URY
+ADM0_LABEL: 2
+ADMIN: Uruguay
+GEONUNIT: Uruguay
+GU_A3: URY
+GN_ID: 3440645
+GN_NAME: Departamento de San Jose
+GNS_ID: -908697
+GNS_NAME: San Jose, Departamento de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UY.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: UY16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q16579
+NAME_AR: إدارة سان خوسيه
+NAME_BN: সানা জুসে বিভাগ
+NAME_DE: Departamento San José
+NAME_EN: San José Department
+NAME_ES: Departamento de San José
+NAME_FR: San José
+NAME_EL: Σαν Χοσέ
+NAME_HI: सैन जोस विभाग
+NAME_HU: San José megye
+NAME_ID: Departemen San José
+NAME_IT: dipartimento di San José
+NAME_JA: サン・ホセ県
+NAME_KO: 산호세 주
+NAME_NL: San José
+NAME_PL: San José
+NAME_PT: San José
+NAME_RU: Сан-Хосе
+NAME_SV: San José
+NAME_TR: San Jose Departmanı
+NAME_VI: San José
+NAME_ZH: 圣何塞省
+NE_ID: 1159307727

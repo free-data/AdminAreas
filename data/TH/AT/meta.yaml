@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-406
+DISS_ME: 406
+ISO_3166_2: TH-15
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Ang Thong
+NAME_ALT: null
+NAME_LOCAL: จังหวัดอ่างทอง
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.AT
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 54
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AT
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH35
+FIPS_ALT: null
+WOE_ID: 2347160
+WOE_LABEL: Ang Thong, TH, Thailand
+WOE_NAME: Ang Thong
+LATITUDE: 14.6335
+LONGITUDE: 100.357
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1621034
+GN_NAME: Changwat Ang Thong
+GNS_ID: -3232491
+GNS_NAME: Ang Thong, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.35
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH35
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q243795
+NAME_AR: محافظة أنغ ثونغ
+NAME_BN: আং তাং
+NAME_DE: Ang Thong
+NAME_EN: Ang Thong
+NAME_ES: Provincia de Ang Thong
+NAME_FR: Ang Thong
+NAME_EL: Ανγκ Θονγκ
+NAME_HI: आंग थोंग प्रान्त
+NAME_HU: null
+NAME_ID: Ang Thong
+NAME_IT: provincia di Ang Thong
+NAME_JA: アーントーン県
+NAME_KO: 앙통 주
+NAME_NL: Changwat Ang Thong
+NAME_PL: Prowincja Ang Thong
+NAME_PT: Ang Thong
+NAME_RU: Ангтхонг
+NAME_SV: Ang Thong
+NAME_TR: Ang Thong
+NAME_VI: Ang Thong
+NAME_ZH: 紅統府
+NE_ID: 1159308175

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2555
+DISS_ME: 2555
+ISO_3166_2: PH-BAN
+WIKIPEDIA: http://en.wikipedia.org/wiki/Bataan
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Bataan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: Central Luzon (Region III)
+REGION_COD: PH-03
+PROVNUM_NE: 20095
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP07
+FIPS_ALT: null
+WOE_ID: 2346662
+WOE_LABEL: null
+WOE_NAME: Bataan
+LATITUDE: 14.6561
+LONGITUDE: 120.42
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1726347
+GN_NAME: Province of Bataan
+GNS_ID: -2412973
+GNS_NAME: Bataan, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.07
+REGION_SUB: Bataan
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP07
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13739
+NAME_AR: باتان
+NAME_BN: বাতান
+NAME_DE: Bataan
+NAME_EN: Bataan
+NAME_ES: Bataán
+NAME_FR: Bataan
+NAME_EL: Μπαταάν
+NAME_HI: बाताआन प्रान्त
+NAME_HU: null
+NAME_ID: Bataan
+NAME_IT: Provincia di Bataan
+NAME_JA: バターン州
+NAME_KO: 바탄 주
+NAME_NL: Bataan
+NAME_PL: Bataan
+NAME_PT: Bataan
+NAME_RU: Батаан
+NAME_SV: Bataan
+NAME_TR: Bataan
+NAME_VI: Bataan
+NAME_ZH: 巴丹省
+NE_ID: 1159313491

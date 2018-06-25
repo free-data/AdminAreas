@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: NER-4859
+DISS_ME: 4859
+ISO_3166_2: NE-6
+WIKIPEDIA: http://en.wikipedia.org/wiki/Tillab%C3%A9ri_Region
+ISO_A2: NE
+ADM0_SR: 1
+NAME: Tillabéri
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Département
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: NE.TL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: TL
+AREA_SQKM: 0
+SAMEASCITY: 0
+LABELRANK: 6
+NAME_LEN: 9
+MAPCOLOR9: 3
+MAPCOLOR13: 13
+FIPS: NG09
+FIPS_ALT: NG05|NG08
+WOE_ID: 20069995
+WOE_LABEL: Tillaberi, NE, Niger
+WOE_NAME: Tillaberi
+LATITUDE: 13.8777
+LONGITUDE: 2.19539
+SOV_A3: NER
+ADM0_A3: NER
+ADM0_LABEL: 2
+ADMIN: Niger
+GEONUNIT: Niger
+GU_A3: NER
+GN_ID: 2595293
+GN_NAME: Tillaberi Region
+GNS_ID: 9076729
+GNS_NAME: Tillaberi
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NE.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: NG09
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q861914
+NAME_AR: تيلابيري
+NAME_BN: তিল্ল্যাবেরি অঞ্চল
+NAME_DE: Tillabéri
+NAME_EN: Tillabéri Region
+NAME_ES: Región de Tillabéri
+NAME_FR: Tillabéri
+NAME_EL: Τιλαμπέρι
+NAME_HI: टिलाबेरी प्रदेश
+NAME_HU: null
+NAME_ID: Tillabéri
+NAME_IT: regione di Tillabéri
+NAME_JA: ティラベリ州
+NAME_KO: 틸라베리 주
+NAME_NL: Tillabéri
+NAME_PL: Region Tillabéri
+NAME_PT: Tillabéri
+NAME_RU: Тиллабери
+NAME_SV: Tillaberi
+NAME_TR: Tillabéri
+NAME_VI: Khu vực Tillabéri
+NAME_ZH: 蒂拉贝里大区
+NE_ID: 1159315951

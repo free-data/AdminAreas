@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3070
+DISS_ME: 3070
+ISO_3166_2: UG-314
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Amolatar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.AT
+NOTE: null
+HASC_MAYBE: UG.AT
+REGION: Northern
+REGION_COD: UGA-BUS
+PROVNUM_NE: 20054
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: KO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGB7
+FIPS_ALT: null
+WOE_ID: 56190195
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 1.57677
+LONGITUDE: 32.6461
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056275
+GN_NAME: Amolatar District
+GNS_ID: 10540237
+GNS_NAME: Amolatar District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.B7
+REGION_SUB: null
+SUB_CODE: UG05
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1318822
+NAME_AR: مقاطعة أمولاتار
+NAME_BN: আমোলাতার জেলা
+NAME_DE: Distrikt Amolatar
+NAME_EN: Amolatar District
+NAME_ES: Distrito de Amolatar
+NAME_FR: Amolatar
+NAME_EL: Αμολατάρ
+NAME_HI: अमोलातार जिला
+NAME_HU: null
+NAME_ID: Distrik Amolatar
+NAME_IT: Amolatar
+NAME_JA: アモラタル県
+NAME_KO: 아몰라타르 구
+NAME_NL: Amolatar
+NAME_PL: Dystrykt Amolatar
+NAME_PT: Distrito de Amolatar
+NAME_RU: Амолатар
+NAME_SV: Amolatar
+NAME_TR: Amolatar District
+NAME_VI: Quận Amolatar
+NAME_ZH: 阿莫拉塔爾區
+NE_ID: 1159311313

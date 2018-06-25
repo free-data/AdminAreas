@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: IRN-3215
+DISS_ME: 3215
+ISO_3166_2: IR-12
+WIKIPEDIA: null
+ISO_A2: IR
+ADM0_SR: 1
+NAME: Semnan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Ostan
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IR.SM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20016
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SM
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 4
+MAPCOLOR13: 13
+FIPS: IR25
+FIPS_ALT: null
+WOE_ID: 2345784
+WOE_LABEL: Semnan, IR, Iran
+WOE_NAME: Semnan
+LATITUDE: 35.4243
+LONGITUDE: 54.4381
+SOV_A3: IRN
+ADM0_A3: IRN
+ADM0_LABEL: 2
+ADMIN: Iran
+GEONUNIT: Iran
+GU_A3: IRN
+GN_ID: 116401
+GN_NAME: Ostan-e Semnan
+GNS_ID: -3083473
+GNS_NAME: Semnan, Ostan-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IR.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: IR25
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q168949
+NAME_AR: سمنان
+NAME_BN: সেম্‌নন প্রদেশ
+NAME_DE: Semnan
+NAME_EN: Semnan Province
+NAME_ES: Semnán
+NAME_FR: province de Semnan
+NAME_EL: Επαρχία Σεμνάν
+NAME_HI: सेमनान प्रांत
+NAME_HU: Szemnán tartomány
+NAME_ID: Provinsi Semnān
+NAME_IT: provincia di Semnan
+NAME_JA: セムナーン州
+NAME_KO: 셈난 주
+NAME_NL: Semnan
+NAME_PL: Semnan
+NAME_PT: Semnan
+NAME_RU: Семнан
+NAME_SV: Semnan
+NAME_TR: Simnan Eyaleti
+NAME_VI: null
+NAME_ZH: 塞姆南省
+NE_ID: 1159314277

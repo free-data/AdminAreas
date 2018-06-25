@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: BHS-5019
+DISS_ME: 5019
+ISO_3166_2: BS-NS
+WIKIPEDIA: http://en.wikipedia.org/wiki/North_Andros
+ISO_A2: BS
+ADM0_SR: 4
+NAME: North Andros
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Second Schedule District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BS.NN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 0
+DATARANK: 10
+ABBREV: null
+POSTAL: NS
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 12
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: BF47
+FIPS_ALT: null
+WOE_ID: 24551250
+WOE_LABEL: North Andros, BS, The Bahamas
+WOE_NAME: North Andros
+LATITUDE: 24.8276
+LONGITUDE: -77.9976
+SOV_A3: BHS
+ADM0_A3: BHS
+ADM0_LABEL: 2
+ADMIN: The Bahamas
+GEONUNIT: The Bahamas
+GU_A3: BHS
+GN_ID: 8030552
+GN_NAME: North Andros District
+GNS_ID: 11057040
+GNS_NAME: North Andros District
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BS.47
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: BF47
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q2699411
+NAME_AR: شمال أندروس
+NAME_BN: উত্তর আন্ড্রস
+NAME_DE: North Andros
+NAME_EN: North Andros
+NAME_ES: Andros Norte
+NAME_FR: North Andros
+NAME_EL: Νορθ Άντρος
+NAME_HI: उत्तर एंड्रोस
+NAME_HU: null
+NAME_ID: North Andros
+NAME_IT: North Andros
+NAME_JA: ノース・アンドロス
+NAME_KO: 노스안드로스
+NAME_NL: North Andros
+NAME_PL: North Andros
+NAME_PT: North Andros
+NAME_RU: Северный Андрос
+NAME_SV: North Andros District
+NAME_TR: Kuzey Andros
+NAME_VI: Bắc Andros
+NAME_ZH: null
+NE_ID: 1159316255

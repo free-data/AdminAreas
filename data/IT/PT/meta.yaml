@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ITA-5384
+DISS_ME: 5384
+ISO_3166_2: IT-PT
+WIKIPEDIA: null
+ISO_A2: IT
+ADM0_SR: 5
+NAME: Pistoia
+NAME_ALT: Tuscany|Toscane|Toskana
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: 51
+CODE_HASC: IT.PT
+NOTE: ITE
+HASC_MAYBE: null
+REGION: Toscana
+REGION_COD: IT-52
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: PT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: IT16
+FIPS_ALT: null
+WOE_ID: 12591864
+WOE_LABEL: null
+WOE_NAME: Pistoia
+LATITUDE: 43.9481
+LONGITUDE: 10.8592
+SOV_A3: ITA
+ADM0_A3: ITA
+ADM0_LABEL: 2
+ADMIN: Italy
+GEONUNIT: Italy
+GU_A3: ITA
+GN_ID: 3170620
+GN_NAME: Provincia di Pistoia
+GNS_ID: -124952
+GNS_NAME: Pistoia, Provincia di
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IT.PT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: IT16
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q16245
+NAME_AR: مقاطعة بستويا
+NAME_BN: পিস্টোরিয়া-র প্রদেশ
+NAME_DE: Provinz Pistoia
+NAME_EN: Province of Pistoia
+NAME_ES: Pistoia
+NAME_FR: Province de Pistoia
+NAME_EL: Πιστόια
+NAME_HI: पिस्टोआ प्रांत
+NAME_HU: Pistoia megye
+NAME_ID: Provinsi Pistoia
+NAME_IT: provincia di Pistoia
+NAME_JA: ピストイア県
+NAME_KO: 피스토이아 현
+NAME_NL: Pistoia
+NAME_PL: Prowincja Pistoia
+NAME_PT: Pistoia
+NAME_RU: Пистойя
+NAME_SV: Pistoia
+NAME_TR: Pistoia ili
+NAME_VI: Pistoia
+NAME_ZH: 皮斯托亞省
+NE_ID: 1159316999

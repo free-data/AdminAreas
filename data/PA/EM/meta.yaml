@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PAN-3455
+DISS_ME: 3455
+ISO_3166_2: PA-EM
+WIKIPEDIA: null
+ISO_A2: PA
+ADM0_SR: 1
+NAME: Emberá
+NAME_ALT: Emberá-Wounaan
+NAME_LOCAL: null
+TYPE: Comarca Indígena
+TYPE_EN: Indigenous Territory
+CODE_LOCAL: null
+CODE_HASC: PA.EM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 14
+DATARANK: 8
+ABBREV: null
+POSTAL: EM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: PM05
+FIPS_ALT: null
+WOE_ID: 28358286
+WOE_LABEL: EmberÃ¡, PA, Panama
+WOE_NAME: Emberá
+LATITUDE: 7.86013
+LONGITUDE: -78.1396
+SOV_A3: PAN
+ADM0_A3: PAN
+ADM0_LABEL: 2
+ADMIN: Panama
+GEONUNIT: Panama
+GU_A3: PAN
+GN_ID: 7303686
+GN_NAME: Embera-Wounaan
+GNS_ID: 11058142
+GNS_NAME: Embera-Wounaan, Comarca de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PA.11
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: PM11
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q1141041
+NAME_AR: كوماركا امبيرا-وونان
+NAME_BN: এম্বেরা-উনান কামারক্যা
+NAME_DE: Emberá-Wounaan
+NAME_EN: Emberá-Wounaan Comarca
+NAME_ES: Emberá-Wounaan
+NAME_FR: Comarca Emberá-Wounaan
+NAME_EL: Εμπερά-Γουναάν
+NAME_HI: एम्बेरा-वूनान कोमारका
+NAME_HU: null
+NAME_ID: Emberá-Wounaan Comarca
+NAME_IT: Emberá-Wounaan
+NAME_JA: エンベラ自治区
+NAME_KO: 엠베라워우난 특구
+NAME_NL: Emberá-Wounaan
+NAME_PL: Emberá-Wounaan
+NAME_PT: Emberá
+NAME_RU: Эмбера-Воунаан
+NAME_SV: Emberá-Wounaan
+NAME_TR: Embera-Wounaa Comarca
+NAME_VI: Emberá-Wounaan Comarca
+NAME_ZH: 安貝拉自治區
+NE_ID: 1159315095

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5692
+DISS_ME: 5692
+ISO_3166_2: GB-DUD
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Dudley
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.DY
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: GB.WM
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: W Mid
+POSTAL: WM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKD7
+FIPS_ALT: null
+WOE_ID: -12602191
+WOE_LABEL: null
+WOE_NAME: West Midlands
+LATITUDE: 52.4728
+LONGITUDE: -2.1138
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333144
+GN_NAME: Borough of Dudley
+GNS_ID: 6077586
+GNS_NAME: Dudley, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.D7
+REGION_SUB: West Midlands
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1617704
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Metropolitan Borough of Dudley
+NAME_EN: Dudley
+NAME_ES: null
+NAME_FR: district métropolitain de Dudley
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Dudley
+NAME_JA: メトロポリタン・バラ・オブ・ダドリー
+NAME_KO: 더들리 도시 자치구
+NAME_NL: Dudley
+NAME_PL: Metropolitan Borough of Dudley
+NAME_PT: null
+NAME_RU: Дадли
+NAME_SV: Dudley
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 達德利區
+NE_ID: 1159317529

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1648
+DISS_ME: 1648
+ISO_3166_2: MD-TE
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Teleneşti
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.TE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 36
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: TE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD91
+FIPS_ALT: null
+WOE_ID: 55948204
+WOE_LABEL: Telenesti, MD, Moldova
+WOE_NAME: Teleneşti
+LATITUDE: 47.566
+LONGITUDE: 28.4349
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 617255
+GN_NAME: Raionul Telenesti
+GNS_ID: -2277453
+GNS_NAME: Telenesti, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.91
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD91
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2129025
+NAME_AR: مقاطعة تيلينيشتي
+NAME_BN: তেলেনেস্তি জেলা
+NAME_DE: Rajon Telenești
+NAME_EN: Telenești District
+NAME_ES: Distrito de Teleneşti
+NAME_FR: Raion de Telenești
+NAME_EL: Τελενέστι
+NAME_HI: टेलेनेस्टी जिला
+NAME_HU: null
+NAME_ID: Raionul Teleneşti
+NAME_IT: distretto di Telenești
+NAME_JA: テレネシュティ県
+NAME_KO: 텔레네슈티 구
+NAME_NL: Telenești
+NAME_PL: Rejon Teleneşti
+NAME_PT: Teleneşti
+NAME_RU: Теленештский район
+NAME_SV: Teleneşti
+NAME_TR: Teleneşti District
+NAME_VI: Quận Telenesti
+NAME_ZH: 泰萊內什蒂區
+NE_ID: 1159312625

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: TUR-2300
+DISS_ME: 2300
+ISO_3166_2: TR-24
+WIKIPEDIA: null
+ISO_A2: TR
+ADM0_SR: 1
+NAME: Erzincan
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Il
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TR.EN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20049
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: EN
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 4
+FIPS: TU24
+FIPS_ALT: null
+WOE_ID: 2347281
+WOE_LABEL: Erzincan, TR, Turkey
+WOE_NAME: Erzincan
+LATITUDE: 39.6874
+LONGITUDE: 39.5121
+SOV_A3: TUR
+ADM0_A3: TUR
+ADM0_LABEL: 2
+ADMIN: Turkey
+GEONUNIT: Turkey
+GU_A3: TUR
+GN_ID: 315372
+GN_NAME: Erzincan
+GNS_ID: -748390
+GNS_NAME: Erzincan Ili
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TR.24
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tur
+GNS_ADM1: TU24
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q483173
+NAME_AR: أرزنجان
+NAME_BN: এরজিঙ্কান প্রদেশ
+NAME_DE: Erzincan
+NAME_EN: Erzincan Province
+NAME_ES: Provincia de Erzincan
+NAME_FR: Erzincan
+NAME_EL: Ερζινκάν
+NAME_HI: अर्ज़िनकैन प्रांत
+NAME_HU: Erzincan
+NAME_ID: Provinsi Erzincan
+NAME_IT: provincia di Erzincan
+NAME_JA: エルズィンジャン県
+NAME_KO: 에르진잔 주
+NAME_NL: Erzincan
+NAME_PL: Erzincan
+NAME_PT: Erzincan
+NAME_RU: Эрзинджан
+NAME_SV: Erzincan
+NAME_TR: Erzincan
+NAME_VI: Erzincan
+NAME_ZH: 埃尔津詹省
+NE_ID: 1159312351

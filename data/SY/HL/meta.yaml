@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: SYR-137
+DISS_ME: 137
+ISO_3166_2: SY-HL
+WIKIPEDIA: null
+ISO_A2: SY
+ADM0_SR: 1
+NAME: Aleppo
+NAME_ALT: Aleppo|Alep|Alepo|Haleb|Ḥalab
+NAME_LOCAL: null
+TYPE: Governorate|Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: SY.HL
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: HL
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 6
+FIPS: SY09
+FIPS_ALT: null
+WOE_ID: 2347077
+WOE_LABEL: H'alab, SY, Syria
+WOE_NAME: Aleppo (Halab)
+LATITUDE: 36.1054
+LONGITUDE: 37.601
+SOV_A3: SYR
+ADM0_A3: SYR
+ADM0_LABEL: 2
+ADMIN: Syria
+GEONUNIT: Syria
+GU_A3: SYX
+GN_ID: 170062
+GN_NAME: Muhafazat Halab
+GNS_ID: -2541858
+GNS_NAME: Halab, Muhafazat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SY.09
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SY09
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q214064
+NAME_AR: محافظة حلب
+NAME_BN: null
+NAME_DE: Gouvernement Aleppo
+NAME_EN: Aleppo Governorate
+NAME_ES: Gobernación de Alepo
+NAME_FR: Gouvernorat d'Alep
+NAME_EL: Αλέππο
+NAME_HI: हलब प्रान्त
+NAME_HU: Aleppó kormányzóság
+NAME_ID: Kegubernuran Aleppo
+NAME_IT: governatorato di Aleppo
+NAME_JA: アレッポ県
+NAME_KO: 알레포 주
+NAME_NL: Aleppo
+NAME_PL: Aleppo
+NAME_PT: Alepo
+NAME_RU: Халеб
+NAME_SV: Aleppo
+NAME_TR: Halep
+NAME_VI: Aleppo
+NAME_ZH: 阿勒颇省
+NE_ID: 1159308431

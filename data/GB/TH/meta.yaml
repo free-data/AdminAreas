@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2077
+DISS_ME: 2077
+ISO_3166_2: GB-TWH
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Tower Hamlets
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.TH
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: T Hamlet
+POSTAL: TH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKO5
+WOE_ID: 12695817
+WOE_LABEL: null
+WOE_NAME: London Borough of Tower Hamlets
+LATITUDE: 51.5162
+LONGITUDE: -0.0262978
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: -2610063
+GNS_NAME: Tower Hamlets, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: cym
+GNS_ADM1: null
+GNS_REGION: UK01
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q208152
+NAME_AR: حي تاور هامليتس، لندن
+NAME_BN: টাওয়ার হ্যামলেট্‌স
+NAME_DE: London Borough of Tower Hamlets
+NAME_EN: London Borough of Tower Hamlets
+NAME_ES: Tower Hamlets
+NAME_FR: Tower Hamlets
+NAME_EL: null
+NAME_HI: टावर हैमलट्स बरो
+NAME_HU: null
+NAME_ID: null
+NAME_IT: Tower Hamlets
+NAME_JA: タワーハムレッツ・ロンドン特別区
+NAME_KO: 타워햄리츠 구
+NAME_NL: Tower Hamlets
+NAME_PL: London Borough of Tower Hamlets
+NAME_PT: Tower Hamlets
+NAME_RU: Тауэр-Хэмлетс
+NAME_SV: London Borough of Tower Hamlets
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 塔村區
+NE_ID: 1159312973

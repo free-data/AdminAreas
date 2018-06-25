@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: SLV-1350
+DISS_ME: 1350
+ISO_3166_2: SV-UN
+WIKIPEDIA: null
+ISO_A2: SV
+ADM0_SR: 1
+NAME: La Unión
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: SV.UN
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: UN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 8
+FIPS: ES07
+FIPS_ALT: null
+WOE_ID: 2345298
+WOE_LABEL: La UniÃ³n, SV, El Salvador
+WOE_NAME: La Unión
+LATITUDE: 13.302
+LONGITUDE: -87.9301
+SOV_A3: SLV
+ADM0_A3: SLV
+ADM0_LABEL: 2
+ADMIN: El Salvador
+GEONUNIT: El Salvador
+GU_A3: SLV
+GN_ID: 3584767
+GN_NAME: Departamento de La Union
+GNS_ID: -1146674
+GNS_NAME: La Union
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SV.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: ES07
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1130688
+NAME_AR: null
+NAME_BN: null
+NAME_DE: Departamento La Unión
+NAME_EN: La Unión Department
+NAME_ES: La Unión
+NAME_FR: département de La Unión
+NAME_EL: Διαμέρισμα Λα Ουνιόν
+NAME_HI: ला-उनिओन प्रदेश
+NAME_HU: La Unión megye
+NAME_ID: Departemen La Unión
+NAME_IT: dipartimento di La Unión
+NAME_JA: ラ・ウニオン県
+NAME_KO: 라우니온 주
+NAME_NL: La Unión
+NAME_PL: La Unión
+NAME_PT: La Unión
+NAME_RU: Ла-Унион
+NAME_SV: null
+NAME_TR: null
+NAME_VI: null
+NAME_ZH: 拉乌尼翁省
+NE_ID: 1159309051

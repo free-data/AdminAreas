@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HUN-3161
+DISS_ME: 3161
+ISO_3166_2: HU-BK
+WIKIPEDIA: http://en.wikipedia.org/wiki/B%C3%A1cs-Kiskun_County
+ISO_A2: HU
+ADM0_SR: 1
+NAME: Bács-Kiskun
+NAME_ALT: Bacs-Bodrog-Kiskun
+NAME_LOCAL: null
+TYPE: Megye
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: HU.BK
+NOTE: null
+HASC_MAYBE: null
+REGION: Great Southern Plain
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 1
+MAPCOLOR13: 5
+FIPS: HU01
+FIPS_ALT: null
+WOE_ID: 12577911
+WOE_LABEL: BÃ¡cs-Kiskun, HU, Hungary
+WOE_NAME: Bács-Kiskun
+LATITUDE: 46.6096
+LONGITUDE: 19.4699
+SOV_A3: HUN
+ADM0_A3: HUN
+ADM0_LABEL: 2
+ADMIN: Hungary
+GEONUNIT: Hungary
+GU_A3: HUN
+GN_ID: 3055744
+GN_NAME: Bacs-Kiskun megye
+GNS_ID: -848703
+GNS_NAME: Bacs-Kiskun Megye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HU.01
+REGION_SUB: Bács-Kiskun
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: hun
+GNS_ADM1: HU01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q181018
+NAME_AR: مقاطعة باتش-كيشكون
+NAME_BN: বাকস-কিস্কুন কাউন্টি
+NAME_DE: Komitat Bács-Kiskun
+NAME_EN: Bács-Kiskun County
+NAME_ES: Bács-Kiskun
+NAME_FR: Bács-Kiskun
+NAME_EL: Μπακς-Κισκούν
+NAME_HI: बेक्स-किस्कुन काउंटी
+NAME_HU: Bács-Kiskun megye
+NAME_ID: Bács-Kiskun
+NAME_IT: provincia di Bács-Kiskun
+NAME_JA: バーチ・キシュクン県
+NAME_KO: 바치키슈쿤 주
+NAME_NL: Bács-Kiskun
+NAME_PL: Komitat Bács-Kiskun
+NAME_PT: Bács-Kiskun
+NAME_RU: Бач-Кишкун
+NAME_SV: Bács-Kiskun
+NAME_TR: Bács-Kiskun ili
+NAME_VI: Hạt Bács-Kiskun
+NAME_ZH: 巴奇-基什孔州
+NE_ID: 1159314637

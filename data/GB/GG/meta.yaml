@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2004
+DISS_ME: 2004
+ISO_3166_2: GB-GLG
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Glasgow
+NAME_ALT: Glasgow City
+NAME_LOCAL: null
+TYPE: Unitary District (city)
+TYPE_EN: Unitary District (city)
+CODE_LOCAL: null
+CODE_HASC: GB.GG
+NOTE: null
+HASC_MAYBE: null
+REGION: South Western
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: GG
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKV2
+FIPS_ALT: UKV2
+WOE_ID: 12696198
+WOE_LABEL: null
+WOE_NAME: Glasgow City
+LATITUDE: 55.8371
+LONGITUDE: -4.21337
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: Scotland
+GU_A3: SCT
+GN_ID: 3333231
+GN_NAME: Glasgow City
+GNS_ID: 6077673
+GNS_NAME: Glasgow City
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.V2
+REGION_SUB: Glasgow City Region
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q4093
+NAME_AR: غلاسكو
+NAME_BN: গ্লাসগো
+NAME_DE: Glasgow
+NAME_EN: Glasgow
+NAME_ES: Glasgow
+NAME_FR: Glasgow
+NAME_EL: Γλασκώβη
+NAME_HI: ग्लासगो
+NAME_HU: Glasgow
+NAME_ID: Glasgow
+NAME_IT: Glasgow
+NAME_JA: グラスゴー
+NAME_KO: 글래스고
+NAME_NL: Glasgow
+NAME_PL: Glasgow
+NAME_PT: Glasgow
+NAME_RU: Глазго
+NAME_SV: Glasgow
+NAME_TR: Glasgow
+NAME_VI: Glasgow
+NAME_ZH: 格拉斯哥
+NE_ID: 1159313017

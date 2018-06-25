@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ESP-5808
+DISS_ME: 5808
+ISO_3166_2: ES-PM
+WIKIPEDIA: null
+ISO_A2: ES
+ADM0_SR: 6
+NAME: Baleares
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Comunidad Autónoma
+TYPE_EN: Autonomous Community
+CODE_LOCAL: null
+CODE_HASC: ES.PM
+NOTE: null
+HASC_MAYBE: null
+REGION: Islas Baleares
+REGION_COD: ES.PM
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: PM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 5
+FIPS: SP07
+FIPS_ALT: null
+WOE_ID: 12602088
+WOE_LABEL: Balearic Islands, ES, Spain
+WOE_NAME: Islas Baleares
+LATITUDE: 39.6162
+LONGITUDE: 2.99156
+SOV_A3: ESP
+ADM0_A3: ESP
+ADM0_LABEL: 3
+ADMIN: Spain
+GEONUNIT: null
+GU_A3: null
+GN_ID: 6424360
+GN_NAME: Illes Balears
+GNS_ID: -372237
+GNS_NAME: Islas Baleares, Comunidad Autonoma de las
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: ES.PM
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: SP07
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q5765
+NAME_AR: منطقة جزر البليار
+NAME_BN: বেলারিক আইল্যান্ডস
+NAME_DE: Balearische Inseln
+NAME_EN: Balearic Islands
+NAME_ES: Islas Baleares
+NAME_FR: Îles Baléares
+NAME_EL: Βαλεαρίδες Νήσοι
+NAME_HI: बैलेरिक द्वीपसमूह
+NAME_HU: Baleár-szigetek
+NAME_ID: Kepulauan Balears
+NAME_IT: isole Baleari
+NAME_JA: バレアレス諸島
+NAME_KO: 발레아레스 제도
+NAME_NL: Balearen
+NAME_PL: Baleary
+NAME_PT: Baleares
+NAME_RU: Балеарские острова
+NAME_SV: Balearerna
+NAME_TR: Balear Adaları
+NAME_VI: Quần đảo Baleares
+NAME_ZH: 巴利阿里群島
+NE_ID: 1159308465

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: LBN-3059
+DISS_ME: 3059
+ISO_3166_2: LB-NA
+WIKIPEDIA: null
+ISO_A2: LB
+ADM0_SR: 1
+NAME: An Nabatiyah
+NAME_ALT: Nabatîyé
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LB.NA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: LE07
+FIPS_ALT: null
+WOE_ID: 56049597
+WOE_LABEL: An Nabatiyah, LB, Lebanon
+WOE_NAME: An Nabatiyah
+LATITUDE: 33.3303
+LONGITUDE: 35.5666
+SOV_A3: LBN
+ADM0_A3: LBN
+ADM0_LABEL: 5
+ADMIN: Lebanon
+GEONUNIT: Lebanon
+GU_A3: LBN
+GN_ID: 444191
+GN_NAME: Mohafazat Nabatiye
+GNS_ID: 9087604
+GNS_NAME: Nabatiye
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LB.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: amh
+GNS_ADM1: LE07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q458417
+NAME_AR: النبطية
+NAME_BN: নাবাতিয়েহ গভর্নোরেট
+NAME_DE: Nabatäa
+NAME_EN: Nabatieh Governorate
+NAME_ES: Gobernación de Nabatiye
+NAME_FR: Gouvernorat de Nabatieh
+NAME_EL: Ναμπατιέχ
+NAME_HI: नबतीये प्रान्त
+NAME_HU: Nabatijja kormányzóság
+NAME_ID: Kegubernuran Nabatiye
+NAME_IT: governatorato di Nabatiye
+NAME_JA: ナバティーエ県
+NAME_KO: 나바티예 주
+NAME_NL: Nabatiye
+NAME_PL: Gubernatorstwo An-Nabatija
+NAME_PT: Nabatiye
+NAME_RU: Набатия
+NAME_SV: Guvernementet Nabatiye
+NAME_TR: Nebatiye ili
+NAME_VI: Nabatieh
+NAME_ZH: 納巴泰省
+NE_ID: 1159314207

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TTO-52
+DISS_ME: 52
+ISO_3166_2: TT-SIP
+WIKIPEDIA: null
+ISO_A2: TT
+ADM0_SR: 1
+NAME: Siparia
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: TT.SI
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: SI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: TD22
+FIPS_ALT: TD09
+WOE_ID: 56189835
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 10.118
+LONGITUDE: -61.6987
+SOV_A3: TTO
+ADM0_A3: TTO
+ADM0_LABEL: 6
+ADMIN: Trinidad and Tobago
+GEONUNIT: Trinidad and Tobago
+GU_A3: TTO
+GN_ID: 7521945
+GN_NAME: Siparia
+GNS_ID: -1360822
+GNS_NAME: Siparia, Region of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TT.SIP
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: TD22
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2679119
+NAME_AR: شركة سيباريا الإقليمية
+NAME_BN: সিপারিয়া আঞ্চলিক কর্পোরেশন
+NAME_DE: Siparia
+NAME_EN: Siparia Regional Corporation
+NAME_ES: Siparia
+NAME_FR: Région de Siparia
+NAME_EL: Σιπάρια
+NAME_HI: सिपरिया रीजनल कॉर्पोरेशन
+NAME_HU: null
+NAME_ID: Korporasi Wilayah Siparia
+NAME_IT: regione di Siparia
+NAME_JA: シパリア地域自治体
+NAME_KO: 시파리아 지역
+NAME_NL: Siparia
+NAME_PL: Region Siparia
+NAME_PT: Siparia
+NAME_RU: Сипария
+NAME_SV: Siparia
+NAME_TR: Siparia Regional Corporation
+NAME_VI: Khu liên kết chung Siparia
+NAME_ZH: 錫帕里亞郡
+NE_ID: 1159308041

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GRC-2992
+DISS_ME: 2992
+ISO_3166_2: GR-69
+WIKIPEDIA: null
+ISO_A2: GR
+ADM0_SR: 1
+NAME: Ayion Oros
+NAME_ALT: Mount Athos|Holy Mountain
+NAME_LOCAL: Όρος Άθως
+TYPE: Aftonomi Monastiki Politia
+TYPE_EN: Autonomous Monastic State
+CODE_LOCAL: null
+CODE_HASC: GR.MA
+NOTE: null
+HASC_MAYBE: null
+REGION: Macedonia
+REGION_COD: GRC-MCD
+PROVNUM_NE: 20012
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: MA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: GR15
+FIPS_ALT: null
+WOE_ID: 12577877
+WOE_LABEL: Agio Oros, GR, Greece
+WOE_NAME: Ayion Oros
+LATITUDE: 40.2922
+LONGITUDE: 24.1925
+SOV_A3: GRC
+ADM0_A3: GRC
+ADM0_LABEL: 2
+ADMIN: Greece
+GEONUNIT: Greece
+GU_A3: GRC
+GN_ID: 736572
+GN_NAME: Mount Athos
+GNS_ID: -815807
+GNS_NAME: Agiou Orous, Aftonomi Monastiki Politeia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GR.736572
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: GR52
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q130321
+NAME_AR: جبل آثوس
+NAME_BN: null
+NAME_DE: Athos
+NAME_EN: Mount Athos
+NAME_ES: Monte Athos
+NAME_FR: Aktè
+NAME_EL: Άγιο Όρος
+NAME_HI: एथोस पर्वत
+NAME_HU: Athosz-hegy
+NAME_ID: Gunung Athos
+NAME_IT: Monte Athos
+NAME_JA: アトス山
+NAME_KO: 아토스 산
+NAME_NL: Oros Athos
+NAME_PL: Athos
+NAME_PT: Monte Atos
+NAME_RU: Афон
+NAME_SV: Athos
+NAME_TR: Aynoroz
+NAME_VI: Núi Athos
+NAME_ZH: 阿索斯山
+NE_ID: 1159314339

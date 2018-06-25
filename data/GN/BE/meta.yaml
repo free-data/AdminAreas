@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GIN-5627
+DISS_ME: 5627
+ISO_3166_2: GN-BE
+WIKIPEDIA: null
+ISO_A2: GN
+ADM0_SR: 1
+NAME: Beyla
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: GN.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: Nzérékoré
+REGION_COD: GN.N
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 13
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: GV01
+FIPS_ALT: null
+WOE_ID: -56059376
+WOE_LABEL: null
+WOE_NAME: Nzérékoré
+LATITUDE: 8.81391
+LONGITUDE: -8.40726
+SOV_A3: GIN
+ADM0_A3: GIN
+ADM0_LABEL: 2
+ADMIN: Guinea
+GEONUNIT: Guinea
+GU_A3: GIN
+GN_ID: 2423124
+GN_NAME: Beyla Prefecture
+GNS_ID: -1177725
+GNS_NAME: Beyla
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GN.01
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GV01
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q853169
+NAME_AR: محافظة بيلا
+NAME_BN: বেলা প্রশাসনিক অঞ্চল
+NAME_DE: Beyla
+NAME_EN: Beyla Prefecture
+NAME_ES: Beyla
+NAME_FR: préfecture de Beyla
+NAME_EL: Μπεϋλά
+NAME_HI: बेयला प्रीफेक्चर
+NAME_HU: null
+NAME_ID: Prefektur Beyla
+NAME_IT: prefettura di Beyla
+NAME_JA: ベイラ県
+NAME_KO: 베일라 지방 행정 구역
+NAME_NL: Beyla Prefecture
+NAME_PL: Prefektura Beyla
+NAME_PT: Beyla
+NAME_RU: Префектура Бейла
+NAME_SV: Beyla Prefecture
+NAME_TR: Beyla Prefecture
+NAME_VI: Quận Beyla
+NAME_ZH: 貝拉省
+NE_ID: 1159317467

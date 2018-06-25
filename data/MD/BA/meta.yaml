@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: MDA-1630
+DISS_ME: 1630
+ISO_3166_2: MD-BS
+WIKIPEDIA: null
+ISO_A2: MD
+ADM0_SR: 1
+NAME: Basarabeasca
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Raion
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MD.BA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: BA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 12
+FIPS: MD61
+FIPS_ALT: null
+WOE_ID: 55948179
+WOE_LABEL: null
+WOE_NAME: Basarabeasca
+LATITUDE: 46.3726
+LONGITUDE: 28.8846
+SOV_A3: MDA
+ADM0_A3: MDA
+ADM0_LABEL: 5
+ADMIN: Moldova
+GEONUNIT: Moldova
+GU_A3: MDA
+GN_ID: 618565
+GN_NAME: Raionul Basarabeasca
+GNS_ID: -2276075
+GNS_NAME: Basarabeasca, Raionul
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MD.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MD61
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1980044
+NAME_AR: مقاطعة باسارابيسكا
+NAME_BN: বাশারাবিয়াস্কা জেলা
+NAME_DE: Rajon Basarabeasca
+NAME_EN: Basarabeasca District
+NAME_ES: Distrito de Basarabeasca
+NAME_FR: Raion de Basarabeasca
+NAME_EL: Μπασαραμπεάσκα
+NAME_HI: बसाराबीसाका ज़िला
+NAME_HU: Basarabeasca járás
+NAME_ID: Raionul Basarabeasca
+NAME_IT: distretto di Basarabeasca
+NAME_JA: バサラベアスカ県
+NAME_KO: 바사라베아스카 구
+NAME_NL: Basarabeasca
+NAME_PL: Rejon Basarabeasca
+NAME_PT: Basarabeasca
+NAME_RU: Бессарабский район
+NAME_SV: Basarabeasca
+NAME_TR: Basarabeasca District
+NAME_VI: Quận Basarabeasca
+NAME_ZH: 巴薩拉貝亞斯卡區
+NE_ID: 1159312593

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-427
+DISS_ME: 427
+ISO_3166_2: TH-37
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Amnat Charoen
+NAME_ALT: null
+NAME_LOCAL: จังหวัดอำนาจเจริญ
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.AC
+NOTE: null
+HASC_MAYBE: null
+REGION: Northeastern
+REGION_COD: null
+PROVNUM_NE: 59
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: AC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH77
+FIPS_ALT: TH71
+WOE_ID: 2347201
+WOE_LABEL: Amnat Charoen, TH, Thailand
+WOE_NAME: Amnat Charoen
+LATITUDE: 15.8583
+LONGITUDE: 104.766
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1906689
+GN_NAME: Changwat Amnat Charoen
+GNS_ID: 415786
+GNS_NAME: Amnat Charoen, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.77
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH77
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q243791
+NAME_AR: محافظة أمنات تشاروين
+NAME_BN: আমানত চেরন
+NAME_DE: Amnat Charoen
+NAME_EN: Amnat Charoen
+NAME_ES: Provincia de Amnat Charoen
+NAME_FR: Amnat Charoen
+NAME_EL: Άμνατ Τσάροεν
+NAME_HI: अम्नत चारोएन प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Amnat Charoen
+NAME_IT: provincia di Amnat Charoen
+NAME_JA: アムナートチャルーン県
+NAME_KO: 암낫짜른 주
+NAME_NL: Changwat Amnat Charoen
+NAME_PL: Prowincja Amnat Charoen
+NAME_PT: Amnat Charoen
+NAME_RU: Амнатчарен
+NAME_SV: Amnat Charoen
+NAME_TR: Amnat Charoen
+NAME_VI: Amnat Charoen
+NAME_ZH: 安納乍能府
+NE_ID: 1159308221

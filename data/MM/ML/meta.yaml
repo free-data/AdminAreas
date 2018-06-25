@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: MMR-3267
+DISS_ME: 3267
+ISO_3166_2: MM-04
+WIKIPEDIA: null
+ISO_A2: MM
+ADM0_SR: 1
+NAME: Mandalay
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Yin
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: MM.ML
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20017
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: MD
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: BM08
+FIPS_ALT: null
+WOE_ID: 2344817
+WOE_LABEL: Mandalay, MM, Myanmar
+WOE_NAME: Mandalay
+LATITUDE: 20.6284
+LONGITUDE: 96.0614
+SOV_A3: MMR
+ADM0_A3: MMR
+ADM0_LABEL: 2
+ADMIN: Myanmar
+GEONUNIT: Myanmar
+GU_A3: MMR
+GN_ID: 1311871
+GN_NAME: Mandalay Division
+GNS_ID: -427449
+GNS_NAME: Mandalay Division
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MM.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: BM08
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 7
+WIKIDATAID: Q119494
+NAME_AR: إقليم  ماندالاي
+NAME_BN: মান্ডালায় অঞ্চল
+NAME_DE: Mandalay-Region
+NAME_EN: Mandalay Region
+NAME_ES: Región del Mandalay
+NAME_FR: Région de Mandalay
+NAME_EL: Μάνταλεϊ
+NAME_HI: माण्डले मण्डल
+NAME_HU: null
+NAME_ID: Region Mandalay
+NAME_IT: regione di Mandalay
+NAME_JA: マンダレー管区
+NAME_KO: 만달레이 구
+NAME_NL: Mandalay
+NAME_PL: Mandalaj
+NAME_PT: Mandalay
+NAME_RU: Мандалай
+NAME_SV: Mandalayregionen
+NAME_TR: Mandalay Bölgesi
+NAME_VI: Vùng Mandalay
+NAME_ZH: 曼德勒省
+NE_ID: 1159314043

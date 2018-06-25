@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: TCD-1487
+DISS_ME: 1487
+ISO_3166_2: TD-TA
+WIKIPEDIA: null
+ISO_A2: TD
+ADM0_SR: 1
+NAME: Tandjilé
+NAME_ALT: Tandjile
+NAME_LOCAL: null
+TYPE: Préfecture
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: TD.TA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 6
+FIPS: CD14
+FIPS_ALT: null
+WOE_ID: 2344958
+WOE_LABEL: null
+WOE_NAME: Tandjile
+LATITUDE: 9.67051
+LONGITUDE: 16.4994
+SOV_A3: TCD
+ADM0_A3: TCD
+ADM0_LABEL: 2
+ADMIN: Chad
+GEONUNIT: Chad
+GU_A3: TCD
+GN_ID: 2425287
+GN_NAME: Tandjile Region
+GNS_ID: -1104248
+GNS_NAME: Tandjile
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TD.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: CD14
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q867856
+NAME_AR: منطقة تانجلي
+NAME_BN: তাঞ্জিলে অঞ্চল
+NAME_DE: Region Tandjilé
+NAME_EN: Tandjilé Region
+NAME_ES: Región de Tandjilé
+NAME_FR: Tandjilé
+NAME_EL: Ταντζιλέ
+NAME_HI: तंदीले क्षेत्र
+NAME_HU: null
+NAME_ID: Region Tandjilé
+NAME_IT: regione di Tandjilé
+NAME_JA: タンジレ州
+NAME_KO: 탕질레 주
+NAME_NL: Tandjilé
+NAME_PL: Region Tandjilé
+NAME_PT: Tandjilé
+NAME_RU: Танджиле
+NAME_SV: Tandjilé
+NAME_TR: Tandjilé Bölgesi
+NAME_VI: Khu vực Tandjilé
+NAME_ZH: 坦吉萊區
+NE_ID: 1159311769

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2591
+DISS_ME: 2591
+ISO_3166_2: PH-DAV
+WIKIPEDIA: http://en.wikipedia.org/wiki/Davao_del_Norte
+ISO_A2: PH
+ADM0_SR: 3
+NAME: Davao del Norte
+NAME_ALT: Davao
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.DV
+NOTE: null
+HASC_MAYBE: null
+REGION: Davao (Region XI)
+REGION_COD: PH-11
+PROVNUM_NE: 20002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 15
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RPI7
+FIPS_ALT: null
+WOE_ID: 28350149
+WOE_LABEL: null
+WOE_NAME: Davao del Norte
+LATITUDE: 7.45436
+LONGITUDE: 125.651
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1715347
+GN_NAME: Province of Davao del Norte
+GNS_ID: -2424067
+GNS_NAME: Davao del Norte, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.I7
+REGION_SUB: Davao del Norte
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP25
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13792
+NAME_AR: دافاو ديل نورت
+NAME_BN: দাভাও দেল নর্টে
+NAME_DE: Davao del Norte
+NAME_EN: Davao del Norte
+NAME_ES: Davao del Norte
+NAME_FR: Davao du Nord
+NAME_EL: Νταβάο ντελ Νόρτε
+NAME_HI: दावाओ देल नोर्ते
+NAME_HU: null
+NAME_ID: Davao del Norte
+NAME_IT: Provincia di Davao del Norte
+NAME_JA: ダバオ州
+NAME_KO: 북다바오 주
+NAME_NL: Davao del Norte
+NAME_PL: Davao del Norte
+NAME_PT: Davao del Norte
+NAME_RU: Северный Давао
+NAME_SV: Davao del Norte
+NAME_TR: Davao del Norte
+NAME_VI: Davao del Norte
+NAME_ZH: 北達沃省
+NE_ID: 1159313363

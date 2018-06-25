@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: KGZ-1117
+DISS_ME: 1117
+ISO_3166_2: KG-Y
+WIKIPEDIA: null
+ISO_A2: KG
+ADM0_SR: 1
+NAME: Ysyk-Köl
+NAME_ALT: Issyk-Kul, Issyk-Kul'skaya Oblast'
+NAME_LOCAL: null
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: KG.YK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: YK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 6
+FIPS: KG07
+FIPS_ALT: KG07
+WOE_ID: 20070190
+WOE_LABEL: Ysyk-Kol, KG, Kyrgyzstan
+WOE_NAME: Ysyk-Köl
+LATITUDE: 42.0387
+LONGITUDE: 77.9472
+SOV_A3: KGZ
+ADM0_A3: KGZ
+ADM0_LABEL: 2
+ADMIN: Kyrgyzstan
+GEONUNIT: Kyrgyzstan
+GU_A3: KGZ
+GN_ID: 1528260
+GN_NAME: Issyk-Kul'skaya Oblast'
+GNS_ID: -2331847
+GNS_NAME: Ysyk-Kol Oblasty
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KG.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: kir
+GNS_ADM1: KG07
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q487413
+NAME_AR: ايسيك كول أوبلاستي
+NAME_BN: ইসিক কুল অঞ্চল
+NAME_DE: Gebiet Yssykköl
+NAME_EN: Issyk-Kul Region
+NAME_ES: Provincia de Ysyk-Kol
+NAME_FR: Yssykköl
+NAME_EL: Ισσούκ-Κούλ
+NAME_HI: इसिक कुल प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Issyk Kul
+NAME_IT: provincia di Ysykköl
+NAME_JA: イシク・クル州
+NAME_KO: 이식쿨 주
+NAME_NL: Ysykköl
+NAME_PL: Obwód issykkulski
+NAME_PT: Issyk-Kul
+NAME_RU: Иссык-Кульская область
+NAME_SV: Issyk-Kul
+NAME_TR: Issık-Göl İli
+NAME_VI: Issyk Kul
+NAME_ZH: 伊塞克湖州
+NE_ID: 1159309463

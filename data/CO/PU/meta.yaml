@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: COL-1407
+DISS_ME: 1407
+ISO_3166_2: CO-PUT
+WIKIPEDIA: null
+ISO_A2: CO
+ADM0_SR: 1
+NAME: Putumayo
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Intendencia
+TYPE_EN: Intendancy
+CODE_LOCAL: null
+CODE_HASC: CO.PU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: PU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 8
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: CO22
+FIPS_ALT: null
+WOE_ID: 2345067
+WOE_LABEL: Putumayo, CO, Colombia
+WOE_NAME: Putumayo
+LATITUDE: 0.420217
+LONGITUDE: -75.5514
+SOV_A3: COL
+ADM0_A3: COL
+ADM0_LABEL: 2
+ADMIN: Colombia
+GEONUNIT: Colombia
+GU_A3: COL
+GN_ID: 3671178
+GN_NAME: Departamento del Putumayo
+GNS_ID: -596143
+GNS_NAME: Putumayo, Departamemnto del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CO.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: CO22
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q232953
+NAME_AR: إدارة بوتومايو
+NAME_BN: পুতোমাইয়ো বিভাগ
+NAME_DE: Departamento de Putumayo
+NAME_EN: Putumayo Department
+NAME_ES: Putumayo
+NAME_FR: Putumayo
+NAME_EL: Πουτουμάγιο
+NAME_HI: पुटुमाओ विभाग
+NAME_HU: Putumayo megye
+NAME_ID: Departemen Putumayo
+NAME_IT: dipartimento di Putumayo
+NAME_JA: プトゥマヨ県
+NAME_KO: 푸투마요 주
+NAME_NL: Putumayo
+NAME_PL: Putumayo
+NAME_PT: Putumayo
+NAME_RU: Путумайо
+NAME_SV: Putumayo
+NAME_TR: Putumayo
+NAME_VI: Putumayo
+NAME_ZH: 普图马约省
+NE_ID: 1159310145

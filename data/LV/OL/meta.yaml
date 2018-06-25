@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: LVA-5772
+DISS_ME: 5772
+ISO_3166_2: LV-068
+WIKIPEDIA: null
+ISO_A2: LV
+ADM0_SR: 1
+NAME: Olaines
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Novads
+TYPE_EN: Municipality
+CODE_LOCAL: null
+CODE_HASC: LV.OL
+NOTE: null
+HASC_MAYBE: null
+REGION: Riga
+REGION_COD: R
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: R
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 13
+FIPS: LGA2
+FIPS_ALT: null
+WOE_ID: -2346037
+WOE_LABEL: Rigas Rajons, LV, Latvia
+WOE_NAME: Riga
+LATITUDE: 56.789
+LONGITUDE: 23.9561
+SOV_A3: LVA
+ADM0_A3: LVA
+ADM0_LABEL: 2
+ADMIN: Latvia
+GEONUNIT: Latvia
+GU_A3: LVA
+GN_ID: 7628320
+GN_NAME: Olaines Novads
+GNS_ID: 10974822
+GNS_NAME: Olaines Novads
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LV.A2
+REGION_SUB: Pierīga
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: gle
+GNS_ADM1: LG95
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q2451375
+NAME_AR: بلدية أولاين
+NAME_BN: ওলাইন পৌরসভা
+NAME_DE: Bezirk Olaine
+NAME_EN: Olaine Municipality
+NAME_ES: Municipalidad de Olaine
+NAME_FR: Olaine
+NAME_EL: Ολαίνε
+NAME_HI: ओलेन नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Olaine
+NAME_IT: Comune di Olaine
+NAME_JA: ウアライネ
+NAME_KO: 올라이네 시
+NAME_NL: Olaines novads
+NAME_PL: Gmina Olaine
+NAME_PT: Município de Olaine
+NAME_RU: Олайнский край
+NAME_SV: Olaine kommun
+NAME_TR: Olaine Belediyesi
+NAME_VI: Đô thị tự trị Olaine
+NAME_ZH: 奧萊內自治市
+NE_ID: 1159317629

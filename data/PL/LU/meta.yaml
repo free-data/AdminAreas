@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: POL-3151
+DISS_ME: 3151
+ISO_3166_2: PL-LU
+WIKIPEDIA: null
+ISO_A2: PL
+ADM0_SR: 1
+NAME: Lublin
+NAME_ALT: Lubelskie
+NAME_LOCAL: null
+TYPE: Województwo
+TYPE_EN: Voivodeship|Province
+CODE_LOCAL: null
+CODE_HASC: PL.LU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20005
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 1
+MAPCOLOR13: 2
+FIPS: PL75
+FIPS_ALT: PL45|PL75
+WOE_ID: 12577938
+WOE_LABEL: Lublin, PL, Poland
+WOE_NAME: Lublin
+LATITUDE: 51.2088
+LONGITUDE: 22.8943
+SOV_A3: POL
+ADM0_A3: POL
+ADM0_LABEL: 2
+ADMIN: Poland
+GEONUNIT: Poland
+GU_A3: POL
+GN_ID: 858785
+GN_NAME: Wojewodztwo Lubelskie
+GNS_ID: 9007879
+GNS_NAME: Lubelskie, Wojewodztwo
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PL.75
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: PL75
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q54155
+NAME_AR: محافظة لوبلين
+NAME_BN: লুব্লিন ভয়ভোডেশিপ
+NAME_DE: Woiwodschaft Lublin
+NAME_EN: Lublin Voivodeship
+NAME_ES: Lublin
+NAME_FR: Voïvodie de Lublin
+NAME_EL: Λούμπλιν
+NAME_HI: लुब्लिन
+NAME_HU: Lublini vajdaság
+NAME_ID: Provinsi Lublin
+NAME_IT: voivodato di Lublino
+NAME_JA: ルブリン県
+NAME_KO: 루블린 주
+NAME_NL: Lublin
+NAME_PL: województwo lubelskie
+NAME_PT: Voivodia de Lublin
+NAME_RU: Люблинское воеводство
+NAME_SV: Lublins vojvodskap
+NAME_TR: Lublin Voyvodalığı
+NAME_VI: Lubelskie
+NAME_ZH: 卢布林省
+NE_ID: 1159314701

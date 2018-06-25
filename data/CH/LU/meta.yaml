@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-163
+DISS_ME: 163
+ISO_3166_2: CH-LU
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Lucerne
+NAME_ALT: Lucerna|Luzern
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.LU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 32
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: LU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ11
+FIPS_ALT: null
+WOE_ID: 2347093
+WOE_LABEL: Canton of Lucerne, CH, Switzerland
+WOE_NAME: Lucerne
+LATITUDE: 47.096
+LONGITUDE: 8.17219
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2659810
+GN_NAME: Kanton Luzern
+GNS_ID: -2552995
+GNS_NAME: Luzern, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.LU
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ11
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q12121
+NAME_AR: كانتون لوتسيرن
+NAME_BN: লুসেন ক্যান্টন
+NAME_DE: Kanton Luzern
+NAME_EN: Canton of Lucerne
+NAME_ES: Lucerna
+NAME_FR: canton de Lucerne
+NAME_EL: Λουζέμ
+NAME_HI: लूसर्न कैन्टन
+NAME_HU: Luzern kanton
+NAME_ID: Kanton Luzern
+NAME_IT: Canton Lucerna
+NAME_JA: ルツェルン州
+NAME_KO: 루체른 주
+NAME_NL: Luzern
+NAME_PL: Lucerna
+NAME_PT: Lucerna
+NAME_RU: Люцерн
+NAME_SV: Luzern
+NAME_TR: Luzern
+NAME_VI: Luzern
+NAME_ZH: 卢塞恩州
+NE_ID: 1159307659

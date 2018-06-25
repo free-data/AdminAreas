@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: TWN-1177
+DISS_ME: 1177
+ISO_3166_2: TW-TTT
+WIKIPEDIA: null
+ISO_A2: TW
+ADM0_SR: 4
+NAME: Taitung
+NAME_ALT: Taidong
+NAME_LOCAL: null
+TYPE: Hsien
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: TW.TW.TT
+NOTE: null
+HASC_MAYBE: null
+REGION: Taiwan Province
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: TT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 2
+FIPS: null
+FIPS_ALT: null
+WOE_ID: 2347344
+WOE_LABEL: null
+WOE_NAME: Taitung County
+LATITUDE: 22.0499
+LONGITUDE: 121.54
+SOV_A3: TWN
+ADM0_A3: TWN
+ADM0_LABEL: 2
+ADMIN: Taiwan
+GEONUNIT: Taiwan
+GU_A3: TWN
+GN_ID: 1668292
+GN_NAME: Taitung
+GNS_ID: -2637931
+GNS_NAME: Taidong Xian
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: TW.TTT
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: TW24
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q249904
+NAME_AR: مقاطعة تايتونغ
+NAME_BN: টাইটুং কাউন্টি
+NAME_DE: Landkreis Taitung
+NAME_EN: Taitung County
+NAME_ES: Condado del Taitung
+NAME_FR: comté de Taitung
+NAME_EL: Ταϊτούνγκ
+NAME_HI: ताइतुंग काउंटी
+NAME_HU: null
+NAME_ID: Kabupaten Taitung
+NAME_IT: Contea di Taitung
+NAME_JA: 台東県
+NAME_KO: 타이둥 현
+NAME_NL: Taitung
+NAME_PL: Taidong
+NAME_PT: Condado de Taitung
+NAME_RU: Тайдун
+NAME_SV: Taitung
+NAME_TR: Taitung County
+NAME_VI: Đài Đông
+NAME_ZH: 臺東縣
+NE_ID: 1159310351

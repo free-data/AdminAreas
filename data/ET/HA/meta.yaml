@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: ETH-3136
+DISS_ME: 3136
+ISO_3166_2: ET-HA
+WIKIPEDIA: null
+ISO_A2: ET
+ADM0_SR: 1
+NAME: Harari People
+NAME_ALT: Harari|Harer|Hareri Hizb
+NAME_LOCAL: null
+TYPE: Kilil
+TYPE_EN: Administrative State
+CODE_LOCAL: null
+CODE_HASC: ET.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20001
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 3
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 13
+FIPS: ET50
+FIPS_ALT: null
+WOE_ID: 56013544
+WOE_LABEL: Harari, ET, Ethiopia
+WOE_NAME: Harari People
+LATITUDE: 9.29063
+LONGITUDE: 42.1676
+SOV_A3: ETH
+ADM0_A3: ETH
+ADM0_LABEL: 2
+ADMIN: Ethiopia
+GEONUNIT: Ethiopia
+GU_A3: ETH
+GN_ID: 444184
+GN_NAME: Harari Region
+GNS_ID: 9087448
+GNS_NAME: Hareri Hizb
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ET.50
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: amh
+GNS_ADM1: ET50
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1033855
+NAME_AR: إقليم هراري
+NAME_BN: হারারি অঞ্চল
+NAME_DE: Harar
+NAME_EN: Harari Region
+NAME_ES: Región Harar
+NAME_FR: Région Harar
+NAME_EL: Χαράρι
+NAME_HI: हरारी प्रदेश
+NAME_HU: Harar
+NAME_ID: Region Harari
+NAME_IT: regione di Harar
+NAME_JA: ハラリ州
+NAME_KO: 하라리 주
+NAME_NL: Harari
+NAME_PL: Region Ludu Hareri
+NAME_PT: Harari
+NAME_RU: Харари
+NAME_SV: Harari
+NAME_TR: Harari Bölgesi
+NAME_VI: Harari
+NAME_ZH: 哈勒爾州
+NE_ID: 1159313869

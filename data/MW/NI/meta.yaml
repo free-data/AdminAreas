@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1913
+DISS_ME: 1913
+ISO_3166_2: MW-NI
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Ntchisi
+NAME_ALT: Nchisi
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.NI
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: MWI-CNT
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: NI
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI20
+FIPS_ALT: null
+WOE_ID: 20070130
+WOE_LABEL: Ntchisi, MW, Malawi
+WOE_NAME: Ntchisi
+LATITUDE: -13.2659
+LONGITUDE: 33.8763
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 924490
+GN_NAME: Ntchisi District
+GNS_ID: -1486356
+GNS_NAME: Ntchisi
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MI20
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q798235
+NAME_AR: مقاطعة نتشيسى
+NAME_BN: ছিসি জেলা
+NAME_DE: Ntchisi-Distrikt
+NAME_EN: Ntchisi District
+NAME_ES: Distrito de Ntchisi
+NAME_FR: District de Ntchisi
+NAME_EL: Ντσίσι
+NAME_HI: नटशिसी जिला
+NAME_HU: null
+NAME_ID: Distrik Ntchisi
+NAME_IT: distretto di Ntchisi
+NAME_JA: ンチシ
+NAME_KO: 은치시 현
+NAME_NL: Ntchisi
+NAME_PL: Dystrykt Ntchisi
+NAME_PT: Ntchisi
+NAME_RU: Нтчиси
+NAME_SV: Ntchisi
+NAME_TR: Ntchisi
+NAME_VI: Quận Ntchisi
+NAME_ZH: 恩奇斯縣
+NE_ID: 1159311221

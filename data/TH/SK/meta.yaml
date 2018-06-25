@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-433
+DISS_ME: 433
+ISO_3166_2: TH-27
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Sa Kaeo
+NAME_ALT: Srakaeo
+NAME_LOCAL: จังหวัดสระแก้ว
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.SK
+NOTE: null
+HASC_MAYBE: null
+REGION: Eastern
+REGION_COD: null
+PROVNUM_NE: 23
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: SK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH80
+FIPS_ALT: TH45
+WOE_ID: 20069925
+WOE_LABEL: null
+WOE_NAME: Sa Kaeo
+LATITUDE: 13.8589
+LONGITUDE: 102.384
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1906691
+GN_NAME: Changwat Sa Kaeo
+GNS_ID: 415798
+GNS_NAME: Sa Kaeo, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.80
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH80
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q381889
+NAME_AR: محافظة سا كايو
+NAME_BN: সাঁ কায়েও
+NAME_DE: Sa Kaeo
+NAME_EN: Sa Kaeo
+NAME_ES: Provincia de Sa Kaeo
+NAME_FR: Sa Kaeo
+NAME_EL: Σα Καέο
+NAME_HI: सा कैओ प्रान्त
+NAME_HU: null
+NAME_ID: Provinsi Sa Kaeo
+NAME_IT: provincia di Sa Kaeo
+NAME_JA: サケーオ県
+NAME_KO: 사깨오 주
+NAME_NL: Changwat Sa Kaew
+NAME_PL: Prowincja Sa Kaeo
+NAME_PT: Sa Kaeo
+NAME_RU: Сакэу
+NAME_SV: Sa Kaeo
+NAME_TR: Sa Kaeo
+NAME_VI: Sa Kaeo
+NAME_ZH: 沙繳府
+NE_ID: 1159308233

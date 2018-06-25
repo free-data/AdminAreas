@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: AFG-1759
+DISS_ME: 1759
+ISO_3166_2: AF-PIA
+WIKIPEDIA: null
+ISO_A2: AF
+ADM0_SR: 1
+NAME: Paktika
+NAME_ALT: Paktiya|Paktya|Southern Province
+NAME_LOCAL: null
+TYPE: Velayat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: AF.PK
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: PK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 7
+MAPCOLOR9: 8
+MAPCOLOR13: 7
+FIPS: AF29
+FIPS_ALT: null
+WOE_ID: 2344574
+WOE_LABEL: Paktika, AF, Afghanistan
+WOE_NAME: Paktika
+LATITUDE: 32.5106
+LONGITUDE: 68.651
+SOV_A3: AFG
+ADM0_A3: AFG
+ADM0_LABEL: 2
+ADMIN: Afghanistan
+GEONUNIT: Afghanistan
+GU_A3: AFG
+GN_ID: 1131256
+GN_NAME: Wilayat-e Paktika
+GNS_ID: -3386222
+GNS_NAME: Paktika, Wilayat-e
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: AF.29
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: vie
+GNS_ADM1: AF29
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q185575
+NAME_AR: ولاية بكتيكا
+NAME_BN: পাক্তিকা প্রদেশ
+NAME_DE: Paktika
+NAME_EN: Paktika
+NAME_ES: Provincia de Paktīkā
+NAME_FR: Paktîkâ
+NAME_EL: Πακτίκα
+NAME_HI: पकतीका प्रान्त
+NAME_HU: null
+NAME_ID: Paktika
+NAME_IT: Paktika
+NAME_JA: パクティーカー州
+NAME_KO: 팍티카 주
+NAME_NL: Paktika
+NAME_PL: Paktika
+NAME_PT: Paktika
+NAME_RU: Пактика
+NAME_SV: Paktika
+NAME_TR: Paktika Vilayeti
+NAME_VI: Paktika
+NAME_ZH: 帕克蒂卡省
+NE_ID: 1159312073

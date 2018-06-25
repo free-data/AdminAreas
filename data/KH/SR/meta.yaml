@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1801
+DISS_ME: 1801
+ISO_3166_2: KH-20
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Svay Rieng
+NAME_ALT: Soairieng|Svaay Rieng
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.SR
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 13
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: SR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB18
+FIPS_ALT: null
+WOE_ID: 2344943
+WOE_LABEL: Svay Rieng, KH, Cambodia
+WOE_NAME: Svay Rieng
+LATITUDE: 11.0416
+LONGITUDE: 105.888
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1821992
+GN_NAME: Khett Svay Rieng
+GNS_ID: -1032979
+GNS_NAME: Svay Rieng, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.18
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB18
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q751864
+NAME_AR: مقاطعة سفاي رينغ
+NAME_BN: সেভায় রিং প্রদেশ
+NAME_DE: Svay Rieng
+NAME_EN: Svay Rieng Province
+NAME_ES: Provincia de Svay Rieng
+NAME_FR: province de Svay Rieng
+NAME_EL: Επαρχία Σβέι Ριένγκ
+NAME_HI: स्वाय रिएंग प्रांत
+NAME_HU: Szvajrieng tartomány
+NAME_ID: Provinsi Svay Rieng
+NAME_IT: provincia di Svay Rieng
+NAME_JA: スヴァイリエン州
+NAME_KO: 스바이리엥 주
+NAME_NL: Svay Rieng
+NAME_PL: Prowincja Svay Rieng
+NAME_PT: Svay Rieng
+NAME_RU: Свайриенг
+NAME_SV: Svay Rieng
+NAME_TR: Svay Rieng Province
+NAME_VI: Svay Rieng
+NAME_ZH: 柴楨省
+NE_ID: 1159311595

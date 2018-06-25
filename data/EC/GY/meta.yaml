@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-1280
+DISS_ME: 1280
+ISO_3166_2: EC-G
+WIKIPEDIA: null
+ISO_A2: EC
+ADM0_SR: 3
+NAME: Guayas
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.GY
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: GU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 6
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC10
+FIPS_ALT: null
+WOE_ID: 2345211
+WOE_LABEL: Guayas, EC, Ecuador
+WOE_NAME: Guayas
+LATITUDE: -1.98384
+LONGITUDE: -79.8608
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 3657505
+GN_NAME: Provincia del Guayas
+GNS_ID: -927510
+GNS_NAME: Guayas, Provincia del
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: EC10
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q335464
+NAME_AR: مقاطعة غاياس
+NAME_BN: জামবী  প্রোগায়াস প্রদেশ
+NAME_DE: Provinz Guayas
+NAME_EN: Guayas Province
+NAME_ES: Provincia de Guayas
+NAME_FR: province du Guayas
+NAME_EL: Γουάγιας
+NAME_HI: गुआयास प्रांत
+NAME_HU: Guayas tartomány
+NAME_ID: Provinsi Guayas
+NAME_IT: provincia del Guayas
+NAME_JA: グアヤス県
+NAME_KO: 과야스 주
+NAME_NL: Guayas
+NAME_PL: Prowincja Guayas
+NAME_PT: Guayas
+NAME_RU: Гуаяс
+NAME_SV: Guayas
+NAME_TR: Guayas
+NAME_VI: Tỉnh Guayas
+NAME_ZH: 瓜亚斯省
+NE_ID: 1159309903

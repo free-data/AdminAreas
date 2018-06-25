@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-712
+DISS_ME: 712
+ISO_3166_2: IE-LH
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Louth
+NAME_ALT: Lú
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.LH
+NOTE: null
+HASC_MAYBE: null
+REGION: Border
+REGION_COD: null
+PROVNUM_NE: 25
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: LH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI19
+FIPS_ALT: null
+WOE_ID: 2345263
+WOE_LABEL: Louth, IE, Ireland
+WOE_NAME: Louth
+LATITUDE: 53.9259
+LONGITUDE: -6.48625
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2962793
+GN_NAME: Lu
+GNS_ID: -1504339
+GNS_NAME: Louth, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.19
+REGION_SUB: Louth
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI19
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q183539
+NAME_AR: مقاطعة لاوث
+NAME_BN: কাউন্টি লৌথ
+NAME_DE: County Louth
+NAME_EN: County Louth
+NAME_ES: Condado de Louth
+NAME_FR: comté de Louth
+NAME_EL: Κομητεία Λάουθ
+NAME_HI: काउंटी लाउथ
+NAME_HU: Louth megye
+NAME_ID: County Louth
+NAME_IT: Louth
+NAME_JA: ラウス州
+NAME_KO: 라우스 주
+NAME_NL: County Louth
+NAME_PL: Louth
+NAME_PT: Condado de Louth
+NAME_RU: Лаут
+NAME_SV: Louth
+NAME_TR: County Louth
+NAME_VI: Hạt Louth
+NAME_ZH: 劳斯郡
+NE_ID: 1159310989

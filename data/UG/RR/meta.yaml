@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3371
+DISS_ME: 3371
+ISO_3166_2: UG-410
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Mbarara
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: UG.RR
+NOTE: null
+HASC_MAYBE: UG.KH
+REGION: Western
+REGION_COD: UGA-STH
+PROVNUM_NE: 20038
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: null
+POSTAL: RR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGB2
+FIPS_ALT: null
+WOE_ID: 20070434
+WOE_LABEL: Mbarara, UG, Uganda
+WOE_NAME: Mbarara
+LATITUDE: -0.242298
+LONGITUDE: 30.8704
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056288
+GN_NAME: Kiruhura District
+GNS_ID: 10540250
+GNS_NAME: Kiruhura District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.D3
+REGION_SUB: null
+SUB_CODE: UG24
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1091595
+NAME_AR: مقاطعة مبارارا
+NAME_BN: এমবারারা জেলা
+NAME_DE: Distrikt Mbarara
+NAME_EN: Mbarara District
+NAME_ES: Distrito de Mbarara
+NAME_FR: Mbarara
+NAME_EL: Μπαράρα
+NAME_HI: बरारा जिला
+NAME_HU: null
+NAME_ID: Distrik Mbarara
+NAME_IT: Mbarara
+NAME_JA: ムバララ県
+NAME_KO: 음바라라 구
+NAME_NL: Mbarara
+NAME_PL: Dystrykt Mbarara
+NAME_PT: Distrito de Mbarara
+NAME_RU: Мбарара
+NAME_SV: Mbarara dirstriktet
+NAME_TR: Mbarara District
+NAME_VI: Quận Mbarara
+NAME_ZH: 姆巴拉拉區
+NE_ID: 1159315077

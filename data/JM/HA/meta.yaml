@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: JAM-1371
+DISS_ME: 1371
+ISO_3166_2: JM-09
+WIKIPEDIA: null
+ISO_A2: JM
+ADM0_SR: 1
+NAME: Hanover
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Parish
+TYPE_EN: Parish
+CODE_LOCAL: null
+CODE_HASC: JM.HA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: HA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 10
+FIPS: JM02
+FIPS_ALT: null
+WOE_ID: 2345913
+WOE_LABEL: Hanover, JM, Jamaica
+WOE_NAME: Hanover
+LATITUDE: 18.3953
+LONGITUDE: -78.1337
+SOV_A3: JAM
+ADM0_A3: JAM
+ADM0_LABEL: 2
+ADMIN: Jamaica
+GEONUNIT: Jamaica
+GU_A3: JAM
+GN_ID: 3490145
+GN_NAME: Parish of Hanover
+GNS_ID: -3752147
+GNS_NAME: Hanover, Parish of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JM.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: null
+GNS_ADM1: JM02
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1131779
+NAME_AR: أبرشية هانوفر
+NAME_BN: হ্যানওভার প্যারিশ
+NAME_DE: Hanover Parish
+NAME_EN: Hanover Parish
+NAME_ES: Parroquia de Hanover
+NAME_FR: Paroisse de Hanover
+NAME_EL: Αννόβερο
+NAME_HI: हनोवर पैरिश
+NAME_HU: null
+NAME_ID: Paroki Hanover
+NAME_IT: parrocchia di Hanover
+NAME_JA: ハノーバー教区
+NAME_KO: 해노버 교구
+NAME_NL: Hanover
+NAME_PL: Hanover
+NAME_PT: Hanover
+NAME_RU: Приход Ганновер
+NAME_SV: Hanover
+NAME_TR: Hanover Parish
+NAME_VI: Giáo xứ Hanover
+NAME_ZH: 汉诺威区
+NE_ID: 1159310267

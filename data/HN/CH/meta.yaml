@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: HND-661
+DISS_ME: 661
+ISO_3166_2: HN-CH
+WIKIPEDIA: null
+ISO_A2: HN
+ADM0_SR: 1
+NAME: Choluteca
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: HN.CH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: CH
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 9
+MAPCOLOR9: 2
+MAPCOLOR13: 5
+FIPS: HO02
+FIPS_ALT: null
+WOE_ID: 2345624
+WOE_LABEL: Choluteca, HN, Honduras
+WOE_NAME: Choluteca
+LATITUDE: 13.2587
+LONGITUDE: -87.1074
+SOV_A3: HND
+ADM0_A3: HND
+ADM0_LABEL: 2
+ADMIN: Honduras
+GEONUNIT: Honduras
+GU_A3: HND
+GN_ID: 3613527
+GN_NAME: Departamento de Choluteca
+GNS_ID: -1117567
+GNS_NAME: Choluteca
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: HN.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: 7
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q899272
+NAME_AR: إدارة تشولوتيكا
+NAME_BN: কুলুতেকা বিভাগ
+NAME_DE: Departamento Choluteca
+NAME_EN: Choluteca Department
+NAME_ES: Departamento de Choluteca
+NAME_FR: département de Choluteca
+NAME_EL: Τσολουτέκα
+NAME_HI: चोलुटेका विभाग
+NAME_HU: Choluteca megye
+NAME_ID: Departemen Choluteca
+NAME_IT: dipartimento di Choluteca
+NAME_JA: チョルテカ県
+NAME_KO: 촐루테카 주
+NAME_NL: Choluteca
+NAME_PL: Choluteca
+NAME_PT: Choluteca
+NAME_RU: Чолутека
+NAME_SV: Choluteca
+NAME_TR: Choluteca Departmanı
+NAME_VI: Choluteca
+NAME_ZH: 喬盧特卡省
+NE_ID: 1159309123

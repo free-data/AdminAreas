@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: LAO-3289
+DISS_ME: 3289
+ISO_3166_2: LA-LP
+WIKIPEDIA: null
+ISO_A2: LA
+ADM0_SR: 1
+NAME: Louangphrabang
+NAME_ALT: Loang Prabang|Louangphabang|Louang Prabang|Luang Phabang|Luangphrabang|Luang Prabang
+NAME_LOCAL: null
+TYPE: Khoueng
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: LA.LP
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20018
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LP
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 9
+FIPS: LA17
+FIPS_ALT: LA06
+WOE_ID: 2346004
+WOE_LABEL: Louangphabang, LA, Laos
+WOE_NAME: Louangphrabang
+LATITUDE: 20.0788
+LONGITUDE: 102.549
+SOV_A3: LAO
+ADM0_A3: LAO
+ADM0_LABEL: 5
+ADMIN: Laos
+GEONUNIT: Laos
+GU_A3: LAO
+GN_ID: 1655558
+GN_NAME: Luang Prabang Province
+GNS_ID: -2665958
+GNS_NAME: Louangphabang
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: LA.17
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: LA17
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q747881
+NAME_AR: محافظة لوانغ برابانغ
+NAME_BN: লুয়াং প্রাবাং প্রদেশ
+NAME_DE: Provinz Luang Prabang
+NAME_EN: Luang Prabang Province
+NAME_ES: Provincia de Luang Prabang
+NAME_FR: Province de Luang Prabang
+NAME_EL: Λουάνγκ Πραμπάνγκ
+NAME_HI: लुअंग प्रबांग प्रान्त
+NAME_HU: Luangprabang tartomány
+NAME_ID: Provinsi Louangphabang
+NAME_IT: provincia di Luang Prabang
+NAME_JA: ルアンパバーン県
+NAME_KO: 루앙프라방 주
+NAME_NL: Luang Prabang
+NAME_PL: Prowincja Louangphrabang
+NAME_PT: Luang Prabang
+NAME_RU: Луангпхабанг
+NAME_SV: Louang Prabang
+NAME_TR: Luang prabang Province
+NAME_VI: Luangprabang
+NAME_ZH: 琅勃拉邦省
+NE_ID: 1159315189

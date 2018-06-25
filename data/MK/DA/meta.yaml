@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2899
+DISS_ME: 2899
+ISO_3166_2: MK-22
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Debarca
+NAME_ALT: Debartsa
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: Southwestern
+REGION_COD: null
+PROVNUM_NE: 20067
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 7
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK00
+FIPS_ALT: null
+WOE_ID: 24550746
+WOE_LABEL: Debarca Municipality, MK, Macedonia
+WOE_NAME: Debarca
+LATITUDE: 41.3337
+LONGITUDE: 20.8594
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 7056271
+GN_NAME: Opstina Debarca
+GNS_ID: 10540233
+GNS_NAME: Debarca, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.F5
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1323340
+NAME_AR: بلدية ديباركا
+NAME_BN: ডিবার্কা পৌরসভা
+NAME_DE: Opština Debarca
+NAME_EN: Debarca Municipality
+NAME_ES: Municipalidad de Debarca
+NAME_FR: Debartsa
+NAME_EL: Δήμος Ντεμπάρτσας
+NAME_HI: डेबर्का नगर पालिका
+NAME_HU: Debarca
+NAME_ID: Kotamadya Debarca
+NAME_IT: Debarca
+NAME_JA: デバルツァ
+NAME_KO: 데바르차 시
+NAME_NL: Debarca
+NAME_PL: Gmina Debarca
+NAME_PT: Município de Debarca
+NAME_RU: Дебарца
+NAME_SV: Debarca
+NAME_TR: Debarca Belediyesi
+NAME_VI: Đô thị tự trị Debarca
+NAME_ZH: 德巴尔查区
+NE_ID: 1159314407

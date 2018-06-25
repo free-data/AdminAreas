@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-839
+DISS_ME: 839
+ISO_3166_2: RS-12
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Šumadijski
+NAME_ALT: Šumadija
+NAME_LOCAL: Шумадијски
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.SU
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: SU
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: RB00
+FIPS_ALT: null
+WOE_ID: 29389225
+WOE_LABEL: Shumadija, RS, Serbia
+WOE_NAME: Šumadijski
+LATITUDE: 44.0985
+LONGITUDE: 20.8116
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Serbia
+GU_A3: SRS
+GN_ID: 7581908
+GN_NAME: Sumadijski Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q544118
+NAME_AR: مقاطعة شوماديا
+NAME_BN: সোমাডিজা জেলা
+NAME_DE: Okrug Šumadija
+NAME_EN: Šumadija District
+NAME_ES: Distrito de Šumadija
+NAME_FR: Šumadija
+NAME_EL: Σουμάντια
+NAME_HI: सुमादिया जिला
+NAME_HU: null
+NAME_ID: Distrik Šumadija
+NAME_IT: Distretto di Šumadija
+NAME_JA: シュマディヤ郡
+NAME_KO: 슈마디야 구
+NAME_NL: Šumadija
+NAME_PL: Okręg szumadijski
+NAME_PT: Distrito de Sumadija
+NAME_RU: Шумадийский округ
+NAME_SV: Sumadija
+NAME_TR: Šumadija İlçesi
+NAME_VI: Quận Sumadija
+NAME_ZH: 舒馬迪亞州
+NE_ID: 1159309523

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GNB-778
+DISS_ME: 778
+ISO_3166_2: GW-TO
+WIKIPEDIA: null
+ISO_A2: GW
+ADM0_SR: 1
+NAME: Tombali
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Região
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GW.TO
+NOTE: null
+HASC_MAYBE: null
+REGION: Sul
+REGION_COD: GW-S
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: TO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 7
+MAPCOLOR9: 3
+MAPCOLOR13: 4
+FIPS: PU07
+FIPS_ALT: null
+WOE_ID: 2346608
+WOE_LABEL: Tombali, GW, Guinea-Bissau
+WOE_NAME: Tombali
+LATITUDE: 11.2932
+LONGITUDE: -14.9293
+SOV_A3: GNB
+ADM0_A3: GNB
+ADM0_LABEL: 5
+ADMIN: Guinea Bissau
+GEONUNIT: Guinea Bissau
+GU_A3: GNB
+GN_ID: 2368955
+GN_NAME: Tombali
+GNS_ID: -1494256
+GNS_NAME: Tombali
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GW.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: PU07
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q1047255
+NAME_AR: إقليم تومبالي
+NAME_BN: তুম্বালি অঞ্চল
+NAME_DE: Region Tombali
+NAME_EN: Tombali Region
+NAME_ES: Región de Tombali
+NAME_FR: Tombali
+NAME_EL: Τόμπαλι
+NAME_HI: टॉम्बाली क्षेत्र
+NAME_HU: null
+NAME_ID: TombaliWilayah
+NAME_IT: regione di Tombali
+NAME_JA: トンバリ州
+NAME_KO: 톰발리 주
+NAME_NL: Tombali
+NAME_PL: Region Tombali
+NAME_PT: Tombali
+NAME_RU: Томбали
+NAME_SV: Tombali
+NAME_TR: Tombali Bölgesi
+NAME_VI: Khu vực Tombali
+NAME_ZH: 通巴利區
+NE_ID: 1159309025

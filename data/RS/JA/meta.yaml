@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: SRB-843
+DISS_ME: 843
+ISO_3166_2: RS-23
+WIKIPEDIA: null
+ISO_A2: RS
+ADM0_SR: 1
+NAME: Jablanicki
+NAME_ALT: Jablanica
+NAME_LOCAL: Јабланички
+TYPE: Okrug
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: RS.JA
+NOTE: null
+HASC_MAYBE: null
+REGION: Jablanički
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: JA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 10
+MAPCOLOR9: 2
+MAPCOLOR13: 10
+FIPS: MK97
+FIPS_ALT: null
+WOE_ID: 29389208
+WOE_LABEL: Jablanica, RS, Serbia
+WOE_NAME: Jablanicki
+LATITUDE: 42.964
+LONGITUDE: 21.9611
+SOV_A3: SRB
+ADM0_A3: SRB
+ADM0_LABEL: 5
+ADMIN: Republic of Serbia
+GEONUNIT: Serbia
+GU_A3: SRS
+GN_ID: 7581795
+GN_NAME: Jablanicki Okrug
+GNS_ID: 0
+GNS_NAME: null
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: RS.23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: -99
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q876541
+NAME_AR: محافظة يابلانيكا
+NAME_BN: জাব্লানিকা জেলা
+NAME_DE: Okrug Jablanica
+NAME_EN: Jablanica District
+NAME_ES: Distrito de Jablanica
+NAME_FR: Jablanica
+NAME_EL: Περιφέρεια Γιαμπλάνιτσα
+NAME_HI: जब्लानिका जिला
+NAME_HU: null
+NAME_ID: Distrik Jablanica
+NAME_IT: Distretto di Jablanica
+NAME_JA: ヤブラニツァ郡
+NAME_KO: 야블라니차 구
+NAME_NL: Jablanica
+NAME_PL: Okręg jablanicki
+NAME_PT: Distrito de Jablanica
+NAME_RU: Ябланичский округ
+NAME_SV: Jablanica
+NAME_TR: Jablanica İlçesi
+NAME_VI: Quận Jablanica
+NAME_ZH: 雅布蘭尼卡州
+NE_ID: 1159309527

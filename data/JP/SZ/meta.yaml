@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: JPN-1845
+DISS_ME: 1845
+ISO_3166_2: JP-22
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Shizuoka
+NAME_ALT: Sizuoka
+NAME_LOCAL: null
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.SZ
+NOTE: null
+HASC_MAYBE: null
+REGION: Chubu
+REGION_COD: JPN-CHB
+PROVNUM_NE: 28
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SZ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA37
+FIPS_ALT: JA46
+WOE_ID: 2345886
+WOE_LABEL: Shizuoka Prefecture, JP, Japan
+WOE_NAME: Shizuoka
+LATITUDE: 35.0359
+LONGITUDE: 138.306
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1851715
+GN_NAME: Shizuoka-ken
+GNS_ID: -244118
+GNS_NAME: Shizuoka-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.37
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA37
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q131320
+NAME_AR: شيزوكا
+NAME_BN: শিযুওকা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Shizuoka
+NAME_EN: Shizuoka Prefecture
+NAME_ES: Prefectura de Shizuoka
+NAME_FR: Préfecture de Shizuoka
+NAME_EL: Σιζουόκα
+NAME_HI: शिज़ूओका प्रांत
+NAME_HU: Sizuoka prefektúra
+NAME_ID: Prefektur Shizuoka
+NAME_IT: prefettura di Shizuoka
+NAME_JA: 静岡県
+NAME_KO: 시즈오카 현
+NAME_NL: Shizuoka
+NAME_PL: Prefektura Shizuoka
+NAME_PT: Shizuoka
+NAME_RU: Сидзуока
+NAME_SV: Shizuoka prefektur
+NAME_TR: Shizuoka
+NAME_VI: Shizuoka
+NAME_ZH: 靜岡縣
+NE_ID: 1159312187

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: ISR-3057
+DISS_ME: 3057
+ISO_3166_2: IL-TA
+WIKIPEDIA: null
+ISO_A2: IL
+ADM0_SR: 1
+NAME: Tel Aviv
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mehoz
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: IL.TA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 20006
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: TA
+AREA_SQKM: 0
+SAMEASCITY: 9
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 9
+FIPS: IS05
+FIPS_ALT: null
+WOE_ID: 2345795
+WOE_LABEL: Tel Aviv, IL, Israel
+WOE_NAME: Tel Aviv
+LATITUDE: 32.0966
+LONGITUDE: 34.8091
+SOV_A3: ISR
+ADM0_A3: ISR
+ADM0_LABEL: 2
+ADMIN: Israel
+GEONUNIT: Israel
+GU_A3: ISR
+GN_ID: 293396
+GN_NAME: Tel Aviv District
+GNS_ID: -781546
+GNS_NAME: Tel Aviv, Mehoz
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IL.05
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: heb
+GNS_ADM1: IS05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q192811
+NAME_AR: منطقة تل أبيب
+NAME_BN: null
+NAME_DE: Bezirk Tel Aviv
+NAME_EN: Tel Aviv District
+NAME_ES: Distrito de Tel Aviv
+NAME_FR: district de Tel Aviv
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Tel-Avivi körzet
+NAME_ID: Distrik Tel Aviv
+NAME_IT: distretto di Tel Aviv
+NAME_JA: テルアビブ地区
+NAME_KO: 텔아비브 구
+NAME_NL: Tel Aviv
+NAME_PL: Dystrykt Tel Awiwu
+NAME_PT: Tel Aviv
+NAME_RU: Тель-Авивский округ
+NAME_SV: Tel Aviv
+NAME_TR: Tel Aviv Bölgesi
+NAME_VI: Quận Tel Aviv
+NAME_ZH: 特拉维夫区
+NE_ID: 1159314193

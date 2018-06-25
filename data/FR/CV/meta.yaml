@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: FRA-5275
+DISS_ME: 5275
+ISO_3166_2: FR-14
+WIKIPEDIA: null
+ISO_A2: FR
+ADM0_SR: 1
+NAME: Calvados
+NAME_ALT: Baja Normand¡a|Lower Normandy
+NAME_LOCAL: null
+TYPE: Metropolitan département
+TYPE_EN: Metropolitan department
+CODE_LOCAL: null
+CODE_HASC: FR.CV
+NOTE: null
+HASC_MAYBE: null
+REGION: Basse-Normandie
+REGION_COD: FR-P
+PROVNUM_NE: 21
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 8
+MAPCOLOR9: 9
+MAPCOLOR13: 11
+FIPS: FR99
+FIPS_ALT: null
+WOE_ID: 12597127
+WOE_LABEL: null
+WOE_NAME: Calvados
+LATITUDE: 49.0601
+LONGITUDE: -0.288724
+SOV_A3: FR1
+ADM0_A3: FRA
+ADM0_LABEL: 2
+ADMIN: France
+GEONUNIT: France
+GU_A3: FXX
+GN_ID: 3029094
+GN_NAME: Departement du Calvados
+GNS_ID: -1416246
+GNS_NAME: Calvados, Departement du
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: FR.14
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 2
+GNS_LANG: null
+GNS_ADM1: null
+GNS_REGION: FR99
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q3249
+NAME_AR: كالفادوس
+NAME_BN: ক্যাালভাডোস
+NAME_DE: Département Calvados
+NAME_EN: Calvados
+NAME_ES: Calvados
+NAME_FR: Calvados
+NAME_EL: Καλβαντός
+NAME_HI: सेल्वाडोस
+NAME_HU: Calvados
+NAME_ID: Calvados
+NAME_IT: Calvados
+NAME_JA: カルヴァドス県
+NAME_KO: 칼바도스 주
+NAME_NL: Calvados
+NAME_PL: Calvados
+NAME_PT: Calvados
+NAME_RU: Кальвадос
+NAME_SV: Calvados
+NAME_TR: Calvados
+NAME_VI: Calvados
+NAME_ZH: 卡爾瓦多斯省
+NE_ID: 1159313547

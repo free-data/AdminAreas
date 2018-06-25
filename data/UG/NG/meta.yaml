@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: UGA-3370
+DISS_ME: 3370
+ISO_3166_2: UG-417
+WIKIPEDIA: null
+ISO_A2: UG
+ADM0_SR: 1
+NAME: Isingiro
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: UG.NG
+NOTE: null
+HASC_MAYBE: null
+REGION: Western
+REGION_COD: UGA-STH
+PROVNUM_NE: 20037
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: BK
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 8
+MAPCOLOR9: 6
+MAPCOLOR13: 4
+FIPS: UGC9
+FIPS_ALT: null
+WOE_ID: 56190210
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: -0.848191
+LONGITUDE: 30.8706
+SOV_A3: UGA
+ADM0_A3: UGA
+ADM0_LABEL: 2
+ADMIN: Uganda
+GEONUNIT: Uganda
+GU_A3: UGA
+GN_ID: 7056285
+GN_NAME: Isingiro District
+GNS_ID: 10540247
+GNS_NAME: Isingiro District
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: UG.C9
+REGION_SUB: null
+SUB_CODE: UG24
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: UG51
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1318887
+NAME_AR: مقاطعة إيسينجيرو
+NAME_BN: ইসিংরো জেলা
+NAME_DE: Isingiro-Distrikt
+NAME_EN: Isingiro District
+NAME_ES: Distrito de Isingiro
+NAME_FR: Isingiro
+NAME_EL: Ισινγκίρο
+NAME_HI: इसिंगिरो जिला
+NAME_HU: null
+NAME_ID: Distrik Isingiro
+NAME_IT: Isingiro
+NAME_JA: イシンギロ県
+NAME_KO: 이싱기로 구
+NAME_NL: Isingiro
+NAME_PL: Dystrykt Isingiro
+NAME_PT: Distrito de Isingiro
+NAME_RU: Исингиро
+NAME_SV: Isingirodistriktet
+NAME_TR: Isingiro District
+NAME_VI: Quận Isingiro
+NAME_ZH: 伊辛吉羅區
+NE_ID: 1159315075

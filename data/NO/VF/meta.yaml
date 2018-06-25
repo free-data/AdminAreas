@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: NOR-923
+DISS_ME: 923
+ISO_3166_2: NO-07
+WIKIPEDIA: null
+ISO_A2: NO
+ADM0_SR: 1
+NAME: Vestfold
+NAME_ALT: Vestfold fylke|Jarlsberg og Larvik
+NAME_LOCAL: null
+TYPE: Fylke
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: NO.VF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 30002
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: VF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 12
+FIPS: NO20
+FIPS_ALT: null
+WOE_ID: 2346403
+WOE_LABEL: Vestfold Fylke, NO, Norway
+WOE_NAME: Vestfold
+LATITUDE: 59.3146
+LONGITUDE: 10.1269
+SOV_A3: NOR
+ADM0_A3: NOR
+ADM0_LABEL: 2
+ADMIN: Norway
+GEONUNIT: Norway
+GU_A3: NOW
+GN_ID: 3132015
+GN_NAME: Vestfold fylke
+GNS_ID: -286483
+GNS_NAME: Vestfold
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NO.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: NO20
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q50619
+NAME_AR: فستفولد
+NAME_BN: ভেস্টফোল্ড
+NAME_DE: Vestfold
+NAME_EN: Vestfold
+NAME_ES: Vestfold
+NAME_FR: comté de Vestfold
+NAME_EL: Βέστφολντ
+NAME_HI: वेस्टफ़ोल्ड
+NAME_HU: Vestfold megye
+NAME_ID: Vestfold
+NAME_IT: Vestfold
+NAME_JA: ヴェストフォル県
+NAME_KO: 베스트폴 주
+NAME_NL: Vestfold
+NAME_PL: Vestfold
+NAME_PT: Vestfold
+NAME_RU: Вестфолл
+NAME_SV: Vestfold fylke
+NAME_TR: Vestfold
+NAME_VI: Vestfold
+NAME_ZH: 西福尔郡
+NE_ID: 1159309685

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: NAM-3352
+DISS_ME: 3352
+ISO_3166_2: NA-OW
+WIKIPEDIA: null
+ISO_A2: NA
+ADM0_SR: 1
+NAME: Ohangwena
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Region
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: NA.OW
+NOTE: Was reorganized from 26 districts into 13 regions.
+HASC_MAYBE: null
+REGION: null
+REGION_COD: NAM-OWM
+PROVNUM_NE: 20013
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: OW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 7
+FIPS: WA33
+FIPS_ALT: WA33
+WOE_ID: 20069840
+WOE_LABEL: Ohangwena, NA, Namibia
+WOE_NAME: Ohangwena
+LATITUDE: -17.5789
+LONGITUDE: 16.7798
+SOV_A3: NAM
+ADM0_A3: NAM
+ADM0_LABEL: 2
+ADMIN: Namibia
+GEONUNIT: Namibia
+GU_A3: NAM
+GN_ID: 3371203
+GN_NAME: Ohangwena
+GNS_ID: 311107
+GNS_NAME: Ohangwena
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: NA.33
+REGION_SUB: null
+SUB_CODE: WA15
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: WA33
+GNS_REGION: null
+MIN_LABEL: 6
+MAX_LABEL: 11
+MIN_ZOOM: 6
+WIKIDATAID: Q845702
+NAME_AR: إقليم أوهانغوينا
+NAME_BN: ওহাংয়েনা অঞ্চল
+NAME_DE: Ohangwena
+NAME_EN: Ohangwena Region
+NAME_ES: Ohangwena
+NAME_FR: Ohangwena
+NAME_EL: Οχανγκβένα
+NAME_HI: ओहांगवेना प्रदेश
+NAME_HU: null
+NAME_ID: Wilayah Ohangwena
+NAME_IT: regione di Ohangwena
+NAME_JA: オハングウェナ州
+NAME_KO: 오항궤나 주
+NAME_NL: Ohangwena
+NAME_PL: Ohangwena
+NAME_PT: Ohangwena
+NAME_RU: Охангвена
+NAME_SV: Ohangwena
+NAME_TR: Ohangwena
+NAME_VI: Khu vực Ohangwena
+NAME_ZH: 奧漢圭納區
+NE_ID: 1159314959

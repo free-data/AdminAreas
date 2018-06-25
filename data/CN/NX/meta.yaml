@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CHN-1803
+DISS_ME: 1803
+ISO_3166_2: CN-64
+WIKIPEDIA: null
+ISO_A2: CN
+ADM0_SR: 1
+NAME: Ningxia
+NAME_ALT: Ningxia Hui|Níngxià Húizú
+NAME_LOCAL: 寧夏回族自治區|宁夏回族自治区
+TYPE: Zìzhìqu
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: CN.NX
+NOTE: null
+HASC_MAYBE: null
+REGION: Northwest China
+REGION_COD: 6
+PROVNUM_NE: 38
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: NX
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: CH21
+FIPS_ALT: null
+WOE_ID: 12578010
+WOE_LABEL: Ningxia, CN, China
+WOE_NAME: Ningxia
+LATITUDE: 37.1762
+LONGITUDE: 106.038
+SOV_A3: CH1
+ADM0_A3: CHN
+ADM0_LABEL: 2
+ADMIN: China
+GEONUNIT: China
+GU_A3: CHN
+GN_ID: 1799355
+GN_NAME: Ningxia Huizu Zizhiqu
+GNS_ID: -1920281
+GNS_NAME: Ningxia Huizu Zizhiqu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CN.21
+REGION_SUB: Western
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CH21
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q57448
+NAME_AR: نينغشيا
+NAME_BN: নিংশিয়া
+NAME_DE: Ningxia
+NAME_EN: Ningxia Hui Autonomous Region
+NAME_ES: Ningxia
+NAME_FR: Níngxià
+NAME_EL: Νινγκσιά
+NAME_HI: निंगशिया
+NAME_HU: Ninghszia-Huj Autonóm Terület
+NAME_ID: Ningxia
+NAME_IT: Ningsia
+NAME_JA: 寧夏回族自治区
+NAME_KO: 닝샤 후이족 자치구
+NAME_NL: Ningxia
+NAME_PL: Ningxia
+NAME_PT: Ningxia
+NAME_RU: Нинся-Хуэйский автономный район
+NAME_SV: Ningxia
+NAME_TR: Ningxia Huizu Özerk Bölgesi
+NAME_VI: Ninh Hạ
+NAME_ZH: 宁夏回族自治区
+NE_ID: 1159312659

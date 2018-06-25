@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: UKR-288
+DISS_ME: 288
+ISO_3166_2: UA-77
+WIKIPEDIA: null
+ISO_A2: UA
+ADM0_SR: 1
+NAME: Chernivtsi
+NAME_ALT: Chernivets'ka Oblast'|Chernovitskaya Oblast'|Chernovtsy|Czernowitz|Tschernowzy|Tchernovtsy
+NAME_LOCAL: null
+TYPE: Oblast'
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: UA.CV
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 11
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CV
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP03
+FIPS_ALT: null
+WOE_ID: 2347536
+WOE_LABEL: Chernivtsi Oblast, UA, Ukraine
+WOE_NAME: Chernivtsi
+LATITUDE: 48.2892
+LONGITUDE: 26.2156
+SOV_A3: UKR
+ADM0_A3: UKR
+ADM0_LABEL: 2
+ADMIN: Ukraine
+GEONUNIT: Ukraine
+GU_A3: UKR
+GN_ID: 710720
+GN_NAME: Chernivets'ka Oblast'
+GNS_ID: -1037072
+GNS_NAME: Chernivets'ka Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ukr
+GNS_ADM1: UP03
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q168856
+NAME_AR: تشيرنيفتسي أوبلاست
+NAME_BN: চের্নিভিৎসি ওব্লাস্ট
+NAME_DE: Oblast Tscherniwzi
+NAME_EN: Chernivtsi Oblast
+NAME_ES: Óblast de Chernivtsi
+NAME_FR: Oblast de Tchernivtsi
+NAME_EL: Τσερνίβτσι Όμπλαστ
+NAME_HI: चेमिव्त्सी ओब्लास्ट
+NAME_HU: Csernyivci terület
+NAME_ID: Oblast Chernivtsi
+NAME_IT: Oblast' di Černivci
+NAME_JA: チェルニウツィー州
+NAME_KO: 체르니우치 주
+NAME_NL: Oblast Tsjernivtsi
+NAME_PL: Obwód czerniowiecki
+NAME_PT: Oblast de Chernivtsi
+NAME_RU: Черновицкая область
+NAME_SV: Tjernivtsi oblast
+NAME_TR: Çernovtsi Oblastı
+NAME_VI: Chernivtsi
+NAME_ZH: 切爾諾夫策州
+NE_ID: 1159309595

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: RUS-283
+DISS_ME: 283
+ISO_3166_2: UA-43
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Crimea
+NAME_ALT: Crimée|Criméia|Krim|Krymskaya Respublika|Respublika Krym
+NAME_LOCAL: null
+TYPE: Oblast
+TYPE_EN: Autonomous Republic
+CODE_LOCAL: null
+CODE_HASC: UA.KR
+NOTE: null
+HASC_MAYBE: UA.MY|UKR-KRN
+REGION: Volga
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: KR
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UP11
+FIPS_ALT: UP16
+WOE_ID: 2347544
+WOE_LABEL: Crimea, UA, Ukraine
+WOE_NAME: Crimea
+LATITUDE: 45.3115
+LONGITUDE: 34.2784
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 703883
+GN_NAME: Avtonomna Respublika Krym
+GNS_ID: -1043929
+GNS_NAME: Krym, Avtonomna Respublika
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: UA.11
+REGION_SUB: North Caucasus
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: rus
+GNS_ADM1: UP11
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 11
+MIN_ZOOM: 4.7
+WIKIDATAID: Q756294
+NAME_AR: جمهورية القرم ذاتية الحكم
+NAME_BN: স্বায়ত্তশাসিত প্রজাতন্ত্রী ক্রিমিয়া
+NAME_DE: Autonome Republik Krim
+NAME_EN: Autonomous Republic of Crimea
+NAME_ES: República Autónoma de Crimea
+NAME_FR: République autonome de Crimée
+NAME_EL: Αυτόνομη Δημοκρατία της Κριμαίας
+NAME_HI: null
+NAME_HU: Krími Autonóm Köztársaság
+NAME_ID: Republik Otonom Krimea
+NAME_IT: Repubblica Autonoma di Crimea
+NAME_JA: クリミア自治共和国
+NAME_KO: 크림 자치 공화국
+NAME_NL: Autonome Republiek van de Krim
+NAME_PL: Republika Autonomiczna Krymu
+NAME_PT: República Autónoma da Crimeia
+NAME_RU: Автономная Республика Крым
+NAME_SV: Autonoma republiken Krim
+NAME_TR: Kırım Özerk Cumhuriyeti
+NAME_VI: Cộng hòa Tự trị Krym
+NAME_ZH: 克里米亚自治共和国
+NE_ID: 1159309535

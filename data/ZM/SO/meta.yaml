@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: ZMB-522
+DISS_ME: 522
+ISO_3166_2: ZM-07
+WIKIPEDIA: null
+ISO_A2: ZM
+ADM0_SR: 1
+NAME: Southern
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Province
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZM.SO
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 6
+ABBREV: null
+POSTAL: SO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 8
+MAPCOLOR9: 5
+MAPCOLOR13: 13
+FIPS: ZA07
+FIPS_ALT: null
+WOE_ID: 2347804
+WOE_LABEL: Southern, ZM, Zambia
+WOE_NAME: Southern
+LATITUDE: -16.6906
+LONGITUDE: 26.9583
+SOV_A3: ZMB
+ADM0_A3: ZMB
+ADM0_LABEL: 2
+ADMIN: Zambia
+GEONUNIT: Zambia
+GU_A3: ZMB
+GN_ID: 896972
+GN_NAME: Southern Province
+GNS_ID: -2305240
+GNS_NAME: Southern
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZM.07
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: ZA07
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q738382
+NAME_AR: المحافظة الجنوبية، زامبيا
+NAME_BN: সাউদার্ন প্রদেশ
+NAME_DE: Südprovinz
+NAME_EN: Southern Province
+NAME_ES: Provincia del Sur
+NAME_FR: Province Méridionale
+NAME_EL: Νότια Επαρχία
+NAME_HI: दक्षिणी प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Selatan
+NAME_IT: provincia Meridionale
+NAME_JA: 南部州
+NAME_KO: 남부 주
+NAME_NL: Southern
+NAME_PL: Prowincja Południowa
+NAME_PT: Província do Sul
+NAME_RU: Южная провинция
+NAME_SV: Southern
+NAME_TR: Güney Bölgesi
+NAME_VI: Tỉnh Phía Nam
+NAME_ZH: 南部省
+NE_ID: 1159307893

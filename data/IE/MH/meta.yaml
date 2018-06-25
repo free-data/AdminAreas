@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: IRL-715
+DISS_ME: 715
+ISO_3166_2: IE-MH
+WIKIPEDIA: null
+ISO_A2: IE
+ADM0_SR: 1
+NAME: Meath
+NAME_ALT: An Mhí
+NAME_LOCAL: null
+TYPE: Administrative County
+TYPE_EN: County
+CODE_LOCAL: null
+CODE_HASC: IE.MH
+NOTE: null
+HASC_MAYBE: null
+REGION: Mid-East
+REGION_COD: null
+PROVNUM_NE: 24
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 8
+ABBREV: null
+POSTAL: MH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 8
+NAME_LEN: 5
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: EI21
+FIPS_ALT: null
+WOE_ID: 2345265
+WOE_LABEL: Meath, IE, Ireland
+WOE_NAME: Meath
+LATITUDE: 53.6324
+LONGITUDE: -6.71387
+SOV_A3: IRL
+ADM0_A3: IRL
+ADM0_LABEL: 2
+ADMIN: Ireland
+GEONUNIT: Ireland
+GU_A3: IRL
+GN_ID: 2962661
+GN_NAME: An Mhi
+GNS_ID: -1504473
+GNS_NAME: Meath, County
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: IE.21
+REGION_SUB: Meath
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: EI21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q183544
+NAME_AR: مقاطعة ميث
+NAME_BN: কাউন্টি মিথ
+NAME_DE: County Meath
+NAME_EN: County Meath
+NAME_ES: Condado de Meath
+NAME_FR: comté de Meath
+NAME_EL: Κομητεία Μιθ
+NAME_HI: काउंटी मीथ
+NAME_HU: null
+NAME_ID: County Meath
+NAME_IT: Meath
+NAME_JA: ミース州
+NAME_KO: 미스 주
+NAME_NL: County Meath
+NAME_PL: Meath
+NAME_PT: Condado de Meath
+NAME_RU: Мит
+NAME_SV: Meath
+NAME_TR: County Meath
+NAME_VI: Hạt Meath
+NAME_ZH: 米斯郡
+NE_ID: 1159310991

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: ECU-5507
+DISS_ME: 5507
+ISO_3166_2: EC-SE
+WIKIPEDIA: http://en.wikipedia.org/wiki/Santa_Elena_Province
+ISO_A2: EC
+ADM0_SR: 3
+NAME: Santa Elena
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Provincia
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: EC.SE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 7
+ABBREV: null
+POSTAL: SE
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: EC25
+FIPS_ALT: null
+WOE_ID: 56189815
+WOE_LABEL: Santa Elena
+WOE_NAME: null
+LATITUDE: -2.15487
+LONGITUDE: -80.5772
+SOV_A3: ECU
+ADM0_A3: ECU
+ADM0_LABEL: 2
+ADMIN: Ecuador
+GEONUNIT: Ecuador
+GU_A3: ECU
+GN_ID: 7062138
+GN_NAME: Provincia de Santa Elena
+GNS_ID: 10547187
+GNS_NAME: Santa Elena, Provincia de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: EC.25
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: spa
+GNS_ADM1: EC25
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q1124125
+NAME_AR: مقاطعة سانتا إيلينا
+NAME_BN: স্যান্টা এলেনা প্রদেশ
+NAME_DE: Santa Elena
+NAME_EN: Santa Elena Province
+NAME_ES: Provincia de Santa Elena
+NAME_FR: Santa Elena
+NAME_EL: Επαρχία Σάντα Έλενα
+NAME_HI: सैंटा एलेना प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Santa Elena
+NAME_IT: provincia di Santa Elena
+NAME_JA: サンタ・エレーナ県
+NAME_KO: 산타엘레나 주
+NAME_NL: Santa Elena
+NAME_PL: Prowincja Santa Elena
+NAME_PT: Santa Elena
+NAME_RU: Санта-Элена
+NAME_SV: Santa Elena
+NAME_TR: Santa Elena Province
+NAME_VI: Tỉnh Santa Elena
+NAME_ZH: 聖埃倫娜省
+NE_ID: 1159317163

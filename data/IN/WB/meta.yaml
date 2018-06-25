@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: IND-3257
+DISS_ME: 3257
+ISO_3166_2: IN-WB
+WIKIPEDIA: null
+ISO_A2: IN
+ADM0_SR: 4
+NAME: West Bengal
+NAME_ALT: Bangla|Bengala Occidentale|Bengala Ocidental|Bengale occidental
+NAME_LOCAL: null
+TYPE: State
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: IN.WB
+NOTE: null
+HASC_MAYBE: null
+REGION: East
+REGION_COD: null
+PROVNUM_NE: 20010
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: WB
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 11
+MAPCOLOR9: 2
+MAPCOLOR13: 2
+FIPS: IN28
+FIPS_ALT: null
+WOE_ID: 2345761
+WOE_LABEL: West Bengal, IN, India
+WOE_NAME: West Bengal
+LATITUDE: 23.0523
+LONGITUDE: 87.7289
+SOV_A3: IND
+ADM0_A3: IND
+ADM0_LABEL: 2
+ADMIN: India
+GEONUNIT: India
+GU_A3: IND
+GN_ID: 1252881
+GN_NAME: State of West Bengal
+GNS_ID: -2114741
+GNS_NAME: West Bengal, State of
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IN.28
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: nld
+GNS_ADM1: IN28
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q1356
+NAME_AR: بنغال الغربية
+NAME_BN: পশ্চিমবঙ্গ
+NAME_DE: Westbengalen
+NAME_EN: West Bengal
+NAME_ES: Bengala Occidental
+NAME_FR: Bengale-Occidental
+NAME_EL: Δυτική Βενγκάλη
+NAME_HI: पश्चिम बंगाल
+NAME_HU: Nyugat-Bengál
+NAME_ID: Benggala Barat
+NAME_IT: Bengala Occidentale
+NAME_JA: 西ベンガル州
+NAME_KO: 서벵골 주
+NAME_NL: West-Bengalen
+NAME_PL: Bengal Zachodni
+NAME_PT: Bengala Ocidental
+NAME_RU: Западная Бенгалия
+NAME_SV: Västbengalen
+NAME_TR: Batı Bengal
+NAME_VI: Tây Bengal
+NAME_ZH: 西孟加拉邦
+NE_ID: 1159313981

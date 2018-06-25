@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SVN-1044
+DISS_ME: 1044
+ISO_3166_2: SI-078
+WIKIPEDIA: null
+ISO_A2: SI
+ADM0_SR: 1
+NAME: Moravske Toplice
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Opcine
+TYPE_EN: Commune|Municipality
+CODE_LOCAL: null
+CODE_HASC: SI.PM.MT
+NOTE: null
+HASC_MAYBE: null
+REGION: Pomurska
+REGION_COD: null
+PROVNUM_NE: 6
+GADM_LEVEL: 2
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MT
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 16
+MAPCOLOR9: 2
+MAPCOLOR13: 12
+FIPS: SI78
+FIPS_ALT: null
+WOE_ID: -55848370
+WOE_LABEL: null
+WOE_NAME: null
+LATITUDE: 46.7159
+LONGITUDE: 16.2705
+SOV_A3: SVN
+ADM0_A3: SVN
+ADM0_LABEL: 2
+ADMIN: Slovenia
+GEONUNIT: Slovenia
+GU_A3: SVN
+GN_ID: 3239279
+GN_NAME: Obcina Moravske Toplice
+GNS_ID: 244024
+GNS_NAME: Moravske Toplice, Obcina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SI.78
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: slv
+GNS_ADM1: SI78
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q3494723
+NAME_AR: بلدية مورافسك توبليس
+NAME_BN: মোরাভস্কে টপ্লিস পৌরসভা
+NAME_DE: Gemeinde Moravske Toplice
+NAME_EN: Moravske Toplice Municipality
+NAME_ES: Municipalidad del Moravske Toplice
+NAME_FR: Moravske Toplice
+NAME_EL: Μοράβσκε Τοπλίτσε
+NAME_HI: मोराव्सके टोप्लिस नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Moravske Toplice
+NAME_IT: Moravske Toplice
+NAME_JA: モラフスケ・トプリツェ
+NAME_KO: 모라브스케 토플리체 지방 자치제
+NAME_NL: Moravske Toplice
+NAME_PL: Gmina Moravske Toplice
+NAME_PT: Município de Moravske Toplice
+NAME_RU: Моравске Топлице
+NAME_SV: Moravske Toplice
+NAME_TR: Moravske Toplice Belediyesi
+NAME_VI: Đô thị tự trị Moravske Toplice
+NAME_ZH: null
+NE_ID: 1159310895

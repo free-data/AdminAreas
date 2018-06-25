@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: ZAF-1188
+DISS_ME: 1188
+ISO_3166_2: ZA-NC
+WIKIPEDIA: null
+ISO_A2: ZA
+ADM0_SR: 1
+NAME: Northern Cape
+NAME_ALT: Noord-Kaap
+NAME_LOCAL: null
+TYPE: Provinsie
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: ZA.NC
+NOTE: CSS 3, Formerly part of Cape of Good Hope
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 4
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 3
+ABBREV: null
+POSTAL: NC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 13
+MAPCOLOR9: 4
+MAPCOLOR13: 2
+FIPS: SF08
+FIPS_ALT: SF08
+WOE_ID: 2346985
+WOE_LABEL: Northern Cape, ZA, South Africa
+WOE_NAME: Northern Cape
+LATITUDE: -29.7437
+LONGITUDE: 20.9961
+SOV_A3: ZAF
+ADM0_A3: ZAF
+ADM0_LABEL: 2
+ADMIN: South Africa
+GEONUNIT: South Africa
+GU_A3: ZAF
+GN_ID: 1085596
+GN_NAME: Province of Northern Cape
+GNS_ID: 204231
+GNS_NAME: Northern Cape
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: ZA.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: SF08
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q132418
+NAME_AR: كيب الشمالية
+NAME_BN: উত্তর কেপ প্রদেশ
+NAME_DE: Nordkap
+NAME_EN: Northern Cape
+NAME_ES: Provincia Septentrional del Cabo
+NAME_FR: Cap du Nord
+NAME_EL: Βορειότερο Ακρωτήριο
+NAME_HI: उत्तरी केप प्रान्त
+NAME_HU: Észak-Fokföld
+NAME_ID: Northern Cape
+NAME_IT: provincia del Capo Settentrionale
+NAME_JA: 北ケープ州
+NAME_KO: 노던케이프 주
+NAME_NL: Noord-Kaap
+NAME_PL: Prowincja Przylądkowa Północna
+NAME_PT: Cabo Setentrional
+NAME_RU: Северо-Капская провинция
+NAME_SV: Norra Kapprovinsen
+NAME_TR: Kuzey Kap
+NAME_VI: Bắc Cape
+NAME_ZH: 北開普省
+NE_ID: 1159309731

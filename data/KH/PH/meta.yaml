@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: KHM-1791
+DISS_ME: 1791
+ISO_3166_2: KH-13
+WIKIPEDIA: null
+ISO_A2: KH
+ADM0_SR: 1
+NAME: Preah Vihéar
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Khêt
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KH.PH
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: PH
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 12
+MAPCOLOR9: 6
+MAPCOLOR13: 5
+FIPS: CB13
+FIPS_ALT: null
+WOE_ID: 2344938
+WOE_LABEL: Preah Vihear, KH, Cambodia
+WOE_NAME: Preah Vihéar
+LATITUDE: 13.728
+LONGITUDE: 105.125
+SOV_A3: KHM
+ADM0_A3: KHM
+ADM0_LABEL: 2
+ADMIN: Cambodia
+GEONUNIT: Cambodia
+GU_A3: KHM
+GN_ID: 1822676
+GN_NAME: Khett Preah Vihear
+GNS_ID: -1032285
+GNS_NAME: Preah Vihear, Khett
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KH.13
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: CB13
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q502151
+NAME_AR: محافظة برياه فيهير
+NAME_BN: প্রিয়ে ভিহে প্রদেশ
+NAME_DE: Preah Vihear
+NAME_EN: Preah Vihear Province
+NAME_ES: Provincia de Preah Wijía
+NAME_FR: province de Preah Vihear
+NAME_EL: Πρέα Βιχεάρ
+NAME_HI: प्रीह वीहियर प्रांत
+NAME_HU: null
+NAME_ID: Provinsi Preah Vihear
+NAME_IT: provincia di Preah Vihear
+NAME_JA: プレアヴィヒア州
+NAME_KO: 프레아비헤아르 주
+NAME_NL: Preah Vihear
+NAME_PL: Prowincja Preah Vihear
+NAME_PT: Preah Vihear
+NAME_RU: Прэахвихеа
+NAME_SV: Preah Vihear
+NAME_TR: Preah Vihear Province
+NAME_VI: Preah Vihear
+NAME_ZH: 柏威夏省
+NE_ID: 1159311579

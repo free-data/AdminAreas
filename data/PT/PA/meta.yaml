@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-747
+DISS_ME: 747
+ISO_3166_2: PT-12
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Portalegre
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: Alentejo
+REGION_COD: null
+PROVNUM_NE: 15
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 10
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO16
+FIPS_ALT: null
+WOE_ID: 2346574
+WOE_LABEL: Portalegre, PT, Portugal
+WOE_NAME: Portalegre
+LATITUDE: 39.2822
+LONGITUDE: -7.65389
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2264507
+GN_NAME: Distrito de Portalegre
+GNS_ID: -2172972
+GNS_NAME: Portalegre, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.16
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO16
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q225189
+NAME_AR: محافظة بورتاليجري
+NAME_BN: null
+NAME_DE: Distrikt Portalegre
+NAME_EN: Portalegre District
+NAME_ES: Distrito de Portalegre
+NAME_FR: District de Portalegre
+NAME_EL: null
+NAME_HI: null
+NAME_HU: Portalegre
+NAME_ID: Distrik Portalegre
+NAME_IT: distretto di Portalegre
+NAME_JA: ポルタレグレ県
+NAME_KO: 포르탈레그르 현
+NAME_NL: Portalegre
+NAME_PL: Dystrykt Portalegre
+NAME_PT: Distrito de Portalegre
+NAME_RU: Порталегри
+NAME_SV: Portalegre
+NAME_TR: null
+NAME_VI: Portalegre
+NAME_ZH: 波塔萊格雷區
+NE_ID: 1159310571

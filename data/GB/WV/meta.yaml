@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-5693
+DISS_ME: 5693
+ISO_3166_2: GB-WLV
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Wolverhampton
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Metropolitan Borough
+TYPE_EN: Metropolitan Borough
+CODE_LOCAL: null
+CODE_HASC: GB.WV
+NOTE: null
+HASC_MAYBE: null
+REGION: West Midlands
+REGION_COD: GB.WM
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: W Mid
+POSTAL: WM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 13
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UKQ3
+FIPS_ALT: null
+WOE_ID: -12602191
+WOE_LABEL: null
+WOE_NAME: West Midlands
+LATITUDE: 52.5958
+LONGITUDE: -2.1108
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: 3333222
+GN_NAME: Borough of Wolverhampton
+GNS_ID: 6077664
+GNS_NAME: Wolverhampton, Borough of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: GB.Q3
+REGION_SUB: West Midlands
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q126269
+NAME_AR: ولفرهامبتن
+NAME_BN: উভারহ্যাম্পটন
+NAME_DE: Wolverhampton
+NAME_EN: Wolverhampton
+NAME_ES: Wolverhampton
+NAME_FR: Wolverhampton
+NAME_EL: Γουλβερχάμπτον
+NAME_HI: वॉल्वरहैम्प्टन
+NAME_HU: Wolverhampton
+NAME_ID: Wolverhampton
+NAME_IT: Wolverhampton
+NAME_JA: ウォルヴァーハンプトン
+NAME_KO: 울버햄프턴
+NAME_NL: Wolverhampton
+NAME_PL: Wolverhampton
+NAME_PT: Wolverhampton
+NAME_RU: Вулвергемптон
+NAME_SV: Wolverhampton
+NAME_TR: Wolverhampton
+NAME_VI: Wolverhampton
+NAME_ZH: 伍爾弗漢普頓
+NE_ID: 1159317533

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: BTN-2487
+DISS_ME: 2487
+ISO_3166_2: BT-24
+WIKIPEDIA: null
+ISO_A2: BT
+ADM0_SR: 1
+NAME: Wangdi Phodrang
+NAME_ALT: Wangdiphodrang|Andguphodang|Wangdue|Wangdue Phodrang|Wangdupotrang|Wangü-Phodrang
+NAME_LOCAL: null
+TYPE: Dzongkhag
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: BT.WP
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 18
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: WP
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 15
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: BT22
+FIPS_ALT: null
+WOE_ID: 2344889
+WOE_LABEL: Wangdue Phodrang, BT, Bhutan
+WOE_NAME: Wangdi Phodrang
+LATITUDE: 27.5206
+LONGITUDE: 90.0915
+SOV_A3: BTN
+ADM0_A3: BTN
+ADM0_LABEL: 2
+ADMIN: Bhutan
+GEONUNIT: Bhutan
+GU_A3: BTN
+GN_ID: 1337295
+GN_NAME: Wangdue Phodrang Dzongkhag
+GNS_ID: 220743
+GNS_NAME: Wangdue Phodrang Dzongkhag
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: BT.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: khm
+GNS_ADM1: BT22
+GNS_REGION: 8
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q728933
+NAME_AR: مقاطعة وانغدو فودرانغ
+NAME_BN: ওয়াংডু পোড্রাং জেলা
+NAME_DE: Wangdue Phodrang
+NAME_EN: Wangdue Phodrang District
+NAME_ES: Distrito de Wangdue Phodrang
+NAME_FR: Wangdue Phodrang
+NAME_EL: Γουάνγκντουε Φόντρανγκ
+NAME_HI: वांगद्यू फोद्रांग जिला
+NAME_HU: Wangdue Phodrang körzet
+NAME_ID: Distrik Wangdue Phodrang
+NAME_IT: distretto di Wangdue Phodrang
+NAME_JA: ワンデュ・ポダン県
+NAME_KO: 왕두에포드랑 현
+NAME_NL: Wangdue Phodrang
+NAME_PL: Dystrykt Wangdue Phodrang
+NAME_PT: Wangdue Phodrang
+NAME_RU: Вангди-Пходранг
+NAME_SV: Wangdue Phodrang
+NAME_TR: Wangdue Phodrang
+NAME_VI: Quận Wangdue Phodrang
+NAME_ZH: 旺杜波德朗宗
+NE_ID: 1159311813

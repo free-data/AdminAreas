@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: THA-408
+DISS_ME: 408
+ISO_3166_2: TH-16
+WIKIPEDIA: null
+ISO_A2: TH
+ADM0_SR: 1
+NAME: Lop Buri
+NAME_ALT: null
+NAME_LOCAL: ลพบุรี
+TYPE: Changwat
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: TH.LB
+NOTE: null
+HASC_MAYBE: null
+REGION: Central
+REGION_COD: null
+PROVNUM_NE: 48
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: LB
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 8
+MAPCOLOR13: 1
+FIPS: TH34
+FIPS_ALT: null
+WOE_ID: 2347159
+WOE_LABEL: Lop Buri, TH, Thailand
+WOE_NAME: Lop Buri
+LATITUDE: 15.1147
+LONGITUDE: 100.944
+SOV_A3: THA
+ADM0_A3: THA
+ADM0_LABEL: 2
+ADMIN: Thailand
+GEONUNIT: Thailand
+GU_A3: THA
+GN_ID: 1609031
+GN_NAME: Changwat Lop Buri
+GNS_ID: -3250665
+GNS_NAME: Lop Buri, Changwat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TH.34
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tha
+GNS_ADM1: TH34
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q336122
+NAME_AR: محافظة لوبوري
+NAME_BN: লুপ বুরি
+NAME_DE: Lopburi
+NAME_EN: Lopburi
+NAME_ES: Provincia de Lopburi
+NAME_FR: Lopburi
+NAME_EL: Λοπ μπούρι
+NAME_HI: लोपबुरी प्रान्त
+NAME_HU: null
+NAME_ID: Lopburi
+NAME_IT: provincia di Lopburi
+NAME_JA: ロッブリー県
+NAME_KO: 롭부리 주
+NAME_NL: Changwat Lopburi
+NAME_PL: Prowincja Lopburi
+NAME_PT: Lop Buri
+NAME_RU: Лопбури
+NAME_SV: Lop Buri
+NAME_TR: Lopburi
+NAME_VI: Lopburi
+NAME_ZH: 華富里府
+NE_ID: 1159308179

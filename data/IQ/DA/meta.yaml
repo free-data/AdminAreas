@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: IRQ-3046
+DISS_ME: 3046
+ISO_3166_2: IQ-DA
+WIKIPEDIA: null
+ISO_A2: IQ
+ADM0_SR: 1
+NAME: Dihok
+NAME_ALT: Dahuk|D'hok
+NAME_LOCAL: null
+TYPE: Muhafazah
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: IQ.DA
+NOTE: null
+HASC_MAYBE: null
+REGION: Kurdistan
+REGION_COD: null
+PROVNUM_NE: 20007
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: DA
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 5
+NAME_LEN: 5
+MAPCOLOR9: 3
+MAPCOLOR13: 1
+FIPS: IZ08
+FIPS_ALT: null
+WOE_ID: 2345840
+WOE_LABEL: Dahuk, IQ, Iraq
+WOE_NAME: Dihok
+LATITUDE: 37.0875
+LONGITUDE: 43.2281
+SOV_A3: IRQ
+ADM0_A3: IRQ
+ADM0_LABEL: 2
+ADMIN: Iraq
+GEONUNIT: Iraqi Kurdistan
+GU_A3: IRK
+GN_ID: 97270
+GN_NAME: Dihok
+GNS_ID: -3104540
+GNS_NAME: Dahuk
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: IQ.08
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: IZ08
+GNS_REGION: null
+MIN_LABEL: 6.7
+MAX_LABEL: 11
+MIN_ZOOM: 6.7
+WIKIDATAID: Q189541
+NAME_AR: دهوك
+NAME_BN: দহুক প্রদেশ
+NAME_DE: Gouvernement Dahuk
+NAME_EN: Dohuk Governorate
+NAME_ES: Gobernación de Duhok
+NAME_FR: Dahuk
+NAME_EL: Ντοχούκ
+NAME_HI: दोहूक प्रान्त
+NAME_HU: Dahúk kormányzóság
+NAME_ID: Kegubernuran Dahuk
+NAME_IT: governatorato di Dahuk
+NAME_JA: ドホーク県
+NAME_KO: 다후크 주
+NAME_NL: Duhok
+NAME_PL: Dahuk
+NAME_PT: Dahuk
+NAME_RU: Дахук
+NAME_SV: Dahuk
+NAME_TR: Duhok ili
+NAME_VI: Tỉnh Dohuk
+NAME_ZH: 杜胡克省
+NE_ID: 1159314249

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: GBR-2066
+DISS_ME: 2066
+ISO_3166_2: GB-EAL
+WIKIPEDIA: null
+ISO_A2: GB
+ADM0_SR: 1
+NAME: Ealing
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: London Borough
+TYPE_EN: London Borough
+CODE_LOCAL: null
+CODE_HASC: GB.EG
+NOTE: null
+HASC_MAYBE: null
+REGION: Greater London
+REGION_COD: null
+PROVNUM_NE: 3
+GADM_LEVEL: 2
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: Ealing
+POSTAL: EG
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 6
+MAPCOLOR9: 6
+MAPCOLOR13: 3
+FIPS: UK17
+FIPS_ALT: UKD9
+WOE_ID: 12695826
+WOE_LABEL: null
+WOE_NAME: London Borough of Ealing
+LATITUDE: 51.5198
+LONGITUDE: -0.321254
+SOV_A3: GB1
+ADM0_A3: GBR
+ADM0_LABEL: 7
+ADMIN: United Kingdom
+GEONUNIT: England
+GU_A3: ENG
+GN_ID: -2648110
+GN_NAME: Greater London
+GNS_ID: 6077587
+GNS_NAME: Ealing, London Borough of
+GN_LEVEL: -2
+GN_REGION: null
+GN_A1_CODE: GB.
+REGION_SUB: Greater London
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ind
+GNS_ADM1: null
+GNS_REGION: UK35
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q207218
+NAME_AR: إيلنغ
+NAME_BN: null
+NAME_DE: London Borough of Ealing
+NAME_EN: London Borough of Ealing
+NAME_ES: Municipio de Ealing
+NAME_FR: district londonien d'Ealing
+NAME_EL: null
+NAME_HI: ईलिंग बरो
+NAME_HU: Ealing kerület
+NAME_ID: null
+NAME_IT: null
+NAME_JA: イーリング・ロンドン特別区
+NAME_KO: 일링 구
+NAME_NL: Ealing
+NAME_PL: London Borough of Ealing
+NAME_PT: Ealing
+NAME_RU: Илинг
+NAME_SV: London Borough of Ealing
+NAME_TR: null
+NAME_VI: Khu Ealing của Luân Đôn
+NAME_ZH: 伊靈區
+NE_ID: 1159312929

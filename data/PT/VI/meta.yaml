@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-755
+DISS_ME: 755
+ISO_3166_2: PT-18
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Viseu
+NAME_ALT: Vizeu
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.VI
+NOTE: null
+HASC_MAYBE: null
+REGION: Centro
+REGION_COD: null
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VI
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO22
+FIPS_ALT: null
+WOE_ID: 2346580
+WOE_LABEL: Viseu, PT, Portugal
+WOE_NAME: Viseu
+LATITUDE: 40.8417
+LONGITUDE: -7.82745
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2732264
+GN_NAME: Distrito de Viseu
+GNS_ID: -2179986
+GNS_NAME: Viseu, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.22
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO22
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q273525
+NAME_AR: محافظة فيسيو
+NAME_BN: ভিসেউ জেলা
+NAME_DE: Distrikt Viseu
+NAME_EN: Viseu District
+NAME_ES: Distrito de Viseu
+NAME_FR: District de Viseu
+NAME_EL: Βισέου
+NAME_HI: विसू जिला
+NAME_HU: Viseu
+NAME_ID: Distrik Viseu
+NAME_IT: distretto di Viseu
+NAME_JA: ヴィゼウ県
+NAME_KO: 비제우 현
+NAME_NL: Viseu
+NAME_PL: Dystrykt Viseu
+NAME_PT: Distrito de Viseu
+NAME_RU: Визеу
+NAME_SV: Viseu
+NAME_TR: Viseu District
+NAME_VI: Viseu
+NAME_ZH: 維塞烏區
+NE_ID: 1159310589

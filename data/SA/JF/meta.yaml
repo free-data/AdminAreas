@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: SAU-862
+DISS_ME: 862
+ISO_3166_2: SA-12
+WIKIPEDIA: null
+ISO_A2: SA
+ADM0_SR: 1
+NAME: Al Jawf
+NAME_ALT: JawfAl Joaf|Al-Jouf|Jowf
+NAME_LOCAL: null
+TYPE: Emirate|Mintaqah
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: SA.JF
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 8
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 6
+ABBREV: null
+POSTAL: JF
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 7
+MAPCOLOR9: 6
+MAPCOLOR13: 7
+FIPS: SA20
+FIPS_ALT: SA20
+WOE_ID: 2346950
+WOE_LABEL: Al Jawf, SA, Saudi Arabia
+WOE_NAME: Al Jawf
+LATITUDE: 29.5589
+LONGITUDE: 38.3651
+SOV_A3: SAU
+ADM0_A3: SAU
+ADM0_LABEL: 2
+ADMIN: Saudi Arabia
+GEONUNIT: Saudi Arabia
+GU_A3: SAU
+GN_ID: 109470
+GN_NAME: Mintaqat al Jawf
+GNS_ID: -3091939
+GNS_NAME: Jawf, Mintaqat al
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SA.20
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SA20
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q1471266
+NAME_AR: منطقة الجوف
+NAME_BN: আল যাফ অঞ্চল
+NAME_DE: Provinz al-Dschauf
+NAME_EN: Al Jawf Region
+NAME_ES: Provincia de Yauf
+NAME_FR: Jawf
+NAME_EL: Επαρχία Τζωφ
+NAME_HI: जौफ़ प्रान्त
+NAME_HU: Dzsauf tartomány
+NAME_ID: Provinsi Jauf
+NAME_IT: Al-Jawf
+NAME_JA: ジャウフ州
+NAME_KO: 자우프 주
+NAME_NL: Al Jawf
+NAME_PL: Al-Dżauf
+NAME_PT: Al Jawf
+NAME_RU: Эль-Джауф
+NAME_SV: Al Jawf
+NAME_TR: Cevf Bölgesi
+NAME_VI: Khu vực Al Jawf
+NAME_ZH: 焦夫省
+NE_ID: 1159309303

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: PER-581
+DISS_ME: 581
+ISO_3166_2: PE-PAS
+WIKIPEDIA: null
+ISO_A2: PE
+ADM0_SR: 1
+NAME: Pasco
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Departamento
+TYPE_EN: Department
+CODE_LOCAL: null
+CODE_HASC: PE.PA
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 16
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 5
+ABBREV: null
+POSTAL: PA
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 5
+MAPCOLOR9: 4
+MAPCOLOR13: 11
+FIPS: PE19
+FIPS_ALT: null
+WOE_ID: 2346486
+WOE_LABEL: Pasco, PE, Peru
+WOE_NAME: Pasco
+LATITUDE: -10.3457
+LONGITUDE: -75.4586
+SOV_A3: PER
+ADM0_A3: PER
+ADM0_LABEL: 2
+ADMIN: Peru
+GEONUNIT: Peru
+GU_A3: PER
+GN_ID: 3932834
+GN_NAME: Region de Pasco
+GNS_ID: -357865
+GNS_NAME: Pasco, Region de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PE.19
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PE19
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q211208
+NAME_AR: إقليم باسكو
+NAME_BN: পাস্কু অঞ্চল
+NAME_DE: Pasco
+NAME_EN: Pasco Region
+NAME_ES: Departamento de Pasco
+NAME_FR: Région de Pasco
+NAME_EL: Πάσκο
+NAME_HI: पास्को प्रदेश
+NAME_HU: Pasco megye
+NAME_ID: Region Pasco
+NAME_IT: regione di Pasco
+NAME_JA: パスコ県
+NAME_KO: 파스코 주
+NAME_NL: Pasco
+NAME_PL: Region Pasco
+NAME_PT: Pasco
+NAME_RU: Паско
+NAME_SV: Pasco
+NAME_TR: Pasco Bölgesi
+NAME_VI: Khu vực Pasco
+NAME_ZH: 帕斯科大区
+NE_ID: 1159307951

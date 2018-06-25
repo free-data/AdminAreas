@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 4
+ADM1_CODE: KEN-1193
+DISS_ME: 1193
+ISO_3166_2: KE-300
+WIKIPEDIA: null
+ISO_A2: KE
+ADM0_SR: 4
+NAME: Coast
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Mkoa
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: KE.CO
+NOTE: Expired as of 2013-03-27
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 1
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: CO
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 4
+NAME_LEN: 5
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: KE02
+FIPS_ALT: null
+WOE_ID: 2345938
+WOE_LABEL: Coast, KE, Kenya
+WOE_NAME: Coast
+LATITUDE: -2.51514
+LONGITUDE: 39.5816
+SOV_A3: KEN
+ADM0_A3: KEN
+ADM0_LABEL: 2
+ADMIN: Kenya
+GEONUNIT: Kenya
+GU_A3: KEN
+GN_ID: 199247
+GN_NAME: Coast Province
+GNS_ID: -2243490
+GNS_NAME: Coast
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: KE.02
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: KE02
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q185371
+NAME_AR: المحافظة الساحلية
+NAME_BN: কোস্ট প্রদেশ
+NAME_DE: Coast
+NAME_EN: Coast Province
+NAME_ES: Provincia Costera
+NAME_FR: Côte
+NAME_EL: Ακτή
+NAME_HI: तटीय प्रांत
+NAME_HU: Parti tartomány
+NAME_ID: Provinsi Coast
+NAME_IT: provincia Costiera
+NAME_JA: 海岸州
+NAME_KO: 해안 주
+NAME_NL: Pwani
+NAME_PL: Prowincja Nadmorska
+NAME_PT: Costa
+NAME_RU: Прибрежная провинция
+NAME_SV: Kustprovinsen
+NAME_TR: Coast Province
+NAME_VI: Tỉnh Coast
+NAME_ZH: 滨海省
+NE_ID: 1159309927

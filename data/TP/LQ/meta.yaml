@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: TLS-542
+DISS_ME: 542
+ISO_3166_2: TL-LI
+WIKIPEDIA: null
+ISO_A2: TL
+ADM0_SR: 1
+NAME: Liquica
+NAME_ALT: Likisia
+NAME_LOCAL: null
+TYPE: Distrik|Kabupaten
+TYPE_EN: District|Regencies
+CODE_LOCAL: null
+CODE_HASC: TP.LQ
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 12
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 8
+ABBREV: null
+POSTAL: LQ
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 9
+NAME_LEN: 7
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: TT00
+FIPS_ALT: CG02
+WOE_ID: 24549897
+WOE_LABEL: Liquica, TL, East Timor
+WOE_NAME: Liquica
+LATITUDE: -8.65272
+LONGITUDE: 125.308
+SOV_A3: TLS
+ADM0_A3: TLS
+ADM0_LABEL: 5
+ADMIN: East Timor
+GEONUNIT: East Timor
+GU_A3: TLS
+GN_ID: 1637729
+GN_NAME: Distrito Liquica
+GNS_ID: -2685306
+GNS_NAME: Liquica, Distrito
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: TL.LI
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: por
+GNS_ADM1: TT09
+GNS_REGION: null
+MIN_LABEL: 9
+MAX_LABEL: 11
+MIN_ZOOM: 9
+WIKIDATAID: Q860897
+NAME_AR: مقاطعة ليكويتشيا
+NAME_BN: লিকুইকা পৌরসভা
+NAME_DE: Liquiçá
+NAME_EN: Liquiçá Municipality
+NAME_ES: Liquiçá
+NAME_FR: Liquiçá
+NAME_EL: Λικουικά
+NAME_HI: लिकीसा नगरपालिका
+NAME_HU: null
+NAME_ID: Liquiçá
+NAME_IT: distretto di Liquiçá
+NAME_JA: リキシャ県
+NAME_KO: 리키사 현
+NAME_NL: Liquiçá
+NAME_PL: Dystrykt Liquiçá
+NAME_PT: Liquiçá
+NAME_RU: Ликиса
+NAME_SV: Liquiçá
+NAME_TR: Liquaca Belediyesi
+NAME_VI: Liquiçá
+NAME_ZH: 利逵薩縣
+NE_ID: 1159307851

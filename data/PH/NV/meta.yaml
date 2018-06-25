@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PHL-2553
+DISS_ME: 2553
+ISO_3166_2: PH-NUV
+WIKIPEDIA: http://en.wikipedia.org/wiki/Nueva_Vizcaya
+ISO_A2: PH
+ADM0_SR: 1
+NAME: Nueva Vizcaya
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Lalawigan|Probinsya
+TYPE_EN: Province
+CODE_LOCAL: null
+CODE_HASC: PH.NV
+NOTE: null
+HASC_MAYBE: null
+REGION: Cagayan Valley (Region II)
+REGION_COD: PH-02
+PROVNUM_NE: 20088
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 5
+ABBREV: null
+POSTAL: NV
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 7
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 8
+FIPS: RP48
+FIPS_ALT: null
+WOE_ID: 2346702
+WOE_LABEL: null
+WOE_NAME: Nueva Vizcaya
+LATITUDE: 16.3729
+LONGITUDE: 121.101
+SOV_A3: PHL
+ADM0_A3: PHL
+ADM0_LABEL: 2
+ADMIN: Philippines
+GEONUNIT: Philippines
+GU_A3: PHL
+GN_ID: 1697456
+GN_NAME: Province of Nueva Vizcaya
+GNS_ID: -2442150
+GNS_NAME: Nueva Vizcaya, Province of
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: PH.48
+REGION_SUB: Nueva Vizcaya
+SUB_CODE: RP14
+GNS_LEVEL: 1
+GNS_LANG: fil
+GNS_ADM1: RP48
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q13866
+NAME_AR: نويفا فيزكايا
+NAME_BN: ন্যুভা ভিজকায়া
+NAME_DE: Nueva Vizcaya
+NAME_EN: Nueva Vizcaya
+NAME_ES: Nueva Vizcaya
+NAME_FR: Nueva Vizcaya
+NAME_EL: Νουέβα Βιζκάγια
+NAME_HI: नुएवा विज़काया प्रान्त
+NAME_HU: null
+NAME_ID: Nueva Vizcaya
+NAME_IT: Provincia di Nueva Vizcaya
+NAME_JA: ヌエヴァ・ヴィスカヤ州
+NAME_KO: 누에바비스카야 주
+NAME_NL: Nueva Vizcaya
+NAME_PL: Nueva Vizcaya
+NAME_PT: Nova Vizcaya
+NAME_RU: Нуэва-Виская
+NAME_SV: Nueva Vizcaya
+NAME_TR: Nueva Vizcaya
+NAME_VI: Nueva Vizcaya
+NAME_ZH: 新比斯開省
+NE_ID: 1159313487

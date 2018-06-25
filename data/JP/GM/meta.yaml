@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: JPN-3503
+DISS_ME: 3503
+ISO_3166_2: JP-10
+WIKIPEDIA: null
+ISO_A2: JP
+ADM0_SR: 1
+NAME: Gunma
+NAME_ALT: null
+NAME_LOCAL: 群馬県
+TYPE: Ken
+TYPE_EN: Prefecture
+CODE_LOCAL: null
+CODE_HASC: JP.GM
+NOTE: null
+HASC_MAYBE: JP.IS
+REGION: Kanto
+REGION_COD: JPN-KNT
+PROVNUM_NE: 43
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 9
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 5
+MAPCOLOR9: 5
+MAPCOLOR13: 4
+FIPS: JA10
+FIPS_ALT: JA15
+WOE_ID: 2345860
+WOE_LABEL: Gunma Prefecture, JP, Japan
+WOE_NAME: Gunma
+LATITUDE: 36.5592
+LONGITUDE: 139.025
+SOV_A3: JPN
+ADM0_A3: JPN
+ADM0_LABEL: 4
+ADMIN: Japan
+GEONUNIT: Japan
+GU_A3: JPN
+GN_ID: 1863501
+GN_NAME: Gunma-ken
+GNS_ID: -228029
+GNS_NAME: Gunma-ken
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: JP.10
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: jpn
+GNS_ADM1: JA10
+GNS_REGION: null
+MIN_LABEL: 7
+MAX_LABEL: 11
+MIN_ZOOM: 3
+WIKIDATAID: Q129499
+NAME_AR: غونما
+NAME_BN: গুন্‌মা প্রশাসনিক অঞ্চল
+NAME_DE: Präfektur Gunma
+NAME_EN: Gunma Prefecture
+NAME_ES: Prefectura de Gunma
+NAME_FR: Préfecture de Gunma
+NAME_EL: Γκούνμα
+NAME_HI: गुनमा प्रान्त
+NAME_HU: Gunma prefektúra
+NAME_ID: Prefektur Gunma
+NAME_IT: prefettura di Gunma
+NAME_JA: 群馬県
+NAME_KO: 군마현
+NAME_NL: Gunma
+NAME_PL: Prefektura Gunma
+NAME_PT: Gunma
+NAME_RU: Гумма
+NAME_SV: Gunma prefektur
+NAME_TR: Gunma
+NAME_VI: Gunma
+NAME_ZH: 群馬縣
+NE_ID: 1159315271

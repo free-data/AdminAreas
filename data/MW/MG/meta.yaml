@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 8
+ADM1_CODE: MWI-1910
+DISS_ME: 1910
+ISO_3166_2: MW-MG
+WIKIPEDIA: null
+ISO_A2: MW
+ADM0_SR: 1
+NAME: Mangochi
+NAME_ALT: Mangoche|Fort Johnston
+NAME_LOCAL: null
+TYPE: District
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: MW.MG
+NOTE: null
+HASC_MAYBE: null
+REGION: Southern
+REGION_COD: MWI-CNT
+PROVNUM_NE: 17
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: null
+POSTAL: MG
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 8
+MAPCOLOR9: 4
+MAPCOLOR13: 5
+FIPS: MI12
+FIPS_ALT: null
+WOE_ID: 20070136
+WOE_LABEL: Mangochi, MW, Malawi
+WOE_NAME: Mangochi
+LATITUDE: -14.374
+LONGITUDE: 35.3501
+SOV_A3: MWI
+ADM0_A3: MWI
+ADM0_LABEL: 2
+ADMIN: Malawi
+GEONUNIT: Malawi
+GU_A3: MWI
+GN_ID: 927245
+GN_NAME: Mangochi District
+GNS_ID: -1483540
+GNS_NAME: Mangochi
+GN_LEVEL: 2
+GN_REGION: null
+GN_A1_CODE: MW.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: eng
+GNS_ADM1: MI12
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q722505
+NAME_AR: مقاطعة مانغوتشي
+NAME_BN: মাঙ্গোচি জেলা
+NAME_DE: Distrikt Mangochi
+NAME_EN: Mangochi District
+NAME_ES: Distrito de Mangochi
+NAME_FR: District de Mangochi
+NAME_EL: Μανγκότσι
+NAME_HI: मन्गोची जिला
+NAME_HU: null
+NAME_ID: Distrik Mangochi
+NAME_IT: distretto di Mangochi
+NAME_JA: マンゴチ
+NAME_KO: 망고치 현
+NAME_NL: Mangochi
+NAME_PL: Dystrykt Mangochi
+NAME_PT: Mangochi
+NAME_RU: Мангочи
+NAME_SV: Mangochi
+NAME_TR: Mangochi
+NAME_VI: Quận Mangochi
+NAME_ZH: 曼戈切縣
+NE_ID: 1159311215

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: SMR-4883
+DISS_ME: 4883
+ISO_3166_2: SM-06
+WIKIPEDIA: http://en.wikipedia.org/wiki/Borgo_Maggiore
+ISO_A2: SM
+ADM0_SR: 3
+NAME: Borgo Maggiore
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: null
+TYPE_EN: null
+CODE_LOCAL: null
+CODE_HASC: SM.BM
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 0
+CHECK_ME: 20
+DATARANK: 10
+ABBREV: null
+POSTAL: null
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 20
+NAME_LEN: 14
+MAPCOLOR9: 1
+MAPCOLOR13: 6
+FIPS: SM06
+FIPS_ALT: null
+WOE_ID: 20070544
+WOE_LABEL: Borgo Maggiore, SM, San Marino
+WOE_NAME: Borgo Maggiore
+LATITUDE: 43.9337
+LONGITUDE: 12.4389
+SOV_A3: SMR
+ADM0_A3: SMR
+ADM0_LABEL: 5
+ADMIN: San Marino
+GEONUNIT: San Marino
+GU_A3: SMR
+GN_ID: 3345304
+GN_NAME: Castello di Borgo Maggiore
+GNS_ID: 9171958
+GNS_NAME: Borgo Maggiore
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SM.06
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: tir
+GNS_ADM1: SM06
+GNS_REGION: null
+MIN_LABEL: 11
+MAX_LABEL: 11
+MIN_ZOOM: 11
+WIKIDATAID: Q201368
+NAME_AR: بورغو ماجيوري
+NAME_BN: বোর্গ ম্যাজ্ঞুইর
+NAME_DE: Borgo Maggiore
+NAME_EN: Borgo Maggiore
+NAME_ES: Borgo Maggiore
+NAME_FR: Borgo Maggiore
+NAME_EL: Μπόργκο Ματζιόρε
+NAME_HI: बोर्गो मैगौयर
+NAME_HU: Borgo Maggiore
+NAME_ID: Borgo Maggiore
+NAME_IT: Borgo Maggiore
+NAME_JA: ボルゴ・マッジョーレ
+NAME_KO: 보르고마조레
+NAME_NL: Borgo Maggiore
+NAME_PL: Borgo Maggiore
+NAME_PT: Borgo Maggiore
+NAME_RU: Борго-Маджоре
+NAME_SV: Borgo Maggiore
+NAME_TR: Borgo Maggiore
+NAME_VI: Borgo Maggiore
+NAME_ZH: 博尔戈·马吉欧雷
+NE_ID: 1159315591

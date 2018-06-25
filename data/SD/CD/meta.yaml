@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 3
+ADM1_CODE: SDN-5859
+DISS_ME: 5859
+ISO_3166_2: SD-DE
+WIKIPEDIA: null
+ISO_A2: SD
+ADM0_SR: 1
+NAME: Central Darfur
+NAME_ALT: Dārfūr al Gharbīyah|Gharb Dārfūr
+NAME_LOCAL: null
+TYPE: Wilayat
+TYPE_EN: State
+CODE_LOCAL: null
+CODE_HASC: SD.CD
+NOTE: null
+HASC_MAYBE: null
+REGION: Darfur
+REGION_COD: null
+PROVNUM_NE: 10
+GADM_LEVEL: 1
+CHECK_ME: 10
+DATARANK: 5
+ABBREV: W. Darfur
+POSTAL: WD
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 3
+NAME_LEN: 14
+MAPCOLOR9: 4
+MAPCOLOR13: 1
+FIPS: SU61
+FIPS_ALT: SU07
+WOE_ID: 20069894
+WOE_LABEL: Gharb Darfur, SD, Sudan
+WOE_NAME: West Darfur
+LATITUDE: 12.1983
+LONGITUDE: 23.3467
+SOV_A3: SDN
+ADM0_A3: SDN
+ADM0_LABEL: 2
+ADMIN: Sudan
+GEONUNIT: Sudan
+GU_A3: SDN
+GN_ID: 8394436
+GN_NAME: Central Darfur State
+GNS_ID: 11615372
+GNS_NAME: Wasat Darfur, Wilayat
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: SD.61
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ara
+GNS_ADM1: SU61
+GNS_REGION: null
+MIN_LABEL: 6.6
+MAX_LABEL: 11
+MIN_ZOOM: 6.6
+WIKIDATAID: Q4116493
+NAME_AR: وسط دار فور
+NAME_BN: সেন্ট্রাল দারফুর
+NAME_DE: Wasat Darfur
+NAME_EN: Central Darfur
+NAME_ES: Darfur Central
+NAME_FR: Darfour-Central
+NAME_EL: Κεντρικό Νταρφούρ
+NAME_HI: केंद्रीय दारफुर
+NAME_HU: null
+NAME_ID: Central Darfur
+NAME_IT: Central Darfur
+NAME_JA: 中部ダルフール州
+NAME_KO: 중앙다르푸르 주
+NAME_NL: Darfoer
+NAME_PL: Darfur Środkowy
+NAME_PT: Darfur Central
+NAME_RU: Центральный Дарфур
+NAME_SV: Centrala Dafur
+NAME_TR: Orta Darfur
+NAME_VI: Miền Trung Darfur
+NAME_ZH: 中達爾富爾
+NE_ID: 1159317839

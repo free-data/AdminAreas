@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: RUS-2386
+DISS_ME: 2386
+ISO_3166_2: RU-SVE
+WIKIPEDIA: null
+ISO_A2: RU
+ADM0_SR: 1
+NAME: Sverdlovsk
+NAME_ALT: Yekaterinburg|Sverdlovskaya Oblast
+NAME_LOCAL: Свердловская область
+TYPE: Oblast
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: RU.SV
+NOTE: null
+HASC_MAYBE: null
+REGION: Urals
+REGION_COD: null
+PROVNUM_NE: 7
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 2
+ABBREV: null
+POSTAL: SV
+AREA_SQKM: 0
+SAMEASCITY: 6
+LABELRANK: 6
+NAME_LEN: 10
+MAPCOLOR9: 7
+MAPCOLOR13: 7
+FIPS: RS71
+FIPS_ALT: null
+WOE_ID: 2346926
+WOE_LABEL: Sverdlovskaya Oblast, RU, Russia
+WOE_NAME: Sverdlovsk
+LATITUDE: 58.8952
+LONGITUDE: 61.7078
+SOV_A3: RUS
+ADM0_A3: RUS
+ADM0_LABEL: 2
+ADMIN: Russia
+GEONUNIT: Russia
+GU_A3: RUS
+GN_ID: 1490542
+GN_NAME: Sverdlovskaya Oblast'
+GNS_ID: -3014006
+GNS_NAME: Sverdlovskaya Oblast'
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: RU.71
+REGION_SUB: Urals
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fas
+GNS_ADM1: RS71
+GNS_REGION: null
+MIN_LABEL: 5
+MAX_LABEL: 10.2
+MIN_ZOOM: 4.7
+WIKIDATAID: Q5462
+NAME_AR: أوبلاست سفردلوفسك
+NAME_BN: ভার্দলোভস্ক ওব্লাস্ট
+NAME_DE: Oblast Swerdlowsk
+NAME_EN: Sverdlovsk Oblast
+NAME_ES: Sverdlovsk
+NAME_FR: Oblast de Sverdlovsk
+NAME_EL: Περιφέρεια Σβερντλόβσκ
+NAME_HI: स्वर्दलोव्स्क ओब्लास्ट
+NAME_HU: Szverdlovszki terület
+NAME_ID: Oblast Sverdlovsk
+NAME_IT: oblast' di Sverdlovsk
+NAME_JA: スヴェルドロフスク州
+NAME_KO: 스베르들롭스크 주
+NAME_NL: Oblast Sverdlovsk
+NAME_PL: Obwód swierdłowski
+NAME_PT: Oblast de Sverdlovsk
+NAME_RU: Свердловская область
+NAME_SV: Sverdlovsk oblast
+NAME_TR: Sverdlovsk Oblastı
+NAME_VI: Sverdlovsk
+NAME_ZH: 斯維爾德洛夫斯克州
+NE_ID: 1159313225

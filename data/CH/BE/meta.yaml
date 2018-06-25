@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 9
+ADM1_CODE: CHE-3424
+DISS_ME: 3424
+ISO_3166_2: CH-BE
+WIKIPEDIA: null
+ISO_A2: CH
+ADM0_SR: 1
+NAME: Bern
+NAME_ALT: Berna|Berne
+NAME_LOCAL: null
+TYPE: Canton|Kanton|Chantun
+TYPE_EN: Canton
+CODE_LOCAL: null
+CODE_HASC: CH.BE
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 0
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 7
+ABBREV: null
+POSTAL: BE
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 4
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: SZ05
+FIPS_ALT: null
+WOE_ID: 2347087
+WOE_LABEL: Canton of Berne, CH, Switzerland
+WOE_NAME: Bern
+LATITUDE: 46.7988
+LONGITUDE: 7.65026
+SOV_A3: CHE
+ADM0_A3: CHE
+ADM0_LABEL: 2
+ADMIN: Switzerland
+GEONUNIT: Switzerland
+GU_A3: CHE
+GN_ID: 2661551
+GN_NAME: Kanton Bern
+GNS_ID: -2551236
+GNS_NAME: Bern, Kanton
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CH.BE
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: deu
+GNS_ADM1: SZ05
+GNS_REGION: null
+MIN_LABEL: 8.7
+MAX_LABEL: 11
+MIN_ZOOM: 8.7
+WIKIDATAID: Q11911
+NAME_AR: كانتون برن
+NAME_BN: ক্যান্টন অব বার্ন
+NAME_DE: Kanton Bern
+NAME_EN: Canton of Bern
+NAME_ES: Berna
+NAME_FR: canton de Berne
+NAME_EL: Καντόνι της Βέρνης
+NAME_HI: बर्न कैन्टन
+NAME_HU: Bern kanton
+NAME_ID: Kanton Bern
+NAME_IT: Canton Berna
+NAME_JA: ベルン州
+NAME_KO: 베른 주
+NAME_NL: Bern
+NAME_PL: Berno
+NAME_PT: Berna
+NAME_RU: Берн
+NAME_SV: Bern
+NAME_TR: Bern
+NAME_VI: Bern
+NAME_ZH: 伯恩州
+NE_ID: 1159314895

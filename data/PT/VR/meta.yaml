@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 7
+ADM1_CODE: PRT-756
+DISS_ME: 756
+ISO_3166_2: PT-17
+WIKIPEDIA: null
+ISO_A2: PT
+ADM0_SR: 1
+NAME: Vila Real
+NAME_ALT: Villa Real
+NAME_LOCAL: null
+TYPE: Distrito
+TYPE_EN: District
+CODE_LOCAL: null
+CODE_HASC: PT.VR
+NOTE: null
+HASC_MAYBE: null
+REGION: Norte
+REGION_COD: null
+PROVNUM_NE: 19
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: VR
+AREA_SQKM: 0
+SAMEASCITY: 7
+LABELRANK: 7
+NAME_LEN: 9
+MAPCOLOR9: 1
+MAPCOLOR13: 4
+FIPS: PO21
+FIPS_ALT: null
+WOE_ID: 2346579
+WOE_LABEL: Vila Real, PT, Portugal
+WOE_NAME: Vila Real
+LATITUDE: 41.5279
+LONGITUDE: -7.64533
+SOV_A3: PRT
+ADM0_A3: PRT
+ADM0_LABEL: 2
+ADMIN: Portugal
+GEONUNIT: Portugal
+GU_A3: PRX
+GN_ID: 2732437
+GN_NAME: Distrito de Vila Real
+GNS_ID: -2179753
+GNS_NAME: Vila Real, Distrito de
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: PT.21
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: PO21
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q379372
+NAME_AR: محافظة فيلا ريال
+NAME_BN: null
+NAME_DE: Distrikt Vila Real
+NAME_EN: Vila Real District
+NAME_ES: Distrito de Vila Real
+NAME_FR: District de Vila Real
+NAME_EL: null
+NAME_HI: null
+NAME_HU: null
+NAME_ID: Distrik Vila Real
+NAME_IT: distretto di Vila Real
+NAME_JA: ヴィラ・レアル県
+NAME_KO: 빌라헤알 현
+NAME_NL: Vila Real
+NAME_PL: Dystrykt Vila Real
+NAME_PT: Distrito de Vila Real
+NAME_RU: Вила-Реал
+NAME_SV: Vila Real
+NAME_TR: null
+NAME_VI: Vila Real
+NAME_ZH: 雷亞爾城區
+NE_ID: 1159310591

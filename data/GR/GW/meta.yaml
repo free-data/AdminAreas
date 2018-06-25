@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 6
+ADM1_CODE: GRC-2886
+DISS_ME: 2886
+ISO_3166_2: GR-G
+WIKIPEDIA: null
+ISO_A2: GR
+ADM0_SR: 1
+NAME: Dytiki Ellada
+NAME_ALT: Greece West
+NAME_LOCAL: Δυτικής Ελλάδος
+TYPE: Diamerismata
+TYPE_EN: Region
+CODE_LOCAL: null
+CODE_HASC: GR.GW
+NOTE: null
+HASC_MAYBE: null
+REGION: Peloponnisos
+REGION_COD: GRC-PLP
+PROVNUM_NE: 20009
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 6
+ABBREV: null
+POSTAL: GW
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 2
+MAPCOLOR13: 9
+FIPS: GR38
+FIPS_ALT: null
+WOE_ID: 12577880
+WOE_LABEL: Dytiki Ellada, GR, Greece
+WOE_NAME: Dytiki Ellada
+LATITUDE: 38.0299
+LONGITUDE: 21.7273
+SOV_A3: GRC
+ADM0_A3: GRC
+ADM0_LABEL: 2
+ADMIN: Greece
+GEONUNIT: Greece
+GU_A3: GRC
+GN_ID: 6697810
+GN_NAME: West Greece
+GNS_ID: 11315990
+GNS_NAME: Dytikis Elladas, Perifereia
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GR.ESYE23
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: ell
+GNS_ADM1: GR55
+GNS_REGION: null
+MIN_LABEL: 7.7
+MAX_LABEL: 11
+MIN_ZOOM: 7.7
+WIKIDATAID: Q170291
+NAME_AR: غرب اليونان
+NAME_BN: ওয়েস্ট গ্রীস অঞ্চল
+NAME_DE: Westgriechenland
+NAME_EN: West Greece Region
+NAME_ES: Grecia Occidental
+NAME_FR: Grèce-Occidentale
+NAME_EL: Περιφέρεια Δυτικής Ελλάδας
+NAME_HI: पश्चिमी ग्रीस क्षेत्र
+NAME_HU: Nyugat-Görögország
+NAME_ID: Yunani Barat
+NAME_IT: Grecia Occidentale
+NAME_JA: 西ギリシャ
+NAME_KO: 서그리스 주
+NAME_NL: West-Griekenland
+NAME_PL: Region Grecja Zachodnia
+NAME_PT: Grécia Ocidental
+NAME_RU: Западная Греция
+NAME_SV: Västra Grekland
+NAME_TR: Batı Yunanistan
+NAME_VI: Tây Hy Lạp
+NAME_ZH: 西希腊
+NE_ID: 1159314331

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 5
+ADM1_CODE: GMB-2151
+DISS_ME: 2151
+ISO_3166_2: GM-M
+WIKIPEDIA: http://en.wikipedia.org/wiki/Central_River_Division
+ISO_A2: GM
+ADM0_SR: 1
+NAME: Central River
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Division
+TYPE_EN: Division
+CODE_LOCAL: null
+CODE_HASC: GM.MC
+NOTE: null
+HASC_MAYBE: null
+REGION: null
+REGION_COD: null
+PROVNUM_NE: 2
+GADM_LEVEL: 1
+CHECK_ME: 0
+DATARANK: 8
+ABBREV: CRR
+POSTAL: MC
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 6
+NAME_LEN: 13
+MAPCOLOR9: 1
+MAPCOLOR13: 8
+FIPS: GA03
+FIPS_ALT: null
+WOE_ID: 2345445
+WOE_LABEL: MacCarthy Island, GM, The Gambia
+WOE_NAME: Maccarthy Island
+LATITUDE: 13.637
+LONGITUDE: -14.9804
+SOV_A3: GMB
+ADM0_A3: GMB
+ADM0_LABEL: 5
+ADMIN: Gambia
+GEONUNIT: Gambia
+GU_A3: GMB
+GN_ID: 2412707
+GN_NAME: Central River Division
+GNS_ID: -1200607
+GNS_NAME: Central River
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: GM.03
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: fra
+GNS_ADM1: GA03
+GNS_REGION: null
+MIN_LABEL: 8
+MAX_LABEL: 11
+MIN_ZOOM: 8
+WIKIDATAID: Q824431
+NAME_AR: شعبة النهر المركزي
+NAME_BN: সেন্ট্রাল রিভার ডিভিশন
+NAME_DE: Central River Region
+NAME_EN: Central River Division
+NAME_ES: División Central River
+NAME_FR: Division de Central River
+NAME_EL: Κεντρικός Ποταμός
+NAME_HI: केंद्रीय नदी मंडल
+NAME_HU: null
+NAME_ID: Central River Division
+NAME_IT: divisione del Central River
+NAME_JA: ガンビア川中流地方
+NAME_KO: 센트럴리버 구
+NAME_NL: Central River
+NAME_PL: Central River Division
+NAME_PT: Central River
+NAME_RU: Центральная Река
+NAME_SV: Central River Division
+NAME_TR: Central River Bölgesi
+NAME_VI: Khu vực Trung lưu Sông
+NAME_ZH: 中河區
+NE_ID: 1159311541

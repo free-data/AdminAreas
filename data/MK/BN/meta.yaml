@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 10
+ADM1_CODE: MKD-2961
+DISS_ME: 2961
+ISO_3166_2: MK-08
+WIKIPEDIA: null
+ISO_A2: MK
+ADM0_SR: 1
+NAME: Brvenica
+NAME_ALT: null
+NAME_LOCAL: null
+TYPE: Statistical Region
+TYPE_EN: Statistical Region
+CODE_LOCAL: null
+CODE_HASC: MK.BN
+NOTE: null
+HASC_MAYBE: null
+REGION: Polog
+REGION_COD: null
+PROVNUM_NE: 20084
+GADM_LEVEL: 1
+CHECK_ME: 11
+DATARANK: 8
+ABBREV: null
+POSTAL: BN
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 10
+NAME_LEN: 8
+MAPCOLOR9: 7
+MAPCOLOR13: 3
+FIPS: MK12
+FIPS_ALT: null
+WOE_ID: 24550751
+WOE_LABEL: Brvenica Municipality, MK, Macedonia
+WOE_NAME: Brvenica
+LATITUDE: 41.8465
+LONGITUDE: 21.066
+SOV_A3: MKD
+ADM0_A3: MKD
+ADM0_LABEL: 5
+ADMIN: Macedonia
+GEONUNIT: Macedonia
+GU_A3: MKD
+GN_ID: 863835
+GN_NAME: Opstina Brvenica
+GNS_ID: 9075587
+GNS_NAME: Brvenica, Opstina
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: MK.12
+REGION_SUB: null
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: mkd
+GNS_ADM1: MK12
+GNS_REGION: null
+MIN_LABEL: 10
+MAX_LABEL: 11
+MIN_ZOOM: 10
+WIKIDATAID: Q1057563
+NAME_AR: بلدية برفينيتسا
+NAME_BN: ব্রভেনিকা পৌরসভা
+NAME_DE: Opština Brvenica
+NAME_EN: Brvenica Municipality
+NAME_ES: Municipalidad de Brvenica
+NAME_FR: Brvenitsa
+NAME_EL: Δήμος Μπρεβένιτσας
+NAME_HI: ब्रवेनिका नगरपालिका
+NAME_HU: null
+NAME_ID: Kotamadya Brvenica
+NAME_IT: Brvenica
+NAME_JA: ブルヴェニツァ
+NAME_KO: 브르베니차 시
+NAME_NL: Brvenica
+NAME_PL: Gmina Brwenica
+NAME_PT: Município de Brvenica
+NAME_RU: Брвеница
+NAME_SV: Brvenica
+NAME_TR: Brevnica Belediyesi
+NAME_VI: Đô thị tự trị Brvenica
+NAME_ZH: 布尔韦尼察区
+NE_ID: 1159314541

@@ -1,0 +1,83 @@
+FEATURECLA: Admin-1 scale rank
+SCALERANK: 2
+ADM1_CODE: CHN-1838
+DISS_ME: 1838
+ISO_3166_2: CN-15
+WIKIPEDIA: null
+ISO_A2: CN
+ADM0_SR: 1
+NAME: Inner Mongol
+NAME_ALT: Nei Mongol|Nèiměnggǔ
+NAME_LOCAL: 內蒙古自治區|内蒙古自治区
+TYPE: Zìzhìqu
+TYPE_EN: Autonomous Region
+CODE_LOCAL: null
+CODE_HASC: CN.NM
+NOTE: null
+HASC_MAYBE: null
+REGION: North China
+REGION_COD: 1
+PROVNUM_NE: 43
+GADM_LEVEL: 1
+CHECK_ME: 20
+DATARANK: 1
+ABBREV: null
+POSTAL: NM
+AREA_SQKM: 0
+SAMEASCITY: -99
+LABELRANK: 2
+NAME_LEN: 12
+MAPCOLOR9: 4
+MAPCOLOR13: 3
+FIPS: CH20
+FIPS_ALT: null
+WOE_ID: 12578009
+WOE_LABEL: Nei Mongol, CN, China
+WOE_NAME: Inner Mongol
+LATITUDE: 41.5938
+LONGITUDE: 111.623
+SOV_A3: CH1
+ADM0_A3: CHN
+ADM0_LABEL: 2
+ADMIN: China
+GEONUNIT: China
+GU_A3: CHN
+GN_ID: 2035607
+GN_NAME: Inner Mongolia Autonomous Region
+GNS_ID: -1920094
+GNS_NAME: Nei Mongol Zizhiqu
+GN_LEVEL: 1
+GN_REGION: null
+GN_A1_CODE: CN.20
+REGION_SUB: Western
+SUB_CODE: null
+GNS_LEVEL: 1
+GNS_LANG: zho
+GNS_ADM1: CH20
+GNS_REGION: null
+MIN_LABEL: 4.6
+MAX_LABEL: 10.1
+MIN_ZOOM: 4.6
+WIKIDATAID: Q41079
+NAME_AR: منغوليا الداخلية
+NAME_BN: অন্তর্দেশীয় মঙ্গোলিয়া
+NAME_DE: Innere Mongolei
+NAME_EN: Inner Mongolia
+NAME_ES: Mongolia Interior
+NAME_FR: Mongolie-Intérieure
+NAME_EL: Εσωτερική Μογγολία
+NAME_HI: भीतरी मंगोलिया
+NAME_HU: Belső-Mongólia Autonóm Terület
+NAME_ID: Mongolia Dalam
+NAME_IT: Mongolia Interna
+NAME_JA: 内モンゴル自治区
+NAME_KO: 내몽골 자치구
+NAME_NL: Binnen-Mongolië
+NAME_PL: Mongolia Wewnętrzna
+NAME_PT: Mongólia Interior
+NAME_RU: Внутренняя Монголия
+NAME_SV: Inre Mongoliet
+NAME_TR: İç Moğolistan
+NAME_VI: Nội Mông
+NAME_ZH: 内蒙古自治区
+NE_ID: 1159312757
